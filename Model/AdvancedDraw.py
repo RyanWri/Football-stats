@@ -12,11 +12,11 @@ class AdvancedDraw:
         os.chdir('..')
 
 
-    def calc_draw_rate_in_window( self, outcomes, size):
+    def calc_draw_rate_in_window( self, outcomes):
         counts = outcomes.value_counts().to_dict()
         draw = 0 if 0 not in counts.keys() else counts[0]
-        numerator = draw / size
-        return round( numerator, 7 )
+        numerator = draw / len(outcomes) if len(outcomes) > 0 else 0
+        return round( numerator, 8 )
 
 
     def calc_streak(self, outcomes):
@@ -32,17 +32,12 @@ class AdvancedDraw:
 
     def calc_team_stats(self, team):
         df = self.data
-        records = df.loc[ (df['homeTeam'] == team) | (df['awayTeam'] == team) ]
-        if len( records ) < 30:
-            # all games draw | six games draw | nine  games draw | tweleve games draw | current streak
-            stats = np.zeros( 5 )
-        else:
-            outcomes = records['matchResults'].astype( np.int )
-            result = []
-            for games in [len(outcomes), 6, 12, 18]:
-                result.append( self.calc_draw_rate_in_window( outcomes[:games], games) )
-            result.append( self.calc_streak(outcomes) )
-            stats = np.array( result )
+        records = df.loc[ (df['homeTeam'] == team) | (df['awayTeam'] == team) ].copy()
+        result = []
+        outcomes = records['matchResults'].astype(np.int)
+        result.append( self.calc_draw_rate_in_window( outcomes) )
+        result.append( self.calc_streak(outcomes) )
+        stats = np.array( result )
 
         return stats
 
@@ -52,22 +47,19 @@ class AdvancedDraw:
         for team in self.teams:
             records[team] = self.calc_team_stats( team )
 
-        cols = 'all games draw|six games draw|tweleve games draw|eighteen games draw|current streak'
+        cols = 'draw rate|current streak'
         df = pd.DataFrame.from_dict( records, orient='index', columns = cols.split('|') )
-
-        reldf = self.high_value_teams( df )
-        reldf.to_csv('soccer-base-high-frequency-teams.csv')
-
-
-    def high_value_teams(self, df):
         for col in df.columns:
-            df[col] = df[col].astype( np.float )
+            df[col] = df[col].astype(np.float)
+        df['streak*rate'] = df['draw rate'] * df['current streak']
 
-        relDf = df.loc[ (df['all games draw'] >= 0.25) & (df['six games draw'] >= 0.1666)
-                        & (df['tweleve games draw'] >= 0.1666) & (df['eighteen games draw'] >= 0.1666 )
-                        &(df['current streak'] >= 3.0) ]
+        likelyDf = self.most_likely_to_draw(df)
+        likelyDf.to_csv('soccer-base-high-frequency-teams.csv')
 
-        return relDf
+
+    def most_likely_to_draw(self, df):
+        df['streak*rate'] = df['streak*rate'].astype(np.float)
+        return df.loc[ df['streak*rate'] > 2 ]
 
     
 def main():

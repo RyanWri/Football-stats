@@ -5,11 +5,11 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import os
 import concurrent.futures
-from datetime import date
+from datetime import date, timedelta
 
 
 class Crawler:
-    def __init__(self, start='2020-10-16' , end='2020-10-16'):
+    def __init__(self, start , end):
         # date must be in this format year-day-month
         URLS = []
         dates = pd.date_range(start=start, end=end)
@@ -127,18 +127,20 @@ class Crawler:
                     
 def main():
     # to run main just set start and end date and filename -> the results are in Data folder
-    start = '2020-11-01'
-    end = '2020-11-01'
+    today = date.today()
+    yesterday = today - timedelta(days=1)
+
+    start = yesterday
+    end = yesterday
     c = Crawler( start, end )
 
     # write today fixtures to np file
     c.today_fixtures()
 
-    '''
     df = c.concurrent_crawl()
-    filename = 'data-from-20201028-to-20201101.csv'
+    filename = f'data-from-{start}-to-{end}.csv'
     c.write_csv_to_file( df,  filename)
-    '''
+
 
 if __name__ == "__main__":
     main()

@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import time
+from datetime import date, timedelta
 
 class SoccerBaseCleaner:
     def __init__(self, filename):
@@ -38,7 +39,10 @@ class SoccerBaseCleaner:
     
 
 def main():
-    filename = "data-from-20201028-to-20201101.csv"
+    today = date.today()
+    yesterday = today - timedelta(days=1)
+
+    filename = f'data-from-{yesterday}-to-{yesterday}.csv'
     cleaner = SoccerBaseCleaner( filename )
     
     
