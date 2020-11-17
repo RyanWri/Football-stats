@@ -42,7 +42,8 @@ def main():
     today = date.today()
     yesterday = today - timedelta(days=1)
 
-    filename = f'data-from-{yesterday}-to-{yesterday}.csv'
+    #filename = f'data-from-{yesterday}-to-{yesterday}.csv'
+    filename = f'data-from-2016-01-01-to-2016-12-31.csv'
     cleaner = SoccerBaseCleaner( filename )
     
     

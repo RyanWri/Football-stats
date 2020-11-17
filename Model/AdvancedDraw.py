@@ -32,13 +32,22 @@ class AdvancedDraw:
 
     def calc_team_stats(self, team):
         df = self.data
+        years = df['year'].unique()
+
         records = df.loc[ (df['homeTeam'] == team) | (df['awayTeam'] == team) ].copy()
         result = []
-        outcomes = records['matchResults'].astype(np.int)
-        result.append( self.calc_draw_rate_in_window( outcomes) )
-        result.append( self.calc_streak(outcomes) )
-        stats = np.array( result )
+        for year in years:
+            yeardf = records.loc[ records['year'] == year]
+            if len(yeardf) > 0:
+                outcomes = yeardf['matchResults'].astype(np.int)
+                result.append( self.calc_draw_rate_in_window( outcomes) )
+            else:
+                result.append( 0.0 )
 
+        outcomes = records['matchResults'].astype(np.int)
+        result.append( self.calc_streak(outcomes) )
+
+        stats = np.array( result )
         return stats
 
 
@@ -47,19 +56,23 @@ class AdvancedDraw:
         for team in self.teams:
             records[team] = self.calc_team_stats( team )
 
-        cols = 'draw rate|current streak'
+        cols = 'draw rate 2016|draw rate 2017|draw rate 2018|draw rate 2019|draw rate 2020|current streak'
         df = pd.DataFrame.from_dict( records, orient='index', columns = cols.split('|') )
         for col in df.columns:
             df[col] = df[col].astype(np.float)
-        df['streak*rate'] = df['draw rate'] * df['current streak']
+        df['streak*rate'] = df['draw rate 2020'] * df['current streak']
 
         likelyDf = self.most_likely_to_draw(df)
         likelyDf.to_csv('soccer-base-high-frequency-teams.csv')
 
 
     def most_likely_to_draw(self, df):
-        df['streak*rate'] = df['streak*rate'].astype(np.float)
-        return df.loc[ df['streak*rate'] > 2 ]
+        for col in df.columns:
+            df[col] = df[col].astype(np.float)
+
+        return df.loc[ (df['streak*rate'] > 1.75) & (df['draw rate 2016'] > 0.2)
+                        & (df['draw rate 2017'] > 0.2) & (df['draw rate 2018'] > 0.2)
+                        & (df['draw rate 2019'] > 0.2) & (df['draw rate 2020'] > 0.2)]
 
     
 def main():

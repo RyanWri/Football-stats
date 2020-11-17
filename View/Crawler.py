@@ -130,8 +130,8 @@ def main():
     today = date.today()
     yesterday = today - timedelta(days=1)
 
-    start = yesterday
-    end = yesterday
+    start = '2016-01-01'
+    end = '2016-12-31'
     c = Crawler( start, end )
 
     # write today fixtures to np file
