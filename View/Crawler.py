@@ -110,7 +110,8 @@ class Crawler:
         
         
     def today_fixtures(self):
-        teams = []
+        hometeams = []
+        awayteams = []
         
         url = 'https://www.soccerbase.com/matches/results.sd?date=' + date.today().strftime("%Y-%m-%d")
         soup = self.convert_to_bs4_object(url)
@@ -118,11 +119,12 @@ class Crawler:
             matchsoup = self.create_soup_object(soup)
             if matchsoup:
                 for match in matchsoup:
-                    teams.append( match.find('td', class_= "team homeTeam").text )
-                    teams.append( match.find('td', class_= "team awayTeam").text )
+                    hometeams.append( match.find('td', class_= "team homeTeam").text )
+                    awayteams.append( match.find('td', class_= "team awayTeam").text )
 
         os.chdir('/Users/rywright/Football/Data')
-        np.save('soccer-base-teams', np.array(teams) )
+        np.save('soccer-base-home-teams', np.array(hometeams) )
+        np.save('soccer-base-away-teams', np.array(awayteams) )
 
                     
 def main():
@@ -130,8 +132,8 @@ def main():
     today = date.today()
     yesterday = today - timedelta(days=1)
 
-    start = '2016-01-01'
-    end = '2016-12-31'
+    start = yesterday
+    end = yesterday
     c = Crawler( start, end )
 
     # write today fixtures to np file

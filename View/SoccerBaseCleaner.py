@@ -13,7 +13,7 @@ class SoccerBaseCleaner:
         self.df = df.drop( ['date'], axis = 1)
         self.df.to_csv( 'clean-' + filename , index=False)
 
-        oldDatafilename = 'clean-soccerbase-total-data.csv'
+        oldDatafilename = 'clean-soccerbase-string.csv'
         cleanfilename = 'clean-' + filename
 
         df = pd.read_csv(cleanfilename, index_col=0)
@@ -30,11 +30,11 @@ class SoccerBaseCleaner:
     
     
     def add_match_results(self, homegoals, awaygoals):
-        result = 0
+        result = 'D'
         if homegoals > awaygoals:
-            result += 1
+            result = 'H'
         elif homegoals < awaygoals:
-            result -= 1
+            result = 'A'
         return result
     
 
@@ -42,8 +42,7 @@ def main():
     today = date.today()
     yesterday = today - timedelta(days=1)
 
-    #filename = f'data-from-{yesterday}-to-{yesterday}.csv'
-    filename = f'data-from-2016-01-01-to-2016-12-31.csv'
+    filename = f'data-from-{yesterday}-to-{yesterday}.csv'
     cleaner = SoccerBaseCleaner( filename )
     
     
