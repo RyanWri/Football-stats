@@ -1,0 +1,3310 @@
+date,league,home-team,home-score,away-team,away-score
+20201119,Paraguay Division Profesional,GeneralDiaz,2,SoldeAmerica,5
+20201119,Brazil Serie A,VascodaGama,0,FortalezaCE,0
+20201119,Ecuador Liga Pro,LDUPortoviejo,1,Orense,2
+20201119,Chile Primera,ColoColo,1,AudaxItaliano,0
+20201119,Venezuela Primera,AraguaFC,0,Metropolitanos,1
+20201119,Peru Primera Division,DeportivoSanMartin,1,UTCDeCajamarca,1
+20201119,Holland Eerste Divisie,DeGraafschap,0,CambuurLeeuwarden,2
+20201119,Peru Primera Division,AlianzaUniversidad,1,AcademiaCantolao,1
+20201119,Ecuador Liga Pro,ElNacional,0,UnivCatolica,2
+20201119,Chile Primera,Huachipato,1,MunicipalIquique,1
+20201119,Holland Eerste Divisie,Telstar,2,FCDordrecht,0
+20201119,Ecuador Liga Pro,MushucRuna,1,Olmedo,1
+20201119,Jordan Pro League,AlSareeh,1,AlHussein,0
+20201119,Jordan Pro League,Maan,1,AlAqaba,1
+20201119,Chile Primera,Antofagasta,1,EvertonVinadelMar,1
+20201119,Iran Pro League,NaftTehran,1,Saipa,1
+20201119,Iran Pro League,Sepahan,1,AluminiumArak,0
+20201119,Iran Pro League,NassajiMazandaran,1,TractorSazi,1
+20201119,Uzbekistan PRL,LokomotivTashkent,2,Olmaliq,1
+20201119,Uzbekistan PRL,Bukhara,1,Qizilqum,1
+20201119,Uzbekistan PRL,Andijon,2,MashALMubarek,1
+20201119,Costa Rica Primera,SantosdeGuapiles,0,Saprissa,0
+20201119,Chile Primera,CoquimboUnido,2,UniversidadCatolica,1
+20201116,Paraguay Division Profesional,ClubGuarani,2,SportivoSanLorenzo,1
+20201116,Brazil Serie A,Botafogo,1,Bragantino,2
+20201116,Chile Primera B,Nublense,2,SanLuis,1
+20201116,Paraguay Division Profesional,SportivoLuqueno,212,deOctubre,3
+20201116,Venezuela Primera,PortuguesaFC,0,Caracas,2
+20201116,Brazil Serie A,Coritiba,1,Bahia,2
+20201116,Peru Primera Division,SportHuancayo,4,DeportivoLlacuabamba,3
+20201116,Spain Segunda Liga,SportingGijon,1,RayoVallecano,1
+20201116,Chile Primera B,Barnechea,1,PuertoMontt,1
+20201116,England League 1,Plymouth,2,Portsmouth,2
+20201116,Germany 3. Liga,Verl,1,Lubeck,2
+20201116,France National,Bastia,0,SaintBrieuc,0
+20201116,Africa Cup Of Nations,Mozambique,0,Cameroon,2
+20201116,Africa Cup Of Nations,Gambia,2,Gabon,1
+20201116,Africa Cup Of Nations,Botswana,1,Zambia,0
+20201116,Peru Primera Division,SportBoys,0,CarlosMannucci,4
+20201116,Chile Primera B,Cobreloa,3,RangersTalca,0
+20201116,Chile Primera B,DeportesTemuco,0,SantiagoMorning,1
+20201116,Africa Cup Of Nations,Swaziland,0,Congo,0
+20201116,Africa Cup Of Nations,Zimbabwe,2,Algeria,2
+20201116,Africa Cup Of Nations,SouthSudan,1,Uganda,0
+20201116,Africa Cup Of Nations,SaoTomeandPrincipe,2,SouthAfrica,4
+20201116,Africa Cup Of Nations,Malawi,0,BurkinaFaso,0
+20201116,Serbia Prva Liga,Zemun,3,DinamoVranje,2
+20201116,Nicaragua Liga Primera,Managua,3,Diriangen,4
+20201116,Venezuela Primera,MonagasSC,1,Metropolitanos,2
+20201116,Costa Rica Primera,PerezZeledon,1,Jicaral,1
+20201109,Brazil Serie B,Cruzeiro,3,Guarani,3
+20201109,Venezuela Primera,AraguaFC,0,Tachira,1
+20201109,Chile Primera B,Barnechea,1,DeportesTemuco,1
+20201109,Holland Eerste Divisie,FCUtrechtII,2,RodaJC,0
+20201109,Spain Segunda Liga,Girona,1,LasPalmas,1
+20201109,Portugal LigaPro,Penafiel,1,Chaves,0
+20201109,England Conference South,ChelmsfordCity,0,TonbridgeAngels,2
+20201109,England FA Cup,OxfordCity,2,Northampton,1
+20201109,Germany 2. Bundesliga,HolsteinKiel,1,Hamburg,1
+20201109,Ireland Premier,Cork,1,DerryCity,1
+20201109,Ireland Premier,StPatricks,1,Bohemians,2
+20201109,Ireland Premier,Dundalk,0,Sligo,2
+20201109,Ireland Premier,FinnHarps,1,Waterford,0
+20201109,Ireland Premier,Shelbourne,0,Shamrock,2
+20201109,Belgium Division 2,Westerlo,3,RWDM,0
+20201109,Romania Liga I,UTABatranaDoamna,1,GazMetanMedias,3
+20201109,Sweden Superettan,Umea,1,GIFSundsvall,0
+20201109,Germany 3. Liga,MSVDuisburg,1,ViktoriaKoln,3
+20201109,Uruguay Primera Division,PlazaColonia,2,LiverpoolFC,2
+20201109,Holland Eerste Divisie,FCEindhoven,5,FCDordrecht,1
+20201109,Poland Ekstraklasa,PogonSzczecin,1,PodbeskidzieBielskoBiala,1
+20201109,Bosnia and Herzegovina Premier League,BoracBanjaLuka,4,Zeljeznicar,3
+20201109,Chile Primera B,SanMarcos,0,SantiagoMorning,1
+20201109,Serbia Prva Liga,Radnicki,19232,KolubaraLazarevac,0
+20201109,Mexico Liga MX,JaguaresChiapas,2,Tijuana,2
+20201109,Colombia Copa Mustang,NacionaldeMedellin,1,Pasto,0
+20201109,Mexico Liga MX,SantosLaguna,4,Mazatlan,0
+20201109,Costa Rica Primera,SantosdeGuapiles,1,Jicaral,1
+20201109,Nicaragua Liga Primera,WalterFerreti,4,Managua,2
+20201109,Paraguay Division Profesional,SoldeAmerica,1,Olimpia,3
+20201113,Brazil Serie B,Oeste,1,CRB,2
+20201113,Brazil Serie B,Avai,2,Parana,1
+20201113,Venezuela Primera,GranValencia,2,MonagasSC,1
+20201113,Holland Eerste Divisie,TOPOss,0,FCEindhoven,1
+20201113,Spain Segunda Liga,RealZaragoza,1,RealOviedo,2
+20201113,Wales Premier League,CaernarfonTown,1,ConnahsQuay,2
+20201113,Wales Premier League,CardiffMetropolitanUniversity,1,AberystwythTown,1
+20201113,England League 2,Bolton,2,SalfordCity,0
+20201113,Brazil Serie B,Operario,3,Nautico,1
+20201113,Venezuela Primera,PortuguesaFC,0,Tachira,1
+20201113,Africa Cup Of Nations,Morocco,4,CentralAfricanRepublic,1
+20201113,Africa Cup Of Nations,Tunisia,1,Tanzania,0
+20201113,Africa Cup Of Nations,Mali,1,Namibia,0
+20201113,Africa Cup Of Nations,SouthAfrica,2,SaoTomeandPrincipe,0
+20201113,Brazil Serie B,PontePreta,1,BrasilDePelotas,1
+20201113,Germany 3. Liga,ViktoriaKoln,0,Saarbrucken,2
+20201113,Sweden Division 1,QvidingFIF,2,Utsiktens,1
+20201113,Sweden Division 1,SkovdeAIK,5,MotalaAIF,1
+20201113,Holland Eerste Divisie,HelmondSport,2,ExcelsiorRotterdam,1
+20201113,France National,RedStar,1,LyonDuchere,0
+20201113,France National,QuevillyRouen,1,Cholet,2
+20201113,France National,Sete,34,FC,2
+20201113,France National,VillefrancheSurSaone,0,Laval,0
+20201113,International Friendly,CostaRica,1,Qatar,1
+20201113,Chile Primera,EvertonVinadelMar,0,OHiggins,1
+20201113,Africa Cup Of Nations,Nigeria,4,SierraLeone,4
+20201113,Africa Cup Of Nations,Niger,1,Ethiopia,0
+20201113,International Friendly,Japan,1,Panama,0
+20201113,Chile Primera B,SanMarcos,0,RangersTalca,0
+20201113,Serbia Prva Liga,Jagodina,4,RadnickiPirot,0
+20201113,Singapore S-League,GeylangUnited,0,AlbirexNiigata,1
+20201113,Singapore S-League,LionCity,6,TanjongPagar,1
+20201113,Colombia Copa Mustang,Cucuta,0,America,3
+20201113,Brazil Serie B,Vitoria,3,Figueirense,0
+20201105,Costa Rica Primera,SantosdeGuapiles,1,Guadelupe,1
+20201105,Ecuador Liga Pro,Macara,0,MushucRuna,3
+20201105,Europa League,Villarreal,4,MaccabiTelAviv,0
+20201105,Venezuela Primera,MonagasSC,1,AraguaFC,0
+20201105,Europa League,ZarjaLugansk,1,AEKAthens,4
+20201105,Europa League,CrvenaZvezda,2,Gent,1
+20201105,Europa League,Feyenoord,3,CSKAMoscow,1
+20201105,Europa League,Antwerp,0,LASKLinz,1
+20201105,Europa League,ACMilan,0,Lille,3
+20201105,Europa League,Hoffenheim,5,SlovanLiberec,0
+20201105,Europa League,YoungBoys,3,CSKASofia,0
+20201105,Europa League,Celtic,1,SpartaPrague,4
+20201105,Europa League,DynamoZagreb,1,Wolfsberger,0
+20201105,Europa League,Arsenal,4,Molde,1
+20201105,Europa League,Leicester,4,Braga,0
+20201105,Spain Segunda Liga,Sabadell,1,Almeria,2
+20201105,Spain Segunda Liga,Alcorcon,0,Ponferradina,1
+20201105,Europa League,LudogoretsRazgrad,1,Tottenham,3
+20201105,Europa League,HapoelSheva,2,BayerLeverkusen,4
+20201105,Europa League,OmoniaNicosia,0,Granada,2
+20201105,Europa League,PAOKSalonika,4,PSV,1
+20201105,Europa League,LechPoznan,3,StandardLiege,1
+20201105,Europa League,Sivasspor,2,Qarabagh,0
+20201105,Europa League,Benfica,3,Rangers,3
+20201105,Europa League,RealSociedad,1,AZ,0
+20201105,Europa League,Roma,5,CFRCluj,0
+20201105,Europa League,SlaviaPrague,3,Nice,2
+20201105,Europa League,RapidVienna,4,Dundalk,3
+20201105,Europa League,NKRijeka,1,Napoli,2
+20201105,Estonia Esiliiga,Maardu,0,NommeUnited,2
+20201105,Denmark 1st Division,Helsingor,0,Hobro,1
+20201105,Saudi Arabia Pro League,AlWehda,2,AlRaed,3
+20201105,Jordan Pro League,AlJazeeraJordan,2,AlHussein,1
+20201105,Jordan Pro League,Maan,0,AlSalt,0
+20201105,Uzbekistan PRL,Bunyodkor,3,Pakhtakor,2
+20201105,China League One,HubeiHuakaier,1,GuizhouZhicheng,2
+20201105,China League One,HeilongjiangLava,0,SuzhouJinfu,0
+20201105,China League One,ChangchunYatai,2,Kunshan,0
+20201105,USA Major League Soccer,SanJose,3,LosAngelesFC,2
+20201105,USA Major League Soccer,LAGalaxy,1,Seattle,1
+20201105,USA Major League Soccer,PortlandTimbers,0,Colorado,1
+20201105,USA Major League Soccer,Nashville,0,Dallas,1
+20201105,USA Major League Soccer,MinnesotaStars,2,Chicago,2
+20201105,USA Major League Soccer,OrlandoCity,2,Columbus,1
+20201112,Colombia Copa Mustang,Pasto,2,OnceCaldas,1
+20201112,Paraguay Division Profesional,NacionalAsuncion,0,ClubGuarani,0
+20201112,Paraguay Division Profesional,SportivoSanLorenzo,1,SportivoLuqueno,2
+20201112,Venezuela Primera,Caracas,0,AraguaFC,1
+20201112,Peru Primera Division,SportHuancayo,0,UniversidadCesarVallejo,0
+20201112,Costa Rica Primera,Jicaral,1,Grecia,0
+20201112,Chile Primera B,DeportesMagallanes,1,UnionSanFelipe,1
+20201112,International Friendly,England,3,RepofIreland,0
+20201112,International Friendly,Wales,0,USA,0
+20201112,Euro 2020 Qualifying,NorthernIreland,1,Slovakia,1
+20201112,Euro 2020 Qualifying,Serbia,1,Scotland,1
+20201112,Euro 2020 Qualifying,Hungary,2,Iceland,1
+20201112,Africa Cup Of Nations,BurkinaFaso,3,Malawi,1
+20201112,Africa Cup Of Nations,Gabon,2,Gambia,1
+20201112,Africa Cup Of Nations,Algeria,3,Zimbabwe,1
+20201112,Uruguay Primera Division,RiverPlateMontevideo,0,ClubNacional,2
+20201112,International Friendly,Moldova,0,Russia,0
+20201112,Euro 2020 Qualifying,Georgia,0,NorthMacedonia,1
+20201112,Chile Primera B,CDSantaCruz,0,Barnechea,1
+20201112,Peru Primera Division,CarlosMannucci,0,Melgar,0
+20201112,Africa Cup Of Nations,IvoryCoast,2,Madagascar,1
+20201112,Africa Cup Of Nations,CapeVerdeIslands,0,Rwanda,0
+20201112,Africa Cup Of Nations,Zambia,2,Botswana,1
+20201112,Africa Cup Of Nations,Ghana,2,Sudan,0
+20201112,Africa Cup Of Nations,Cameroon,4,Mozambique,1
+20201112,Africa Cup Of Nations,Congo,2,Swaziland,0
+20201112,Uruguay Primera Division,LiverpoolFC,2,Torque,2
+20201112,Chile Primera B,PuertoMontt,0,Melipilla,0
+20201112,Chile Primera B,SanLuis,0,Cobreloa,1
+20201112,Czech FNL,Trinec,3,FCVlasim,3
+20201112,Uruguay Primera Division,PlazaColonia,3,Cerro,0
+20201112,Africa Cup Of Nations,Uganda,1,SouthSudan,0
+20201112,Singapore S-League,SengkangPunggol,4,YoungLions,1
+20201112,Singapore S-League,BalestierKhalsa,2,TampinesRovers,2
+20201112,Colombia Copa Mustang,AlianzaPetrolera,2,NacionaldeMedellin,3
+20201112,Nicaragua Liga Primera,MunicipalJalapa,2,DeportivoOcotal,0
+20201117,Brazil Serie B,SampaioCorrea,2,Nautico,1
+20201117,Costa Rica Primera,Cartagines,0,Herediano,1
+20201117,England Conference,Halifax,1,NottsCounty,1
+20201117,England Conference,Aldershot,0,MaidenheadUtd,0
+20201117,England Conference,Altrincham,3,Chesterfield,2
+20201117,England Conference,Barnet,0,KingsLynn,2
+20201117,England Conference,Bromley,1,BorehamWood,1
+20201117,England Conference,DoverAthletic,1,Woking,5
+20201117,England Conference,Eastleigh,2,Wealdstone,0
+20201117,England Conference North,BradfordParkAvenue,0,Southport,2
+20201117,England Conference North,CurzonAshton,2,Fylde,0
+20201117,England Conference North,TelfordUtd,0,Chorley,1
+20201117,England Conference North,BrackleyTown,0,Kidderminster,2
+20201117,England Conference North,Guiseley,1,Darlington,4
+20201117,England Conference North,Hereford,0,GloucesterCity,1
+20201117,England Conference North,Leamington,4,AlfretonTown,3
+20201117,England Conference South,BraintreeTown,1,ConcordRangers,0
+20201117,England Conference South,Dartford,0,StAlbansCity,1
+20201117,England Conference South,EbbsfleetUtd,0,MaidstoneUtd,0
+20201117,England Conference South,HamptonandRichmond,0,HemelHempstead,3
+20201117,England Conference South,OxfordCity,1,ChippenhamTown,1
+20201117,England Conference South,SloughTown,1,HungerfordTown,3
+20201117,England Conference South,TonbridgeAngels,2,EastbourneBorough,2
+20201117,England Conference South,WellingUtd,2,BillericayTown,2
+20201117,England Conference South,DorkingWanderers,0,DulwichHamlet,0
+20201117,UEFA Nations League,Gibraltar,1,Liechtenstein,1
+20201117,UEFA Nations League,Spain,6,Germany,0
+20201117,UEFA Nations League,Malta,1,FaroeIslands,1
+20201117,UEFA Nations League,Andorra,0,Latvia,5
+20201117,UEFA Nations League,Montenegro,4,Cyprus,0
+20201117,UEFA Nations League,Luxembourg,0,Azerbaijan,0
+20201117,UEFA Nations League,France,4,Sweden,2
+20201117,UEFA Nations League,Croatia,2,Portugal,3
+20201117,Africa Cup Of Nations,Tanzania,1,Tunisia,1
+20201117,Africa Cup Of Nations,Namibia,1,Mali,2
+20201117,England Conference,Hartlepool,0,Wrexham,1
+20201117,England Conference,SuttonUtd,1,DagenhamandRedbridge,1
+20201117,England League 1,OxfordUtd,0,Crewe,2
+20201117,England League 1,Swindon,0,AccringtonStanley,3
+20201117,England League 2,PortVale,0,Scunthorpe,1
+20201117,Venezuela Primera,AcademiaPuertoCabello,1,Yaracuyanos,0
+20201117,Germany 3. Liga,MSVDuisburg,0,Hallescher,0
+20201117,Germany Regionalliga West,Lippstadt,080,BorussiaDortmundII,4
+20201117,Africa Cup Of Nations,CentralAfricanRepublic,0,Morocco,2
+20201117,Africa Cup Of Nations,SierraLeone,0,Nigeria,0
+20201117,Africa Cup Of Nations,Togo,1,Egypt,3
+20201117,Africa Cup Of Nations,Angola,0,CongoDR,1
+20201117,Chile Primera,OHiggins,1,Palestino,0
+20201117,Iran Pro League,SanatNaft,2,Paykan,1
+20201117,Africa Cup Of Nations,Ethiopia,3,Niger,0
+20201117,Africa Cup Of Nations,Madagascar,1,IvoryCoast,1
+20201117,Africa Cup Of Nations,Sudan,1,Ghana,0
+20201117,Africa Cup Of Nations,Rwanda,0,CapeVerdeIslands,0
+20201117,Africa Cup Of Nations,Lesotho,0,Benin,0
+20201117,Czech FNL,FCVlasim,1,SkProstejov,3
+20201117,Singapore S-League,AlbirexNiigata,2,BalestierKhalsa,0
+20201117,Singapore S-League,SengkangPunggol,1,LionCity,3
+20201117,Singapore S-League,YoungLions,1,TampinesRovers,3
+20201117,Singapore S-League,GeylangUnited,2,TanjongPagar,1
+20201117,Turkey Lig 1,Altinordu,2,Bandirmaspor,0
+20201117,South Korea K League 2,DaejeonCitizen,3,GoyangKB,0
+20201118,Peru Primera Division,Melgar,4,SportHuancayo,0
+20201118,Chile Primera,UnionLaCalera,1,UniversidaddeChile,0
+20201118,Brazil Serie A,AtleticoMineiro,0,AtleticoParanaense,2
+20201118,Ecuador Liga Pro,TecnicoUniversitario,0,Macara,1
+20201118,Venezuela Primera,GuarosdeLara,4,AtleticoVenezuela,0
+20201118,Chile Primera,Cobresal,1,DeportesLaSerena,2
+20201118,UEFA Nations League,Belgium,4,Denmark,2
+20201118,UEFA Nations League,Kosovo,1,Moldova,0
+20201118,UEFA Nations League,RepofIreland,0,Bulgaria,0
+20201118,UEFA Nations League,England,4,Iceland,0
+20201118,UEFA Nations League,Greece,0,Slovenia,0
+20201118,UEFA Nations League,Wales,3,Finland,1
+20201118,UEFA Nations League,Poland,1,Holland,2
+20201118,UEFA Nations League,Hungary,2,Turkey,0
+20201118,UEFA Nations League,Israel,1,Scotland,0
+20201118,UEFA Nations League,Serbia,5,Russia,0
+20201118,UEFA Nations League,CzechRepublic,2,Slovakia,0
+20201118,UEFA Nations League,NorthernIreland,1,Romania,1
+20201118,UEFA Nations League,Austria,1,Norway,1
+20201118,Ecuador Liga Pro,Delfin,1,RiverPlateEcuador,1
+20201118,Germany Regionalliga West,Rodinghausen,2,Wiedenbruck,0
+20201118,Belgium Division 2,Westerlo,3,Deinze,0
+20201118,Germany Regionalliga West,BorussiaMonchengladbachII,0,RotWeissEssen,2
+20201118,Ecuador Liga Pro,Aucas,3,IndependienteJoseTeran,3
+20201118,Norway 1. Division,Lillestrom,1,Jerv,0
+20201118,Germany Regionalliga West,AlemanniaAachen,0,FortunaKoln,1
+20201118,UEFA Nations League,Armenia,1,NorthMacedonia,0
+20201118,UEFA Nations League,Georgia,0,Estonia,0
+20201118,UEFA Nations League,Albania,3,Belarus,2
+20201118,UEFA Nations League,Kazakhstan,1,Lithuania,2
+20201118,Chile Primera,CuricoUnido,2,UniversidaddeConcepcion,2
+20201118,Norway 1. Division,Grorud,2,Strommen,1
+20201118,China Super League,HangzhouLvcheng,2,WuhanZall,2
+20201118,Japan J-League,KawasakiFrontale,3,YokohamaFMarinos,1
+20201118,Japan J-League,VegaltaSendai,2,FCTokyo,2
+20201118,Japan J-League,VisselKobe,0,UrawaRedDiamonds,1
+20201106,Paraguay Division Profesional,ClubGuarani,2,GeneralDiaz,0
+20201106,Colombia Copa Mustang,Envigado,1,LaEquidad,1
+20201106,Peru Primera Division,Ayacucho,1,UniversidadCesarVallejo,1
+20201106,Brazil Serie B,Guarani,2,CSAAL,1
+20201106,Brazil Serie B,Botafogo,0,Cruzeiro,1
+20201106,Brazil Serie B,Nautico,2,Avai,2
+20201106,Uruguay Primera Division,Cerro,2,Progreso,2
+20201106,Ecuador Liga Pro,LDUdeQuito,4,Orense,0
+20201106,Venezuela Primera,GranValencia,1,Metropolitanos,1
+20201106,Peru Primera Division,AlianzaLima,2,DeportivoLlacuabamba,2
+20201106,Portugal Superliga,Belenenses,0,RioAve,0
+20201106,Spain Primera Liga,Elche,1,CeltadeVigo,1
+20201106,Spain Segunda Liga,Albacete,0,Leganes,0
+20201106,England Premier League,Southampton,2,Newcastle,0
+20201106,Italy Serie B,Spal,2,Salernitana,0
+20201106,France Ligue 1,Strasbourg,0,Marseille,1
+20201106,Holland Eerste Divisie,AlmereCity,2,AZII,0
+20201106,Holland Eerste Divisie,NEC,2,HelmondSport,2
+20201106,Scotland Championship,Alloa,3,Dundee,3
+20201106,Belgium Juliper League,KVMechelen,3,Charleroi,3
+20201106,Scotland Premiership,Aberdeen,2,Hibernian,0
+20201106,Scotland Premiership,RossCounty,1,Livingston,1
+20201106,Scotland Premiership,StJohnstone,1,Kilmarnock,0
+20201106,Scotland Premiership,StMirren,0,DundeeUtd,0
+20201106,Ireland Division 1,GalwayUtd,1,LongfordTown,2
+20201106,England FA Cup,HarrogateTown,4,SkelmersdaleUtd,1
+20201106,Italy Serie A,Sassuolo,0,Udinese,0
+20201106,Romania Liga I,CSUniversitateaCraiova,0,ChindiaTargoviste,1
+20201106,Uruguay Primera Division,Rentistas,0,CerroLargo,0
+20201106,Germany Bundesliga,WerderBremen,1,FCKoln,1
+20201106,France National,SaintBrieuc,1,RedStar,0
+20201106,Belgium Division 2,RWDM,3,Westerlo,1
+20201106,Ecuador Liga Pro,ElNacional,1,Delfin,3
+20201106,Holland Eredivisie,FortunaSittard,2,FCZwolle,2
+20201106,Hungary NB I,Diosgyori,3,Ujpesti,0
+20201106,France National,Laval,0,BourgPeronnas,1
+20201106,Portugal LigaPro,Feirense,0,Arouca,1
+20201106,Peru Primera Division,AcademiaCantolao,2,Universitario,2
+20201106,England Championship,Cardiff,0,BristolCity,1
+20201106,Germany 3. Liga,Ingolstadt,4,Wehen,1
+20201106,Sweden Division 1,Sollentuna,2,Sandviken,0
+20201106,Denmark Superliga,RandersFC,1,AaB,2
+20201106,Holland Eerste Divisie,FCDenBosch,1,JongPSV,2
+20201106,Holland Eerste Divisie,MVVMaastricht,1,NAC,4
+20201106,Germany 2. Bundesliga,FCHeidenheim,4,FCKickersWurzburg,1
+20201106,Germany 2. Bundesliga,Sandhausen,2,Braunschweig,2
+20201106,France National,Avranches,1,Bastia,2
+20201106,England Premier League,Brighton,0,Burnley,0
+20201106,Turkey Super Lig,GaziantepBB,3,Besiktas,1
+20201106,France National,Creteil,1,LeMans,1
+20201106,France National,Concarneau,1,VillefrancheSurSaone,0
+20201106,Denmark 1st Division,Fredericia,1,Viborg,1
+20201106,France National,BastiaBorgo,1,Sete,34
+20201106,Czech First League,Jablonec,970,FCBrno,1
+20201106,Serbia Super Liga,FKMetalac,3,Vojvodina,3
+20201106,Cyprus 1. Division,ApollonLimassol,1,Karmiotissa,2
+20201106,Saudi Arabia Pro League,IttihadJeddah,1,AlTaawon,1
+20201106,Jordan Pro League,AlAqaba,0,Sahab,0
+20201106,Slovenia Prva Liga,NKCelje,4,Aluminij,0
+20201106,Russia Premier League,Sochi,1,Ufa,1
+20201106,Turkey Lig 1,Altay,1,Balikesirspor,3
+20201106,Romania Liga I,AstraGiurgiu,0,AcademicaClinceni,2
+20201106,Belarus Premier League,FKVitebsk,0,FCRuhBrest,0
+20201106,Saudi Arabia Pro League,AlBaten,3,AbhaClub,0
+20201106,Saudi Arabia Pro League,AlEttifaq,0,AlHilal,2
+20201106,Jordan Pro League,AlWihdat,2,AlAhlyJordan,0
+20201106,Iran Pro League,TractorSazi,0,NaftTehran,0
+20201106,Iran Pro League,AluminiumArak,0,NassajiMazandaran,3
+20201106,Iran Pro League,Saipa,0,Perspolis,0
+20201106,Iran Pro League,Zobahan,2,Foolad,2
+20201106,Saudi Arabia Pro League,Dhamk,0,AlFaisaly,0
+20201106,Croatia 2.HNL,RadnikSesvete,1,NKOsijekII,5
+20201106,Serbia Prva Liga,NoviBeograd,2,Jagodina,0
+20201106,Serbia Prva Liga,DinamoVranje,3,SlogaKraljevo,1
+20201106,Belarus Premier League,Isloch,3,Minsk,4
+20201106,China Super League,HenanJianye,0,TianjinTeda,0
+20201106,China Super League,ShanghaiShenhua,4,HebeiZhongji,1
+20201106,China Super League,GuangzhouRF,0,DalianAerbingFC,3
+20201106,China Super League,ChongqingLifan,4,ShandongLuneng,3
+20201106,Colombia Copa Mustang,SantaFe,3,Medellin,0
+20201110,Paraguay Division Profesional,GeneralDiaz,3,Libertad,4
+20201110,Paraguay Division Profesional,RiverPlateAsuncion,1,Guairena,2
+20201110,Colombia Copa Mustang,Pereira,0,Millonarios,2
+20201110,Peru Primera Division,SportingCristal,2,AlianzaUniversidad,0
+20201110,Brazil Serie B,CSAAL,0,Chapecoense,1
+20201110,Ecuador Liga Pro,Delfin,1,Macara,2
+20201110,Colombia Copa Mustang,Medellin,1,AtleticoBucaramanga,0
+20201110,Venezuela Primera,AtleticoVenezuela,2,RealEsppor,3
+20201110,Peru Primera Division,DeportivoMunicipal,1,RealGarcilaso,1
+20201110,Uruguay Primera Division,MontevideoWanderers,1,CerroLargo,0
+20201110,Holland Eerste Divisie,Telstar,1,GoAheadEagles,2
+20201110,Scottish League Cup,Dumbarton,0,Falkirk,4
+20201110,Scottish League Cup,Albion,1,AnnanAthletic,5
+20201110,Scottish League Cup,QueensPark,1,QueenofSouth,3
+20201110,Scottish League Cup,Clyde,0,Kilmarnock,2
+20201110,Scottish League Cup,StJohnstone,0,DundeeUtd,0
+20201110,Scottish League Cup,Elgin,1,RossCounty,4
+20201110,Scottish League Cup,KeltyHearts,1,Peterhead,1
+20201110,Scottish League Cup,Forfar,3,BroraRangers,3
+20201110,Scottish League Cup,Dundee,3,CoveRangers,0
+20201110,Scottish League Cup,Raith,3,InvernessCT,3
+20201110,Scottish League Cup,EastFife,2,Hearts,3
+20201110,Northern Ireland Premier League,Crusaders,1,Coleraine,0
+20201110,Northern Ireland Premier League,BallymenaUnited,0,Glenavon,2
+20201110,Northern Ireland Premier League,DungannonSwifts,2,Cliftonville,1
+20201110,Northern Ireland Premier League,CarrickRangers,4,Portadown,1
+20201110,Northern Ireland Premier League,WarrenpointTown,1,Larne,1
+20201110,England Conference,Halifax,0,Wealdstone,1
+20201110,England Conference North,Fylde,1,SpennymoorTown,0
+20201110,England Conference North,AlfretonTown,0,BrackleyTown,2
+20201110,England Conference North,BlythSpartans,1,FarsleyCeltic,1
+20201110,England Conference North,Gateshead,1,CurzonAshton,0
+20201110,England Conference North,GloucesterCity,4,TelfordUtd,1
+20201110,England Conference North,Southport,2,York,3
+20201110,England Conference South,ConcordRangers,1,WellingUtd,1
+20201110,England Conference South,EastbourneBorough,1,EbbsfleetUtd,1
+20201110,England Conference South,HemelHempstead,1,Dartford,3
+20201110,England Conference South,HungerfordTown,0,HamptonandRichmond,1
+20201110,England Conference South,StAlbansCity,2,BraintreeTown,1
+20201110,Scottish League Cup,KeltyHearts,1,Peterhead,1
+20201110,Scottish League Cup,Albion,1,AnnanAthletic,5
+20201110,Scottish League Cup,EastFife,2,Hearts,3
+20201110,Scottish League Cup,Elgin,1,RossCounty,4
+20201110,Scottish League Cup,QueensPark,1,QueenofSouth,3
+20201110,Scottish League Cup,Forfar,3,BroraRangers,3
+20201110,Scottish League Cup,Raith,3,InvernessCT,3
+20201110,Scottish League Cup,Dundee,3,CoveRangers,0
+20201110,Scottish League Cup,StJohnstone,0,DundeeUtd,0
+20201110,Scottish League Cup,Dumbarton,0,Falkirk,4
+20201110,Scottish League Cup,Clyde,0,Kilmarnock,2
+20201110,Scottish League Cup,Stirling,2,Montrose,1
+20201110,Scottish League Cup,Stenhousemuir,0,Livingston,4
+20201110,Scottish League Cup,Stenhousemuir,0,Livingston,4
+20201110,Ecuador Liga Pro,TecnicoUniversitario,1,ElNacional,0
+20201110,England Conference,BorehamWood,0,DagenhamandRedbridge,1
+20201110,Colombia Copa Mustang,LaEquidad,1,BoyacaPatriotas,0
+20201110,Peru Primera Division,Universitario,1,UTCDeCajamarca,6
+20201110,Uruguay Primera Division,Progreso,0,Rentistas,0
+20201110,Holland Eerste Divisie,ExcelsiorRotterdam,3,TOPOss,0
+20201110,Ecuador Liga Pro,Orense,1,DeportivoCuenca,1
+20201110,France National,BourgPeronnas,0,RedStar,4
+20201110,France National,Bastia,1,Sete,34
+20201110,Peru Primera Division,DeportivoBinacional,1,AcademiaCantolao,0
+20201110,Chile Primera,ColoColo,1,Antofagasta,0
+20201110,China Super League,HebeiZhongji,0,ShanghaiShenhua,1
+20201110,China Super League,DalianAerbingFC,0,GuangzhouRF,3
+20201110,China Super League,TianjinTeda,0,HenanJianye,0
+20201110,China Super League,ShandongLuneng,2,ChongqingLifan,1
+20201120,Paraguay Division Profesional,SportivoSanLorenzo,2,Libertad,2
+20201120,Brazil Serie A,Bragantino,4,Bahia,0
+20201120,Brazil Serie B,Guarani,2,Botafogo,1
+20201120,Brazil Serie B,JuventudeRS,5,Parana,0
+20201120,Brazil Serie B,SampaioCorrea,1,Chapecoense,3
+20201120,Chile Primera B,RangersTalca,1,Melipilla,0
+20201120,Peru Primera Division,SportingCristal,2,Universitario,2
+20201120,Paraguay Division Profesional,RiverPlateAsuncion,1,CerroPorteno,2
+20201120,Venezuela Primera,ZamoraFC,1,Caracas,3
+20201120,Chile Primera B,SantiagoMorning,2,CDSantaCruz,1
+20201120,Chile Primera B,PuertoMontt,3,Nublense,2
+20201120,Spain Primera Liga,Osasuna,1,Huesca,1
+20201120,Spain Segunda Liga,Espanyol,1,Girona,2
+20201120,Italy Serie B,Frosinone,0,Cosenza,2
+20201120,France Ligue 1,Monaco,3,PSG,2
+20201120,Holland Eerste Divisie,FCDenBosch,2,JongAjax,2
+20201120,Holland Eerste Divisie,MVVMaastricht,3,JongPSV,3
+20201120,Holland Eerste Divisie,FCUtrechtII,2,HelmondSport,1
+20201120,Scotland Championship,Dunfermline,2,Hearts,1
+20201120,Wales Premier League,ConnahsQuay,2,NewiCefnDruids,1
+20201120,England Championship,Coventry,0,Birmingham,0
+20201120,Poland Ekstraklasa,GornikZabrze,1,PiastGliwice,2
+20201120,Brazil Serie B,Vitoria,0,PontePreta,0
+20201120,Brazil Serie B,Avai,1,Confianca,0
+20201120,England League 2,Mansfield,1,Colchester,1
+20201120,Belgium Division 2,ClubBruggeII,2,LierseKempenzonen,0
+20201120,Switzerland Challenge League,Winterthur,1,SCKriens,1
+20201120,Hungary NB I,Kisvarda,3,PaksiSE,1
+20201120,Romania Liga I,DinamoBucharest,3,Voluntari,0
+20201120,Peru Primera Division,Cienciano,1,AtleticoGrau,0
+20201120,Croatia 1.HNL,HNKSibenik,1,Gorica,3
+20201120,Germany 3. Liga,MSVDuisburg,0,Verl,4
+20201120,Switzerland Challenge League,FCStadeLsOuchy,2,Schaffhausen,2
+20201120,France National,Annecy,1,VillefrancheSurSaone,0
+20201120,Spain Segunda Liga,Alcorcon,1,Lugo,0
+20201120,Denmark 1st Division,KoldingIF,1,Fredericia,2
+20201120,Denmark Superliga,Lyngby,1,ACHorsens,1
+20201120,Sweden Division 1,MotalaAIF,2,Linkoping,3
+20201120,France Ligue 1,Rennes,0,Bordeaux,1
+20201120,Holland Eerste Divisie,NEC,1,RodaJC,1
+20201120,Holland Eerste Divisie,ExcelsiorRotterdam,4,AZII,1
+20201120,Holland Eerste Divisie,FCVolendam,1,TOPOss,1
+20201120,Czech First League,SlovanLiberec,1,Jablonec,973
+20201120,Poland Ekstraklasa,LechiaGdansk,3,SlaskWroclaw,2
+20201120,Denmark 1st Division,Viborg,2,Hobro,1
+20201120,United Arab Emirates UFL,AlFujirah,1,Hatta,0
+20201120,United Arab Emirates UFL,AlSharjah,2,AlNas,1
+20201120,France National,QuevillyRouen,2,BourgPeronnas,0
+20201120,France National,Laval,0,Boulogne,0
+20201120,France National,LyonDuchere,0,Cholet,0
+20201120,Estonia Esiliiga,TammekaTartuII,0,NommeUnited,5
+20201120,France National,Sete,34,FC,1
+20201120,Ukraine UPL,RukhVinnyky,0,IllichivetsMariupol,0
+20201120,Jordan Pro League,AlAhlyJordan,0,Ramtha,1
+20201120,Serbia Super Liga,MladostLucani,1,Cukaricki,1
+20201120,Serbia Super Liga,JavorIvanjica,1,Subotica,3
+20201120,Serbia Super Liga,RadnikSurdulica,3,MacvaSabac,0
+20201120,Croatia 1.HNL,Lokomotiva,2,Varazdin,2
+20201120,Croatia 2.HNL,Medimurje,2,BijeloBrdo,5
+20201120,Peru Primera Division,Ayacucho,3,RealGarcilaso,1
+20201120,Romania Liga I,CSMSIasi,1,Arges,1
+20201120,United Arab Emirates UFL,AlWasl,1,AlAin,2
+20201120,United Arab Emirates UFL,BaniYas,0,AlIttihadKalba,2
+20201120,Croatia 2.HNL,InterZapresic,2,DynamoZagrebII,0
+20201120,Jordan Pro League,Sahab,1,AlJazeeraJordan,1
+20201120,Chile Primera B,DeportesMagallanes,1,DeportesCopiapo,1
+20201120,Chile Primera B,DeportesTemuco,1,UnionSanFelipe,0
+20201120,Iran Pro League,Foolad,2,Esteghlal,1
+20201120,Iran Pro League,MachineSaziTabriz,1,Zobahan,1
+20201120,Iran Pro League,MesRafsanjan,0,GolGoharSirjan,2
+20201120,Croatia 2.HNL,HrvatskiDragovoljac,0,Rudes,1
+20201120,Czech FNL,Jihlava,1,Blansko,4
+20201120,Uzbekistan PRL,Navbahor,1,SurkhonTermez,0
+20201120,Uzbekistan PRL,Pakhtakor,2,Qoqon,19121
+20201120,Serbia Prva Liga,Radnicki,19232,BuducnostDobanovci,0
+20201120,Serbia Prva Liga,NoviBeograd,3,Dubocica,1
+20201120,Russia 1. Division,KrasnodarII,1,ShinnikJaroslavl,2
+20201120,Uzbekistan PRL,Sogdiyona,3,Nasaf,1
+20201120,Uzbekistan PRL,MetallurgBekabad,2,Bunyodkor,3
+20201120,Nicaragua Liga Primera,RealEsteli,1,Managua,0
+20201120,Nicaragua Liga Primera,WalterFerreti,4,Chinandega,0
+20201120,Nicaragua Liga Primera,MunicipalJalapa,2,RealMadriz,1
+20201120,Nicaragua Liga Primera,Diriangen,6,DeportivoOcotal,1
+20201120,Nicaragua Liga Primera,JuniorManagua,1,JuventusManagua,1
+20201111,Colombia Copa Mustang,ChicoFC,1,ItaguiDitares,2
+20201111,Paraguay Division Profesional,Olimpia,212,deOctubre,1
+20201111,Ecuador Liga Pro,UnivCatolica,2,RiverPlateEcuador,1
+20201111,Brazil Serie A,Bahia,2,FortalezaCE,1
+20201111,Uruguay Primera Division,DeportivoMaldonado,3,Defensor,1
+20201111,Nicaragua Liga Primera,Chinandega,0,Managua,0
+20201111,Colombia Copa Mustang,JaguaresdeCordoba,2,Junior,2
+20201111,Venezuela Primera,Trujillanos,1,MinerosdeGuayana,2
+20201111,Costa Rica Primera,SportingSanJose,2,Alajuelense,3
+20201111,Costa Rica Primera,Limon,2,Guadelupe,1
+20201111,Peru Primera Division,CarlosStein,3,Cienciano,2
+20201111,International Friendly,France,0,Finland,2
+20201111,Scottish League Cup,AirdrieUtd,0,EdinburghCity,1
+20201111,Scottish League Cup,StMirren,1,Morton,1
+20201111,International Friendly,Germany,1,CzechRepublic,0
+20201111,Scottish League Cup,StMirren,1,Morton,1
+20201111,Scottish League Cup,AirdrieUtd,0,EdinburghCity,1
+20201111,England Conference,Altrincham,0,SolihullMoors,2
+20201111,England Conference South,HavantandWaterlooville,3,DulwichHamlet,1
+20201111,International Friendly,Slovenia,0,Azerbaijan,0
+20201111,International Friendly,Belgium,2,Switzerland,1
+20201111,International Friendly,Poland,2,Ukraine,0
+20201111,International Friendly,Portugal,7,Andorra,0
+20201111,International Friendly,Holland,1,Spain,1
+20201111,International Friendly,Italy,4,Estonia,0
+20201111,International Friendly,Luxembourg,0,Austria,3
+20201111,Scottish League Cup,Stranraer,2,Hamilton,1
+20201111,Ecuador Liga Pro,MushucRuna,1,LDUdeQuito,2
+20201111,Colombia Copa Mustang,Cali,3,Envigado,0
+20201111,Africa Cup Of Nations,Libya,2,EquatorialGuinea,3
+20201111,International Friendly,Denmark,2,Sweden,0
+20201111,International Friendly,Turkey,3,Croatia,3
+20201111,Holland Eerste Divisie,DeGraafschap,1,NAC,0
+20201111,International Friendly,Bulgaria,3,Gibraltar,0
+20201111,Ecuador Liga Pro,Aucas,3,Olmedo,3
+20201111,Costa Rica Primera,Cartagines,3,SantosdeGuapiles,0
+20201111,International Friendly,Malta,3,Liechtenstein,0
+20201111,International Friendly,Romania,5,Belarus,3
+20201111,International Friendly,Lithuania,2,FaroeIslands,1
+20201111,International Friendly,SanMarino,0,Latvia,3
+20201111,International Friendly,Montenegro,0,Kazakhstan,0
+20201111,Uruguay Primera Division,Danubio,0,BostonRiver,0
+20201111,Finland Veikkausliiga,FCKooTeePee,0,TPS,0
+20201111,Africa Cup Of Nations,Guinea,1,Chad,0
+20201111,Peru Primera Division,AtleticoGrau,0,DeportivoSanMartin,2
+20201111,Africa Cup Of Nations,Kenya,1,Comoros,1
+20201111,Africa Cup Of Nations,Mauritania,1,Burundi,1
+20201111,Russia 1. Division,TorpedoMoscow,4,FakelWorenesch,1
+20201111,Russia 1. Division,ShinnikJaroslavl,1,SpartakMoscowII,2
+20201111,International Friendly,Albania,2,Kosovo,1
+20201111,International Friendly,Greece,2,Cyprus,1
+20201111,Russia 1. Division,ChaykaPeschanokopskoye,1,DynamoBryansk,0
+20201111,Russia 1. Division,GazovikOrenburg,0,IrtyshOmsk,0
+20201111,Russia 1. Division,Olimpyets,3,ChertanovoMoscow,2
+20201111,Czech FNL,Vysehrad,0,Taborsko,2
+20201111,Russia 1. Division,YeniseyKrasnoyarsk,0,Tomsk,1
+20201111,Russia 1. Division,TekstilshchikIvanovo,1,BaltikaKaliningrad,0
+20201111,Russia 1. Division,Akron,0,VolgarGazpromAstrakhan,3
+20201111,Russia 1. Division,Veles,1,AlaniaVladikavkaz,1
+20201111,Japan J2 League,JubiloIwata,1,Niigata,1
+20201111,Japan J-League,ShonanBellmare,1,YokohamaFMarinos,0
+20201111,Japan J-League,SanfrecceHiroshima,2,NagoyaGrampusEight,0
+20201111,Japan J-League,FCTokyo,1,ConsadoleSapporo,0
+20201111,Japan J-League,GambaOsaka,1,VisselKobe,0
+20201111,Japan J2 League,MontedioYamagata,2,OmiyaArdija,1
+20201111,Japan J2 League,KyotoPurpleSanga,1,TokyoVerdy,2
+20201111,Japan J2 League,TokushimaVortis,2,TochigiSC,0
+20201111,Japan J2 League,MachidaZelvia,1,RenofaYamaguchi,0
+20201111,Japan J2 League,AvispaFukuoka,3,FCRyukyu,1
+20201111,Japan J2 League,MatsumotoYamaga,2,JEFUnitedChiba,3
+20201111,Japan J2 League,GiravanzKitakyushu,3,EhimeFC,1
+20201111,Japan J2 League,VentforetKofu,2,MitoHollyhock,0
+20201111,Russia 1. Division,KrasnodarII,1,KrylyaSovetov,1
+20201111,Russia 1. Division,EnergiyaKhabarovsk,3,Neftekhimik,2
+20201111,Colombia Copa Mustang,SantaFe,1,DeportesTolima,0
+20201111,Brazil Serie B,Confianca,1,Botafogo,0
+20201102,Ecuador Liga Pro,Macara,1,RiverPlateEcuador,1
+20201102,Colombia Copa Mustang,ChicoFC,1,AtleticoBucaramanga,0
+20201102,Brazil Serie A,Gremio,2,Bragantino,1
+20201102,Paraguay Division Profesional,SoldeAmerica,1,Guairena,1
+20201102,Venezuela Primera,AraguaFC,1,GranValencia,1
+20201102,Portugal Superliga,Boavista,3,Benfica,0
+20201102,Brazil Serie B,PontePreta,2,Figueirense,1
+20201102,Peru Primera Division,Melgar,0,AlianzaLima,4
+20201102,Italy Serie B,Lecce,3,Pescara,1
+20201102,Brazil Serie A,Palmeiras,3,AtleticoMineiro,0
+20201102,England Premier League,Leeds,1,Leicester,4
+20201102,Spain Primera Liga,Villarreal,2,Valladolid,0
+20201102,Spain Segunda Liga,Malaga,0,Espanyol,3
+20201102,Italy Serie A,HellasVerona,3,Benevento,1
+20201102,France Ligue 2,Amiens,0,Toulouse,1
+20201102,Belgium Juliper League,ZulteWaregem,1,Kortrijk,1
+20201102,Germany Bundesliga,Hoffenheim,1,UnionBerlin,3
+20201102,Slovenia Prva Liga,Aluminij,1,Maribor,3
+20201102,Romania Liga I,ChindiaTargoviste,0,SteauaBucharest,2
+20201102,Switzerland Challenge League,Grasshoppers,1,FCThun,1
+20201102,Portugal Superliga,Braga,1,Famalicao,0
+20201102,Peru Primera Division,DeportivoMunicipal,0,CarlosMannucci,2
+20201102,Germany 3. Liga,Kaiserslautern,0,HansaRostock,0
+20201102,Sweden Superettan,GAIS,2,AFCEskilstuna,0
+20201102,Denmark Superliga,Sonderjyske,1,AGFAarhus,1
+20201102,Sweden Allsvenskan,AIKStockholm,1,Varbergs,0
+20201102,Sweden Allsvenskan,Helsingborgs,0,Malmo,1
+20201102,Sweden Superettan,NorrbyIF,1,Brage,4
+20201102,Holland Eerste Divisie,AZII,1,Telstar,1
+20201102,England Premier League,Fulham,2,WestBrom,0
+20201102,Spain Segunda Liga,SportingGijon,1,Castellon,0
+20201102,Turkey Super Lig,Antalyaspor,1,Fenerbahce,2
+20201102,Turkey Super Lig,Hatayspor,1,Sivasspor,1
+20201102,Poland Ekstraklasa,WartaPoznan,0,LegiaWarsaw,3
+20201102,Slovenia Prva Liga,Mura,0,NKCelje,0
+20201102,Bulgaria A PFG,BotevVratsa,5,Etar,1
+20201102,Peru Primera Division,RealGarcilaso,1,SportBoys,2
+20201102,Cyprus 1. Division,NeaSalamina,1,EthnikosAchnas,1
+20201102,Spain Segunda Liga,UDLogrones,1,Alcorcon,0
+20201102,Serbia Prva Liga,KolubaraLazarevac,0,KabelNoviSad,0
+20201102,Serbia Prva Liga,TrajalKrusevac,1,RadnickiPirot,2
+20201102,Uzbekistan PRL,Bunyodkor,1,Bukhara,1
+20201102,Armenia Premier League,FCNoah,1,Alashkert,2
+20201102,China Super League,Guangzhou,3,BeijingGuoan,1
+20201102,Uzbekistan PRL,MashALMubarek,0,LokomotivTashkent,0
+20201102,China Super League,QingdaoHainiu,2,WuhanZall,1
+20201102,China Super League,FujianJunhao,2,Shenzhen,2
+20201102,China Super League,ShanghaiTelaishi,1,JiangsuShuntian,1
+20201102,USA Major League Soccer,LAGalaxy,2,RealSaltLake,1
+20201102,USA Major League Soccer,PortlandTimbers,1,VancouverWhitecaps,0
+20201102,USA Major League Soccer,Colorado,3,Seattle,1
+20201102,Colombia Copa Mustang,Medellin,1,OnceCaldas,1
+20201102,USA Major League Soccer,MontrealImpact,0,OrlandoCity,1
+20201102,USA Major League Soccer,TorontoFC,2,InterMiami,1
+20201102,USA Major League Soccer,NewEngland,4,DCUnited,3
+20201115,Nicaragua Liga Primera,RealEsteli,1,JuniorManagua,1
+20201115,Colombia Copa Mustang,DeportesTolima,2,OnceCaldas,3
+20201115,Colombia Copa Mustang,Junior,3,ChicoFC,0
+20201115,Colombia Copa Mustang,America,1,LaEquidad,2
+20201115,Colombia Copa Mustang,Millonarios,6,AlianzaPetrolera,1
+20201115,Colombia Copa Mustang,Pereira,1,Pasto,1
+20201115,Colombia Copa Mustang,ItaguiDitares,4,Cali,1
+20201115,Venezuela Primera,CaraboboFC,0,RealEsppor,2
+20201115,Colombia Copa Mustang,NacionaldeMedellin,3,Cucuta,0
+20201115,Costa Rica Primera,SanCarlos,1,Alajuelense,0
+20201115,Paraguay Division Profesional,Libertad,0,NacionalAsuncion,2
+20201115,Costa Rica Primera,Saprissa,5,Guadelupe,1
+20201115,Ecuador Liga Pro,Emelec,1,TecnicoUniversitario,1
+20201115,Chile Primera,UniversidaddeChile,3,SantiagoWanderers,0
+20201115,Nicaragua Liga Primera,Chinandega,1,MunicipalJalapa,1
+20201115,Spain Segunda Liga,LasPalmas,1,Tenerife,0
+20201115,Venezuela Primera,ZamoraFC,2,AraguaFC,0
+20201115,Paraguay Division Profesional,SoldeAmerica,2,RiverPlateAsuncion,3
+20201115,UEFA Nations League,Italy,2,Poland,0
+20201115,UEFA Nations League,Hungary,1,Serbia,1
+20201115,UEFA Nations League,Austria,2,NorthernIreland,1
+20201115,UEFA Nations League,Moldova,0,Greece,2
+20201115,UEFA Nations League,Belgium,2,England,0
+20201115,UEFA Nations League,Denmark,2,Iceland,1
+20201115,UEFA Nations League,Slovenia,2,Kosovo,1
+20201115,UEFA Nations League,CzechRepublic,1,Israel,0
+20201115,Ecuador Liga Pro,IndependienteJoseTeran,2,LDUPortoviejo,3
+20201115,Holland Eerste Divisie,CambuurLeeuwarden,7,AlmereCity,2
+20201115,Africa Cup Of Nations,EquatorialGuinea,1,Libya,0
+20201115,Chile Primera,DeportesLaSerena,1,Huachipato,0
+20201115,Venezuela Primera,Trujillanos,1,GuarosdeLara,2
+20201115,Spain Segunda Liga,Castellon,2,FCCartagena,1
+20201115,Spain Segunda Liga,UDLogrones,1,Sabadell,0
+20201115,Ecuador Liga Pro,Olmedo,2,UnivCatolica,1
+20201115,UEFA Nations League,Turkey,3,Russia,2
+20201115,UEFA Nations League,Wales,1,RepofIreland,0
+20201115,UEFA Nations League,Belarus,2,Lithuania,0
+20201115,UEFA Nations League,Bulgaria,1,Finland,2
+20201115,UEFA Nations League,Georgia,1,Armenia,2
+20201115,UEFA Nations League,Albania,3,Kazakhstan,1
+20201115,Costa Rica Primera,Grecia,0,SportingSanJose,0
+20201115,Scottish League Cup,Hibernian,4,Dundee,1
+20201115,Scottish League Cup,Hibernian,4,Dundee,1
+20201115,Africa Cup Of Nations,Comoros,2,Kenya,1
+20201115,Africa Cup Of Nations,Chad,1,Guinea,1
+20201115,Sweden Division 1,IFKVarnamo,0,Landskrona,0
+20201115,Spain Segunda Liga,Ponferradina,1,Malaga,1
+20201115,Sweden Division 1,IFKLulea,1,Sollentuna,2
+20201115,Sweden Division 1,TeamThoren,0,Brommapojkarna,1
+20201115,Belgium Division 2,Deinze,3,RFCSeraing,0
+20201115,Norway 1. Division,SandnesUlf,2,Sogndal,1
+20201115,Sweden Division 1,Vasalund,3,Karlslunds,2
+20201115,Norway 1. Division,Tromso,1,Jerv,0
+20201115,Sweden Division 1,Oskarshamns,1,Torns,3
+20201115,Russia 1. Division,TorpedoMoscow,1,SpartakMoscowII,0
+20201115,Russia 1. Division,FakelWorenesch,6,KrasnodarII,2
+20201115,UEFA Nations League,NorthMacedonia,2,Estonia,1
+20201115,UEFA Nations League,Slovakia,1,Scotland,0
+20201115,Chile Primera,UniversidaddeConcepcion,2,Antofagasta,0
+20201115,Africa Cup Of Nations,Burundi,3,Mauritania,1
+20201115,Spain Segunda Liga,Leganes,1,Alcorcon,0
+20201115,Czech FNL,ViktoriaZizkov,0,Trinec,2
+20201115,Germany 3. Liga,DynamoDresden,21860,Munich,1
+20201115,Russia 1. Division,DynamoBryansk,0,YeniseyKrasnoyarsk,0
+20201115,Sweden Division 1,Sandviken,3,Nykoping,1
+20201115,Norway 1. Division,Grorud,1,RaufossIL,6
+20201115,Norway 1. Division,KFUMOslo,1,Ranheim,1
+20201115,Norway 1. Division,Asane,2,Kongsvinger,2
+20201115,Russia 1. Division,Neftekhimik,1,GazovikOrenburg,2
+20201115,Russia 1. Division,AlaniaVladikavkaz,1,ChaykaPeschanokopskoye,1
+20201115,Russia 1. Division,VolgarGazpromAstrakhan,0,BaltikaKaliningrad,0
+20201115,Montenegro Second League,Jedinstvo,1,MornarBar,2
+20201115,Montenegro Second League,Drezga,1,Bokelj,0
+20201115,Montenegro Second League,Ibar,0,Berane,4
+20201115,Montenegro Second League,Igalo,0,Grbalj,2
+20201115,Montenegro Second League,ArsenalTivat,2,Kom,1
+20201115,Serbia Prva Liga,SlogaKraljevo,1,RadnickiSremskaMitrovica,1
+20201115,Serbia Prva Liga,TrajalKrusevac,0,Radnicki,19230
+20201115,Serbia Prva Liga,KolubaraLazarevac,1,Zarkovo,0
+20201115,Serbia Prva Liga,BuducnostDobanovci,0,KabelNoviSad,1
+20201115,Holland Eerste Divisie,GoAheadEagles,3,FCDenBosch,0
+20201115,Estonia Esiliiga,Vandra,0,LevadiaTallinnII,4
+20201115,Russia 1. Division,KrylyaSovetov,2,Veles,1
+20201115,Russia 1. Division,IrtyshOmsk,0,Olimpyets,1
+20201115,Russia 1. Division,ShinnikJaroslavl,1,Akron,3
+20201115,Japan J2 League,ThespaKusatsu,0,TokyoVerdy,3
+20201115,Japan J-League,NagoyaGrampusEight,1,FCTokyo,0
+20201115,Russia 1. Division,Tomsk,1,ChertanovoMoscow,2
+20201115,Japan J2 League,GiravanzKitakyushu,1,TochigiSC,0
+20201115,Japan J2 League,MachidaZelvia,1,MatsumotoYamaga,2
+20201115,Japan J2 League,RenofaYamaguchi,0,AvispaFukuoka,1
+20201115,Japan J2 League,OmiyaArdija,1,ZwiegenKanazawa,0
+20201115,Japan J2 League,MontedioYamagata,0,TokushimaVortis,1
+20201115,Japan J2 League,Niigata,0,JEFUnitedChiba,2
+20201115,Japan J2 League,MitoHollyhock,2,KyotoPurpleSanga,1
+20201115,Japan J-League,VisselKobe,0,ShonanBellmare,2
+20201115,Russia 1. Division,EnergiyaKhabarovsk,1,TekstilshchikIvanovo,0
+20201115,Japan J2 League,FagianoOkayama,1,JubiloIwata,1
+20201115,New Zealand Premiership,AucklandCity,1,EasternSuburbs,0
+20201115,Ecuador Liga Pro,LDUdeQuito,4,Aucas,1
+20201115,Nicaragua Liga Primera,DeportivoOcotal,2,WalterFerreti,0
+20201115,Venezuela Primera,AtleticoVenezuela,3,MinerosdeGuayana,1
+20201115,Colombia Copa Mustang,AtleticoBucaramanga,1,SantaFe,2
+20201115,New Zealand Premiership,HawkesBayUnited,0,Wanderers,3
+20201115,Brazil Serie A,Flamengo,1,AtleticoGoianiense,1
+20201115,Brazil Serie A,Palmeiras,2,Fluminense,0
+20201115,Brazil Serie B,CuiabaEsporteClube,0,AmericaMineiro,0
+20201103,Peru Primera Division,AtleticoGrau,1,SportingCristal,4
+20201103,Brazil Serie B,BrasilDePelotas,0,SampaioCorrea,0
+20201103,Venezuela Primera,EstudiantesMerida,0,GuarosdeLara,1
+20201103,Peru Primera Division,Universitario,0,Cienciano,1
+20201103,Champions League,FCPorto,3,Marseille,0
+20201103,Champions League,RealMadrid,3,InterMilan,2
+20201103,Champions League,Atalanta,0,Liverpool,5
+20201103,Champions League,RBSalzburg,2,BayernMunich,6
+20201103,Champions League,Midtjylland,1,Ajax,2
+20201103,Champions League,ManCity,3,Olympiacos,0
+20201103,England Conference North,KetteringTown,0,Southport,1
+20201103,England Conference North,AlfretonTown,1,Fylde,1
+20201103,England Conference North,FarsleyCeltic,1,Leamington,1
+20201103,England Conference South,DulwichHamlet,1,ConcordRangers,4
+20201103,England Conference South,HemelHempstead,1,BillericayTown,4
+20201103,England League 1,Northampton,0,MiltonKeynesDons,0
+20201103,England Championship,Blackburn,0,Middlesbrough,0
+20201103,England Championship,Cardiff,3,Barnsley,0
+20201103,England League 1,AFCWimbledon,2,Doncaster,2
+20201103,England League 1,Sunderland,2,Ipswich,1
+20201103,England League 2,CambridgeUtd,2,SalfordCity,1
+20201103,England League 2,Bradford,3,Southend,0
+20201103,England League 2,Carlisle,3,NewportCounty,2
+20201103,England League 2,Colchester,3,Stevenage,1
+20201103,England League 2,ForestGreen,2,LeytonOrient,1
+20201103,England League 2,Grimsby,1,Barrow,0
+20201103,England League 2,HarrogateTown,0,Tranmere,1
+20201103,England League 1,Plymouth,4,Swindon,2
+20201103,England League 2,Walsall,1,CrawleyTown,0
+20201103,England League 2,Bolton,1,Mansfield,1
+20201103,Switzerland Challenge League,Wil,1,Schaffhausen,1
+20201103,England League 1,Blackpool,1,Wigan,0
+20201103,England League 1,BristolRovers,0,Peterborough,2
+20201103,England League 1,Charlton,3,FleetwoodTown,2
+20201103,England League 1,Crewe,0,Gillingham,1
+20201103,England League 1,LincolnCity,1,Portsmouth,3
+20201103,England Championship,Huddersfield,1,BristolCity,2
+20201103,England Championship,Norwich,0,Millwall,0
+20201103,England Championship,SheffWed,1,Bournemouth,0
+20201103,England League 1,OxfordUtd,3,Rochdale,1
+20201103,England Championship,Brentford,1,Swansea,1
+20201103,Scotland League One,Dumbarton,1,Clyde,0
+20201103,Germany Regionalliga West,BorussiaDortmundII,2,PreussenMunster,0
+20201103,Switzerland Challenge League,Aarau,2,SCKriens,2
+20201103,England League 2,Morecambe,2,Exeter,2
+20201103,Peru Primera Division,DeportivoLlacuabamba,1,Ayacucho,0
+20201103,England League 2,Oldham,2,Cheltenham,1
+20201103,England League 1,Shrewsbury,1,BurtonAlbion,1
+20201103,Champions League,ShakhtarDonetsk,0,BorussiaMonchengladbach,6
+20201103,Champions League,LokomotivMoscow,1,AtleticoMadrid,1
+20201103,Holland Eerste Divisie,FCDordrecht,0,FCUtrechtII,3
+20201103,South Africa Premiership,ChippaUnited,3,MaritzburgUnited,1
+20201103,Slovenia Prva Liga,HITGorica,0,Olimpija,2
+20201103,United Arab Emirates UFL,AlNas,3,Ajman,0
+20201103,United Arab Emirates UFL,BaniYas,1,AlJazira,3
+20201103,Chile Primera B,SanMarcos,3,Cobreloa,1
+20201103,Peru Primera Division,UTCDeCajamarca,4,AcademiaCantolao,2
+20201103,Georgia Umaglesi Liga,LokomotiviTbilisi,2,SaburtaloTbilisi,1
+20201103,Germany DFB Pokal,Schweinfurt,1,Schalke,044
+20201103,Greece Etniki Katigoria,Panathinaikos,1,ApollonSmirnis,0
+20201103,Armenia Premier League,Ararat,4,Shirak,0
+20201103,Slovenia Prva Liga,FCKoper,2,TaborSezana,1
+20201103,Georgia Umaglesi Liga,DilaGori,0,DinamoTbilisi,3
+20201103,United Arab Emirates UFL,AlFujirah,1,AlAin,1
+20201103,United Arab Emirates UFL,AlSharjah,5,AlDhafra,0
+20201103,Chile Primera B,DeportesCopiapo,1,DeportesValdivia,0
+20201103,Vietnam V League,Viettel,1,QuangNinh,0
+20201103,Vietnam V League,HongLinhHaTinh,2,HoChiMinhCity,3
+20201103,Uzbekistan PRL,Sogdiyona,0,MetallurgBekabad,0
+20201103,Kazakhstan Premier League,Tobol,3,Kaisar,0
+20201103,Georgia Umaglesi Liga,ChikhuraSachkhere,1,FCTelavi,2
+20201103,Vietnam V League,BinhDuong,3,HoangAnhGiaLai,2
+20201103,Kazakhstan Premier League,Kairat,3,Ordabasy,1
+20201103,Japan J-League,SanfrecceHiroshima,1,UrawaRedDiamonds,1
+20201103,Japan J-League,YokohamaFC,2,OitaTrinita,3
+20201103,Japan J-League,CerezoOsaka,1,GambaOsaka,1
+20201103,Japan J-League,KawasakiFrontale,0,ConsadoleSapporo,2
+20201103,Japan J-League,YokohamaFMarinos,2,KashimaAntlers,3
+20201103,Japan J-League,SaganTosu,0,NagoyaGrampusEight,0
+20201103,Mexico Liga MX,Leon,2,SantosLaguna,1
+20201103,Colombia Copa Mustang,Pereira,0,America,1
+20201103,Costa Rica Primera,SanCarlos,2,SantosdeGuapiles,0
+20201104,Chile Primera B,CDSantaCruz,2,UnionSanFelipe,1
+20201104,Venezuela Primera,Yaracuyanos,1,RealEsppor,1
+20201104,Peru Primera Division,DeportivoBinacional,2,AlianzaUniversidad,1
+20201104,Champions League,ClubBrugge,0,BorussiaDortmund,3
+20201104,Champions League,Barcelona,2,DynamoKiev,1
+20201104,Champions League,Sevilla,3,Krasnodar,2
+20201104,Champions League,RBLeipzig,2,PSG,1
+20201104,Champions League,Ferencvarosi,1,Juventus,4
+20201104,Champions League,Chelsea,3,Rennes,0
+20201104,Ireland Premier,Shamrock,0,StPatricks,0
+20201104,England Championship,Birmingham,1,Wycombe,2
+20201104,England Championship,Derby,0,QPR,1
+20201104,England Championship,NottmForest,2,Coventry,1
+20201104,England Championship,Rotherham,0,Luton,1
+20201104,England Championship,Watford,3,Stoke,2
+20201104,England Championship,Reading,0,Preston,3
+20201104,Norway 1. Division,Sogndal,0,Lillestrom,1
+20201104,Chile Primera B,SantiagoMorning,0,Barnechea,0
+20201104,Germany Regionalliga West,Bonner,1,Oberhausen,6
+20201104,Germany Regionalliga West,Wiedenbruck,2,FCSchalke,04
+20201104,Germany Regionalliga West,RotWeissEssen,2,Rodinghausen,0
+20201104,Germany Regionalliga West,WegbergBeeck,2,Wuppertaler,1
+20201104,Germany Regionalliga West,Lotte,2,BergischGladbach,2
+20201104,Germany Regionalliga West,FCKolnII,2,Straelen,0
+20201104,Germany Regionalliga West,AlemanniaAachen,2,VfBHomberg,0
+20201104,Spain Segunda Liga,RealZaragoza,2,Girona,2
+20201104,Germany 3. Liga,MSVDuisburg,2,Saarbrucken,3
+20201104,Germany 3. Liga,FSVZwickau,0,TurkgucuAtasporMunchen,1
+20201104,Norway Tippeligaen,OddGrenland,3,VikingFK,0
+20201104,Champions League,ZenitStPetersburg,1,Lazio,1
+20201104,Champions League,IstanbulBuyuksehirBSK,2,ManUtd,1
+20201104,Qatar Stars League,AlSadd,1,AlKhoor,0
+20201104,South Africa Premiership,Tshakhuma,0,MorokaSwallows,2
+20201104,South Africa Premiership,CapeTownCity,0,MamelodiSundowns,2
+20201104,South Africa Premiership,Baroka,1,GoldenArrows,1
+20201104,South Africa Premiership,SupersportUnited,1,Stellenbosch,0
+20201104,South Africa Premiership,KaizerChiefs,0,TSGalaxy,0
+20201104,South Africa Premiership,AmaZulu,2,BlackLeopards,0
+20201104,South Africa Premiership,BloemfonteinCeltic,0,OrlandoPirates,1
+20201104,Bosnia and Herzegovina Premier League,FKSarajevo,1,Zeljeznicar,1
+20201104,Switzerland Super League,FCZurich,1,Basle,0
+20201104,Norway 1. Division,Ranheim,5,Jerv,0
+20201104,Norway 1. Division,Tromso,1,Kongsvinger,0
+20201104,Norway 1. Division,RaufossIL,1,Oeygarden,2
+20201104,Germany Regionalliga West,Lippstadt,081,FortunaDusseldorfII,3
+20201104,United Arab Emirates UFL,ShababAlAhliDubai,3,Hatta,0
+20201104,Finland Veikkausliiga,Rops,2,SJK,3
+20201104,Finland Veikkausliiga,HJKHelsinki,1,FCInter,1
+20201104,Finland Veikkausliiga,Lahti,2,HIFK,1
+20201104,Finland Veikkausliiga,FCIlves,4,FCHonka,1
+20201104,Finland Veikkausliiga,FCHaka,0,IFKMariehamn,1
+20201104,Finland Veikkausliiga,TPS,3,KuPS,2
+20201104,Finland Ykkonen,VPSVaasa,2,FCKooTeePee,4
+20201104,Finland Kakkonen,Viikingit,0,PKKeskiUusimaa,9
+20201104,Chile Primera B,SanLuis,0,DeportesMagallanes,1
+20201104,Chile Primera B,DeportesTemuco,2,PuertoMontt,1
+20201104,Peru Primera Division,CarlosStein,0,DeportivoSanMartin,2
+20201104,Italy Serie A,Genoa,1,Torino,2
+20201104,Montenegro First League,Iskra,3,Sutjeska,0
+20201104,Croatia 1.HNL,NKOsijek,2,Lokomotiva,1
+20201104,Albania Superliga,Vllaznia,2,ApoloniaFier,0
+20201104,Albania Superliga,TeutaDurres,1,SkenderbeuKorce,1
+20201104,Greece Etniki Katigoria,PASGiannina,1,Larissa,2
+20201104,Bosnia and Herzegovina Premier League,ZrinjskiMostar,2,SirokiBrijeg,1
+20201104,Montenegro First League,Buducnost,1,MladostLjeskopolje,0
+20201104,Hungary NB I,Puskas,1,BudapestHonved,0
+20201104,United Arab Emirates UFL,AlKhaleejKhorFakkan,1,AlWahda,2
+20201104,United Arab Emirates UFL,AlIttihadKalba,0,AlWasl,3
+20201104,Montenegro First League,Petrovac,1,OFKTitograd,3
+20201104,Chile Primera B,Nublense,4,Melipilla,0
+20201104,Montenegro First League,Jezero,0,Decic,0
+20201104,Montenegro First League,Rudar,0,Zeta,3
+20201104,Albania Superliga,BylisBallsh,1,Laci,1
+20201104,Albania Superliga,KastriotiKruje,2,PartizaniTirana,1
+20201104,Albania Superliga,KFTirana,2,Kukesi,0
+20201104,Montenegro Second League,Jedinstvo,1,Drezga,0
+20201104,Montenegro Second League,Ibar,0,MornarBar,0
+20201104,Montenegro Second League,Igalo,1,Bokelj,1
+20201104,Montenegro Second League,ArsenalTivat,3,Berane,1
+20201104,Montenegro Second League,Kom,2,Grbalj,0
+20201104,Vietnam V League,TTHaNoi,4,HaNoi,2
+20201104,Belarus Premier League,SlaviaMozyr,1,Belshina,1
+20201104,Singapore S-League,TampinesRovers,1,YoungLions,0
+20201104,Singapore S-League,TanjongPagar,0,GeylangUnited,1
+20201104,Singapore S-League,LionCity,1,SengkangPunggol,1
+20201104,China League One,HangzhouLvcheng,1,ChengduQianbao,0
+20201104,China League One,BeijingRenhe,3,SichuanJiuniu,2
+20201104,Armenia Premier League,Van,1,LoriVanadzor,2
+20201104,Kazakhstan Premier League,Taraz,1,Astana,0
+20201104,Georgia Umaglesi Liga,Samtredia,2,MeraniTbilisi,0
+20201104,Japan J2 League,GiravanzKitakyushu,1,OmiyaArdija,2
+20201104,Japan J2 League,VentforetKofu,1,FCRyukyu,0
+20201104,Japan J2 League,JEFUnitedChiba,1,EhimeFC,1
+20201104,Japan J2 League,RenofaYamaguchi,1,ThespaKusatsu,1
+20201104,Japan J2 League,KyotoPurpleSanga,2,FagianoOkayama,1
+20201104,Japan J2 League,MatsumotoYamaga,0,TochigiSC,0
+20201104,Japan J2 League,MontedioYamagata,1,Niigata,2
+20201104,Japan J2 League,MitoHollyhock,0,AvispaFukuoka,1
+20201104,Japan J2 League,TokushimaVortis,3,JubiloIwata,1
+20201104,China League One,JiangxiLiansheng,2,NeiMongolZhongyou,2
+20201104,Kazakhstan Premier League,KaspiyAktau,1,Kyzylzhar,1
+20201104,Japan J2 League,TokyoVerdy,2,ZwiegenKanazawa,2
+20201104,Kazakhstan Premier League,ShakhterKaragandy,2,Okzhetpes,1
+20201104,China League One,GuangdongKejia,2,TaizhouYuanda,1
+20201104,China League One,ShaanxiChangan,1,NantongZhiyun,0
+20201104,Colombia Copa Mustang,AlianzaPetrolera,0,BoyacaPatriotas,0
+20201114,Ecuador Liga Pro,Macara,0,Orense,1
+20201114,Costa Rica Primera,SantosdeGuapiles,0,Limon,0
+20201114,Colombia Copa Mustang,Envigado,2,Medellin,1
+20201114,Peru Primera Division,DeportivoBinacional,1,SportingCristal,2
+20201114,Brazil Serie A,Corinthians,1,AtleticoMineiro,2
+20201114,Brazil Serie A,Gremio,4,Ceara,2
+20201114,Brazil Serie A,FortalezaCE,2,SaoPaulo,3
+20201114,Brazil Serie B,JuventudeRS,2,SampaioCorrea,3
+20201114,Paraguay Division Profesional,Guairena,1,GeneralDiaz,1
+20201114,Chile Primera,UnionEspanola,3,UnionLaCalera,2
+20201114,Venezuela Primera,Yaracuyanos,1,EstudiantesMerida,1
+20201114,International Friendly,Mexico,3,SouthKorea,2
+20201114,Brazil Serie A,Goias,0,AtleticoParanaense,1
+20201114,Holland Eerste Divisie,RodaJC,2,MVVMaastricht,0
+20201114,UEFA Nations League,Sweden,2,Croatia,1
+20201114,UEFA Nations League,Switzerland,1,Spain,1
+20201114,UEFA Nations League,Germany,3,Ukraine,1
+20201114,UEFA Nations League,Portugal,0,France,1
+20201114,Brazil Serie A,SportRecife,0,VascodaGama,2
+20201114,Brazil Serie A,Santos,2,Internacional,0
+20201114,Romania Liga I,DinamoBucharest,1,AstraGiurgiu,1
+20201114,Belgium Division 2,ClubBruggeII,1,Westerlo,1
+20201114,Chile Primera,MunicipalIquique,1,CuricoUnido,2
+20201114,Africa Cup Of Nations,CongoDR,0,Angola,0
+20201114,Africa Cup Of Nations,Egypt,1,Togo,0
+20201114,Colombia Copa Mustang,BoyacaPatriotas,2,JaguaresdeCordoba,0
+20201114,Peru Primera Division,Universitario,2,DeportivoSanMartin,3
+20201114,Ecuador Liga Pro,RiverPlateEcuador,3,MushucRuna,2
+20201114,Holland Eerste Divisie,NAC,1,Telstar,0
+20201114,Northern Ireland Premier League,Larne,2,Crusaders,1
+20201114,Spain Segunda Liga,Girona,0,Mallorca,1
+20201114,Spain Segunda Liga,Lugo,1,Albacete,0
+20201114,Wales Premier League,TheNewSaints,2,BarryTown,1
+20201114,UEFA Nations League,Azerbaijan,0,Montenegro,0
+20201114,UEFA Nations League,Latvia,1,FaroeIslands,1
+20201114,UEFA Nations League,Cyprus,2,Luxembourg,1
+20201114,Slovenia Prva Liga,Aluminij,1,Domzale,2
+20201114,France National,Annecy,1,BastiaBorgo,1
+20201114,France National,BourgPeronnas,0,Creteil,0
+20201114,Peru Primera Division,AcademiaCantolao,2,Cienciano,0
+20201114,Africa Cup Of Nations,Benin,1,Lesotho,0
+20201114,Holland Eerste Divisie,FCDordrecht,0,DeGraafschap,2
+20201114,Scottish League Cup,Arbroath,3,Elgin,0
+20201114,Spain Segunda Liga,Almeria,2,Mirandes,1
+20201114,Northern Ireland Premier League,Coleraine,0,Linfield,2
+20201114,England Conference,Altrincham,1,Aldershot,2
+20201114,England Conference,Barnet,1,Bromley,3
+20201114,England Conference,Chesterfield,1,MaidenheadUtd,2
+20201114,England Conference,SuttonUtd,5,KingsLynn,1
+20201114,England Conference,Torquay,1,BorehamWood,1
+20201114,England Conference,Woking,1,Yeovil,1
+20201114,England Conference North,AlfretonTown,3,FarsleyCeltic,1
+20201114,England Conference North,BlythSpartans,0,Hereford,3
+20201114,England Conference North,Darlington,1,TelfordUtd,2
+20201114,England Conference North,Gateshead,2,BrackleyTown,2
+20201114,England Conference North,GloucesterCity,4,BradfordParkAvenue,4
+20201114,England Conference North,KetteringTown,1,CurzonAshton,2
+20201114,England Conference North,Southport,0,SpennymoorTown,2
+20201114,England Conference South,BillericayTown,2,SloughTown,0
+20201114,England Conference South,ChelmsfordCity,0,HamptonandRichmond,1
+20201114,England Conference South,ChippenhamTown,1,EbbsfleetUtd,2
+20201114,England Conference South,DorkingWanderers,4,TonbridgeAngels,1
+20201114,England Conference South,EastbourneBorough,4,BraintreeTown,0
+20201114,England Conference South,HavantandWaterlooville,2,OxfordCity,1
+20201114,England Conference South,HemelHempstead,1,WellingUtd,2
+20201114,England Conference South,MaidstoneUtd,0,Dartford,2
+20201114,Scottish League Cup,Ayr,1,Stranraer,1
+20201114,Scottish League Cup,Partick,0,Morton,0
+20201114,Scottish League Cup,CoveRangers,1,Forfar,0
+20201114,Scottish League Cup,Peterhead,1,StJohnstone,3
+20201114,Scottish League Cup,Brechin,0,KeltyHearts,2
+20201114,Scottish League Cup,QueensPark,0,StMirren,1
+20201114,Scottish League Cup,Cowdenbeath,0,Raith,1
+20201114,Scottish League Cup,Alloa,4,Stenhousemuir,2
+20201114,Scottish League Cup,InvernessCT,1,EastFife,0
+20201114,Scottish League Cup,RossCounty,3,Stirling,0
+20201114,Scottish League Cup,Livingston,4,AirdrieUtd,1
+20201114,Scottish League Cup,Dunfermline,3,Clyde,2
+20201114,Scottish League Cup,Kilmarnock,2,Dumbarton,0
+20201114,Czech First League,Slovacko,5,MarilaPribram,1
+20201114,Sweden Division 1,IFSylvia,2,Frej,0
+20201114,Belgium Division 2,RWDM,2,LierseKempenzonen,0
+20201114,Scottish League Cup,Partick,0,Morton,0
+20201114,Scottish League Cup,QueensPark,0,StMirren,1
+20201114,Scottish League Cup,Alloa,4,Stenhousemuir,2
+20201114,Scottish League Cup,Livingston,4,AirdrieUtd,1
+20201114,Scottish League Cup,Ayr,1,Stranraer,1
+20201114,Scottish League Cup,Dunfermline,3,Clyde,2
+20201114,Scottish League Cup,Kilmarnock,2,Dumbarton,0
+20201114,Scottish League Cup,RossCounty,3,Stirling,0
+20201114,Scottish League Cup,Brechin,0,KeltyHearts,2
+20201114,Scottish League Cup,Peterhead,1,StJohnstone,3
+20201114,Scottish League Cup,CoveRangers,1,Forfar,0
+20201114,Scottish League Cup,Cowdenbeath,0,Raith,1
+20201114,Scottish League Cup,InvernessCT,1,EastFife,0
+20201114,England League 1,BristolRovers,1,FleetwoodTown,4
+20201114,England League 1,Northampton,0,AccringtonStanley,1
+20201114,England League 1,Crewe,2,Peterborough,0
+20201114,England League 1,Hull,2,BurtonAlbion,0
+20201114,England League 1,Shrewsbury,3,Swindon,3
+20201114,England League 1,Sunderland,1,MiltonKeynesDons,2
+20201114,England League 2,CambridgeUtd,1,Barrow,1
+20201114,England League 2,Bradford,2,Exeter,2
+20201114,England League 2,Carlisle,1,Cheltenham,2
+20201114,England League 2,Colchester,2,LeytonOrient,1
+20201114,England League 2,ForestGreen,1,Mansfield,2
+20201114,England League 2,HarrogateTown,1,CrawleyTown,1
+20201114,England League 2,Morecambe,1,Stevenage,1
+20201114,England League 2,Oldham,0,Scunthorpe,2
+20201114,England League 2,PortVale,3,Tranmere,4
+20201114,England League 2,Walsall,0,Southend,1
+20201114,Wales Premier League,BalaTown,4,Penybont,1
+20201114,Wales Premier League,Newtown,3,FlintTown,2
+20201114,Sweden Division 1,Haninge,10,Berga,2
+20201114,Italy Serie B,VirtusEntella,0,Venezia,2
+20201114,Chile Primera,Palestino,3,ColoColo,1
+20201114,Finland Veikkausliiga,TPS,1,FCKooTeePee,1
+20201114,UEFA Nations League,SanMarino,0,Gibraltar,0
+20201114,UEFA Nations League,Malta,3,Andorra,1
+20201114,Sweden Division 1,Lund,1,Trollhattan,2
+20201114,Sweden Division 1,Linkoping,4,Karlskrona,0
+20201114,Sweden Division 1,AssyriskaTurabdin,4,Eskilsminne,2
+20201114,Sweden Division 1,Taby,1,Gefle,3
+20201114,Sweden Division 1,Tvaakers,1,LindomeGIF,1
+20201114,Czech FNL,Chrudim,3,Vysehrad,0
+20201114,Germany Regionalliga West,Lotte,0,VfBHomberg,2
+20201114,Germany Regionalliga West,FCKolnII,1,Wuppertaler,0
+20201114,Germany Regionalliga West,FortunaDusseldorfII,3,FortunaKoln,2
+20201114,Germany Regionalliga West,Lippstadt,080,PreussenMunster,4
+20201114,Germany Regionalliga West,Ahlen,1,BorussiaMonchengladbachII,2
+20201114,Germany Regionalliga West,Bonner,1,Rodinghausen,0
+20201114,Germany Regionalliga West,Wiedenbruck,4,BergischGladbach,1
+20201114,Germany 3. Liga,Wehen,3,FSVZwickau,1
+20201114,Germany 3. Liga,Kaiserslautern,1,Magdeburg,1
+20201114,Germany 3. Liga,Uerdingen,3,Unterhaching,1
+20201114,Germany 3. Liga,Hallescher,1,HansaRostock,1
+20201114,Germany 3. Liga,TurkgucuAtasporMunchen,2,MSVDuisburg,1
+20201114,Germany 3. Liga,WaldhofMannheim,4,Ingolstadt,1
+20201114,Spain Segunda Liga,Fuenlabrada,1,Espanyol,1
+20201114,Croatia 2.HNL,Opatija,2,Dugopolje,1
+20201114,Croatia 2.HNL,HNKOrijent,19190,Solin,2
+20201114,Sweden Division 1,OrebroSyrianska,2,Karlstad,1
+20201114,Serbia Prva Liga,ZeleznicarPancevo,0,NoviBeograd,3
+20201114,Serbia Prva Liga,Dubocica,0,GraficarBeograd,0
+20201114,Serbia Prva Liga,Loznica,4,BoracCacak,4
+20201114,Portugal LigaPro,Estoril,5,CovaPiedade,1
+20201114,Estonia Meistriliiga,TJKLegion,1,LevadiaTallinn,2
+20201114,Japan J-League,KashimaAntlers,1,KawasakiFrontale,1
+20201114,Japan J-League,YokohamaFMarinos,6,UrawaRedDiamonds,2
+20201114,Japan J-League,GambaOsaka,0,VegaltaSendai,4
+20201114,Japan J-League,SanfrecceHiroshima,1,YokohamaFC,1
+20201114,Japan J-League,ConsadoleSapporo,1,SaganTosu,1
+20201114,New Zealand Premiership,CanterburyUnited,0,WaitakereUnited,4
+20201114,New Zealand Premiership,WellingtonPhoenixReserves,0,TeamWellington,1
+20201126,Brazil Serie A,FortalezaCE,1,Goias,1
+20201126,Colombia Copa Mustang,ItaguiDitares,1,Envigado,1
+20201126,Paraguay Division Profesional,CerroPorteno,0,SoldeAmerica,0
+20201126,Chile Primera B,DeportesCopiapo,2,DeportesTemuco,3
+20201126,Venezuela Primera,Tachira,0,ZamoraFC,3
+20201126,Honduras Liga Nacional,HondurasProgreso,0,Motagua,5
+20201126,Spain Segunda Liga,Almeria,2,Tenerife,0
+20201126,Europa League,CFRCluj,0,Roma,2
+20201126,Uruguay Primera Division,Rentistas,1,PlazaColonia,0
+20201126,Europa League,Granada,2,OmoniaNicosia,1
+20201126,Europa League,Dundalk,1,RapidVienna,3
+20201126,Europa League,PSV,3,PAOKSalonika,2
+20201126,Europa League,AZ,0,RealSociedad,0
+20201126,Europa League,StandardLiege,2,LechPoznan,1
+20201126,Europa League,Napoli,2,NKRijeka,0
+20201126,Europa League,BayerLeverkusen,4,HapoelSheva,1
+20201126,Europa League,Rangers,2,Benfica,2
+20201126,Europa League,Nice,1,SlaviaPrague,3
+20201126,Europa League,Tottenham,4,LudogoretsRazgrad,0
+20201126,England FA Cup,Barrow,0,AFCWimbledon,0
+20201126,Spain Segunda Liga,Leganes,2,Espanyol,0
+20201126,Spain Segunda Liga,UDLogrones,2,Albacete,0
+20201126,Europa League,MaccabiTelAviv,1,Villarreal,1
+20201126,Europa League,AEKAthens,0,ZarjaLugansk,3
+20201126,Europa League,CSKASofia,0,YoungBoys,1
+20201126,Europa League,Braga,3,Leicester,3
+20201126,Europa League,Gent,0,CrvenaZvezda,2
+20201126,Europa League,CSKAMoscow,0,Feyenoord,0
+20201126,Europa League,SlovanLiberec,0,Hoffenheim,2
+20201126,Europa League,SpartaPrague,4,Celtic,1
+20201126,Europa League,Wolfsberger,0,DynamoZagreb,3
+20201126,Europa League,LASKLinz,0,Antwerp,2
+20201126,Europa League,Lille,1,ACMilan,1
+20201126,Europa League,Molde,0,Arsenal,3
+20201126,Europa League,Qarabagh,2,Sivasspor,3
+20201126,Denmark 1st Division,Viborg,1,SilkeborgIF,0
+20201126,United Arab Emirates UFL,ShababAlAhliDubai,5,Ajman,1
+20201126,United Arab Emirates UFL,AlKhaleejKhorFakkan,1,AlSharjah,1
+20201126,Qatar Stars League,QatarSC,3,AlArabi,0
+20201126,Qatar Stars League,AlAhli,1,AlRayyan,1
+20201126,Jordan Pro League,Sahab,1,AlSareeh,2
+20201126,Slovenia Prva Liga,Olimpija,3,Aluminij,0
+20201126,Coppa Italia,Sampdoria,1,Genoa,3
+20201126,Qatar Stars League,AlSailiya,1,AlWakra,3
+20201126,Armenia Premier League,Banants,1,Alashkert,2
+20201126,United Arab Emirates UFL,AlWasl,3,AlFujirah,0
+20201126,United Arab Emirates UFL,AlJazira,2,Hatta,0
+20201126,Jordan Pro League,AlAqaba,1,AlJazeeraJordan,1
+20201126,Georgia Umaglesi Liga,DinamoBatumi,1,LokomotiviTbilisi,2
+20201126,Iran Pro League,NaftTehran,0,Perspolis,0
+20201126,Georgia Umaglesi Liga,DinamoTbilisi,2,Torpedo,1
+20201126,Coppa Italia,Torino,2,VirtusEntella,0
+20201126,Iran Pro League,Zobahan,1,Paykan,1
+20201126,Iran Pro League,PadidehKhorasan,1,SanatNaft,1
+20201126,Armenia Premier League,Van,3,Shirak,1
+20201126,Mexico Liga MX,Guadalajara,1,CFAmerica,0
+20201126,Brazil Serie A,AtleticoMineiro,2,Botafogo,1
+20201126,Brazil Serie A,Coritiba,0,Corinthians,1
+20201126,Copa Libertadores,Libertad,3,JorgeWilstermann,1
+20201123,Uruguay Primera Division,MontevideoWanderers,3,Progreso,0
+20201123,Ecuador Liga Pro,Macara,1,LDUPortoviejo,0
+20201123,Brazil Serie A,SportRecife,0,AtleticoGoianiense,1
+20201123,Brazil Serie B,Botafogo,0,Avai,1
+20201123,Chile Primera,UniversidaddeConcepcion,0,Huachipato,1
+20201123,Uruguay Primera Division,CerroLargo,1,LiverpoolFC,1
+20201123,Venezuela Primera,Caracas,6,GranValencia,2
+20201123,Brazil Serie B,Figueirense,1,SampaioCorrea,2
+20201123,Ecuador Liga Pro,Orense,0,BarcelonaGuayaquil,0
+20201123,Holland Eerste Divisie,JongAjax,1,FCVolendam,1
+20201123,England Premier League,Wolverhampton,1,Southampton,1
+20201123,Spain Primera Liga,AthleticBilbao,4,RealBetis,0
+20201123,Spain Segunda Liga,Albacete,1,Almeria,2
+20201123,Italy Serie B,Salernitana,2,Cremonese,1
+20201123,Chile Primera,MunicipalIquique,0,Cobresal,0
+20201123,Belgium Juliper League,OudHeverlee,2,StTruiden,2
+20201123,France Ligue 2,Guingamp,2,ACAjaccio,2
+20201123,Poland Ekstraklasa,JagielloniaBialystok,5,WislaPlock,2
+20201123,Germany 2. Bundesliga,Osnabruck,1,Nurnberg,4
+20201123,Romania Liga I,GazMetanMedias,2,SteauaBucharest,3
+20201123,Switzerland Challenge League,Aarau,0,Grasshoppers,1
+20201123,Denmark Superliga,FCCopenhagen,1,RandersFC,2
+20201123,Sweden Allsvenskan,IKSirius,0,Mjallby,1
+20201123,Sweden Allsvenskan,IFKGoteborg,1,BKHacken,1
+20201123,Sweden Division 1,Sollentuna,3,Vasalund,2
+20201123,Ecuador Liga Pro,UnivCatolica,1,MushucRuna,1
+20201123,Sweden Allsvenskan,IFKNorrkoping,4,Falkenbergs,1
+20201123,Cyprus 1. Division,Enosis,0,Paphos,0
+20201123,Holland Eerste Divisie,AZII,0,NEC,3
+20201123,Greece Etniki Katigoria,VolosNps,1,OFICrete,4
+20201123,England Premier League,Burnley,1,CrystalPalace,0
+20201123,Saudi Arabia Pro League,AlHilal,2,AlNassr,0
+20201123,Poland Ekstraklasa,PiastGliwice,2,LechiaGdansk,0
+20201123,Croatia 1.HNL,Gorica,1,Varazdin,0
+20201123,Turkey Super Lig,Galatasaray,1,Kayserispor,1
+20201123,Turkey Lig 1,MenemenBelediyespor,1,Altay,2
+20201123,Turkey Lig 1,Balikesirspor,1,Umraniyespor,1
+20201123,Romania Liga I,ChindiaTargoviste,1,Sepsi,2
+20201123,Peru Primera Division,AcademiaCantolao,1,DeportivoSanMartin,2
+20201123,Cyprus 1. Division,Karmiotissa,1,EthnikosAchnas,1
+20201123,Bulgaria A PFG,ArdaKurdzhali,2,TsarskoSeloSofia,0
+20201123,Saudi Arabia Pro League,AlAhliJeddah,2,AlShababRiyadh,2
+20201123,Saudi Arabia Pro League,AlFaisaly,1,IttihadJeddah,1
+20201123,Saudi Arabia Pro League,AlQadisiyah,2,AlBaten,2
+20201123,Russia Premier League,Ufa,1,FCKhimki,2
+20201123,Armenia Premier League,AvanAcademy,3,FCNoah,1
+20201123,Saudi Arabia Pro League,Dhamk,0,AlAin,2
+20201123,Saudi Arabia Pro League,AlRaed,2,AbhaClub,1
+20201123,Azerbaijan Premier League,Sabah,2,Sabayil,1
+20201123,USA Major League Soccer,PortlandTimbers,1,Dallas,1
+20201123,Colombia Copa Mustang,Pasto,1,SantaFe,0
+20201123,Venezuela Primera,MonagasSC,1,ZamoraFC,0
+20201123,Uruguay Primera Division,Torque,3,Cerro,0
+20201123,Chile Primera,UniversidadCatolica,5,Antofagasta,3
+20201123,USA Major League Soccer,MinnesotaStars,3,Colorado,0
+20201101,Brazil Serie A,Goias,1,VascodaGama,1
+20201101,Mexico Liga MX,CFAmerica,3,Tigres,1
+20201101,Paraguay Division Profesional,Olimpia,3,SportivoSanLorenzo,1
+20201101,Colombia Copa Mustang,Pasto,1,SantaFe,1
+20201101,Ecuador Liga Pro,BarcelonaGuayaquil,2,LDUdeQuito,2
+20201101,Chile Primera,UniversidadCatolica,3,DeportesLaSerena,0
+20201101,Paraguay Division Profesional,RiverPlateAsuncion,1,ClubGuarani,0
+20201101,Brazil Serie A,Santos,3,Bahia,1
+20201101,Brazil Serie B,JuventudeRS,1,Guarani,0
+20201101,Costa Rica Primera,PerezZeledon,1,Limon,1
+20201101,Venezuela Primera,ZamoraFC,0,Tachira,1
+20201101,Venezuela Primera,RealEsppor,3,AcademiaPuertoCabello,0
+20201101,Colombia Copa Mustang,Cucuta,1,Junior,4
+20201101,USA Major League Soccer,Columbus,2,Philadelphia,1
+20201101,Ecuador Liga Pro,Aucas,1,Emelec,1
+20201101,France Ligue 1,Lille,1,Lyon,1
+20201101,Costa Rica Primera,Jicaral,3,Guadelupe,1
+20201101,Italy Serie B,Frosinone,1,Cremonese,0
+20201101,Portugal Superliga,SportingLisbon,4,Tondela,0
+20201101,Spain Primera Liga,Valencia,2,Getafe,2
+20201101,Spain Segunda Liga,Almeria,0,Girona,0
+20201101,Italy Serie A,Sampdoria,1,Genoa,1
+20201101,Belgium Juliper League,Waasland,1,Gent,4
+20201101,Ireland Premier,FinnHarps,0,Shamrock,2
+20201101,Norway Tippeligaen,Stromsgodset,0,Valerenga,2
+20201101,Spain Segunda Liga,Lugo,1,RayoVallecano,0
+20201101,England Premier League,Tottenham,2,Brighton,1
+20201101,Romania Liga I,CFRCluj,1,GazMetanMedias,2
+20201101,Holland Eredivisie,AZ,3,RKCWaalwijk,0
+20201101,Brazil Serie A,SportRecife,1,AtleticoParanaense,0
+20201101,Brazil Serie A,Flamengo,1,SaoPaulo,4
+20201101,Colombia Copa Mustang,LaEquidad,0,ItaguiDitares,0
+20201101,Chile Primera,CoquimboUnido,1,UnionEspanola,1
+20201101,Nicaragua Liga Primera,Chinandega,1,RealMadriz,1
+20201101,Ecuador Liga Pro,Orense,2,Olmedo,1
+20201101,Ireland Premier,StPatricks,1,Dundalk,1
+20201101,Ukraine UPL,Inhulets,1,ZarjaLugansk,1
+20201101,Hungary NB I,Kisvarda,1,Diosgyori,0
+20201101,Greece Etniki Katigoria,AEKAthens,2,OFICrete,1
+20201101,Portugal LigaPro,Mafra,3,Varzim,1
+20201101,Spain Primera Liga,Granada,1,Levante,1
+20201101,Portugal Superliga,GilVicente,1,Guimaraes,2
+20201101,Spain Segunda Liga,Fuenlabrada,1,Tenerife,1
+20201101,Spain Segunda Liga,Ponferradina,0,Sabadell,3
+20201101,Bulgaria A PFG,LudogoretsRazgrad,1,LevskiSofia,0
+20201101,Belgium Juliper League,StandardLiege,1,Oostende,0
+20201101,Costa Rica Primera,Cartagines,2,Grecia,1
+20201101,Denmark Superliga,AaB,2,Brondby,1
+20201101,Germany Bundesliga,HerthaBerlin,1,Wolfsburg,1
+20201101,Norway Tippeligaen,Rosenborg,1,IKStart,0
+20201101,Norway Tippeligaen,Stabaek,1,VikingFK,1
+20201101,Norway Tippeligaen,Sandefjord,3,SKBrann,3
+20201101,Italy Serie A,Napoli,0,Sassuolo,2
+20201101,Italy Serie A,Roma,2,Fiorentina,0
+20201101,Saudi Arabia Pro League,AlShababRiyadh,2,AlNassr,1
+20201101,Cyprus 1. Division,Karmiotissa,1,AnorthosisFamagusta,1
+20201101,Sweden Allsvenskan,Hammarby,1,BKHacken,1
+20201101,Sweden Allsvenskan,Falkenbergs,3,Djurgardens,2
+20201101,Sweden Superettan,VasterasSK,3,Trelleborgs,1
+20201101,Sweden Allsvenskan,IFKGoteborg,0,Orebro,1
+20201101,England Premier League,ManUtd,0,Arsenal,1
+20201101,Croatia 1.HNL,Lokomotiva,1,DynamoZagreb,1
+20201101,Austria Bundesliga,SKSturmGraz,0,LASKLinz,2
+20201101,Romania Liga I,CSMSIasi,0,ViitorulConstanta,3
+20201101,Russia Premier League,Tambov,1,DinamoMoscow,2
+20201101,France Ligue 1,Monaco,4,Bordeaux,0
+20201101,Turkey Super Lig,Besiktas,1,Malatyaspor,0
+20201101,Turkey Lig 1,AdanaDemirspor,1,Samsunspor,1
+20201101,Holland Eredivisie,PSV,4,ADODenHaag,0
+20201101,Finland Veikkausliiga,IFKMariehamn,0,HJKHelsinki,5
+20201101,Greece Etniki Katigoria,Panaitolikos,1,PAOKSalonika,3
+20201101,Oman League,AlSeeb,2,Saham,0
+20201101,Oman League,Dhufar,0,AlNasr,0
+20201101,Hungary NB I,Ujpesti,0,MTK,4
+20201101,Portugal Superliga,Portimonense,1,SantaClara,2
+20201101,Spain Primera Liga,CeltadeVigo,1,RealSociedad,4
+20201101,Switzerland Super League,StGallen,1,Basle,3
+20201101,Spain Segunda Liga,RealZaragoza,0,Mallorca,0
+20201101,Portugal LigaPro,AcademicoViseu,0,Feirense,1
+20201101,Portugal LigaPro,Arouca,2,Vizela,1
+20201101,Sweden Division 1,IFSylvia,5,Nykoping,0
+20201101,Russia 1. Division,BaltikaKaliningrad,0,Neftekhimik,1
+20201101,Denmark Superliga,FCCopenhagen,4,Lyngby,2
+20201101,Belgium Division 2,ClubBruggeII,0,RWDM,2
+20201101,Ukraine UPL,Lviv,1,Vorskla,0
+20201101,Bulgaria A PFG,CSKASofia,1,TsarskoSeloSofia,0
+20201101,Germany Bundesliga,Freiburg,2,BayerLeverkusen,4
+20201101,Scotland Premiership,Celtic,2,Aberdeen,0
+20201101,Scottish Cup,Celtic,2,Aberdeen,0
+20201101,Norway Tippeligaen,Mjondalen,1,Molde,3
+20201101,Norway 1. Division,Kongsvinger,3,RaufossIL,3
+20201101,Norway 1. Division,Jerv,0,KFUMOslo,1
+20201101,Norway 1. Division,Oeygarden,0,Ranheim,0
+20201101,Norway 1. Division,Lillestrom,3,Tromso,0
+20201101,France Ligue 1,Nimes,0,Metz,1
+20201101,France Ligue 1,Reims,2,Strasbourg,1
+20201101,Finland Kakkonen,FCKiisto,0,Jippo,3
+20201101,Sweden Division 1,Frej,1,IFKLulea,1
+20201101,Sweden Division 1,Brommapojkarna,1,Taby,2
+20201101,Sweden Division 1,Haninge,2,Sandviken,2
+20201101,Denmark 1st Division,SilkeborgIF,4,Vendsyssel,1
+20201101,Croatia 1.HNL,HNKSibenik,2,NKRijeka,0
+20201101,England Premier League,Newcastle,2,Everton,1
+20201101,Russia 1. Division,ChaykaPeschanokopskoye,1,Tomsk,1
+20201101,Russia 1. Division,TorpedoMoscow,3,KrylyaSovetov,1
+20201101,Russia 1. Division,FakelWorenesch,1,SpartakMoscowII,1
+20201101,France Ligue 1,Angers,0,Nice,3
+20201101,France Ligue 1,Dijon,0,Lorient,0
+20201101,Serbia Super Liga,MladostLucani,0,ProleterNoviSad,0
+20201101,Serbia Super Liga,Napredak,1,Subotica,1
+20201101,Serbia Super Liga,JavorIvanjica,1,RadnickiNis,0
+20201101,Serbia Super Liga,RadnikSurdulica,1,CrvenaZvezda,4
+20201101,Portugal LigaPro,CasaPiaAtletico,3,Penafiel,3
+20201101,Italy Serie A,Spezia,1,Juventus,4
+20201101,Italy Serie A,Torino,3,Lazio,4
+20201101,Italy Serie B,ReggioCalabria,0,Spal,1
+20201101,Cyprus 1. Division,OlympiakosNicosia,1,OmoniaNicosia,0
+20201101,Oman League,OmanFC,0,Muscat,1
+20201101,Oman League,AlSuwaiq,0,BahlaClub,2
+20201101,Oman League,AlNahda,4,Mirbat,1
+20201101,Oman League,AlRustaq,2,AlArouba,3
+20201101,Oman League,Sohar,1,Fanja,2
+20201101,Holland Eredivisie,Sparta,1,Heerenveen,4
+20201101,Holland Eredivisie,FCEmmen,2,Feyenoord,3
+20201101,Russia Premier League,RotorVolgograd,0,CSKAMoscow,1
+20201101,Austria Bundesliga,Admira,1,Wolfsberger,3
+20201101,Austria Bundesliga,RapidVienna,3,CSRAltach,1
+20201101,Sweden Superettan,Ljungskile,0,Umea,0
+20201101,Sweden Allsvenskan,Mjallby,3,Ostersunds,0
+20201101,Sweden Allsvenskan,Elfsborg,2,IFKNorrkoping,1
+20201101,Sweden Allsvenskan,IKSirius,2,Kalmar,2
+20201101,Hungary NB I,Budafoki,2,PaksiSE,3
+20201101,Greece Etniki Katigoria,ArisSalonika,1,AsterasTripoli,0
+20201101,Bosnia and Herzegovina Premier League,SlobodaTuzla,1,BoracBanjaLuka,0
+20201101,Germany Regionalliga North,HolsteinKielII,1,HamburgII,3
+20201101,Germany Regionalliga North,Hannoverscher,1,Oberneuland,3
+20201101,Germany Regionalliga North,FCTeutonia,051,WeicheFlensburg,2
+20201101,Spain Primera Liga,RealBetis,3,Elche,1
+20201101,Spain Segunda Liga,Leganes,1,Mirandes,0
+20201101,Turkey Super Lig,Konyaspor,1,IstanbulBuyuksehirBSK,2
+20201101,Turkey Lig 1,Eskisehirspor,0,AkhisarBelediyespor,1
+20201101,Estonia Meistriliiga,FloraTallinn,2,NommeJKKalju,1
+20201101,Norway 1. Division,Strommen,1,Sogndal,1
+20201101,Croatia 2.HNL,CroatiaSesvete,1,CibaliaVinkovci,1
+20201101,Germany 3. Liga,TurkgucuAtasporMunchen,1,Ingolstadt,1
+20201101,Germany Regionalliga Southwest,SonnenhofGrossaspach,3,EintrachtStadtallendorf,2
+20201101,Denmark Superliga,OdenseBK,1,ACHorsens,0
+20201101,Germany Regionalliga Northeast,ChemieLeipzig,2,Chemnitzer,0
+20201101,Germany Regionalliga Northeast,Cottbus,1,Luckenwalde,1
+20201101,Germany Regionalliga Northeast,OptikRathenow,2,Bischofswerdaer,0
+20201101,Germany Regionalliga Northeast,GermaniaHalberstadt,2,Babelsberg,2
+20201101,Germany Regionalliga Northeast,Meuselwitz,1,BFCDynamo,1
+20201101,Germany Regionalliga Northeast,Altglienicke,5,CarlZeissJena,2
+20201101,Belgium Juliper League,Anderlecht,1,Antwerp,0
+20201101,Denmark 1st Division,Koge,0,Skive,0
+20201101,Germany 2. Bundesliga,GreutherFurth,4,Hannover,961
+20201101,Germany 2. Bundesliga,Karlsruhe,3,Darmstadt,4
+20201101,Germany 2. Bundesliga,FCKickersWurzburg,2,VfLBochum,3
+20201101,Serbia Prva Liga,Jagodina,0,GraficarBeograd,0
+20201101,Serbia Prva Liga,ZeleznicarPancevo,0,RadnickiSremskaMitrovica,1
+20201101,Serbia Prva Liga,BuducnostDobanovci,2,NoviBeograd,1
+20201101,Uzbekistan PRL,Olmaliq,0,Pakhtakor,6
+20201101,Germany 3. Liga,Wehen,2,BayernMunichII,4
+20201101,England Premier League,AstonVilla,3,Southampton,4
+20201101,Ukraine UPL,FCMinaj,0,RukhVinnyky,0
+20201101,Finland Kakkonen,JBKPietarsaari,0,VIFK,0
+20201101,Sweden Division 1,Karlstad,4,TeamThoren,0
+20201101,France Ligue 1,StEtienne,0,Montpellier,1
+20201101,Scotland Premiership,Kilmarnock,0,Rangers,1
+20201101,China Super League,ChongqingLifan,2,ShanghaiShenhua,0
+20201101,China League One,ChengduQianbao,2,GuangdongKejia,1
+20201101,Italy Serie A,Udinese,1,ACMilan,2
+20201101,Portugal LigaPro,Leixoes,3,BenficaII,2
+20201101,Holland Eerste Divisie,FCVolendam,2,FCEindhoven,0
+20201101,Holland Eredivisie,Heracles,4,FCUtrecht,1
+20201101,Russia 1. Division,ShinnikJaroslavl,2,VolgarGazpromAstrakhan,1
+20201101,Russia Premier League,FCKhimki,0,ZenitStPetersburg,2
+20201101,Russia 1. Division,GazovikOrenburg,3,ChertanovoMoscow,1
+20201101,Russia 1. Division,Akron,3,TekstilshchikIvanovo,1
+20201101,Russia 1. Division,Veles,2,DynamoBryansk,1
+20201101,Estonia Meistriliiga,FCFloraPaide,6,FCKuressaare,2
+20201101,Estonia Esiliiga,Elva,1,Maardu,2
+20201101,Turkey Lig 1,Keciorengucu,1,Istanbulspor,1
+20201101,Turkey Super Lig,CaykurRizespor,1,Kayserispor,0
+20201101,China League One,HeilongjiangLava,0,ShaanxiChangan,0
+20201101,Uzbekistan PRL,SurkhonTermez,1,Andijon,0
+20201101,Russia 1. Division,KrasnodarII,0,AlaniaVladikavkaz,4
+20201101,Russia 1. Division,YeniseyKrasnoyarsk,0,Olimpyets,1
+20201101,Belarus Premier League,EnergetikBGU,0,Slutsk,2
+20201101,Singapore S-League,LionCity,5,YoungLions,0
+20201101,Singapore S-League,TanjongPagar,0,SengkangPunggol,0
+20201101,Japan J2 League,ThespaKusatsu,2,TokushimaVortis,3
+20201101,Russia Premier League,Ufa,1,UralSverdlovskayaOblast,2
+20201101,China Super League,HenanJianye,3,GuangzhouRF,2
+20201101,China League One,HubeiHuakaier,1,BeijingRenhe,1
+20201101,China League One,ChangchunYatai,0,HangzhouLvcheng,0
+20201101,Japan J2 League,MachidaZelvia,1,EhimeFC,2
+20201101,South Korea K League 2,ChunnamDragons,0,AnsanGreeners,0
+20201101,China League One,NantongZhiyun,2,NeiMongolZhongyou,1
+20201101,South Korea K League 1,PohangSteelers,3,SangjuSangmu,1
+20201101,South Korea K League 1,JeonbukMotors,2,DaeguFC,0
+20201101,Japan J2 League,JubiloIwata,2,AvispaFukuoka,1
+20201101,Japan J2 League,OmiyaArdija,0,FCRyukyu,3
+20201101,Japan J2 League,ZwiegenKanazawa,1,GiravanzKitakyushu,4
+20201101,Japan J2 League,TochigiSC,0,VentforetKofu,0
+20201101,Japan J2 League,FagianoOkayama,3,JEFUnitedChiba,2
+20201101,Japan J2 League,Niigata,2,TokyoVerdy,2
+20201101,Japan J2 League,KyotoPurpleSanga,3,MontedioYamagata,0
+20201101,Russia 1. Division,EnergiyaKhabarovsk,1,IrtyshOmsk,1
+20201101,Japan J2 League,MatsumotoYamaga,2,RenofaYamaguchi,1
+20201101,Mexico Liga MX,Monterrey,1,CruzAzul,0
+20201101,Nicaragua Liga Primera,RealEsteli,1,WalterFerreti,1
+20201101,Costa Rica Primera,Saprissa,2,Alajuelense,3
+20201101,Colombia Copa Mustang,Cali,1,DeportesTolima,2
+20201101,Nicaragua Liga Primera,Diriangen,3,JuniorManagua,2
+20201101,Brazil Serie B,CuiabaEsporteClube,3,CRB,0
+20201101,Venezuela Primera,CaraboboFC,0,Yaracuyanos,2
+20201101,Mexico Liga MX,PumasUNAM,2,Guadalajara,2
+20201101,USA Major League Soccer,Nashville,1,Chicago,1
+20201130,Brazil Serie B,Avai,0,Oeste,3
+20201130,Brazil Serie A,Fluminense,0,Bragantino,0
+20201130,Paraguay Division Profesional,SoldeAmerica,2,NacionalAsuncion,3
+20201130,Colombia Copa Mustang,ChicoFC,1,BoyacaPatriotas,3
+20201130,Venezuela Primera,AraguaFC,3,MonagasSC,2
+20201130,Chile Primera B,UnionSanFelipe,2,DeportesValdivia,1
+20201130,Brazil Serie A,VascodaGama,1,Ceara,4
+20201130,Brazil Serie A,Gremio,2,Goias,1
+20201130,Portugal LigaPro,Mafra,0,Vilafranquense,1
+20201130,Peru Primera Division,UniversidadCesarVallejo,3,SportBoys,1
+20201130,Peru Primera Division,Ayacucho,1,CarlosMannucci,0
+20201130,Italy Serie B,VirtusEntella,0,Spal,1
+20201130,Uruguay Primera Division,LiverpoolFC,2,MontevideoWanderers,3
+20201130,Holland Eerste Divisie,NEC,2,MVVMaastricht,1
+20201130,Brazil Serie B,BrasilDePelotas,0,Operario,0
+20201130,England Premier League,WestHam,2,AstonVilla,1
+20201130,Spain Primera Liga,RealBetis,0,Eibar,2
+20201130,Spain Segunda Liga,RealOviedo,1,Almeria,2
+20201130,Belgium Juliper League,Antwerp,3,OudHeverlee,2
+20201130,Italy Serie A,Genoa,1,Parma,2
+20201130,England FA Cup,CanveyIsland,0,BorehamWood,3
+20201130,Germany 2. Bundesliga,VfLBochum,5,FortunaDusseldorf,0
+20201130,Portugal Superliga,Maritimo,1,Benfica,2
+20201130,Peru Primera Division,DeportivoBinacional,0,Universitario,2
+20201130,Sweden Allsvenskan,AIKStockholm,0,Kalmar,1
+20201130,Sweden Allsvenskan,Hammarby,0,IFKNorrkoping,1
+20201130,Cyprus 1. Division,EthnikosAchnas,0,AEKLarnaca,3
+20201130,Denmark Superliga,Brondby,4,Lyngby,1
+20201130,Germany 3. Liga,Meppen,2,Ingolstadt,0
+20201130,France National,Avranches,0,LeMans,2
+20201130,Holland Eerste Divisie,FCUtrechtII,1,Telstar,2
+20201130,England Premier League,Leicester,1,Fulham,2
+20201130,Italy Serie A,Torino,2,Sampdoria,2
+20201130,Greece Etniki Katigoria,ApollonSmirnis,3,VolosNps,3
+20201130,Poland Ekstraklasa,LechiaGdansk,0,LechPoznan,1
+20201130,United Arab Emirates UFL,AlSharjah,1,ShababAlAhliDubai,1
+20201130,United Arab Emirates UFL,Hatta,2,AlKhaleejKhorFakkan,3
+20201130,Turkey Super Lig,Sivasspor,0,Goztepespor,1
+20201130,Turkey Super Lig,Kayserispor,0,FatihKaragumruk,0
+20201130,Portugal LigaPro,BenficaII,1,Varzim,0
+20201130,Cyprus 1. Division,OmoniaNicosia,0,ErmisAradippou,0
+20201130,Peru Primera Division,Melgar,3,DeportivoMunicipal,2
+20201130,Peru Primera Division,DeportivoSanMartin,1,Cienciano,2
+20201130,Holland Eerste Divisie,JongPSV,0,CambuurLeeuwarden,1
+20201130,Serbia Super Liga,RadnickiNis,0,Vojvodina,1
+20201130,Serbia Super Liga,Subotica,0,RadnikSurdulica,0
+20201130,Serbia Super Liga,ProleterNoviSad,2,JavorIvanjica,1
+20201130,Georgia Umaglesi Liga,ChikhuraSachkhere,2,DinamoTbilisi,0
+20201130,United Arab Emirates UFL,Ajman,2,AlWasl,3
+20201130,United Arab Emirates UFL,AlFujirah,0,AlJazira,3
+20201130,Chile Primera B,DeportesCopiapo,2,CDSantaCruz,0
+20201130,Iran Pro League,Foolad,0,AluminiumArak,0
+20201130,Iran Pro League,MachineSaziTabriz,0,GolGoharSirjan,1
+20201130,Uruguay Primera Division,PlazaColonia,1,Torque,3
+20201130,Iran Pro League,Perspolis,3,PadidehKhorasan,0
+20201130,Croatia 2.HNL,Rudes,1,NKOsijekII,0
+20201130,Kazakhstan Premier League,Zhetysu,3,KaspiyAktau,0
+20201130,Kazakhstan Premier League,Taraz,1,Kairat,0
+20201130,Serbia Prva Liga,SlogaKraljevo,0,NoviBeograd,0
+20201130,Georgia Umaglesi Liga,Samtredia,1,DinamoBatumi,2
+20201130,Armenia Premier League,Alashkert,2,Van,1
+20201130,Kazakhstan Premier League,Kyzylzhar,0,Astana,1
+20201130,Kazakhstan Premier League,Okzhetpes,1,Ordabasy,3
+20201130,Kazakhstan Premier League,ShakhterKaragandy,1,Tobol,0
+20201130,Venezuela Primera,ZamoraFC,4,PortuguesaFC,1
+20201125,Brazil Serie A,Ceara,1,SaoPaulo,1
+20201125,Copa Libertadores,Delfin,1,Palmeiras,3
+20201125,Copa Libertadores,IndependienteJoseTeran,0,ClubNacional,0
+20201125,Brazil Serie B,Nautico,0,Vitoria,0
+20201125,Chile Primera,ColoColo,0,CuricoUnido,2
+20201125,Venezuela Primera,EstudiantesMerida,3,CaraboboFC,2
+20201125,Peru Primera Division,CarlosMannucci,1,AlianzaLima,0
+20201125,Spain Segunda Liga,FCCartagena,1,Mallorca,2
+20201125,Spain Segunda Liga,Fuenlabrada,1,Ponferradina,1
+20201125,Champions League,Ajax,3,Midtjylland,1
+20201125,Champions League,AtleticoMadrid,0,LokomotivMoscow,0
+20201125,Champions League,InterMilan,0,RealMadrid,2
+20201125,Champions League,BayernMunich,3,RBSalzburg,1
+20201125,Champions League,Marseille,0,FCPorto,2
+20201125,Champions League,Liverpool,0,Atalanta,2
+20201125,Peru Primera Division,DeportivoMunicipal,2,DeportivoLlacuabamba,5
+20201125,England Championship,BristolCity,0,Watford,0
+20201125,England Championship,Coventry,1,Cardiff,0
+20201125,England Championship,Swansea,1,SheffWed,1
+20201125,England Championship,Middlesbrough,3,Derby,0
+20201125,England Championship,Millwall,1,Reading,1
+20201125,Scotland Premiership,Hamilton,1,Aberdeen,1
+20201125,Germany Regionalliga West,Ahlen,1,FCSchalke,04
+20201125,Germany Regionalliga West,Bonner,0,Straelen,1
+20201125,Germany Regionalliga West,Wiedenbruck,0,VfBHomberg,0
+20201125,Germany Regionalliga West,RotWeissEssen,6,Wuppertaler,1
+20201125,Germany Regionalliga West,WegbergBeeck,0,FCKolnII,4
+20201125,Germany 3. Liga,BayernMunichII,1,Ingolstadt,3
+20201125,Germany 3. Liga,Kaiserslautern,1,Lubeck,0
+20201125,Germany 3. Liga,DynamoDresden,2,Unterhaching,0
+20201125,Germany 3. Liga,ViktoriaKoln,1,FSVZwickau,1
+20201125,Germany 3. Liga,Magdeburg,1,HansaRostock,1
+20201125,France Ligue 1,Lens,1,Nantes,1
+20201125,Spain Segunda Liga,LasPalmas,0,Mirandes,2
+20201125,Spain Segunda Liga,RealZaragoza,1,RayoVallecano,2
+20201125,Spain Segunda Liga,SportingGijon,3,Sabadell,1
+20201125,Portugal LigaPro,CovaPiedade,2,BenficaII,3
+20201125,Champions League,Olympiacos,0,ManCity,1
+20201125,Champions League,BorussiaMonchengladbach,4,ShakhtarDonetsk,0
+20201125,South Africa Premiership,BloemfonteinCeltic,1,BlackLeopards,0
+20201125,Switzerland Super League,FCSion,2,Servette,0
+20201125,Switzerland Super League,Basle,2,LausanneSports,1
+20201125,Germany Regionalliga West,Lippstadt,081,Oberhausen,1
+20201125,Germany Regionalliga West,Lotte,1,AlemanniaAachen,0
+20201125,Germany Regionalliga West,FortunaKoln,2,PreussenMunster,0
+20201125,Germany Regionalliga West,BorussiaDortmundII,1,Rodinghausen,2
+20201125,Coppa Italia,Udinese,0,Fiorentina,0
+20201125,Coppa Italia,Cagliari,2,HellasVerona,1
+20201125,Coppa Italia,Bologna,2,Spezia,2
+20201125,Croatia 1.HNL,Istra,1,NKOsijek,4
+20201125,Slovenia Prva Liga,NKCelje,0,Maribor,2
+20201125,Russia 1. Division,TorpedoMoscow,4,KrasnodarII,2
+20201125,Czech First League,CeskoBudejovice,2,Bohemians,19051
+20201125,Belgium Juliper League,CercleBrugge,1,Peruwelz,2
+20201125,Estonia Esiliiga,Vaprus,4,NommeUnited,1
+20201125,Estonia Esiliiga,Maardu,2,TammekaTartuII,2
+20201125,Estonia Esiliiga,FloraII,3,Elva,5
+20201125,Albania Superliga,TeutaDurres,0,Vllaznia,0
+20201125,Albania Superliga,Kukesi,1,Laci,0
+20201125,Russia 1. Division,ShinnikJaroslavl,1,BaltikaKaliningrad,3
+20201125,Greece Etniki Katigoria,AsterasTripoli,0,ApollonSmirnis,0
+20201125,Cyprus 1. Division,ApoelNicosia,2,DoxaKatokopias,0
+20201125,Russia 1. Division,KrylyaSovetov,2,ChaykaPeschanokopskoye,1
+20201125,Russia 1. Division,VolgarGazpromAstrakhan,0,EnergiyaKhabarovsk,1
+20201125,Germany Regionalliga West,FortunaDusseldorfII,2,BorussiaMonchengladbachII,1
+20201125,Coppa Italia,Parma,2,Cosenza,1
+20201125,Coppa Italia,Empoli,3,Brescia,0
+20201125,Chile Primera B,UnionSanFelipe,0,Cobreloa,0
+20201125,Chile Primera B,Barnechea,2,DeportesMagallanes,1
+20201125,Iran Pro League,AluminiumArak,0,MesRafsanjan,0
+20201125,Russia 1. Division,Akron,0,SpartakMoscowII,0
+20201125,Russia 1. Division,FakelWorenesch,0,Veles,0
+20201125,Russia 1. Division,IrtyshOmsk,1,Tomsk,0
+20201125,Russia 1. Division,DynamoBryansk,1,ChertanovoMoscow,2
+20201125,Iran Pro League,Saipa,1,NassajiMazandaran,0
+20201125,Iran Pro League,Esteghlal,1,MachineSaziTabriz,0
+20201125,Albania Superliga,KFTirana,0,BylisBallsh,0
+20201125,Albania Superliga,ApoloniaFier,0,PartizaniTirana,3
+20201125,Albania Superliga,SkenderbeuKorce,1,KastriotiKruje,2
+20201125,Iran Pro League,GolGoharSirjan,1,Foolad,1
+20201125,Czech FNL,SkProstejov,0,UstinadLabem,1
+20201125,Czech FNL,Trinec,2,Taborsko,0
+20201125,Czech FNL,SKLisen,4,Vysehrad,2
+20201125,Czech FNL,SlovanVarnsdorf,1,ViktoriaZizkov,3
+20201125,Czech FNL,DuklaPraha,0,Chrudim,2
+20201125,Czech FNL,FCVlasim,0,Jihlava,1
+20201125,Slovenia Prva Liga,TaborSezana,1,Domzale,1
+20201125,Croatia 2.HNL,Dugopolje,1,DynamoZagrebII,0
+20201125,Croatia 2.HNL,Opatija,3,InterZapresic,2
+20201125,Croatia 2.HNL,Rudes,4,HajdukSplitII,2
+20201125,Czech FNL,Blansko,1,HradecKralove,2
+20201125,Russia 1. Division,AlaniaVladikavkaz,3,YeniseyKrasnoyarsk,0
+20201125,Russia 1. Division,TekstilshchikIvanovo,0,GazovikOrenburg,2
+20201125,Singapore S-League,SengkangPunggol,0,TampinesRovers,2
+20201125,Singapore S-League,BalestierKhalsa,2,TanjongPagar,2
+20201125,Singapore S-League,GeylangUnited,0,LionCity,3
+20201125,Singapore S-League,AlbirexNiigata,2,YoungLions,0
+20201125,Uzbekistan PRL,Bunyodkor,1,Sogdiyona,0
+20201125,Russia 1. Division,Neftekhimik,0,Olimpyets,1
+20201125,Japan J-League,SaganTosu,0,VegaltaSendai,1
+20201125,Japan J-League,ShonanBellmare,1,SanfrecceHiroshima,1
+20201125,Japan J2 League,JubiloIwata,3,FCRyukyu,0
+20201125,Japan J2 League,MontedioYamagata,4,ZwiegenKanazawa,0
+20201125,Japan J2 League,FagianoOkayama,2,TochigiSC,3
+20201125,Japan J2 League,KyotoPurpleSanga,1,VentforetKofu,1
+20201125,Japan J2 League,TokushimaVortis,3,MachidaZelvia,0
+20201125,Japan J2 League,MitoHollyhock,2,GiravanzKitakyushu,2
+20201125,Japan J2 League,ThespaKusatsu,1,OmiyaArdija,2
+20201125,Japan J2 League,RenofaYamaguchi,1,JEFUnitedChiba,2
+20201125,Japan J2 League,Niigata,0,EhimeFC,3
+20201125,Japan J-League,KashimaAntlers,1,KashiwaReysol,4
+20201125,Japan J-League,OitaTrinita,0,CerezoOsaka,1
+20201125,Japan J-League,KawasakiFrontale,5,GambaOsaka,0
+20201125,Uzbekistan PRL,SurkhonTermez,1,Bukhara,1
+20201125,Uzbekistan PRL,Qoqon,19120,LokomotivTashkent,1
+20201125,Japan J2 League,TokyoVerdy,1,AvispaFukuoka,1
+20201125,Uzbekistan PRL,Nasaf,3,Pakhtakor,0
+20201125,USA Major League Soccer,Seattle,3,LosAngelesFC,1
+20201125,Copa Libertadores,RacingClub,1,Flamengo,1
+20201125,Chile Primera,AudaxItaliano,1,SantiagoWanderers,1
+20201125,Brazil Serie B,Chapecoense,0,Cruzeiro,1
+20201125,Brazil Serie B,AmericaMineiro,2,JuventudeRS,1
+20201125,Brazil Serie B,BrasilDePelotas,2,CRB,1
+20201108,Brazil Serie A,Fluminense,0,Gremio,1
+20201108,Brazil Serie A,Ceara,0,SportRecife,0
+20201108,USA Major League Soccer,Houston,1,Colorado,2
+20201108,USA Major League Soccer,RealSaltLake,0,KansasCity,2
+20201108,USA Major League Soccer,VancouverWhitecaps,3,LAGalaxy,0
+20201108,USA Major League Soccer,Seattle,4,SanJose,1
+20201108,USA Major League Soccer,LosAngelesFC,1,PortlandTimbers,1
+20201108,USA Major League Soccer,MinnesotaStars,3,Dallas,0
+20201108,Uruguay Primera Division,BostonRiver,0,RiverPlateMontevideo,3
+20201108,Colombia Copa Mustang,Junior,2,AlianzaPetrolera,1
+20201108,Ecuador Liga Pro,Emelec,2,UnivCatolica,0
+20201108,Costa Rica Primera,Guadelupe,2,SportingSanJose,2
+20201108,Paraguay Division Profesional,SportivoLuqueno,1,NacionalAsuncion,3
+20201108,Chile Primera B,RangersTalca,1,DeportesMagallanes,0
+20201108,Brazil Serie A,Bahia,1,Botafogo,0
+20201108,Brazil Serie B,CRB,0,JuventudeRS,1
+20201108,Brazil Serie A,Bragantino,1,Santos,1
+20201108,Brazil Serie A,AtleticoMineiro,4,Flamengo,0
+20201108,Uruguay Primera Division,Penarol,4,DeportivoMaldonado,1
+20201108,Colombia Copa Mustang,OnceCaldas,1,Cali,1
+20201108,Venezuela Primera,GuarosdeLara,2,CaraboboFC,2
+20201108,Venezuela Primera,MonagasSC,1,PortuguesaFC,0
+20201108,USA Major League Soccer,Philadelphia,2,NewEngland,0
+20201108,USA Major League Soccer,NewYorkRedBulls,2,TorontoFC,1
+20201108,USA Major League Soccer,OrlandoCity,2,Nashville,3
+20201108,USA Major League Soccer,InterMiami,2,Cincinnati,1
+20201108,USA Major League Soccer,Columbus,2,AtlantaUnited,1
+20201108,USA Major League Soccer,Chicago,3,NewYorkCity,4
+20201108,USA Major League Soccer,DCUnited,2,MontrealImpact,3
+20201108,France Ligue 1,Lyon,2,StEtienne,1
+20201108,Italy Serie B,VirtusEntella,1,Lecce,5
+20201108,Portugal Superliga,Benfica,2,Braga,3
+20201108,Spain Primera Liga,Valencia,4,RealMadrid,1
+20201108,Italy Serie A,ACMilan,2,HellasVerona,2
+20201108,Belgium Juliper League,CercleBrugge,1,ZulteWaregem,3
+20201108,Norway Tippeligaen,Valerenga,2,OddGrenland,0
+20201108,Spain Segunda Liga,Tenerife,1,RealZaragoza,0
+20201108,England Premier League,Arsenal,0,AstonVilla,3
+20201108,Belgium Division 2,KVSKUnited,3,ClubBruggeII,1
+20201108,Romania Liga I,ViitorulConstanta,2,DinamoBucharest,1
+20201108,Holland Eredivisie,PSV,3,WillemII,0
+20201108,Denmark Superliga,ACHorsens,0,Sonderjyske,3
+20201108,Brazil Serie A,Internacional,2,Coritiba,2
+20201108,Brazil Serie A,VascodaGama,0,Palmeiras,1
+20201108,Brazil Serie B,SampaioCorrea,2,Vitoria,1
+20201108,Chile Primera,Palestino,1,UniversidadCatolica,4
+20201108,Serbia Super Liga,CrvenaZvezda,3,Indjija,2
+20201108,Mexico Liga MX,Toluca,2,Leon,2
+20201108,Cyprus 1. Division,OmoniaNicosia,0,DoxaKatokopias,0
+20201108,Greece Etniki Katigoria,ApollonSmirnis,1,PAOKSalonika,3
+20201108,Spain Primera Liga,Valladolid,2,AthleticBilbao,1
+20201108,Spain Primera Liga,Levante,1,Alaves,1
+20201108,Portugal Superliga,FCPorto,3,Portimonense,1
+20201108,Ukraine UPL,ZarjaLugansk,0,Vorskla,0
+20201108,Czech First League,Plzen,3,SpartaPrague,1
+20201108,Belgium Juliper League,Gent,1,Anderlecht,1
+20201108,Spain Segunda Liga,Mallorca,3,Ponferradina,0
+20201108,Spain Segunda Liga,RealOviedo,4,Castellon,0
+20201108,Italy Serie A,Bologna,0,Napoli,1
+20201108,Norway Tippeligaen,Molde,2,Kristiansund,2
+20201108,Norway Tippeligaen,Sandefjord,0,Stabaek,0
+20201108,Norway Tippeligaen,IKStart,3,Sarpsborg,2
+20201108,Norway Tippeligaen,VikingFK,3,Rosenborg,0
+20201108,Denmark Superliga,Midtjylland,4,FCCopenhagen,0
+20201108,United Arab Emirates UFL,AlWahda,3,AlWasl,2
+20201108,United Arab Emirates UFL,AlIttihadKalba,1,AlFujirah,0
+20201108,Costa Rica Primera,Saprissa,4,PerezZeledon,0
+20201108,Montenegro First League,Decic,0,Zeta,0
+20201108,Germany Bundesliga,BayerLeverkusen,4,BorussiaMonchengladbach,3
+20201108,England Premier League,ManCity,1,Liverpool,1
+20201108,Poland Ekstraklasa,RakowCzestochowa,0,WislaKrakow,0
+20201108,Sweden Superettan,Trelleborgs,1,Ljungskile,0
+20201108,Sweden Allsvenskan,Helsingborgs,0,IFKGoteborg,1
+20201108,Sweden Allsvenskan,Malmo,4,IKSirius,0
+20201108,Chile Primera B,Melipilla,3,SanLuis,0
+20201108,Croatia 1.HNL,NKRijeka,1,Lokomotiva,0
+20201108,Austria Bundesliga,RapidVienna,1,RBSalzburg,1
+20201108,Romania Liga I,Arges,0,CFRCluj,2
+20201108,Montenegro First League,MladostLjeskopolje,1,Iskra,1
+20201108,Russia Premier League,ZenitStPetersburg,3,Krasnodar,1
+20201108,Russia Premier League,DinamoMoscow,5,LokomotivMoscow,1
+20201108,Sweden Division 1,Trollhattan,3,Oskarshamns,2
+20201108,France Ligue 1,Nice,1,Monaco,2
+20201108,Cyprus 1. Division,AnorthosisFamagusta,1,AEKLarnaca,0
+20201108,Turkey Super Lig,Sivasspor,1,Galatasaray,2
+20201108,Hungary NB I,Ferencvarosi,3,MezokovesdiSE,0
+20201108,Bosnia and Herzegovina Premier League,RadnikBijeljina,0,ZrinjskiMostar,2
+20201108,Italy Serie B,Reggiana,2,Venezia,1
+20201108,Albania Superliga,SkenderbeuKorce,0,Vllaznia,2
+20201108,Holland Eredivisie,Heerenveen,0,AZ,3
+20201108,Bulgaria A PFG,CSKA,19480,LudogoretsRazgrad,3
+20201108,Spain Primera Liga,RealSociedad,2,Granada,0
+20201108,Spain Segunda Liga,Alcorcon,0,Fuenlabrada,3
+20201108,Portugal Superliga,Farense,3,Boavista,1
+20201108,Portugal Superliga,Nacional,2,GilVicente,1
+20201108,Switzerland Super League,YoungBoys,0,StGallen,0
+20201108,Spain Segunda Liga,RayoVallecano,0,Almeria,1
+20201108,Portugal LigaPro,Vilafranquense,0,Academica,0
+20201108,Denmark Superliga,Brondby,3,OdenseBK,1
+20201108,Czech First League,SlaviaPrague,1,MladaBoleslav,0
+20201108,Belgium Division 2,UnionSaintGilloise,3,Deinze,0
+20201108,Ukraine UPL,DynamoKiev,0,ShakhtarDonetsk,3
+20201108,Belgium Juliper League,Oostende,1,ClubBrugge,3
+20201108,Scotland Premiership,Rangers,8,Hamilton,0
+20201108,Sweden Division 1,Karlslunds,1,IFKLulea,1
+20201108,Germany Bundesliga,Wolfsburg,2,Hoffenheim,1
+20201108,Montenegro First League,OFKTitograd,0,Buducnost,4
+20201108,England FA Cup,EastbourneBorough,0,Blackpool,3
+20201108,Chile Primera B,UnionSanFelipe,2,PuertoMontt,1
+20201108,Italy Serie B,Pescara,3,Cittadella,1
+20201108,Italy Serie A,Atalanta,1,InterMilan,1
+20201108,Italy Serie A,Genoa,1,Roma,3
+20201108,Italy Serie A,Torino,0,Crotone,0
+20201108,Cyprus 1. Division,OlympiakosNicosia,0,NeaSalamina,0
+20201108,Bosnia and Herzegovina Premier League,VelezMostar,2,SirokiBrijeg,1
+20201108,Montenegro First League,Petrovac,1,Rudar,1
+20201108,Poland Ekstraklasa,LegiaWarsaw,2,LechPoznan,1
+20201108,Montenegro First League,Sutjeska,0,Jezero,1
+20201108,United Arab Emirates UFL,AlKhaleejKhorFakkan,2,ShababAlAhliDubai,2
+20201108,United Arab Emirates UFL,Hatta,0,AlNas,3
+20201108,Croatia 1.HNL,DynamoZagreb,5,Istra,0
+20201108,England Premier League,Leicester,1,Wolverhampton,0
+20201108,France Ligue 1,Lens,4,Reims,4
+20201108,France Ligue 1,Lorient,0,Nantes,2
+20201108,France Ligue 1,Nimes,1,Angers,5
+20201108,France Ligue 1,Metz,1,Dijon,1
+20201108,Georgia Umaglesi Liga,LokomotiviTbilisi,0,DinamoTbilisi,2
+20201108,Norway 1. Division,Kongsvinger,1,SandnesUlf,1
+20201108,Norway 1. Division,Lillestrom,1,Asane,1
+20201108,Finland Ykkonen,ACOulu,6,MP,0
+20201108,Finland Ykkonen,FFJaro,2,FCKooTeePee,3
+20201108,Switzerland Challenge League,Schaffhausen,1,FCThun,1
+20201108,Sweden Superettan,Osters,2,AFCEskilstuna,1
+20201108,Hungary NB I,ZalaegerszegTE,1,Kisvarda,2
+20201108,Sweden Allsvenskan,Orebro,0,Kalmar,1
+20201108,Sweden Allsvenskan,Varbergs,5,Hammarby,2
+20201108,Sweden Allsvenskan,Djurgardens,0,AIKStockholm,1
+20201108,Austria Bundesliga,LASKLinz,4,Admira,0
+20201108,Russia Premier League,CSKAMoscow,2,FKRostov,0
+20201108,Holland Eredivisie,Vitesse,3,FCEmmen,1
+20201108,Holland Eredivisie,Feyenoord,2,FCGroningen,0
+20201108,Denmark Superliga,FCNordsjaelland,1,Vejle,1
+20201108,Denmark Superliga,Lyngby,1,AGFAarhus,2
+20201108,Czech First League,Karvina,2,Bohemians,19051
+20201108,Czech First League,Teplice,1,SlovanLiberec,2
+20201108,Germany 3. Liga,Lubeck,1,Uerdingen,0
+20201108,Bulgaria A PFG,Montana,1,CSKASofia,2
+20201108,Czech FNL,SlovanVarnsdorf,0,FCVlasim,2
+20201108,Sweden Division 1,Frej,4,TeamThoren,2
+20201108,Estonia Meistriliiga,Tammeka,0,FloraTallinn,1
+20201108,Greece Etniki Katigoria,OFICrete,0,Olympiacos,2
+20201108,Spain Segunda Liga,Sabadell,1,Malaga,2
+20201108,Turkey Lig 1,Samsunspor,1,Altinordu,1
+20201108,Turkey Lig 1,AkhisarBelediyespor,2,Boluspor,2
+20201108,Turkey Super Lig,Kayserispor,0,Hatayspor,1
+20201108,Turkey Super Lig,IstanbulBuyuksehirBSK,2,Genclerbirligi,1
+20201108,Spain Primera Liga,Getafe,1,Villarreal,3
+20201108,Albania Superliga,Laci,1,KastriotiKruje,1
+20201108,Albania Superliga,ApoloniaFier,2,BylisBallsh,2
+20201108,Albania Superliga,Kukesi,0,PartizaniTirana,2
+20201108,Albania Superliga,KFTirana,0,TeutaDurres,1
+20201108,England FA Cup,MaldonandTiptree,0,Morecambe,1
+20201108,England FA Cup,HayesandYeading,0,Carlisle,0
+20201108,England FA Cup,HavantandW,1,CrayValley,0
+20201108,England FA Cup,HamptonandRichmond,2,Oldham,3
+20201108,England FA Cup,Eastleigh,0,MiltonKeynesDons,0
+20201108,England FA Cup,Torquay,3,CrawleyTown,3
+20201108,England FA Cup,Barnet,1,BurtonAlbion,0
+20201108,England FA Cup,Wigan,2,Chorley,2
+20201108,Belgium Juliper League,Antwerp,1,StandardLiege,1
+20201108,Germany 2. Bundesliga,Darmstadt,0,Paderborn,4
+20201108,Germany 2. Bundesliga,Regensburg,2,Osnabruck,4
+20201108,Germany 2. Bundesliga,StPauli,0,Karlsruhe,3
+20201108,Croatia 2.HNL,HajdukSplitII,1,Junak,0
+20201108,Denmark 1st Division,Koge,0,SilkeborgIF,1
+20201108,Montenegro Second League,Berane,0,Igalo,0
+20201108,Montenegro Second League,MornarBar,2,Drezga,0
+20201108,Montenegro Second League,Bokelj,1,Ibar,1
+20201108,Montenegro Second League,Grbalj,2,ArsenalTivat,1
+20201108,Montenegro Second League,Kom,1,Jedinstvo,0
+20201108,Ukraine UPL,RukhVinnyky,2,Inhulets,2
+20201108,England Premier League,WestBrom,0,Tottenham,1
+20201108,Scotland Premiership,Motherwell,1,Celtic,4
+20201108,France Ligue 1,Brestois,3,Lille,2
+20201108,Sweden Division 1,Nykoping,1,Vasalund,3
+20201108,Serbia Prva Liga,RadnickiSremskaMitrovica,3,Dubocica,0
+20201108,Serbia Prva Liga,Zarkovo,2,Loznica,0
+20201108,Serbia Prva Liga,KabelNoviSad,1,TrajalKrusevac,1
+20201108,Serbia Prva Liga,RadnickiPirot,2,BuducnostDobanovci,2
+20201108,Belarus Premier League,SlaviaMozyr,0,DinamoMinsk,1
+20201108,England FA Cup,Scunthorpe,2,SolihullMoors,3
+20201108,Bosnia and Herzegovina Premier League,TuzlaCity,0,FKSarajevo,0
+20201108,Italy Serie A,Lazio,1,Juventus,1
+20201108,Armenia Premier League,FCNoah,0,AvanAcademy,0
+20201108,Holland Eredivisie,FCUtrecht,0,Ajax,3
+20201108,Portugal LigaPro,Oliveirense,0,Estoril,1
+20201108,Russia Premier League,FCKhimki,2,RubinKazan,0
+20201108,Estonia Meistriliiga,JKTallinnaKalev,1,JKTulevikViljandi,0
+20201108,Kazakhstan Premier League,Okzhetpes,0,Zhetysu,1
+20201108,Estonia Meistriliiga,FCFloraPaide,4,JKTransNarva,2
+20201108,Bulgaria A PFG,Etar,0,ArdaKurdzhali,0
+20201108,Turkey Super Lig,Ankaragucu,2,FatihKaragumruk,2
+20201108,Turkey Super Lig,Malatyaspor,2,Denizlispor,0
+20201108,Turkey Lig 1,Eskisehirspor,2,Keciorengucu,2
+20201108,Belarus Premier League,Belshina,1,EnergetikBGU,5
+20201108,Vietnam V League,QuangNinh,0,TTHaNoi,4
+20201108,Vietnam V League,HaNoi,0,Viettel,1
+20201108,Czech FNL,Blansko,0,Taborsko,2
+20201108,Singapore S-League,AlbirexNiigata,4,SengkangPunggol,0
+20201108,Czech FNL,DuklaPraha,3,Jihlava,3
+20201108,Kazakhstan Premier League,Kyzylzhar,0,Tobol,1
+20201108,China League One,TaizhouYuanda,1,HangzhouLvcheng,3
+20201108,China League One,Kunshan,1,GuangdongKejia,0
+20201108,China League One,ChengduQianbao,0,ChangchunYatai,3
+20201108,Japan J2 League,FCRyukyu,1,RenofaYamaguchi,0
+20201108,China League One,NeiMongolZhongyou,1,HeilongjiangLava,1
+20201108,China League One,SuzhouJinfu,1,ShaanxiChangan,0
+20201108,China League One,GuizhouZhicheng,3,BeijingRenhe,0
+20201108,China League One,SichuanJiuniu,1,BeijingBaxi,1
+20201108,China League One,NantongZhiyun,3,JiangxiLiansheng,3
+20201108,Japan J2 League,JubiloIwata,1,EhimeFC,1
+20201108,Japan J2 League,JEFUnitedChiba,1,MontedioYamagata,5
+20201108,Japan J2 League,ZwiegenKanazawa,2,MitoHollyhock,4
+20201108,Japan J2 League,FagianoOkayama,1,MachidaZelvia,0
+20201108,Japan J2 League,AvispaFukuoka,0,MatsumotoYamaga,1
+20201108,Japan J2 League,TochigiSC,1,KyotoPurpleSanga,0
+20201108,Japan J-League,YokohamaFC,2,VisselKobe,1
+20201108,Japan J2 League,OmiyaArdija,1,VentforetKofu,2
+20201108,Japan J2 League,Niigata,1,GiravanzKitakyushu,0
+20201108,Japan J-League,VegaltaSendai,0,SaganTosu,3
+20201108,Mexico Liga MX,CruzAzul,1,PumasUNAM,2
+20201108,Costa Rica Primera,Alajuelense,4,Cartagines,1
+20201108,Nicaragua Liga Primera,JuniorManagua,2,RealMadriz,2
+20201108,Colombia Copa Mustang,America,0,Millonarios,2
+20201108,Venezuela Primera,MinerosdeGuayana,0,RealEsppor,2
+20201108,Nicaragua Liga Primera,JuventusManagua,5,Chinandega,1
+20201108,Mexico Liga MX,Tigres,1,Atlas,1
+20201127,Paraguay Division Profesional,Guairena,2,SportivoSanLorenzo,2
+20201127,Colombia Copa Mustang,Medellin,1,Pereira,2
+20201127,Brazil Serie B,Oeste,1,AmericaMineiro,1
+20201127,Brazil Serie B,Operario,1,Parana,0
+20201127,Brazil Serie B,SampaioCorrea,0,BrasilDePelotas,1
+20201127,Ecuador Liga Pro,LDUdeQuito,3,Olmedo,0
+20201127,Venezuela Primera,PortuguesaFC,0,Metropolitanos,3
+20201127,Portugal Superliga,Tondela,0,Guimaraes,2
+20201127,Spain Primera Liga,Valladolid,1,Levante,1
+20201127,Spain Segunda Liga,Malaga,2,Lugo,2
+20201127,England Premier League,CrystalPalace,0,Newcastle,2
+20201127,Italy Serie B,Chievo,1,Lecce,2
+20201127,Holland Eerste Divisie,FCVolendam,2,AlmereCity,2
+20201127,Holland Eerste Divisie,HelmondSport,1,JongPSV,0
+20201127,France Ligue 1,Strasbourg,1,Rennes,1
+20201127,England FA Cup,Tranmere,1,BrackleyTown,0
+20201127,England Conference,NottsCounty,3,Wealdstone,0
+20201127,England Championship,Brentford,2,QPR,1
+20201127,England League 1,FleetwoodTown,1,Sunderland,1
+20201127,Wales Premier League,BalaTown,3,Newtown,1
+20201127,Belgium Juliper League,Eupen,3,Charleroi,1
+20201127,Germany Bundesliga,Wolfsburg,5,WerderBremen,3
+20201127,Poland Ekstraklasa,GornikZabrze,2,PogonSzczecin,1
+20201127,Belgium Division 2,Deinze,1,ClubBruggeII,0
+20201127,Holland Eredivisie,FCTwente,0,RKCWaalwijk,2
+20201127,Switzerland Challenge League,Schaffhausen,2,NeuchatelXamax,0
+20201127,Switzerland Challenge League,Wil,1,Grasshoppers,1
+20201127,Portugal Superliga,PacosFerreira,2,Famalicao,0
+20201127,Hungary NB I,Ujpesti,1,PaksiSE,1
+20201127,South Africa Premiership,MaritzburgUnited,1,SupersportUnited,2
+20201127,Spain Segunda Liga,Alcorcon,1,Girona,0
+20201127,Switzerland Challenge League,Aarau,3,Winterthur,1
+20201127,Switzerland Challenge League,SCKriens,0,FCStadeLsOuchy,2
+20201127,Germany 3. Liga,Uerdingen,1,Verl,2
+20201127,Denmark Superliga,RandersFC,2,OdenseBK,1
+20201127,Denmark 1st Division,KoldingIF,3,Vendsyssel,2
+20201127,Holland Eerste Divisie,CambuurLeeuwarden,3,FCDenBosch,1
+20201127,Holland Eerste Divisie,TOPOss,0,NAC,0
+20201127,Denmark 1st Division,Helsingor,2,FremadAmager,1
+20201127,Germany 2. Bundesliga,Darmstadt,4,Braunschweig,0
+20201127,Germany 2. Bundesliga,StPauli,0,Osnabruck,1
+20201127,France National,SaintBrieuc,1,Boulogne,0
+20201127,France National,LyonDuchere,2,Bastia,0
+20201127,France National,BastiaBorgo,2,Concarneau,2
+20201127,France National,Creteil,1,VillefrancheSurSaone,0
+20201127,France National,Orleans,1,BourgPeronnas,3
+20201127,France National,Laval,4,Sete,34
+20201127,Croatia 1.HNL,HNKSibenik,0,NKSlaven,3
+20201127,Ukraine UPL,Lviv,1,IllichivetsMariupol,3
+20201127,Poland Ekstraklasa,WislaPlock,0,CracoviaKrakow,1
+20201127,Czech First League,Pardubice,1,SigmaOlomouc,1
+20201127,United Arab Emirates UFL,AlAin,1,AlWahda,0
+20201127,Cyprus 1. Division,OlympiakosNicosia,3,Karmiotissa,2
+20201127,Qatar Stars League,AlSadd,3,UmmSalal,1
+20201127,Qatar Stars League,Lekhwiya,4,AlKharaityat,1
+20201127,Saudi Arabia Pro League,IttihadJeddah,1,AlQadisiyah,0
+20201127,Turkey Super Lig,Ankaragucu,0,Trabzonspor,1
+20201127,Jordan Pro League,ShababAlOrdun,0,AlAhlyJordan,0
+20201127,Bulgaria A PFG,ChernoMoreVarna,3,SlaviaSofia,2
+20201127,Algeria Ligue 1,Kabylie,0,BordjBouArreridj,0
+20201127,Saudi Arabia Pro League,AlShababRiyadh,2,Dhamk,1
+20201127,Qatar Stars League,AlGharrafa,6,AlKhoor,3
+20201127,Armenia Premier League,Ararat,1,FCNoah,1
+20201127,Jordan Pro League,Ramtha,2,AlSalt,1
+20201127,United Arab Emirates UFL,AlDhafra,1,AlIttihadKalba,2
+20201127,United Arab Emirates UFL,AlNas,1,BaniYas,0
+20201127,Algeria Ligue 1,RCRelizane,1,Paradou,1
+20201127,Algeria Ligue 1,HusseinDey,1,MCOran,1
+20201127,Algeria Ligue 1,CSConstantine,0,Tlemcen,0
+20201127,Chile Primera B,DeportesValdivia,2,Nublense,2
+20201127,Bosnia and Herzegovina Premier League,DobojKakanj,0,Zeljeznicar,4
+20201127,Kazakhstan Premier League,Tobol,2,Taraz,0
+20201127,Iran Pro League,TractorSazi,0,Sepahan,1
+20201127,Kazakhstan Premier League,KaspiyAktau,0,ShakhterKaragandy,4
+20201127,Kazakhstan Premier League,Kaisar,1,Kyzylzhar,2
+20201127,Kazakhstan Premier League,Zhetysu,1,Astana,2
+20201127,Colombia Copa Mustang,AtleticoBucaramanga,3,AlianzaPetrolera,2
+20201127,Brazil Serie B,Figueirense,0,Botafogo,0
+20201127,Copa Libertadores,ClubGuarani,0,Gremio,2
+20201124,USA Major League Soccer,TorontoFC,0,Nashville,0
+20201124,Brazil Serie B,CSAAL,1,Operario,0
+20201124,Brazil Serie B,PontePreta,1,Oeste,0
+20201124,Copa Libertadores,LDUdeQuito,1,Santos,2
+20201124,Copa Libertadores,AtleticoParanaense,1,RiverPlate,1
+20201124,Brazil Serie B,Confianca,2,CuiabaEsporteClube,0
+20201124,Chile Primera B,Nublense,4,RangersTalca,2
+20201124,Chile Primera B,CDSantaCruz,0,SanMarcos,2
+20201124,Venezuela Primera,GuarosdeLara,1,RealEsppor,0
+20201124,Peru Primera Division,RealGarcilaso,1,UniversidadCesarVallejo,1
+20201124,Spain Segunda Liga,Lugo,0,RealOviedo,0
+20201124,England Championship,Bournemouth,2,NottmForest,0
+20201124,Champions League,DynamoKiev,0,Barcelona,4
+20201124,Champions League,Lazio,3,ZenitStPetersburg,1
+20201124,Champions League,Juventus,2,Ferencvarosi,1
+20201124,Champions League,BorussiaDortmund,3,ClubBrugge,0
+20201124,Champions League,PSG,1,RBLeipzig,0
+20201124,Champions League,ManUtd,4,IstanbulBuyuksehirBSK,1
+20201124,Northern Ireland Premier League,Linfield,3,Glentoran,3
+20201124,Northern Ireland Premier League,Cliftonville,0,BallymenaUnited,4
+20201124,France National,Orleans,1,Boulogne,0
+20201124,England Championship,Barnsley,0,Brentford,1
+20201124,England Championship,Preston,0,Blackburn,3
+20201124,England Conference,Wrexham,4,SuttonUtd,0
+20201124,England Conference North,Kidderminster,3,AlfretonTown,0
+20201124,England Conference North,Darlington,0,BradfordParkAvenue,1
+20201124,England Conference North,KetteringTown,1,Guiseley,1
+20201124,England Conference North,Leamington,1,Fylde,1
+20201124,England Conference North,FarsleyCeltic,2,Chester,2
+20201124,England Conference South,Bath,1,DulwichHamlet,4
+20201124,England Conference South,DorkingWanderers,3,OxfordCity,2
+20201124,England Conference South,TonbridgeAngels,0,BraintreeTown,2
+20201124,Brazil Serie B,Parana,1,Guarani,2
+20201124,Scotland Premiership,Hibernian,2,StJohnstone,2
+20201124,Scotland Championship,Hearts,3,Alloa,0
+20201124,Scotland League One,Dumbarton,0,Falkirk,3
+20201124,England Championship,QPR,3,Rotherham,2
+20201124,England Championship,Stoke,2,Norwich,3
+20201124,England Championship,Wycombe,0,Huddersfield,0
+20201124,England League 1,Portsmouth,1,OxfordUtd,1
+20201124,England League 1,Rochdale,1,Northampton,1
+20201124,England League 1,AccringtonStanley,1,Crewe,0
+20201124,England League 1,BurtonAlbion,4,Charlton,2
+20201124,England Championship,Luton,1,Birmingham,1
+20201124,England Conference North,Gateshead,1,GloucesterCity,0
+20201124,England Conference,Altrincham,0,Bromley,1
+20201124,England Conference,Barnet,0,Hartlepool,0
+20201124,England League 1,Ipswich,0,Hull,3
+20201124,England League 1,MiltonKeynesDons,2,Shrewsbury,2
+20201124,England League 1,Peterborough,1,Plymouth,0
+20201124,England League 1,Swindon,0,LincolnCity,1
+20201124,England League 1,Wigan,0,BristolRovers,0
+20201124,England League 1,Doncaster,3,Blackpool,2
+20201124,England League 2,Barrow,3,Oldham,4
+20201124,England League 2,Cheltenham,1,CambridgeUtd,1
+20201124,England League 2,CrawleyTown,1,Grimsby,2
+20201124,England League 2,Exeter,6,Colchester,1
+20201124,England League 2,LeytonOrient,1,Bradford,0
+20201124,England League 2,Mansfield,0,HarrogateTown,1
+20201124,England League 2,NewportCounty,1,Walsall,1
+20201124,England League 2,SalfordCity,2,Morecambe,1
+20201124,England League 2,Scunthorpe,0,Bolton,1
+20201124,England League 2,Southend,0,ForestGreen,1
+20201124,England League 2,Stevenage,2,PortVale,1
+20201124,England League 2,Tranmere,1,Carlisle,0
+20201124,Germany 3. Liga,Verl,11860,Munich,1
+20201124,Germany 3. Liga,WaldhofMannheim,2,MSVDuisburg,2
+20201124,Germany 3. Liga,TurkgucuAtasporMunchen,1,Saarbrucken,1
+20201124,Spain Segunda Liga,Castellon,0,Alcorcon,2
+20201124,Spain Segunda Liga,Girona,0,Malaga,1
+20201124,Switzerland Challenge League,Chiasso,3,NeuchatelXamax,2
+20201124,Switzerland Challenge League,Winterthur,2,FCStadeLsOuchy,1
+20201124,Germany 3. Liga,Wehen,1,Meppen,0
+20201124,Germany 3. Liga,Uerdingen,0,Hallescher,1
+20201124,France National,Annecy,1,LyonDuchere,1
+20201124,England League 1,Gillingham,2,AFCWimbledon,1
+20201124,France Ligue 2,Grenoble,1,Nancy,0
+20201124,Norway Tippeligaen,Rosenborg,2,SKBrann,3
+20201124,Champions League,Krasnodar,1,Sevilla,2
+20201124,Champions League,Rennes,1,Chelsea,2
+20201124,Holland Eerste Divisie,JongPSV,1,FCUtrechtII,1
+20201124,South Africa Premiership,MorokaSwallows,1,KaizerChiefs,0
+20201124,Poland Ekstraklasa,PodbeskidzieBielskoBiala,2,ZaglebieLubin,1
+20201124,Slovenia Prva Liga,HITGorica,0,Mura,1
+20201124,France National,VillefrancheSurSaone,0,Sete,34
+20201124,France National,RedStar,1,Avranches,0
+20201124,France National,QuevillyRouen,2,SaintBrieuc,1
+20201124,France National,Cholet,3,BastiaBorgo,1
+20201124,Saudi Arabia Pro League,AlEttifaq,0,AlFateh,4
+20201124,Croatia 1.HNL,Lokomotiva,1,HajdukSplit,2
+20201124,Estonia Meistriliiga,TJKLegion,0,FCKuressaare,1
+20201124,Estonia Meistriliiga,JKTransNarva,1,JKTallinnaKalev,1
+20201124,Belgium Juliper League,Waasland,2,Oostende,0
+20201124,Slovenia Prva Liga,FCKoper,2,Bravo,1
+20201124,Saudi Arabia Pro League,AlTaawon,1,AlWehda,0
+20201124,Coppa Italia,Spal,2,Monza,0
+20201124,Chile Primera B,DeportesValdivia,0,Melipilla,1
+20201124,Uzbekistan PRL,Qizilqum,1,MetallurgBekabad,0
+20201124,Kazakhstan Premier League,Okzhetpes,0,Tobol,2
+20201124,Kazakhstan Premier League,ShakhterKaragandy,1,Zhetysu,2
+20201124,Uzbekistan PRL,Olmaliq,4,Andijon,0
+20201124,Uzbekistan PRL,MashALMubarek,3,Navbahor,0
+20201124,Kazakhstan Premier League,Kyzylzhar,0,Ordabasy,0
+20201124,Kazakhstan Premier League,Taraz,0,KaspiyAktau,1
+20201124,Kazakhstan Premier League,Astana,3,Kaisar,1
+20201122,Paraguay Division Profesional,SportivoLuqueno,2,Olimpia,2
+20201122,Brazil Serie A,Corinthians,0,Gremio,0
+20201122,Ecuador Liga Pro,Emelec,3,Delfin,2
+20201122,Venezuela Primera,Yaracuyanos,0,MinerosdeGuayana,1
+20201122,Uruguay Primera Division,Penarol,2,BostonRiver,0
+20201122,Chile Primera,EvertonVinadelMar,1,UniversidaddeChile,1
+20201122,Paraguay Division Profesional,NacionalAsuncion,0,Guairena,0
+20201122,Brazil Serie A,Internacional,1,Fluminense,2
+20201122,Brazil Serie A,Botafogo,1,FortalezaCE,2
+20201122,USA Major League Soccer,KansasCity,3,SanJose,3
+20201122,Venezuela Primera,Metropolitanos,0,Tachira,3
+20201122,Ecuador Liga Pro,DeportivoCuenca,3,Aucas,3
+20201122,France Ligue 1,Lille,4,Lorient,0
+20201122,Spain Primera Liga,Alaves,2,Valencia,2
+20201122,Spain Segunda Liga,Ponferradina,2,RealZaragoza,1
+20201122,Italy Serie B,ReggioCalabria,1,Pisa,2
+20201122,Italy Serie A,Napoli,1,ACMilan,3
+20201122,Belgium Juliper League,Genk,4,Peruwelz,1
+20201122,England Premier League,Liverpool,3,Leicester,0
+20201122,Belgium Division 2,Westerlo,1,RFCSeraing,1
+20201122,Holland Eredivisie,AZ,1,FCEmmen,0
+20201122,Venezuela Primera,AtleticoVenezuela,2,CaraboboFC,0
+20201122,Brazil Serie A,SaoPaulo,1,VascodaGama,1
+20201122,Brazil Serie A,Ceara,2,AtleticoMineiro,2
+20201122,Ecuador Liga Pro,Olmedo,1,ElNacional,2
+20201122,Romania Liga I,CFRCluj,0,UTABatranaDoamna,1
+20201122,Cyprus 1. Division,AEKLarnaca,1,ApollonLimassol,2
+20201122,Ukraine UPL,Vorskla,3,KolosKovalivka,0
+20201122,Spain Primera Liga,Granada,1,Valladolid,3
+20201122,Greece Etniki Katigoria,PAOKSalonika,2,PASGiannina,1
+20201122,Czech First League,SpartaPrague,2,CeskoBudejovice,4
+20201122,Belgium Juliper League,Charleroi,0,Gent,1
+20201122,Spain Segunda Liga,Tenerife,0,UDLogrones,1
+20201122,Italy Serie A,Udinese,1,Genoa,0
+20201122,Norway Tippeligaen,Haugesund,3,Sandefjord,2
+20201122,Costa Rica Primera,Herediano,2,Saprissa,3
+20201122,Germany Bundesliga,FCKoln,1,UnionBerlin,2
+20201122,Denmark Superliga,Vejle,0,Brondby,2
+20201122,Norway Tippeligaen,OddGrenland,1,IKStart,2
+20201122,Norway Tippeligaen,Kristiansund,1,Mjondalen,0
+20201122,Norway Tippeligaen,Sarpsborg,1,VikingFK,2
+20201122,Qatar Stars League,AlRayyan,2,AlKharaityat,0
+20201122,Qatar Stars League,AlArabi,1,AlSadd,4
+20201122,England Premier League,Leeds,0,Arsenal,0
+20201122,Sweden Allsvenskan,Ostersunds,0,Varbergs,4
+20201122,Sweden Superettan,AkropolisIF,2,Brage,1
+20201122,Serbia Super Liga,Vojvodina,0,CrvenaZvezda,2
+20201122,Poland Ekstraklasa,CracoviaKrakow,0,LegiaWarsaw,1
+20201122,Sweden Allsvenskan,Hammarby,2,Malmo,2
+20201122,Cyprus 1. Division,Limassol,1,AnorthosisFamagusta,0
+20201122,Bosnia and Herzegovina Premier League,SirokiBrijeg,5,RadnikBijeljina,0
+20201122,Slovenia Prva Liga,Domzale,0,NKCelje,1
+20201122,Russia Premier League,RubinKazan,0,FKRostov,2
+20201122,France Ligue 1,Angers,0,Lyon,1
+20201122,Turkey Super Lig,Antalyaspor,0,Alanyaspor,2
+20201122,Turkey Super Lig,Trabzonspor,1,Erzurumspor,0
+20201122,Turkey Lig 1,AdanaDemirspor,4,Eskisehirspor,1
+20201122,Austria Bundesliga,SVRied,4,RapidVienna,3
+20201122,Hungary NB I,FehervarFC,3,Diosgyori,0
+20201122,Sweden Division 1,Berga,1,IFKLulea,4
+20201122,Holland Eredivisie,FCTwente,1,PSV,1
+20201122,Holland Eredivisie,RKCWaalwijk,1,Heerenveen,1
+20201122,Bulgaria A PFG,LokomotivPlovdiv,1,CSKA,19481
+20201122,Spain Primera Liga,Cadiz,0,RealSociedad,1
+20201122,Greece Etniki Katigoria,Panaitolikos,0,ArisSalonika,1
+20201122,Switzerland Super League,Servette,1,Lugano,1
+20201122,Switzerland Super League,StGallen,2,LausanneSports,2
+20201122,Switzerland Super League,FCSion,2,FCZurich,2
+20201122,Spain Segunda Liga,Mallorca,0,SportingGijon,0
+20201122,Romania Liga I,Hermannstadt,0,AstraGiurgiu,1
+20201122,Belgium Division 2,UnionSaintGilloise,2,RWDM,1
+20201122,Ukraine UPL,DesnaChernigov,0,Lviv,1
+20201122,Denmark Superliga,AGFAarhus,1,Midtjylland,2
+20201122,Serbia Super Liga,Zlatibor,1,BackaPalanka,0
+20201122,Belgium Juliper League,ZulteWaregem,1,KVMechelen,2
+20201122,Luxembourg National Division,FCRodange,911,UNAStrassen,1
+20201122,Luxembourg National Division,VictoriaRosport,1,ProgresNiedercorn,0
+20201122,Czech First League,Zlin,1,Plzen,0
+20201122,Luxembourg National Division,Hostert,2,F,91
+20201122,Luxembourg National Division,JeunesseEsch,1,Wiltz,1
+20201122,Luxembourg National Division,EtzellaEttelbruck,2,RMHammBenfica,1
+20201122,Luxembourg National Division,SwiftHesperange,2,FolaEsch,2
+20201122,Germany Bundesliga,Freiburg,1,Mainz,3
+20201122,Qatar Stars League,Lekhwiya,0,AlGharrafa,3
+20201122,Italy Serie B,Ascoli,1,VirtusEntella,1
+20201122,Bosnia and Herzegovina Premier League,FKSarajevo,2,OlimpicSarajevo,0
+20201122,Italy Serie A,Roma,3,Parma,0
+20201122,Italy Serie A,Sampdoria,1,Bologna,2
+20201122,Italy Serie A,HellasVerona,0,Sassuolo,2
+20201122,Italy Serie A,InterMilan,4,Torino,2
+20201122,Germany 3. Liga,Ingolstadt,1,Magdeburg,0
+20201122,England Premier League,SheffUtd,0,WestHam,1
+20201122,Slovenia Prva Liga,Aluminij,0,TaborSezana,0
+20201122,France Ligue 1,Reims,0,Nimes,1
+20201122,Denmark 1st Division,Esbjerg,2,Skive,1
+20201122,France Ligue 1,Dijon,0,Lens,1
+20201122,France Ligue 1,Montpellier,4,Strasbourg,3
+20201122,Sweden Division 1,Gefle,2,Karlstad,2
+20201122,Norway 1. Division,RaufossIL,1,Tromso,1
+20201122,Cyprus 1. Division,NeaSalamina,2,OmoniaNicosia,1
+20201122,Chile Primera,Palestino,1,DeportesLaSerena,3
+20201122,Sweden Allsvenskan,Kalmar,0,Djurgardens,3
+20201122,Sweden Superettan,VasterasSK,0,Orgryte,3
+20201122,Sweden Allsvenskan,Elfsborg,2,Helsingborgs,1
+20201122,Sweden Allsvenskan,AIKStockholm,0,Orebro,2
+20201122,Russia Premier League,RotorVolgograd,0,UralSverdlovskayaOblast,0
+20201122,Holland Eredivisie,Sparta,6,ADODenHaag,0
+20201122,Holland Eredivisie,FortunaSittard,1,Feyenoord,3
+20201122,Austria Bundesliga,AustriaVienna,1,StPolten,1
+20201122,Austria Bundesliga,WSGWattens,3,Admira,0
+20201122,South Africa Premiership,Tshakhuma,1,Baroka,0
+20201122,South Africa Premiership,CapeTownCity,4,BloemfonteinCeltic,2
+20201122,South Africa Premiership,MamelodiSundowns,4,AmaZulu,3
+20201122,Greece Etniki Katigoria,AEKAthens,4,Larissa,1
+20201122,Spain Segunda Liga,Sabadell,3,LasPalmas,1
+20201122,Germany 3. Liga,Unterhaching,2,ViktoriaKoln,2
+20201122,Turkey Super Lig,Goztepespor,3,Ankaragucu,1
+20201122,Turkey Super Lig,Konyaspor,2,Kasimpasa,1
+20201122,Spain Primera Liga,Eibar,0,Getafe,0
+20201122,Turkey Lig 1,Tuzlaspor,0,Bandirmaspor,6
+20201122,Denmark Superliga,OdenseBK,1,Sonderjyske,1
+20201122,Denmark Superliga,AaB,1,FCNordsjaelland,1
+20201122,Czech First League,FCBrno,1,MarilaPribram,1
+20201122,Sweden Division 1,Trollhattan,2,Eskilsminne,1
+20201122,Estonia Meistriliiga,LevadiaTallinn,2,FCFloraPaide,2
+20201122,Czech FNL,FCVlasim,1,DuklaPraha,0
+20201122,Belgium Juliper League,BeerschotWilrijk,2,Anderlecht,1
+20201122,Croatia 2.HNL,HNKOrijent,19192,CibaliaVinkovci,0
+20201122,Croatia 2.HNL,NKOsijekII,2,Solin,0
+20201122,Germany 2. Bundesliga,Hamburg,1,VfLBochum,3
+20201122,Germany 2. Bundesliga,ErzgebirgeAue,3,Darmstadt,0
+20201122,Germany 2. Bundesliga,GreutherFurth,3,Regensburg,1
+20201122,Germany 2. Bundesliga,FCKickersWurzburg,2,Hannover,961
+20201122,England Premier League,Fulham,2,Everton,3
+20201122,Germany 3. Liga,Lubeck,3,BayernMunichII,0
+20201122,Montenegro Second League,ArsenalTivat,3,Jedinstvo,2
+20201122,Montenegro Second League,Bokelj,0,MornarBar,0
+20201122,Montenegro Second League,Berane,1,Drezga,1
+20201122,Montenegro Second League,Grbalj,1,Ibar,0
+20201122,Montenegro Second League,Kom,0,Igalo,2
+20201122,Denmark 1st Division,FremadAmager,0,Koge,1
+20201122,Scotland Premiership,Rangers,4,Aberdeen,0
+20201122,France Ligue 1,Nantes,1,Metz,1
+20201122,Serbia Prva Liga,KabelNoviSad,2,Jagodina,2
+20201122,Serbia Prva Liga,Zarkovo,1,TrajalKrusevac,0
+20201122,Serbia Prva Liga,DinamoVranje,1,RadnickiSremskaMitrovica,0
+20201122,Bosnia and Herzegovina Premier League,Krupa,1,VelezMostar,1
+20201122,Poland Ekstraklasa,LechPoznan,3,RakowCzestochowa,3
+20201122,Italy Serie A,Fiorentina,0,Benevento,1
+20201122,Singapore S-League,TanjongPagar,2,TampinesRovers,2
+20201122,Holland Eredivisie,Ajax,5,Heracles,0
+20201122,Russia Premier League,CSKAMoscow,1,Sochi,1
+20201122,Belarus Premier League,EnergetikBGU,2,DinamoMinsk,3
+20201122,Belarus Premier League,BATEBorisov,5,Belshina,0
+20201122,Belarus Premier League,NemanGrodno,1,Slutsk,0
+20201122,Belarus Premier League,TorpedoZhodino,2,Isloch,0
+20201122,Belarus Premier League,Gorodeya,1,DinamoBrest,4
+20201122,Belarus Premier League,FCRuhBrest,1,ShakhtyorSoligorsk,2
+20201122,Estonia Meistriliiga,NommeJKKalju,0,FloraTallinn,3
+20201122,Turkey Super Lig,Hatayspor,2,CaykurRizespor,2
+20201122,Armenia Premier League,Shirak,0,Banants,3
+20201122,Turkey Lig 1,Keciorengucu,6,AkhisarBelediyespor,0
+20201122,Bulgaria A PFG,ChernoMoreVarna,2,BotevVratsa,1
+20201122,Singapore S-League,LionCity,2,AlbirexNiigata,3
+20201122,Georgia Umaglesi Liga,MeraniTbilisi,1,ChikhuraSachkhere,2
+20201122,Azerbaijan Premier League,Gabala,1,NeftchiBaku,4
+20201122,Estonia Meistriliiga,Tammeka,3,JKTulevikViljandi,3
+20201122,Hong Kong 1st Division,Kitchee,2,Warriors,2
+20201122,Czech FNL,ViktoriaZizkov,3,SKLisen,1
+20201122,Japan J-League,UrawaRedDiamonds,1,GambaOsaka,2
+20201122,Hong Kong 1st Division,HongKongRangers,2,HappyValley,2
+20201122,Japan J2 League,TokyoVerdy,2,RenofaYamaguchi,1
+20201122,New Zealand Premiership,EasternSuburbs,3,CanterburyUnited,1
+20201122,Venezuela Primera,Trujillanos,0,RealEsppor,2
+20201122,Ecuador Liga Pro,RiverPlateEcuador,1,LDUdeQuito,1
+20201122,New Zealand Premiership,Wanderers,2,AucklandCity,0
+20201107,Colombia Copa Mustang,DeportesTolima,2,ChicoFC,0
+20201107,Paraguay Division Profesional,Libertad,3,RiverPlateAsuncion,1
+20201107,Uruguay Primera Division,Torque,1,MontevideoWanderers,2
+20201107,Mexico Liga MX,Guadalajara,3,Monterrey,1
+20201107,Mexico Liga MX,Pachuca,0,Necaxa,1
+20201107,Brazil Serie A,SaoPaulo,2,Goias,1
+20201107,Ecuador Liga Pro,LDUPortoviejo,0,TecnicoUniversitario,2
+20201107,Brazil Serie B,AmericaMineiro,1,PontePreta,1
+20201107,Colombia Copa Mustang,AtleticoBucaramanga,2,JaguaresdeCordoba,2
+20201107,Paraguay Division Profesional,Guairena,1,CerroPorteno,1
+20201107,Uruguay Primera Division,ClubNacional,3,Defensor,0
+20201107,Venezuela Primera,EstudiantesMerida,2,AtleticoVenezuela,0
+20201107,Brazil Serie A,AtleticoParanaense,2,FortalezaCE,1
+20201107,Peru Primera Division,UTCDeCajamarca,0,AtleticoGrau,0
+20201107,Portugal Superliga,Guimaraes,0,SportingLisbon,4
+20201107,England Premier League,WestHam,1,Fulham,0
+20201107,Spain Primera Liga,AtleticoMadrid,4,Cadiz,0
+20201107,Spain Segunda Liga,Espanyol,2,Lugo,1
+20201107,Holland Eredivisie,RKCWaalwijk,0,Sparta,2
+20201107,France Ligue 1,PSG,3,Rennes,0
+20201107,Costa Rica Primera,Grecia,1,SanCarlos,0
+20201107,Romania Liga I,SteauaBucharest,4,Botosani,1
+20201107,Belgium Division 2,RFCSeraing,1,LierseKempenzonen,3
+20201107,Belgium Juliper League,StTruiden,1,Genk,2
+20201107,Italy Serie A,Parma,0,Fiorentina,0
+20201107,Colombia Copa Mustang,BoyacaPatriotas,1,Pereira,0
+20201107,Norway Tippeligaen,SKBrann,1,Haugesund,2
+20201107,Brazil Serie B,Figueirense,0,Operario,1
+20201107,Brazil Serie B,BrasilDePelotas,3,CuiabaEsporteClube,0
+20201107,Slovenia Prva Liga,HITGorica,0,Bravo,0
+20201107,Poland Ekstraklasa,SlaskWroclaw,0,GornikZabrze,0
+20201107,Hungary NB I,MTK,3,FehervarFC,1
+20201107,Cyprus 1. Division,EthnikosAchnas,0,ApoelNicosia,0
+20201107,Switzerland Super League,LausanneSports,0,Lugano,1
+20201107,Switzerland Super League,FCZurich,2,Lucerne,0
+20201107,Italy Serie B,Cremonese,0,Vicenza,1
+20201107,Portugal Superliga,Famalicao,2,Maritimo,1
+20201107,France Ligue 2,Dunkerque,0,Paris,1
+20201107,France Ligue 2,Auxerre,2,Amiens,1
+20201107,France Ligue 2,Caen,2,Nancy,1
+20201107,France Ligue 2,Chateauroux,0,Pau,3
+20201107,France Ligue 2,RodezAveyron,0,ACAjaccio,1
+20201107,France Ligue 2,Sochaux,3,ChamoisNiort,4
+20201107,France Ligue 2,Toulouse,4,Valenciennes,5
+20201107,France Ligue 2,Troyes,2,Chambly,2
+20201107,Holland Eredivisie,VVVVenlo,3,Heracles,2
+20201107,Belgium Juliper League,Eupen,1,Waasland,1
+20201107,Germany Bundesliga,BorussiaDortmund,2,BayernMunich,3
+20201107,England Premier League,Chelsea,4,SheffUtd,1
+20201107,Ukraine UPL,DesnaChernigov,1,FCMinaj,0
+20201107,Portugal LigaPro,Vizela,2,Leixoes,1
+20201107,Spain Primera Liga,Sevilla,1,Osasuna,0
+20201107,England FA Cup,FCUnited,1,Doncaster,5
+20201107,Greece Etniki Katigoria,Panathinaikos,0,Atromitos,1
+20201107,Northern Ireland Premier League,Glentoran,0,Larne,0
+20201107,Spain Segunda Liga,Mirandes,1,SportingGijon,0
+20201107,Wales Premier League,BalaTown,1,TheNewSaints,1
+20201107,Czech First League,MarilaPribram,0,BanikOstrava,4
+20201107,Slovenia Prva Liga,Maribor,4,Domzale,3
+20201107,United Arab Emirates UFL,AlJazira,0,AlSharjah,1
+20201107,Serbia Super Liga,Subotica,1,PartizanBelgrade,2
+20201107,Norway Tippeligaen,Mjondalen,3,Stromsgodset,0
+20201107,Italy Serie A,Benevento,0,Spezia,3
+20201107,Saudi Arabia Pro League,AlNassr,2,AlQadisiyah,0
+20201107,Switzerland Challenge League,SCKriens,0,Chiasso,0
+20201107,Jordan Pro League,Ramtha,3,AlFaysali,1
+20201107,Sweden Superettan,Degerfors,2,GAIS,1
+20201107,Sweden Superettan,JonkopingSodra,1,NorrbyIF,0
+20201107,Sweden Superettan,Orgryte,0,AkropolisIF,1
+20201107,Poland Ekstraklasa,CracoviaKrakow,3,JagielloniaBialystok,1
+20201107,Croatia 1.HNL,HajdukSplit,1,NKOsijek,1
+20201107,Austria Bundesliga,CSRAltach,0,AustriaVienna,0
+20201107,Austria Bundesliga,StPolten,0,WSGWattens,1
+20201107,Austria Bundesliga,SVRied,2,Hartberg,0
+20201107,Turkey Lig 1,Osmanlispor,1,Bursaspor,1
+20201107,Turkey Super Lig,Fenerbahce,0,Konyaspor,2
+20201107,Belarus Premier League,ShakhtyorSoligorsk,1,BATEBorisov,1
+20201107,Peru Primera Division,AlianzaUniversidad,3,CarlosStein,2
+20201107,Cyprus 1. Division,ErmisAradippou,1,Enosis,1
+20201107,Russia Premier League,Tambov,0,TerekGroznyi,1
+20201107,France Ligue 1,Bordeaux,0,Montpellier,2
+20201107,Sweden Division 1,Brommapojkarna,4,Haninge,0
+20201107,Holland Eerste Divisie,CambuurLeeuwarden,2,JongAjax,3
+20201107,Holland Eredivisie,ADODenHaag,2,FCTwente,4
+20201107,Belgium Juliper League,Kortrijk,5,BeerschotWilrijk,5
+20201107,Greece Etniki Katigoria,PASGiannina,0,Panaitolikos,0
+20201107,Spain Primera Liga,Barcelona,5,RealBetis,2
+20201107,Spain Segunda Liga,FCCartagena,0,UDLogrones,1
+20201107,Portugal LigaPro,CasaPiaAtletico,0,Covilha,1
+20201107,Portugal LigaPro,FCPortoII,1,Mafra,2
+20201107,Portugal LigaPro,Varzim,1,AcademicoViseu,1
+20201107,Italy Serie B,Empoli,3,ReggioCalabria,0
+20201107,England Conference,Aldershot,1,NottsCounty,0
+20201107,England Conference,Wealdstone,1,Altrincham,0
+20201107,England Conference North,TelfordUtd,1,Southport,1
+20201107,England Conference North,CurzonAshton,0,BlythSpartans,3
+20201107,England Conference North,FarsleyCeltic,1,Gateshead,0
+20201107,England Conference North,SpennymoorTown,2,GloucesterCity,2
+20201107,England Conference North,Kidderminster,1,Leamington,1
+20201107,England Conference South,Bath,1,HemelHempstead,2
+20201107,England Conference South,BraintreeTown,1,HungerfordTown,2
+20201107,England Conference South,Dartford,2,DorkingWanderers,3
+20201107,England Conference South,SloughTown,2,MaidstoneUtd,3
+20201107,England Conference South,WellingUtd,0,ChelmsfordCity,4
+20201107,Portugal Superliga,Tondela,2,SantaClara,0
+20201107,England Championship,Derby,0,Barnsley,2
+20201107,England Championship,Huddersfield,1,Luton,1
+20201107,England Championship,NottmForest,2,Wycombe,0
+20201107,England Championship,Rotherham,2,Preston,1
+20201107,England Championship,SheffWed,0,Millwall,0
+20201107,England Championship,Watford,3,Coventry,2
+20201107,England Premier League,CrystalPalace,4,Leeds,1
+20201107,England Championship,Birmingham,1,Bournemouth,3
+20201107,England Championship,Blackburn,3,QPR,1
+20201107,England Championship,Norwich,1,Swansea,0
+20201107,England Championship,Brentford,0,Middlesbrough,0
+20201107,Ukraine UPL,Oleksandria,1,Lviv,0
+20201107,Northern Ireland Premier League,Cliftonville,3,WarrenpointTown,0
+20201107,Northern Ireland Premier League,Glenavon,4,Coleraine,4
+20201107,Northern Ireland Premier League,BallymenaUnited,1,Crusaders,4
+20201107,Northern Ireland Premier League,Portadown,1,Linfield,2
+20201107,Northern Ireland Premier League,CarrickRangers,0,DungannonSwifts,0
+20201107,England FA Cup,Stevenage,1,ConcordRangers,1
+20201107,England FA Cup,BrackleyTown,3,BishopsStortford,3
+20201107,England FA Cup,SalfordCity,0,Hartlepool,0
+20201107,England FA Cup,BanburyUtd,1,CanveyIsland,2
+20201107,England FA Cup,Rochdale,1,Chesterfield,2
+20201107,England FA Cup,OxfordUtd,1,Peterborough,2
+20201107,England FA Cup,LincolnCity,6,ForestGreen,2
+20201107,England FA Cup,Hull,2,FleetwoodTown,0
+20201107,England FA Cup,PortVale,0,KingsLynn,1
+20201107,England FA Cup,LeytonOrient,1,NewportCounty,2
+20201107,England FA Cup,Ipswich,2,Portsmouth,2
+20201107,England FA Cup,Sunderland,0,Mansfield,1
+20201107,England FA Cup,BorehamWood,2,Southend,2
+20201107,England FA Cup,Bromley,0,Yeovil,0
+20201107,England FA Cup,CambridgeUtd,0,Shrewsbury,2
+20201107,England FA Cup,Swindon,1,Darlington,2
+20201107,England FA Cup,Tranmere,2,AccringtonStanley,1
+20201107,England FA Cup,Charlton,0,Plymouth,1
+20201107,England FA Cup,Gillingham,3,Woking,2
+20201107,England FA Cup,DagenhamandRedbridge,3,Grimsby,1
+20201107,England FA Cup,Rochdale,1,Stockport,2
+20201107,England FA Cup,Cheltenham,3,SouthShields,1
+20201107,England FA Cup,Colchester,1,MarineFC,1
+20201107,England FA Cup,Walsall,1,BristolRovers,2
+20201107,England FA Cup,Bolton,2,Crewe,3
+20201107,Romania Liga I,Sepsi,1,Hermannstadt,1
+20201107,Slovenia Prva Liga,Olimpija,1,FCKoper,2
+20201107,Czech First League,Slovacko,0,SigmaOlomouc,0
+20201107,Scotland Championship,Arbroath,1,QueenofSouth,1
+20201107,Scotland Championship,Ayr,0,Dunfermline,0
+20201107,Scotland Championship,Hearts,2,InvernessCT,1
+20201107,Scotland Championship,Raith,5,Morton,0
+20201107,Scotland League One,AirdrieUtd,5,Clyde,0
+20201107,Scotland League One,CoveRangers,3,Forfar,0
+20201107,Scotland League One,EastFife,2,Dumbarton,1
+20201107,Scotland League One,Montrose,3,Peterhead,2
+20201107,Scotland League One,Partick,2,Falkirk,2
+20201107,Scotland League Two,AnnanAthletic,2,Albion,3
+20201107,Scotland League Two,Brechin,0,Stirling,5
+20201107,Scotland League Two,Elgin,0,QueensPark,1
+20201107,Scotland League Two,Stenhousemuir,2,EdinburghCity,0
+20201107,Scotland League Two,Stranraer,2,Cowdenbeath,0
+20201107,Czech First League,CeskoBudejovice,1,Zlin,2
+20201107,Serbia Super Liga,BackaTopola,5,MladostLucani,0
+20201107,Serbia Super Liga,Cukaricki,3,Vozdovac,2
+20201107,Serbia Super Liga,RadnickiNis,0,RadnikSurdulica,1
+20201107,Serbia Super Liga,MacvaSabac,1,JavorIvanjica,0
+20201107,Sweden Division 1,Eskilsminne,3,Tvaakers,1
+20201107,Sweden Division 1,Utsiktens,2,IFKVarnamo,1
+20201107,Ireland Premier,Shamrock,2,DerryCity,0
+20201107,Saudi Arabia Pro League,AlFateh,1,AlShababRiyadh,3
+20201107,Norway 1. Division,Sogndal,3,KFUMOslo,0
+20201107,Norway 1. Division,Oeygarden,1,Tromso,1
+20201107,Norway 1. Division,RaufossIL,0,Ranheim,0
+20201107,Germany Bundesliga,RBLeipzig,3,Freiburg,0
+20201107,Germany Bundesliga,UnionBerlin,5,ArminiaBielefeld,0
+20201107,Germany Bundesliga,Mainz,2,Schalke,042
+20201107,Germany Bundesliga,Augsburg,0,HerthaBerlin,3
+20201107,Germany Bundesliga,VfBStuttgart,2,EintrachtFrankfurt,2
+20201107,Croatia 1.HNL,Varazdin,1,HNKSibenik,3
+20201107,United Arab Emirates UFL,Ajman,0,BaniYas,0
+20201107,Poland Ekstraklasa,StalMielec,0,WartaPoznan,1
+20201107,Denmark 1st Division,FremadAmager,0,KoldingIF,0
+20201107,Russia 1. Division,TekstilshchikIvanovo,0,KrasnodarII,0
+20201107,Russia 1. Division,FakelWorenesch,2,ShinnikJaroslavl,0
+20201107,Jordan Pro League,ShababAlOrdun,4,AlSareeh,1
+20201107,Sweden Division 1,Landskrona,4,Linkoping,2
+20201107,Sweden Superettan,Halmstads,4,Dalkurd,0
+20201107,Sweden Allsvenskan,BKHacken,2,Ostersunds,1
+20201107,Sweden Allsvenskan,Mjallby,2,IFKNorrkoping,0
+20201107,France Ligue 2,Grenoble,2,LeHavre,1
+20201107,Sweden Division 1,Torns,0,Lund,2
+20201107,Sweden Allsvenskan,Falkenbergs,1,Elfsborg,3
+20201107,France Ligue 2,ClermontFoot,0,Guingamp,0
+20201107,Belarus Premier League,DinamoBrest,2,TorpedoZhodino,3
+20201107,Cyprus 1. Division,Paphos,1,Limassol,0
+20201107,United Arab Emirates UFL,AlAin,4,AlDhafra,1
+20201107,Italy Serie A,Cagliari,2,Sampdoria,0
+20201107,Hungary NB I,PaksiSE,6,Puskas,2
+20201107,Russia Premier League,ArsenalTula,1,RotorVolgograd,1
+20201107,Russia 1. Division,DynamoBryansk,2,EnergiyaKhabarovsk,5
+20201107,Russia 1. Division,AlaniaVladikavkaz,5,BaltikaKaliningrad,0
+20201107,Denmark 1st Division,Skive,2,Hvidovre,3
+20201107,Germany Regionalliga West,PreussenMunster,1,Ahlen,0
+20201107,Germany Regionalliga West,FortunaDusseldorfII,0,WegbergBeeck,0
+20201107,Germany Regionalliga West,VfBHomberg,0,FCKolnII,0
+20201107,Germany Regionalliga West,Straelen,2,Lotte,1
+20201107,Germany Regionalliga West,BergischGladbach,0,RotWeissEssen,2
+20201107,Germany Regionalliga West,FCSchalke,04,II,2
+20201107,Germany Regionalliga West,Lippstadt,082,FortunaKoln,2
+20201107,Czech FNL,UstinadLabem,2,ViktoriaZizkov,1
+20201107,Czech FNL,SkProstejov,3,Vysehrad,0
+20201107,Czech FNL,Trinec,1,HradecKralove,2
+20201107,Czech FNL,SKLisen,1,Chrudim,0
+20201107,Slovenia Prva Liga,TaborSezana,0,Mura,0
+20201107,Czech First League,Pardubice,1,Opava,0
+20201107,Sweden Division 1,Karlskrona,1,SkovdeAIK,2
+20201107,Sweden Division 1,Gefle,5,OrebroSyrianska,2
+20201107,Serbia Super Liga,NoviPazar,1,Zlatibor,2
+20201107,Serbia Super Liga,BackaPalanka,0,RadBelgrade,1
+20201107,Serbia Super Liga,ProleterNoviSad,1,Napredak,0
+20201107,Holland Eerste Divisie,DeGraafschap,2,FCVolendam,5
+20201107,Sweden Division 1,Berga,2,Taby,1
+20201107,Iran Pro League,Esteghlal,2,MesRafsanjan,0
+20201107,England FA Cup,Exeter,2,AFCFylde,1
+20201107,Spain Primera Liga,Huesca,1,Eibar,1
+20201107,Italy Serie B,Cosenza,1,Brescia,2
+20201107,England Conference North,BradfordParkAvenue,2,AlfretonTown,0
+20201107,Italy Serie B,Monza,2,Frosinone,0
+20201107,Italy Serie B,Pordenone,1,Chievo,1
+20201107,Germany 3. Liga,Magdeburg,2,BayernMunichII,1
+20201107,Germany 3. Liga,FSVZwickau,1,Kaiserslautern,2
+20201107,Germany 3. Liga,Saarbrucken,2,DynamoDresden,1
+20201107,Turkey Super Lig,Alanyaspor,1,Trabzonspor,1
+20201107,Turkey Super Lig,Erzurumspor,1,Goztepespor,1
+20201107,Iran Pro League,GolGoharSirjan,3,Sepahan,1
+20201107,Bulgaria A PFG,BotevPlovdiv,0,ChernoMoreVarna,0
+20201107,Saudi Arabia Pro League,AlAin,3,AlAhliJeddah,4
+20201107,England FA Cup,TonbridgeAngels,0,Bradford,7
+20201107,Croatia 2.HNL,CibaliaVinkovci,1,NKDubrava,2
+20201107,Croatia 2.HNL,Kustosija,4,CroatiaSesvete,2
+20201107,Croatia 2.HNL,Solin,1,HrvatskiDragovoljac,1
+20201107,England Championship,Reading,0,Stoke,3
+20201107,England Premier League,Everton,1,ManUtd,3
+20201107,Romania Liga I,Voluntari,4,CSMSIasi,0
+20201107,Iran Pro League,PadidehKhorasan,3,MachineSaziTabriz,0
+20201107,Vietnam V League,HoChiMinhCity,1,BinhDuong,1
+20201107,Serbia Prva Liga,GraficarBeograd,3,ZeleznicarPancevo,0
+20201107,Belarus Premier League,Slutsk,0,Gorodeya,1
+20201107,Ukraine UPL,OlimpikDonetsk,3,IllichivetsMariupol,3
+20201107,Bosnia and Herzegovina Premier League,OlimpicSarajevo,1,Krupa,1
+20201107,Germany 2. Bundesliga,Hannover,960,ErzgebirgeAue,0
+20201107,Germany 2. Bundesliga,VfLBochum,0,GreutherFurth,2
+20201107,Germany 2. Bundesliga,Nurnberg,1,FortunaDusseldorf,1
+20201107,Russia 1. Division,KrylyaSovetov,3,Akron,0
+20201107,Russia 1. Division,VolgarGazpromAstrakhan,3,TorpedoMoscow,2
+20201107,Russia 1. Division,ChertanovoMoscow,1,YeniseyKrasnoyarsk,2
+20201107,Sweden Division 1,MotalaAIF,0,QvidingFIF,2
+20201107,Sweden Superettan,Brage,0,VasterasSK,3
+20201107,Sweden Division 1,Karlstad,6,IFSylvia,1
+20201107,Sweden Division 1,LindomeGIF,2,AssyriskaTurabdin,1
+20201107,Croatia 2.HNL,Rudes,0,HNKOrijent,19190
+20201107,Estonia Meistriliiga,FCKuressaare,1,NommeJKKalju,1
+20201107,Estonia Meistriliiga,FCKuressaare,1,NommeJKKalju,1
+20201107,Estonia Esiliiga,Vaprus,0,FloraII,3
+20201107,Estonia Esiliiga,TammekaTartuII,1,Elva,3
+20201107,Estonia Meistriliiga,Tammeka,1,LevadiaTallinn,1
+20201107,Russia Premier League,UralSverdlovskayaOblast,2,SpartakMoscow,2
+20201107,Russia 1. Division,IrtyshOmsk,2,ChaykaPeschanokopskoye,2
+20201107,Russia 1. Division,SpartakMoscowII,0,Olimpyets,4
+20201107,Russia 1. Division,Veles,3,Neftekhimik,1
+20201107,Turkey Super Lig,Kasimpasa,2,Antalyaspor,2
+20201107,Turkey Lig 1,Bandirmaspor,0,Giresunspor,1
+20201107,Turkey Lig 1,Umraniyespor,1,Tuzlaspor,1
+20201107,Vietnam V League,HoangAnhGiaLai,3,HongLinhHaTinh,0
+20201107,Singapore S-League,BalestierKhalsa,1,LionCity,7
+20201107,Singapore S-League,GeylangUnited,1,TampinesRovers,1
+20201107,Kazakhstan Premier League,Kaisar,2,Kairat,2
+20201107,Russia 1. Division,Tomsk,0,GazovikOrenburg,1
+20201107,Japan J2 League,TokyoVerdy,1,TokushimaVortis,2
+20201107,South Korea K League 2,GoyangKB,1,SuwonCity,2
+20201107,South Korea K League 2,AnsanGreeners,2,Bucheon,19950
+20201107,South Korea K League 2,ChungnamAsan,0,JejuUnited,1
+20201107,Mexico Liga MX,Juarez,1,CFAmerica,1
+20201107,Mexico Liga MX,Puebla,1,AtleticoSanLuis,0
+20201107,Colombia Copa Mustang,ItaguiDitares,2,Cucuta,1
+20201107,Brazil Serie B,Parana,1,Confianca,1
+20201128,Ecuador Liga Pro,Delfin,1,IndependienteJoseTeran,0
+20201128,Colombia Copa Mustang,Cali,0,LaEquidad,1
+20201128,Argentina Primera B Nacional,Mitre,0,Belgrano,0
+20201128,Brazil Serie A,Bahia,1,SaoPaulo,3
+20201128,Paraguay Division Profesional,Olimpia,3,RiverPlateAsuncion,1
+20201128,Brazil Serie B,Vitoria,2,CRB,1
+20201128,Venezuela Primera,AtleticoVenezuela,0,Yaracuyanos,1
+20201128,Peru Primera Division,AtleticoGrau,1,AlianzaUniversidad,1
+20201128,Peru Primera Division,CarlosStein,1,UTCDeCajamarca,1
+20201128,Peru Primera Division,SportHuancayo,2,AlianzaLima,0
+20201128,Peru Primera Division,SportingCristal,3,AcademiaCantolao,2
+20201128,Portugal Superliga,SportingLisbon,2,Moreirense,1
+20201128,Ecuador Liga Pro,TecnicoUniversitario,1,DeportivoCuenca,1
+20201128,Argentina Primera B Nacional,DeportivoSantamarina,1,Quilmes,0
+20201128,Argentina Primera B Nacional,Almagro,1,GimnasiaJujuy,0
+20201128,Argentina Primera B Nacional,AtleticoAtlanta,0,CAPlatense,2
+20201128,Brazil Serie A,Palmeiras,3,AtleticoParanaense,0
+20201128,Brazil Serie A,Santos,4,SportRecife,2
+20201128,France Ligue 1,PSG,2,Bordeaux,2
+20201128,Holland Eredivisie,VVVVenlo,2,FCZwolle,2
+20201128,England Premier League,WestBrom,1,SheffUtd,0
+20201128,Spain Primera Liga,RealMadrid,1,Alaves,2
+20201128,Italy Serie A,Atalanta,0,HellasVerona,2
+20201128,Belgium Division 2,LierseKempenzonen,0,Westerlo,1
+20201128,Belgium Juliper League,Peruwelz,0,ClubBrugge,0
+20201128,Switzerland Super League,Servette,1,Lucerne,3
+20201128,Spain Segunda Liga,Mirandes,1,Castellon,1
+20201128,Holland Eredivisie,ADODenHaag,1,Heerenveen,1
+20201128,Brazil Serie B,CSAAL,2,PontePreta,1
+20201128,Poland Ekstraklasa,WislaKrakow,1,ZaglebieLubin,2
+20201128,Hungary NB I,Ferencvarosi,2,MTK,0
+20201128,South Africa Premiership,AmaZulu,1,CapeTownCity,1
+20201128,France Ligue 2,Troyes,2,Amiens,1
+20201128,France Ligue 2,RodezAveyron,1,Guingamp,1
+20201128,France Ligue 2,Sochaux,4,LeHavre,0
+20201128,France Ligue 2,ACAjaccio,0,Chambly,0
+20201128,France Ligue 2,Auxerre,1,Valenciennes,1
+20201128,France Ligue 2,Caen,1,Chateauroux,1
+20201128,France Ligue 2,ClermontFoot,2,Nancy,0
+20201128,France Ligue 2,Dunkerque,2,Pau,2
+20201128,Portugal Superliga,SantaClara,0,FCPorto,1
+20201128,Holland Eredivisie,FCEmmen,0,Ajax,5
+20201128,Belgium Juliper League,CercleBrugge,1,Genk,5
+20201128,England Premier League,Everton,0,Leeds,1
+20201128,Czech First League,CeskoBudejovice,0,Plzen,0
+20201128,Germany Bundesliga,BorussiaMonchengladbach,4,Schalke,041
+20201128,England FA Cup,Peterborough,1,Chorley,2
+20201128,Greece Etniki Katigoria,ArisSalonika,1,Olympiacos,2
+20201128,Northern Ireland Premier League,WarrenpointTown,2,Linfield,1
+20201128,Spain Primera Liga,Huesca,0,Sevilla,1
+20201128,Spain Segunda Liga,RayoVallecano,0,FCCartagena,0
+20201128,Switzerland Challenge League,FCThun,3,Chiasso,0
+20201128,Switzerland Super League,FCVaduz,4,FCSion,1
+20201128,Scottish League Cup,StMirren,2,Aberdeen,1
+20201128,Norway Tippeligaen,SKBrann,3,Aalesund,1
+20201128,Italy Serie A,Benevento,1,Juventus,1
+20201128,France National,Cholet,0,RedStar,2
+20201128,Poland Ekstraklasa,PodbeskidzieBielskoBiala,0,SlaskWroclaw,2
+20201128,Jordan Pro League,AlHussein,1,AlFaysali,2
+20201128,Cyprus 1. Division,NeaSalamina,0,ApoelNicosia,3
+20201128,Slovenia Prva Liga,Maribor,1,TaborSezana,0
+20201128,Croatia 1.HNL,Gorica,1,Lokomotiva,1
+20201128,France National,Annecy,1,QuevillyRouen,2
+20201128,Bulgaria A PFG,LokomotivPlovdiv,6,BotevPlovdiv,0
+20201128,Austria Bundesliga,SKSturmGraz,1,WSGWattens,0
+20201128,Austria Bundesliga,StPolten,2,RBSalzburg,8
+20201128,Austria Bundesliga,Admira,2,Hartberg,3
+20201128,Turkey Lig 1,Altay,3,Bursaspor,1
+20201128,Turkey Super Lig,CaykurRizespor,0,Galatasaray,4
+20201128,Estonia Esiliiga,FloraII,4,TammekaTartuII,1
+20201128,Russia Premier League,FKRostov,4,DinamoMoscow,1
+20201128,Russia Premier League,TerekGroznyi,0,LokomotivMoscow,0
+20201128,France Ligue 1,Marseille,3,Nantes,1
+20201128,South Africa Premiership,MamelodiSundowns,3,Stellenbosch,0
+20201128,Bosnia and Herzegovina Premier League,BoracBanjaLuka,1,SirokiBrijeg,1
+20201128,Peru Primera Division,DeportivoLlacuabamba,2,RealGarcilaso,3
+20201128,Holland Eerste Divisie,FCDordrecht,3,JongAjax,1
+20201128,Belgium Juliper League,StTruiden,1,Waasland,1
+20201128,Greece Etniki Katigoria,Larissa,0,Atromitos,0
+20201128,Spain Primera Liga,Valencia,0,AtleticoMadrid,1
+20201128,Spain Segunda Liga,Sabadell,1,Fuenlabrada,2
+20201128,Portugal LigaPro,CovaPiedade,0,Feirense,0
+20201128,England Conference,Altrincham,2,MaidenheadUtd,0
+20201128,England Conference,Bromley,1,Wrexham,1
+20201128,England Conference,SuttonUtd,1,Halifax,0
+20201128,England Conference,Weymouth,1,Chesterfield,2
+20201128,England Conference North,Hereford,3,KetteringTown,3
+20201128,England Conference North,Fylde,2,BostonUtd,1
+20201128,England Conference North,TelfordUtd,2,Guiseley,0
+20201128,England Conference North,Chester,1,Gateshead,2
+20201128,England Conference North,GloucesterCity,1,FarsleyCeltic,2
+20201128,England Conference North,Kidderminster,1,CurzonAshton,0
+20201128,England Conference North,Leamington,2,York,1
+20201128,England Conference North,SpennymoorTown,2,BradfordParkAvenue,2
+20201128,England Conference South,BillericayTown,2,HamptonandRichmond,6
+20201128,England Conference South,ChippenhamTown,1,ConcordRangers,1
+20201128,England Conference South,EastbourneBorough,0,StAlbansCity,1
+20201128,England Conference South,HungerfordTown,1,Dartford,2
+20201128,England Conference South,TonbridgeAngels,1,HemelHempstead,2
+20201128,Italy Serie B,Monza,1,ReggioCalabria,0
+20201128,Northern Ireland Premier League,Glentoran,5,DungannonSwifts,1
+20201128,Northern Ireland Premier League,Cliftonville,5,Portadown,0
+20201128,Northern Ireland Premier League,Glenavon,3,Crusaders,1
+20201128,Northern Ireland Premier League,Coleraine,0,Larne,2
+20201128,England FA Cup,HarrogateTown,0,Blackpool,4
+20201128,England FA Cup,Bradford,1,Oldham,2
+20201128,Algeria Ligue 1,USMAlger,0,ESSetif,2
+20201128,Scottish League Cup,Alloa,0,Hearts,0
+20201128,Scottish League Cup,Arbroath,1,Dunfermline,3
+20201128,Scottish League Cup,Hibernian,1,Dundee,0
+20201128,Scottish League Cup,Livingston,4,Ayr,0
+20201128,Scottish League Cup,Motherwell,1,StJohnstone,2
+20201128,England FA Cup,Plymouth,2,LincolnCity,0
+20201128,England FA Cup,Cheltenham,1,Crewe,1
+20201128,England FA Cup,Portsmouth,6,KingsLynn,1
+20201128,Czech First League,Karvina,0,Zlin,2
+20201128,England Championship,Rotherham,2,Bournemouth,2
+20201128,England League 1,Ipswich,0,Charlton,2
+20201128,England League 1,OxfordUtd,1,Swindon,2
+20201128,England League 2,Bolton,3,Southend,0
+20201128,England Premier League,ManCity,5,Burnley,0
+20201128,Ukraine UPL,DynamoKiev,2,Vorskla,0
+20201128,England Championship,Watford,4,Preston,1
+20201128,England Championship,Birmingham,0,Millwall,0
+20201128,England Championship,Norwich,1,Coventry,1
+20201128,England Championship,SheffWed,0,Stoke,0
+20201128,England Championship,Blackburn,2,Barnsley,1
+20201128,England Championship,Cardiff,4,Luton,0
+20201128,England Championship,Derby,1,Wycombe,1
+20201128,England Championship,Huddersfield,3,Middlesbrough,2
+20201128,Denmark Superliga,Midtjylland,0,AaB,0
+20201128,Scotland League One,AirdrieUtd,1,CoveRangers,1
+20201128,Scotland League One,Montrose,0,Partick,1
+20201128,Scotland League One,Peterhead,0,Forfar,1
+20201128,Scotland League Two,Albion,0,Stirling,1
+20201128,Scotland League Two,AnnanAthletic,0,EdinburghCity,4
+20201128,Scotland League Two,Brechin,1,Stranraer,4
+20201128,Scotland League Two,Elgin,5,Cowdenbeath,2
+20201128,Scotland League Two,QueensPark,3,Stenhousemuir,1
+20201128,Czech First League,Slovacko,3,Opava,1
+20201128,Norway Tippeligaen,VikingFK,4,IKStart,1
+20201128,Germany Bundesliga,UnionBerlin,3,EintrachtFrankfurt,3
+20201128,Germany Bundesliga,Augsburg,1,Freiburg,1
+20201128,Germany Bundesliga,VfBStuttgart,1,BayernMunich,3
+20201128,Germany Bundesliga,BorussiaDortmund,1,FCKoln,2
+20201128,Germany Bundesliga,RBLeipzig,2,ArminiaBielefeld,1
+20201128,Wales Premier League,CaernarfonTown,1,Haverfordwest,4
+20201128,Wales Premier League,FlintTown,0,CardiffMetropolitanUniversity,1
+20201128,Wales Premier League,TheNewSaints,4,AberystwythTown,1
+20201128,Italy Serie A,Sassuolo,0,InterMilan,3
+20201128,Bosnia and Herzegovina Premier League,VelezMostar,0,FKSarajevo,0
+20201128,Cyprus 1. Division,AnorthosisFamagusta,4,Enosis,2
+20201128,Algeria Ligue 1,Biskra,1,JSMSkikda,0
+20201128,Croatia 1.HNL,Varazdin,1,Istra,1
+20201128,Norway 1. Division,Tromso,3,Ranheim,0
+20201128,Jordan Pro League,AlWihdat,1,Maan,1
+20201128,Sweden Superettan,Halmstads,1,Orgryte,0
+20201128,Sweden Superettan,Degerfors,2,GIFSundsvall,5
+20201128,Sweden Superettan,Umea,0,VasterasSK,0
+20201128,Sweden Superettan,GAIS,1,AkropolisIF,1
+20201128,Poland Ekstraklasa,StalMielec,3,JagielloniaBialystok,1
+20201128,Sweden Superettan,JonkopingSodra,2,Trelleborgs,1
+20201128,Sweden Superettan,Osters,0,Ljungskile,1
+20201128,France Ligue 2,Grenoble,0,Paris,0
+20201128,France Ligue 2,Toulouse,2,ChamoisNiort,1
+20201128,Hungary NB I,Kisvarda,0,Budafoki,0
+20201128,South Africa Premiership,TSGalaxy,1,GoldenArrows,1
+20201128,South Africa Premiership,OrlandoPirates,1,Baroka,1
+20201128,Wales Premier League,ConnahsQuay,3,BarryTown,1
+20201128,Algeria Ligue 1,OlympiqueMedea,0,JSSaoura,1
+20201128,Algeria Ligue 1,MCMagra,3,Chlef,2
+20201128,Russia Premier League,FCKhimki,1,Krasnodar,0
+20201128,Slovenia Prva Liga,Mura,2,FCKoper,1
+20201128,Germany Regionalliga West,BorussiaMonchengladbachII,0,FortunaKoln,0
+20201128,Germany Regionalliga West,PreussenMunster,0,WegbergBeeck,0
+20201128,Germany Regionalliga West,FCKolnII,2,Lotte,0
+20201128,Germany Regionalliga West,Wuppertaler,0,Wiedenbruck,1
+20201128,Germany Regionalliga West,VfBHomberg,3,Bonner,1
+20201128,Germany Regionalliga West,Rodinghausen,2,Ahlen,0
+20201128,Germany Regionalliga West,FCSchalke,04,II,6
+20201128,Germany Regionalliga West,Oberhausen,1,FortunaDusseldorfII,0
+20201128,Germany 3. Liga,HansaRostock,2,BayernMunichII,0
+20201128,Germany 3. Liga,Hallescher,2,ViktoriaKoln,0
+20201128,Germany 3. Liga,FSVZwickau,0,Magdeburg,1
+20201128,Germany 3. Liga,Unterhaching,2,Wehen,1
+20201128,England League 2,PortVale,2,LeytonOrient,3
+20201128,Turkey Super Lig,IstanbulBuyuksehirBSK,3,Denizlispor,3
+20201128,Turkey Lig 1,Istanbulspor,1,Giresunspor,1
+20201128,Turkey Lig 1,AkhisarBelediyespor,0,Osmanlispor,1
+20201128,Denmark 1st Division,Koge,0,Esbjerg,2
+20201128,Holland Eerste Divisie,RodaJC,3,ExcelsiorRotterdam,1
+20201128,Czech First League,MarilaPribram,2,MladaBoleslav,1
+20201128,Sweden Division 1,Linkoping,0,Utsiktens,0
+20201128,Sweden Division 1,Karlskrona,1,Tvaakers,1
+20201128,Sweden Division 1,IFKVarnamo,2,AssyriskaTurabdin,0
+20201128,Sweden Division 1,Landskrona,2,MotalaAIF,0
+20201128,Sweden Division 1,QvidingFIF,4,Oskarshamns,1
+20201128,Sweden Division 1,Eskilsminne,1,Torns,1
+20201128,Sweden Division 1,SkovdeAIK,4,Trollhattan,1
+20201128,Sweden Division 1,Lund,2,LindomeGIF,1
+20201128,Uruguay Primera Division,Fenix,1,DeportivoMaldonado,1
+20201128,Spain Primera Liga,Elche,1,Cadiz,1
+20201128,Italy Serie B,Brescia,1,Frosinone,2
+20201128,Italy Serie B,Empoli,2,Vicenza,2
+20201128,England FA Cup,NewportCounty,3,SalfordCity,0
+20201128,England FA Cup,Gillingham,2,Exeter,3
+20201128,Italy Serie B,Pescara,0,Pordenone,2
+20201128,Italy Serie B,Pisa,1,Cittadella,4
+20201128,Italy Serie B,Venezia,2,Ascoli,1
+20201128,Saudi Arabia Pro League,AlAin,1,AlRaed,0
+20201128,England FA Cup,Morecambe,2,SolihullMoors,2
+20201128,England Championship,Reading,3,BristolCity,1
+20201128,England Premier League,Brighton,1,Liverpool,1
+20201128,Croatia 2.HNL,Opatija,2,CroatiaSesvete,3
+20201128,Croatia 2.HNL,Solin,0,Junak,0
+20201128,Czech FNL,UstinadLabem,0,Trinec,1
+20201128,Czech FNL,Jihlava,0,SlovanVarnsdorf,1
+20201128,Czech FNL,ViktoriaZizkov,0,DuklaPraha,2
+20201128,Czech FNL,Chrudim,1,Blansko,0
+20201128,Czech FNL,Taborsko,0,SKLisen,1
+20201128,Czech FNL,Vysehrad,1,FCVlasim,2
+20201128,Czech FNL,HradecKralove,0,SkProstejov,1
+20201128,Germany 2. Bundesliga,Sandhausen,1,ErzgebirgeAue,4
+20201128,Germany 2. Bundesliga,Regensburg,2,FCKickersWurzburg,1
+20201128,Germany 2. Bundesliga,Karlsruhe,1,Paderborn,0
+20201128,Ukraine UPL,Oleksandria,0,RukhVinnyky,0
+20201128,Denmark 1st Division,Skive,0,Fredericia,4
+20201128,Serbia Super Liga,MacvaSabac,3,Indjija,0
+20201128,Bosnia and Herzegovina Premier League,OlimpicSarajevo,3,TuzlaCity,2
+20201128,Serbia Prva Liga,ZeleznicarPancevo,0,KabelNoviSad,2
+20201128,Serbia Prva Liga,Jagodina,0,Radnicki,19230
+20201128,Serbia Prva Liga,BuducnostDobanovci,2,Zarkovo,1
+20201128,Serbia Prva Liga,Loznica,3,DinamoVranje,3
+20201128,Croatia 2.HNL,CibaliaVinkovci,6,HrvatskiDragovoljac,0
+20201128,Bulgaria A PFG,ArdaKurdzhali,3,Montana,0
+20201128,Russia Premier League,ArsenalTula,0,ZenitStPetersburg,0
+20201128,Estonia Meistriliiga,JKTallinnaKalev,1,FCKuressaare,1
+20201128,Estonia Meistriliiga,JKTransNarva,1,TJKLegion,3
+20201128,Belarus Premier League,FKVitebsk,2,TorpedoZhodino,3
+20201128,Belarus Premier League,Belshina,3,FCRuhBrest,7
+20201128,Belarus Premier League,DinamoBrest,3,NemanGrodno,1
+20201128,Belarus Premier League,ShakhtyorSoligorsk,4,Minsk,2
+20201128,Belarus Premier League,SlaviaMozyr,2,EnergetikBGU,1
+20201128,Belarus Premier League,DinamoMinsk,0,BATEBorisov,0
+20201128,Belarus Premier League,Isloch,2,Gorodeya,2
+20201128,Portugal LigaPro,AcademicoViseu,0,Penafiel,0
+20201128,Turkey Lig 1,Umraniyespor,0,MenemenBelediyespor,2
+20201128,Turkey Super Lig,GaziantepBB,2,Malatyaspor,2
+20201128,Armenia Premier League,LoriVanadzor,0,AvanAcademy,1
+20201128,Singapore S-League,SengkangPunggol,3,TanjongPagar,2
+20201128,Singapore S-League,BalestierKhalsa,2,GeylangUnited,0
+20201128,Hong Kong 1st Division,ResourcesCapital,0,TSWPegasus,1
+20201128,Hong Kong 1st Division,SouthernDistrictRSA,3,HongKongRangers,3
+20201128,Japan J2 League,GiravanzKitakyushu,1,FagianoOkayama,1
+20201128,Japan J-League,NagoyaGrampusEight,0,OitaTrinita,0
+20201128,Japan J-League,SanfrecceHiroshima,2,ConsadoleSapporo,2
+20201128,Brazil Serie B,CuiabaEsporteClube,2,Avai,1
+20201128,Colombia Copa Mustang,Millonarios,5,OnceCaldas,2
+20201128,Brazil Serie B,Cruzeiro,1,Confianca,2
+20201129,Paraguay Division Profesional,ClubGuarani,2,SportivoLuqueno,1
+20201129,Uruguay Primera Division,BostonRiver,0,ClubNacional,1
+20201129,Venezuela Primera,MinerosdeGuayana,1,GuarosdeLara,2
+20201129,Ecuador Liga Pro,BarcelonaGuayaquil,3,Macara,0
+20201129,Paraguay Division Profesional,CerroPorteno,3,GeneralDiaz,1
+20201129,Venezuela Primera,Caracas,0,Tachira,0
+20201129,Ecuador Liga Pro,LDUPortoviejo,2,UnivCatolica,1
+20201129,France Ligue 1,StEtienne,1,Lille,1
+20201129,USA Major League Soccer,OrlandoCity,1,NewEngland,3
+20201129,Uruguay Primera Division,RiverPlateMontevideo,1,Defensor,1
+20201129,Portugal Superliga,Braga,1,Farense,0
+20201129,Spain Primera Liga,RealSociedad,1,Villarreal,1
+20201129,Spain Segunda Liga,LasPalmas,3,SportingGijon,2
+20201129,Italy Serie B,Cosenza,0,Salernitana,1
+20201129,Italy Serie A,Napoli,4,Roma,0
+20201129,Belgium Juliper League,Kortrijk,3,Oostende,1
+20201129,England Premier League,Arsenal,1,Wolverhampton,2
+20201129,Belgium Division 2,RFCSeraing,1,UnionSaintGilloise,0
+20201129,Holland Eredivisie,PSV,1,Sparta,0
+20201129,Norway Tippeligaen,Valerenga,1,Sarpsborg,1
+20201129,Venezuela Primera,CaraboboFC,0,AcademiaPuertoCabello,3
+20201129,Ecuador Liga Pro,Aucas,4,Orense,1
+20201129,Serbia Super Liga,CrvenaZvezda,3,RadBelgrade,0
+20201129,Hungary NB I,BudapestHonved,0,Puskas,1
+20201129,Greece Etniki Katigoria,AsterasTripoli,1,AEKAthens,2
+20201129,Portugal Superliga,Boavista,0,Belenenses,0
+20201129,Spain Primera Liga,CeltadeVigo,3,Granada,1
+20201129,Ukraine UPL,Inhulets,2,OlimpikDonetsk,1
+20201129,Czech First League,SlaviaPrague,1,FCBrno,1
+20201129,Belgium Juliper League,Anderlecht,0,StandardLiege,0
+20201129,Spain Segunda Liga,Mallorca,4,UDLogrones,0
+20201129,Spain Segunda Liga,Ponferradina,3,Leganes,2
+20201129,Italy Serie A,Cagliari,2,Spezia,2
+20201129,Scottish League Cup,Falkirk,0,Rangers,4
+20201129,Denmark Superliga,FCNordsjaelland,3,AGFAarhus,1
+20201129,Germany Bundesliga,Mainz,1,Hoffenheim,1
+20201129,Bulgaria A PFG,CSKASofia,2,CSKA,19480
+20201129,Norway Tippeligaen,Molde,3,Haugesund,1
+20201129,Norway Tippeligaen,Mjondalen,0,Stabaek,1
+20201129,Norway Tippeligaen,Kristiansund,2,Stromsgodset,1
+20201129,Saudi Arabia Pro League,AlAhliJeddah,2,AlFaisaly,1
+20201129,Cyprus 1. Division,ApollonLimassol,1,Limassol,2
+20201129,Sweden Allsvenskan,IKSirius,1,Elfsborg,1
+20201129,Sweden Superettan,Brage,1,AFCEskilstuna,3
+20201129,Sweden Allsvenskan,Mjallby,2,Djurgardens,1
+20201129,Sweden Allsvenskan,BKHacken,3,Orebro,0
+20201129,England Premier League,Chelsea,0,Tottenham,0
+20201129,Poland Ekstraklasa,LegiaWarsaw,2,PiastGliwice,2
+20201129,Slovenia Prva Liga,Domzale,3,Olimpija,1
+20201129,Croatia 1.HNL,NKRijeka,1,NKOsijek,1
+20201129,Austria Bundesliga,RapidVienna,1,AustriaVienna,1
+20201129,Turkey Super Lig,Fenerbahce,3,Besiktas,4
+20201129,Turkey Lig 1,Samsunspor,2,Tuzlaspor,0
+20201129,France Ligue 1,Nice,1,Dijon,3
+20201129,Serbia Super Liga,BackaTopola,0,PartizanBelgrade,4
+20201129,Russia Premier League,SpartakMoscow,2,RotorVolgograd,0
+20201129,Estonia Esiliiga,Maardu,2,Vaprus,1
+20201129,Estonia Esiliiga,NommeUnited,1,Elva,0
+20201129,Holland Eredivisie,Heracles,1,AZ,2
+20201129,Albania Superliga,PartizaniTirana,4,SkenderbeuKorce,0
+20201129,Albania Superliga,Vllaznia,2,Kukesi,4
+20201129,Spain Primera Liga,Getafe,1,AthleticBilbao,1
+20201129,Greece Etniki Katigoria,Lamia,0,PAOKSalonika,2
+20201129,Saudi Arabia Pro League,AlWehda,3,AlBaten,2
+20201129,Switzerland Super League,LausanneSports,0,YoungBoys,3
+20201129,Switzerland Super League,Lugano,1,Basle,0
+20201129,Portugal Superliga,Portimonense,1,Nacional,0
+20201129,Spain Segunda Liga,Espanyol,2,RealZaragoza,0
+20201129,Portugal LigaPro,Arouca,2,FCPortoII,3
+20201129,Greece Etniki Katigoria,OFICrete,2,PASGiannina,1
+20201129,Belgium Juliper League,Gent,0,ZulteWaregem,3
+20201129,Ukraine UPL,KolosKovalivka,1,DesnaChernigov,1
+20201129,Portugal Superliga,GilVicente,2,RioAve,0
+20201129,Belgium Division 2,KVSKUnited,4,RWDM,0
+20201129,Czech First League,Teplice,0,SpartaPrague,1
+20201129,Denmark Superliga,Sonderjyske,1,FCCopenhagen,3
+20201129,Russia 1. Division,BaltikaKaliningrad,0,TorpedoMoscow,0
+20201129,England FA Cup,MarineFC,0,HavantandW,0
+20201129,Wales Premier League,Penybont,1,NewiCefnDruids,1
+20201129,Germany Bundesliga,BayerLeverkusen,0,HerthaBerlin,0
+20201129,Slovenia Prva Liga,Aluminij,2,HITGorica,1
+20201129,Denmark 1st Division,Hobro,3,Hvidovre,4
+20201129,Poland Ekstraklasa,RakowCzestochowa,1,WartaPoznan,0
+20201129,England Premier League,Southampton,2,ManUtd,3
+20201129,Serbia Super Liga,NoviPazar,0,BackaPalanka,0
+20201129,Serbia Super Liga,FKMetalac,2,Zlatibor,0
+20201129,France Ligue 1,Metz,0,Brestois,2
+20201129,France Ligue 1,Monaco,3,Nimes,0
+20201129,France Ligue 1,Lens,1,Angers,3
+20201129,France Ligue 1,Lorient,0,Montpellier,1
+20201129,Serbia Super Liga,Cukaricki,3,Napredak,0
+20201129,Serbia Super Liga,Vozdovac,3,MladostLucani,2
+20201129,Italy Serie A,ACMilan,2,Fiorentina,0
+20201129,Italy Serie A,Bologna,1,Crotone,0
+20201129,Bosnia and Herzegovina Premier League,RadnikBijeljina,1,Krupa,1
+20201129,Italy Serie B,Reggiana,1,Cremonese,1
+20201129,Portugal LigaPro,Estoril,2,Vizela,2
+20201129,Scottish League Cup,Celtic,0,RossCounty,2
+20201129,Cyprus 1. Division,Paphos,2,DoxaKatokopias,0
+20201129,England FA Cup,Shrewsbury,0,OxfordCity,0
+20201129,England FA Cup,Stevenage,1,Hull,1
+20201129,England FA Cup,Carlisle,1,Doncaster,2
+20201129,England FA Cup,BristolRovers,6,Darlington,0
+20201129,England FA Cup,Barnet,0,MiltonKeynesDons,1
+20201129,England FA Cup,Mansfield,1,DagenhamandRedbridge,1
+20201129,England FA Cup,Stockport,2,Yeovil,2
+20201129,South Africa Premiership,ChippaUnited,1,Tshakhuma,1
+20201129,England FA Cup,AFCWimbledon,1,CrawleyTown,2
+20201129,Holland Eredivisie,FCGroningen,1,WillemII,0
+20201129,Holland Eredivisie,Feyenoord,1,FCUtrecht,1
+20201129,Russia Premier League,RubinKazan,1,CSKAMoscow,0
+20201129,Sweden Allsvenskan,Varbergs,3,Malmo,2
+20201129,Sweden Allsvenskan,Ostersunds,0,IFKGoteborg,4
+20201129,Sweden Allsvenskan,Helsingborgs,0,Falkenbergs,0
+20201129,Sweden Superettan,NorrbyIF,2,Dalkurd,0
+20201129,Austria Bundesliga,Wolfsberger,1,SVRied,1
+20201129,Austria Bundesliga,LASKLinz,3,CSRAltach,0
+20201129,Hungary NB I,MezokovesdiSE,2,Diosgyori,1
+20201129,Uruguay Primera Division,Progreso,2,CerroLargo,2
+20201129,Estonia Meistriliiga,NommeJKKalju,0,LevadiaTallinn,2
+20201129,Spain Segunda Liga,Albacete,0,Tenerife,2
+20201129,Spain Primera Liga,Barcelona,4,Osasuna,0
+20201129,Sweden Division 1,OrebroSyrianska,6,Berga,0
+20201129,Greece Etniki Katigoria,Panathinaikos,2,Panaitolikos,1
+20201129,Germany Regionalliga West,AlemanniaAachen,1,RotWeissEssen,1
+20201129,Germany Regionalliga West,BergischGladbach,0,BorussiaDortmundII,3
+20201129,Germany 3. Liga,Saarbrucken,1,Kaiserslautern,1
+20201129,Turkey Super Lig,Alanyaspor,1,Konyaspor,0
+20201129,Turkey Super Lig,Kasimpasa,2,Genclerbirligi,0
+20201129,Turkey Lig 1,Eskisehirspor,0,Altinordu,2
+20201129,Denmark Superliga,ACHorsens,3,Vejle,1
+20201129,Russia 1. Division,DynamoBryansk,1,Tomsk,0
+20201129,Russia 1. Division,FakelWorenesch,3,EnergiyaKhabarovsk,0
+20201129,Montenegro First League,MladostLjeskopolje,0,Zeta,1
+20201129,Montenegro First League,Petrovac,1,Iskra,0
+20201129,Sweden Division 1,Nykoping,0,Gefle,2
+20201129,Sweden Division 1,IFKLulea,1,IFSylvia,2
+20201129,Sweden Division 1,Haninge,3,Karlslunds,1
+20201129,Sweden Division 1,Taby,0,Sandviken,3
+20201129,Sweden Division 1,Vasalund,1,Brommapojkarna,3
+20201129,Sweden Division 1,TeamThoren,1,Sollentuna,5
+20201129,Sweden Division 1,Karlstad,4,Frej,2
+20201129,Albania Superliga,Laci,6,ApoloniaFier,1
+20201129,Albania Superliga,BylisBallsh,0,TeutaDurres,0
+20201129,Albania Superliga,KastriotiKruje,1,KFTirana,1
+20201129,Belgium Juliper League,KVMechelen,2,BeerschotWilrijk,3
+20201129,Germany 2. Bundesliga,FCHeidenheim,3,Hamburg,2
+20201129,Germany 2. Bundesliga,Hannover,960,HolsteinKiel,3
+20201129,Germany 2. Bundesliga,Nurnberg,2,GreutherFurth,3
+20201129,Croatia 2.HNL,DynamoZagrebII,1,Kustosija,1
+20201129,Croatia 2.HNL,BijeloBrdo,1,InterZapresic,0
+20201129,Croatia 2.HNL,HajdukSplitII,4,Medimurje,0
+20201129,Slovenia Prva Liga,Bravo,2,NKCelje,1
+20201129,Saudi Arabia Pro League,AlTaawon,1,AlEttifaq,1
+20201129,Azerbaijan Premier League,Sabayil,1,Qarabagh,1
+20201129,Serbia Prva Liga,KolubaraLazarevac,1,Zemun,1
+20201129,Serbia Prva Liga,RadnickiSremskaMitrovica,3,GraficarBeograd,1
+20201129,Ukraine UPL,FCMinaj,0,ZarjaLugansk,3
+20201129,Bulgaria A PFG,LudogoretsRazgrad,2,BotevVratsa,1
+20201129,Germany 3. Liga,MSVDuisburg,0,DynamoDresden,3
+20201129,England Championship,NottmForest,0,Swansea,1
+20201129,Montenegro Second League,Drezga,0,Grbalj,2
+20201129,Montenegro First League,Buducnost,4,Rudar,2
+20201129,Montenegro Second League,Igalo,2,ArsenalTivat,0
+20201129,Montenegro First League,OFKTitograd,1,Jezero,0
+20201129,Montenegro First League,Sutjeska,1,Decic,1
+20201129,Russia 1. Division,VolgarGazpromAstrakhan,2,ChaykaPeschanokopskoye,1
+20201129,Argentina Primera B Nacional,SanMartindeTucuman,0,Tigre,1
+20201129,France Ligue 1,Lyon,3,Reims,0
+20201129,Russia 1. Division,AlaniaVladikavkaz,0,Olimpyets,0
+20201129,Russia 1. Division,ChertanovoMoscow,1,Neftekhimik,0
+20201129,Italy Serie A,Lazio,1,Udinese,3
+20201129,Portugal LigaPro,Academica,2,Covilha,1
+20201129,Uzbekistan PRL,LokomotivTashkent,0,Pakhtakor,1
+20201129,Holland Eerste Divisie,FCEindhoven,3,DeGraafschap,2
+20201129,Holland Eredivisie,Vitesse,2,FortunaSittard,0
+20201129,Russia Premier League,Ufa,4,Tambov,0
+20201129,Russia 1. Division,GazovikOrenburg,2,KrylyaSovetov,1
+20201129,Russia 1. Division,KrasnodarII,1,Akron,1
+20201129,Russia 1. Division,Veles,4,ShinnikJaroslavl,2
+20201129,Russia 1. Division,SpartakMoscowII,1,IrtyshOmsk,2
+20201129,Montenegro Second League,Ibar,1,Kom,1
+20201129,Montenegro Second League,MornarBar,0,Berane,0
+20201129,Montenegro Second League,Jedinstvo,1,Bokelj,1
+20201129,Estonia Meistriliiga,FCFloraPaide,1,FloraTallinn,7
+20201129,Turkey Super Lig,Erzurumspor,2,Antalyaspor,2
+20201129,Turkey Lig 1,Keciorengucu,1,AdanaDemirspor,0
+20201129,Turkey Lig 1,Bandirmaspor,1,Balikesirspor,0
+20201129,Russia 1. Division,YeniseyKrasnoyarsk,1,TekstilshchikIvanovo,0
+20201129,Singapore S-League,YoungLions,0,LionCity,4
+20201129,Singapore S-League,AlbirexNiigata,1,TampinesRovers,4
+20201129,Uzbekistan PRL,Bunyodkor,0,Nasaf,1
+20201129,Uzbekistan PRL,Navbahor,0,Olmaliq,0
+20201129,Hong Kong 1st Division,Warriors,2,EasternAA,3
+20201129,Uzbekistan PRL,Sogdiyona,1,Qizilqum,1
+20201129,Uzbekistan PRL,Bukhara,1,MashALMubarek,3
+20201129,Uzbekistan PRL,Andijon,0,Qoqon,19121
+20201129,Uzbekistan PRL,MetallurgBekabad,1,SurkhonTermez,0
+20201129,Russia Premier League,UralSverdlovskayaOblast,1,Sochi,0
+20201129,Japan J-League,GambaOsaka,1,SaganTosu,1
+20201129,Japan J2 League,TochigiSC,2,RenofaYamaguchi,0
+20201129,Japan J2 League,VentforetKofu,0,MontedioYamagata,0
+20201129,Japan J2 League,MachidaZelvia,0,ThespaKusatsu,3
+20201129,Hong Kong 1st Division,Kitchee,1,HappyValley,1
+20201129,Japan J-League,KashimaAntlers,4,UrawaRedDiamonds,0
+20201129,Japan J-League,CerezoOsaka,1,YokohamaFC,0
+20201129,South Korea K League 2,SuwonCity,1,GyeongnamFC,1
+20201129,Japan J2 League,ZwiegenKanazawa,3,TokushimaVortis,4
+20201129,Japan J2 League,AvispaFukuoka,1,OmiyaArdija,0
+20201129,Japan J2 League,MatsumotoYamaga,0,KyotoPurpleSanga,0
+20201129,Japan J2 League,EhimeFC,2,MitoHollyhock,1
+20201129,Japan J2 League,JEFUnitedChiba,1,JubiloIwata,2
+20201129,Japan J2 League,FCRyukyu,4,TokyoVerdy,0
+20201129,New Zealand Premiership,CanterburyUnited,2,Wanderers,3
+20201129,Ecuador Liga Pro,ElNacional,0,RiverPlateEcuador,3
+20201129,Colombia Copa Mustang,NacionaldeMedellin,0,America,3
+20201129,Mexico Liga MX,Leon,2,Puebla,0
+20201129,New Zealand Premiership,AucklandCity,2,HawkesBayUnited,1
+20201129,Venezuela Primera,RealEsppor,1,EstudiantesMerida,1
+20201129,Paraguay Division Profesional,Libertad,312,deOctubre,0
+20201121,Peru Primera Division,CarlosMannucci,2,SportHuancayo,1
+20201121,Uruguay Primera Division,ClubNacional,0,Danubio,2
+20201121,Ecuador Liga Pro,IndependienteJoseTeran,1,TecnicoUniversitario,0
+20201121,Chile Primera,CoquimboUnido,1,UnionLaCalera,2
+20201121,Brazil Serie A,Flamengo,3,Coritiba,1
+20201121,Brazil Serie A,AtleticoParanaense,1,Santos,0
+20201121,Brazil Serie B,CuiabaEsporteClube,0,CSAAL,1
+20201121,Brazil Serie B,CRB,2,Nautico,1
+20201121,Venezuela Primera,AcademiaPuertoCabello,0,GuarosdeLara,0
+20201121,Peru Primera Division,AlianzaLima,0,SportBoys,2
+20201121,Peru Primera Division,DeportivoLlacuabamba,0,Melgar,6
+20201121,Uruguay Primera Division,DeportivoMaldonado,2,RiverPlateMontevideo,1
+20201121,England Premier League,ManUtd,1,WestBrom,0
+20201121,Spain Primera Liga,AtleticoMadrid,1,Barcelona,0
+20201121,USA Major League Soccer,Columbus,3,NewYorkRedBulls,2
+20201121,Holland Eredivisie,FCZwolle,1,FCUtrecht,1
+20201121,Belgium Juliper League,ClubBrugge,1,Kortrijk,0
+20201121,Belgium Division 2,Deinze,1,KVSKUnited,1
+20201121,Italy Serie A,Juventus,2,Cagliari,0
+20201121,Switzerland Super League,YoungBoys,2,Basle,1
+20201121,Spain Segunda Liga,RealOviedo,1,Fuenlabrada,1
+20201121,Germany Bundesliga,HerthaBerlin,2,BorussiaDortmund,5
+20201121,Brazil Serie B,Oeste,2,BrasilDePelotas,1
+20201121,Brazil Serie B,Operario,0,AmericaMineiro,1
+20201121,Slovenia Prva Liga,FCKoper,1,HITGorica,1
+20201121,Holland Eredivisie,FCGroningen,1,Vitesse,1
+20201121,Poland Ekstraklasa,WartaPoznan,2,WislaKrakow,1
+20201121,Hungary NB I,BudapestHonved,0,Ferencvarosi,1
+20201121,South Africa Premiership,MorokaSwallows,0,TSGalaxy,0
+20201121,Peru Primera Division,UniversidadCesarVallejo,0,DeportivoMunicipal,1
+20201121,France Ligue 2,Amiens,1,ClermontFoot,1
+20201121,France Ligue 2,Chambly,1,Toulouse,1
+20201121,France Ligue 2,Chateauroux,2,Sochaux,1
+20201121,France Ligue 2,ChamoisNiort,1,Dunkerque,2
+20201121,France Ligue 2,Paris,0,Auxerre,3
+20201121,France Ligue 2,Pau,0,Grenoble,2
+20201121,France Ligue 2,Valenciennes,1,RodezAveyron,1
+20201121,Holland Eredivisie,WillemII,2,VVVVenlo,1
+20201121,Belgium Juliper League,Waasland,0,CercleBrugge,2
+20201121,Czech First League,Opava,0,SlaviaPrague,6
+20201121,Belgium Juliper League,Oostende,1,Antwerp,1
+20201121,Greece Etniki Katigoria,Olympiacos,1,Panathinaikos,0
+20201121,Spain Primera Liga,Sevilla,4,CeltadeVigo,2
+20201121,England Premier League,Tottenham,2,ManCity,0
+20201121,Germany Bundesliga,EintrachtFrankfurt,1,RBLeipzig,1
+20201121,Romania Liga I,Botosani,0,CSUniversitateaCraiova,0
+20201121,England Conference,Wealdstone,3,SuttonUtd,3
+20201121,Switzerland Challenge League,FCThun,3,Wil,0
+20201121,Spain Segunda Liga,RayoVallecano,2,Castellon,1
+20201121,Switzerland Super League,Lucerne,1,FCVaduz,1
+20201121,Italy Serie A,Spezia,0,Atalanta,0
+20201121,USA Major League Soccer,OrlandoCity,1,NewYorkCity,1
+20201121,Norway Tippeligaen,Aalesund,1,Valerenga,1
+20201121,United Arab Emirates UFL,ShababAlAhliDubai,3,AlJazira,5
+20201121,Qatar Stars League,QatarSC,1,AlWakra,0
+20201121,Qatar Stars League,AlKhoor,0,AlSailiya,0
+20201121,Cyprus 1. Division,ApoelNicosia,0,OlympiakosNicosia,1
+20201121,Poland Ekstraklasa,ZaglebieLubin,2,StalMielec,2
+20201121,Jordan Pro League,AlSalt,0,AlWihdat,0
+20201121,Slovenia Prva Liga,Mura,0,Olimpija,1
+20201121,Croatia 1.HNL,NKSlaven,0,HajdukSplit,2
+20201121,Austria Bundesliga,RBSalzburg,1,SKSturmGraz,3
+20201121,Austria Bundesliga,Hartberg,1,LASKLinz,1
+20201121,Austria Bundesliga,CSRAltach,0,Wolfsberger,2
+20201121,Turkey Super Lig,Besiktas,3,IstanbulBuyuksehirBSK,2
+20201121,Turkey Lig 1,Giresunspor,0,Samsunspor,0
+20201121,Bosnia and Herzegovina Premier League,ZrinjskiMostar,2,BoracBanjaLuka,1
+20201121,South Africa Premiership,OrlandoPirates,2,SupersportUnited,1
+20201121,Hungary NB I,MezokovesdiSE,0,MTK,1
+20201121,Peru Primera Division,CarlosStein,1,DeportivoBinacional,3
+20201121,France Ligue 1,Brestois,4,StEtienne,1
+20201121,Russia Premier League,SpartakMoscow,1,DinamoMoscow,1
+20201121,Russia Premier League,LokomotivMoscow,1,ArsenalTula,0
+20201121,Sweden Division 1,AssyriskaTurabdin,2,Landskrona,1
+20201121,Sweden Division 1,Brommapojkarna,7,Nykoping,1
+20201121,Sweden Superettan,Ljungskile,0,JonkopingSodra,1
+20201121,Albania Superliga,TeutaDurres,0,Kukesi,0
+20201121,Albania Superliga,Vllaznia,3,KFTirana,2
+20201121,Albania Superliga,PartizaniTirana,0,Laci,0
+20201121,Holland Eerste Divisie,AlmereCity,3,GoAheadEagles,0
+20201121,Belgium Juliper League,StandardLiege,2,Eupen,2
+20201121,Spain Primera Liga,Villarreal,1,RealMadrid,1
+20201121,Greece Etniki Katigoria,Atromitos,2,ApollonSmirnis,2
+20201121,Spain Segunda Liga,Mirandes,4,FCCartagena,1
+20201121,England Conference,BorehamWood,0,Altrincham,1
+20201121,England Conference,Chesterfield,2,NottsCounty,3
+20201121,England Conference,Halifax,1,Torquay,2
+20201121,England Conference,KingsLynn,2,DoverAthletic,0
+20201121,England Conference,MaidenheadUtd,2,Bromley,2
+20201121,Northern Ireland Premier League,Crusaders,3,DungannonSwifts,1
+20201121,Northern Ireland Premier League,Larne,1,Cliftonville,0
+20201121,Northern Ireland Premier League,BallymenaUnited,2,WarrenpointTown,0
+20201121,Northern Ireland Premier League,Linfield,2,Glenavon,0
+20201121,England Conference,Woking,4,Barnet,1
+20201121,England Conference,Wrexham,1,Aldershot,0
+20201121,England Conference,Yeovil,1,Hartlepool,3
+20201121,England Conference North,AlfretonTown,0,Darlington,2
+20201121,England Conference North,BrackleyTown,1,Chester,1
+20201121,England Conference North,BradfordParkAvenue,1,TelfordUtd,2
+20201121,England Conference North,CurzonAshton,0,Leamington,3
+20201121,England Conference North,FarsleyCeltic,2,Kidderminster,2
+20201121,England Conference North,Gateshead,4,Southport,1
+20201121,England Conference North,Guiseley,1,GloucesterCity,2
+20201121,England Conference North,Hereford,2,Chorley,2
+20201121,England Conference South,ChelmsfordCity,0,ChippenhamTown,2
+20201121,England Conference South,ConcordRangers,1,DorkingWanderers,3
+20201121,England Conference South,Dartford,2,SloughTown,0
+20201121,England Conference South,EbbsfleetUtd,0,TonbridgeAngels,1
+20201121,England Conference South,HamptonandRichmond,1,Bath,0
+20201121,England Conference South,HemelHempstead,1,DulwichHamlet,1
+20201121,England Conference South,MaidstoneUtd,1,BillericayTown,1
+20201121,England Conference South,OxfordCity,1,EastbourneBorough,1
+20201121,England Conference South,StAlbansCity,0,HungerfordTown,0
+20201121,England Championship,Middlesbrough,0,Norwich,1
+20201121,England Championship,Swansea,1,Rotherham,0
+20201121,England Championship,Barnsley,2,NottmForest,0
+20201121,England League 2,Exeter,1,Oldham,2
+20201121,England League 2,LeytonOrient,3,HarrogateTown,0
+20201121,England League 2,NewportCounty,1,PortVale,0
+20201121,England League 2,SalfordCity,3,Bradford,0
+20201121,England League 2,Scunthorpe,1,Morecambe,1
+20201121,England League 2,Stevenage,1,Bolton,2
+20201121,England League 2,Tranmere,5,Grimsby,0
+20201121,England Premier League,AstonVilla,1,Brighton,2
+20201121,Ukraine UPL,ShakhtarDonetsk,1,Oleksandria,1
+20201121,England Championship,Luton,1,Blackburn,1
+20201121,England Championship,Millwall,1,Cardiff,1
+20201121,England Championship,BristolCity,1,Derby,0
+20201121,England Championship,Preston,1,SheffWed,0
+20201121,England Championship,QPR,1,Watford,1
+20201121,England Championship,Stoke,4,Huddersfield,3
+20201121,England Championship,Wycombe,0,Brentford,0
+20201121,England League 1,AccringtonStanley,0,LincolnCity,0
+20201121,England League 1,BurtonAlbion,1,Northampton,3
+20201121,England League 1,Doncaster,1,Sunderland,1
+20201121,England League 1,FleetwoodTown,5,Plymouth,1
+20201121,England League 1,Ipswich,2,Shrewsbury,1
+20201121,England League 1,MiltonKeynesDons,1,Hull,3
+20201121,England League 1,Peterborough,1,Blackpool,2
+20201121,England League 1,Portsmouth,4,Crewe,1
+20201121,England League 1,Rochdale,0,AFCWimbledon,1
+20201121,England League 1,Swindon,1,BristolRovers,0
+20201121,England League 1,Wigan,1,OxfordUtd,2
+20201121,England League 2,Barrow,2,ForestGreen,2
+20201121,England League 2,Cheltenham,3,Walsall,0
+20201121,Scotland Premiership,DundeeUtd,2,Hamilton,1
+20201121,Scotland Premiership,Hibernian,2,Celtic,2
+20201121,Scotland Premiership,Kilmarnock,3,RossCounty,1
+20201121,Scotland Premiership,Livingston,0,StMirren,1
+20201121,Scotland Premiership,StJohnstone,1,Motherwell,1
+20201121,Sweden Division 1,IFSylvia,3,Taby,1
+20201121,Norway Tippeligaen,Stabaek,0,Molde,3
+20201121,Serbia Super Liga,PartizanBelgrade,1,ProleterNoviSad,0
+20201121,Sweden Division 1,Karlslunds,2,TeamThoren,0
+20201121,Scotland Championship,Arbroath,0,Morton,0
+20201121,Scotland Championship,Ayr,2,Dundee,0
+20201121,Scotland Championship,InvernessCT,2,Raith,0
+20201121,Scotland Championship,QueenofSouth,2,Alloa,0
+20201121,Scotland League One,Clyde,3,Montrose,2
+20201121,Scotland League One,Falkirk,1,CoveRangers,0
+20201121,Scotland League One,Forfar,1,AirdrieUtd,3
+20201121,Scotland League One,Partick,2,EastFife,0
+20201121,Scotland League One,Peterhead,1,Dumbarton,0
+20201121,Scotland League Two,EdinburghCity,0,Stranraer,1
+20201121,Scotland League Two,QueensPark,3,Brechin,0
+20201121,Scotland League Two,Stenhousemuir,1,AnnanAthletic,2
+20201121,Scotland League Two,Stirling,1,Elgin,2
+20201121,Russia 1. Division,BaltikaKaliningrad,0,FakelWorenesch,0
+20201121,Montenegro First League,Buducnost,2,Petrovac,1
+20201121,Czech First League,Bohemians,19052,Teplice,0
+20201121,Czech First League,SigmaOlomouc,3,Karvina,0
+20201121,Germany Bundesliga,BayernMunich,1,WerderBremen,1
+20201121,Germany Bundesliga,BorussiaMonchengladbach,1,Augsburg,1
+20201121,Germany Bundesliga,Hoffenheim,3,VfBStuttgart,3
+20201121,Germany Bundesliga,Schalke,040,Wolfsburg,2
+20201121,Germany Bundesliga,ArminiaBielefeld,1,BayerLeverkusen,2
+20201121,Norway 1. Division,Sogndal,2,Grorud,1
+20201121,Norway 1. Division,Oeygarden,2,SandnesUlf,1
+20201121,Wales Premier League,BarryTown,0,Newtown,0
+20201121,Wales Premier League,CardiffMetropolitanUniversity,0,TheNewSaints,1
+20201121,Wales Premier League,Haverfordwest,0,FlintTown,3
+20201121,Qatar Stars League,UmmSalal,0,AlAhli,2
+20201121,Cyprus 1. Division,DoxaKatokopias,0,ErmisAradippou,0
+20201121,Bosnia and Herzegovina Premier League,Zeljeznicar,2,SlobodaTuzla,2
+20201121,Italy Serie A,Crotone,0,Lazio,2
+20201121,Armenia Premier League,Pyunik,0,Van,0
+20201121,Croatia 1.HNL,NKOsijek,2,DynamoZagreb,0
+20201121,United Arab Emirates UFL,AlDhafra,2,AlKhaleejKhorFakkan,0
+20201121,United Arab Emirates UFL,AlWahda,3,Ajman,0
+20201121,Georgia Umaglesi Liga,DinamoBatumi,1,DilaGori,0
+20201121,Jordan Pro League,AlFaysali,1,ShababAlOrdun,3
+20201121,Estonia Esiliiga,Elva,0,Vaprus,0
+20201121,Sweden Division 1,Torns,0,Karlskrona,3
+20201121,Sweden Division 1,Oskarshamns,4,SkovdeAIK,1
+20201121,Sweden Superettan,NorrbyIF,6,Umea,0
+20201121,Sweden Superettan,Dalkurd,0,Trelleborgs,1
+20201121,Sweden Superettan,GIFSundsvall,0,Halmstads,6
+20201121,Sweden Superettan,AFCEskilstuna,2,Degerfors,0
+20201121,Sweden Superettan,GAIS,0,Osters,1
+20201121,France Ligue 2,LeHavre,1,Caen,2
+20201121,Montenegro First League,Iskra,1,OFKTitograd,1
+20201121,Montenegro First League,Zeta,0,Sutjeska,1
+20201121,Russia 1. Division,ChertanovoMoscow,0,IrtyshOmsk,1
+20201121,Hungary NB I,Puskas,3,Budafoki,0
+20201121,South Africa Premiership,Stellenbosch,2,ChippaUnited,0
+20201121,South Africa Premiership,GoldenArrows,2,KaizerChiefs,2
+20201121,South Africa Premiership,BlackLeopards,1,MaritzburgUnited,0
+20201121,England League 2,CrawleyTown,0,Carlisle,3
+20201121,Russia Premier League,TerekGroznyi,2,ZenitStPetersburg,2
+20201121,Montenegro First League,Jezero,0,MladostLjeskopolje,0
+20201121,Czech First League,MladaBoleslav,4,Pardubice,1
+20201121,Germany Regionalliga West,BorussiaMonchengladbachII,0,Lippstadt,080
+20201121,Germany Regionalliga West,PreussenMunster,2,FortunaDusseldorfII,1
+20201121,Germany Regionalliga West,FortunaKoln,2,WegbergBeeck,2
+20201121,Germany Regionalliga West,AlemanniaAachen,0,FCKolnII,0
+20201121,Germany Regionalliga West,Wuppertaler,2,Lotte,0
+20201121,Germany Regionalliga West,VfBHomberg,0,RotWeissEssen,4
+20201121,Germany Regionalliga West,Straelen,0,Wiedenbruck,4
+20201121,Germany Regionalliga West,BergischGladbach,2,Bonner,0
+20201121,Russia 1. Division,Olimpyets,3,DynamoBryansk,0
+20201121,Sweden Division 1,Frej,0,Haninge,1
+20201121,Serbia Super Liga,Vozdovac,1,NoviPazar,1
+20201121,Serbia Super Liga,Napredak,2,BackaTopola,1
+20201121,Holland Eerste Divisie,FCEindhoven,2,NAC,4
+20201121,Sweden Division 1,Sandviken,3,OrebroSyrianska,0
+20201121,Sweden Division 1,Tvaakers,2,QvidingFIF,1
+20201121,England League 1,Gillingham,1,Charlton,1
+20201121,Germany Regionalliga West,Oberhausen,1,Ahlen,1
+20201121,Germany 3. Liga,Hallescher,1,Kaiserslautern,1
+20201121,Germany 3. Liga,Saarbrucken,3,Wehen,3
+20201121,Germany 3. Liga,HansaRostock,1,DynamoDresden,3
+20201121,Germany 3. Liga,FSVZwickau,0,WaldhofMannheim,0
+20201121,Spain Segunda Liga,Malaga,1,Leganes,2
+20201121,Spain Primera Liga,Levante,1,Elche,1
+20201121,Turkey Super Lig,Genclerbirligi,1,Fenerbahce,5
+20201121,Turkey Super Lig,Denizlispor,0,GaziantepBB,1
+20201121,Chile Primera B,Cobreloa,2,Barnechea,0
+20201121,Turkey Lig 1,Bursaspor,1,Adanaspor,0
+20201121,Greece Etniki Katigoria,Lamia,2,AsterasTripoli,2
+20201121,Italy Serie B,Brescia,2,Venezia,2
+20201121,Italy Serie B,Cittadella,2,Empoli,2
+20201121,Italy Serie B,Lecce,7,Reggiana,1
+20201121,Italy Serie B,Pordenone,1,Monza,1
+20201121,Italy Serie B,Spal,2,Pescara,0
+20201121,Iran Pro League,Perspolis,1,SanatNaft,0
+20201121,Iran Pro League,Paykan,1,PadidehKhorasan,0
+20201121,Albania Superliga,BylisBallsh,0,SkenderbeuKorce,2
+20201121,Albania Superliga,KastriotiKruje,1,ApoloniaFier,1
+20201121,Slovenia Prva Liga,Bravo,1,Maribor,2
+20201121,Czech FNL,Chrudim,1,SkProstejov,2
+20201121,Czech FNL,Taborsko,1,SlovanVarnsdorf,2
+20201121,Czech FNL,Vysehrad,0,Trinec,2
+20201121,Czech FNL,HradecKralove,5,UstinadLabem,1
+20201121,England Championship,Bournemouth,4,Reading,2
+20201121,England Premier League,Newcastle,0,Chelsea,2
+20201121,Croatia 2.HNL,Dugopolje,1,HajdukSplitII,0
+20201121,Croatia 2.HNL,Kustosija,2,Opatija,1
+20201121,Ukraine UPL,Inhulets,0,DynamoKiev,2
+20201121,Serbia Prva Liga,RadnickiPirot,0,ZeleznicarPancevo,1
+20201121,Serbia Prva Liga,Zemun,1,Loznica,2
+20201121,Serbia Prva Liga,GraficarBeograd,5,SlogaKraljevo,1
+20201121,Azerbaijan Premier League,Qarabagh,6,Sumgayit,1
+20201121,Bosnia and Herzegovina Premier League,TuzlaCity,1,DobojKakanj,0
+20201121,Montenegro First League,Rudar,0,Decic,3
+20201121,Denmark 1st Division,Hvidovre,2,Vendsyssel,0
+20201121,Denmark 1st Division,SilkeborgIF,3,Helsingor,3
+20201121,Germany Regionalliga West,FCSchalke,04,II,1
+20201121,Germany 2. Bundesliga,FortunaDusseldorf,1,Sandhausen,0
+20201121,Germany 2. Bundesliga,Paderborn,2,StPauli,0
+20201121,Germany 2. Bundesliga,HolsteinKiel,2,FCHeidenheim,2
+20201121,Germany 2. Bundesliga,Braunschweig,1,Karlsruhe,3
+20201121,Russia 1. Division,AlaniaVladikavkaz,2,GazovikOrenburg,1
+20201121,Serbia Super Liga,Indjija,1,RadnickiNis,0
+20201121,Russia 1. Division,ChaykaPeschanokopskoye,1,TekstilshchikIvanovo,3
+20201121,Sweden Division 1,LindomeGIF,1,IFKVarnamo,1
+20201121,Kazakhstan Premier League,KaspiyAktau,2,Okzhetpes,1
+20201121,Georgia Umaglesi Liga,FCTelavi,1,LokomotiviTbilisi,1
+20201121,Estonia Esiliiga,Maardu,3,FloraII,5
+20201121,Estonia Esiliiga,ParnuJalgpalliklubi,2,LevadiaTallinnII,0
+20201121,Russia 1. Division,SpartakMoscowII,1,Tomsk,2
+20201121,Russia 1. Division,Akron,0,TorpedoMoscow,1
+20201121,Russia 1. Division,Veles,1,VolgarGazpromAstrakhan,0
+20201121,Russia Premier League,Krasnodar,1,Tambov,0
+20201121,Estonia Meistriliiga,FCKuressaare,0,JKTransNarva,3
+20201121,Estonia Meistriliiga,JKTallinnaKalev,0,TJKLegion,2
+20201121,Romania Liga I,AcademicaClinceni,1,ViitorulConstanta,0
+20201121,Turkey Super Lig,FatihKaragumruk,1,Sivasspor,1
+20201121,Armenia Premier League,Alashkert,1,Ararat,2
+20201121,Turkey Lig 1,Altinordu,1,Istanbulspor,0
+20201121,Turkey Lig 1,Boluspor,2,Osmanlispor,0
+20201121,Bulgaria A PFG,SlaviaSofia,0,Etar,0
+20201121,Russia 1. Division,YeniseyKrasnoyarsk,1,Neftekhimik,0
+20201121,Singapore S-League,GeylangUnited,2,SengkangPunggol,0
+20201121,Singapore S-League,BalestierKhalsa,1,YoungLions,2
+20201121,Hong Kong 1st Division,TSWPegasus,0,SouthernDistrictRSA,4
+20201121,Japan J2 League,TochigiSC,1,MitoHollyhock,3
+20201121,Georgia Umaglesi Liga,SaburtaloTbilisi,1,Torpedo,0
+20201121,Kazakhstan Premier League,Kairat,2,Kyzylzhar,3
+20201121,Kazakhstan Premier League,Ordabasy,0,Kaisar,3
+20201121,Japan J-League,NagoyaGrampusEight,3,ShonanBellmare,1
+20201121,Kazakhstan Premier League,Zhetysu,0,Taraz,1
+20201121,Kazakhstan Premier League,ShakhterKaragandy,3,Astana,1
+20201121,Japan J-League,CerezoOsaka,0,SanfrecceHiroshima,1
+20201121,Japan J2 League,FCRyukyu,1,GiravanzKitakyushu,1
+20201121,Hong Kong 1st Division,EasternAA,5,ResourcesCapital,0
+20201121,Japan J2 League,MatsumotoYamaga,1,FagianoOkayama,0
+20201121,Japan J-League,KashiwaReysol,1,SaganTosu,2
+20201121,Japan J-League,VegaltaSendai,1,KashimaAntlers,3
+20201121,South Korea K League 2,GyeongnamFC,1,DaejeonCitizen,0
+20201121,Japan J2 League,EhimeFC,0,ThespaKusatsu,1
+20201121,Japan J2 League,ZwiegenKanazawa,1,Niigata,2
+20201121,Japan J2 League,KyotoPurpleSanga,2,TokushimaVortis,0
+20201121,Japan J2 League,OmiyaArdija,0,MachidaZelvia,0
+20201121,Japan J2 League,VentforetKofu,1,JubiloIwata,1
+20201121,Japan J2 League,AvispaFukuoka,1,MontedioYamagata,1
+20201121,Japan J-League,OitaTrinita,1,KawasakiFrontale,0
+20201121,Russia 1. Division,EnergiyaKhabarovsk,0,KrylyaSovetov,1
+20201121,USA Major League Soccer,Nashville,3,InterMiami,0
+20201121,New Zealand Premiership,WaitakereUnited,1,WellingtonPhoenixReserves,4
+20201121,Brazil Serie B,Cruzeiro,1,Figueirense,1

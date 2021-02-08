@@ -1,0 +1,2421 @@
+date,league,home-team,home-score,away-team,away-score
+20210101,England Premier League,ManUtd,2,AstonVilla,1
+20210101,England Championship,SheffWed,1,Derby,0
+20210101,England Premier League,Everton,0,WestHam,1
+20210101,Egypt Premier League,AlAhly,0,WadiDegla,0
+20210101,Bahrain Premier League,AlNajma,0,AlAhliManama,1
+20210101,United Arab Emirates UFL,AlWasl,2,ShababAlAhliDubai,2
+20210101,Scottish Cup,BonnyriggRose,5,BonessUnited,2
+20210101,Egypt Premier League,PyramidsFC,3,ElEntagElHarby,2
+20210101,Saudi Arabia Pro League,AlEttifaq,1,AlWehda,2
+20210101,Algeria Ligue 1,MCAlger,1,CSConstantine,0
+20210101,Algeria Ligue 1,HusseinDey,0,ESSetif,1
+20210101,Bahrain Premier League,Manama,1,AlBadii,0
+20210101,United Arab Emirates UFL,AlNas,2,AlWahda,2
+20210101,United Arab Emirates UFL,BaniYas,3,AlDhafra,1
+20210101,Saudi Arabia Pro League,AlAin,2,AbhaClub,4
+20210101,Saudi Arabia Pro League,Dhamk,1,AlFateh,2
+20210118,Brazil Serie A,Goias,0,Flamengo,3
+20210118,Chile Primera,AudaxItaliano,1,UnionLaCalera,3
+20210118,Uruguay Primera Division,BostonRiver,5,DeportivoMaldonado,0
+20210118,Brazil Serie A,Palmeiras,4,Corinthians,0
+20210118,Colombia Copa Mustang,DeportesTolima,1,OnceCaldas,1
+20210118,Portugal Superliga,Portimonense,1,Belenenses,0
+20210118,Italy Serie B,Spal,2,Reggiana,0
+20210118,Holland Eerste Divisie,JongPSV,1,NAC,1
+20210118,England Premier League,Arsenal,3,Newcastle,0
+20210118,Uruguay Primera Division,PlazaColonia,0,LiverpoolFC,0
+20210118,Chile Primera,SantiagoWanderers,0,DeportesLaSerena,0
+20210118,Italy Serie A,Cagliari,0,ACMilan,2
+20210118,Germany 2. Bundesliga,Hamburg,5,Osnabruck,0
+20210118,Portugal LigaPro,Estoril,0,Covilha,0
+20210118,Romania Liga I,AstraGiurgiu,1,CSUniversitateaCraiova,1
+20210118,France National,Bastia,4,BastiaBorgo,0
+20210118,Holland Eerste Divisie,FCUtrechtII,1,JongAjax,2
+20210118,Cyprus 1. Division,DoxaKatokopias,0,AEKLarnaca,0
+20210118,Oman League,AlMsnaa,1,OmanFC,0
+20210118,Turkey Super Lig,Fenerbahce,3,Ankaragucu,1
+20210118,Turkey Super Lig,Kasimpasa,1,Erzurumspor,2
+20210118,Romania Liga I,CSMSIasi,0,Botosani,1
+20210118,Egypt Premier League,Ismaily,0,AlMoqawloonAlArab,1
+20210118,Oman League,Nizwa,1,BahlaClub,1
+20210118,Chile Primera,Palestino,3,Cobresal,2
+20210118,Iran Pro League,Perspolis,2,Foolad,1
+20210118,Oman League,AlSeeb,1,AlRustaq,0
+20210118,Oman League,Sohar,2,Muscat,1
+20210118,Egypt Premier League,GhazlELMahallah,1,MisrLelMakasa,2
+20210118,Egypt Premier League,CeramicaCleopatra,2,ElGaish,1
+20210118,Iran Pro League,TractorSazi,1,Esteghlal,3
+20210118,Mexico Liga MX,JaguaresChiapas,1,Atlas,0
+20210118,Colombia Copa Mustang,Cali,1,JaguaresdeCordoba,0
+20210118,Mexico Liga MX,SantosLaguna,2,Tigres,0
+20210114,Brazil Serie B,Operario,3,CRB,2
+20210114,Chile Primera,UniversidaddeChile,1,Palestino,1
+20210114,Chile Primera,EvertonVinadelMar,2,AudaxItaliano,1
+20210114,Costa Rica Primera,SportingSanJose,3,Herediano,2
+20210114,Supercopa De Espana,RealMadrid,1,AthleticBilbao,2
+20210114,Holland Eredivisie,WillemII,2,FCGroningen,3
+20210114,England Premier League,Arsenal,0,CrystalPalace,0
+20210114,Holland Eredivisie,FCTwente,1,Ajax,3
+20210114,Romania Liga I,CFRCluj,3,AcademicaClinceni,1
+20210114,Holland Eredivisie,Heerenveen,1,RKCWaalwijk,1
+20210114,Greece Etniki Katigoria,ArisSalonika,0,AEKAthens,1
+20210114,Saudi Arabia Pro League,IttihadJeddah,0,AbhaClub,1
+20210114,Coppa Italia,Sassuolo,0,Spal,2
+20210114,Greece Etniki Katigoria,Atromitos,2,Lamia,1
+20210114,Romania Liga I,Botosani,0,Arges,1
+20210114,Egypt Premier League,ElGouna,2,AlIttihad,0
+20210114,Saudi Arabia Pro League,AlFateh,1,AlTaawon,2
+20210114,Saudi Arabia Pro League,AlEttifaq,1,AlBaten,1
+20210114,Jordan Pro League,AlJazeeraJordan,1,ShababAlOrdun,0
+20210114,India I League,Mohammedan,0,ChurchillBrothers,0
+20210114,Algeria Ligue 1,JSMSkikda,0,CSConstantine,0
+20210114,Saudi Arabia Pro League,AlAin,0,AlShababRiyadh,3
+20210114,Saudi Arabia Pro League,AlFaisaly,2,AlQadisiyah,2
+20210114,Egypt Premier League,AswanFC,1,GhazlELMahallah,1
+20210114,India I League,SudevaDelhi,3,AiffXI,0
+20210114,India I League,GokulamKerala,4,Minerva,3
+20210114,Costa Rica Primera,Alajuelense,2,PerezZeledon,0
+20210114,Brazil Serie A,Corinthians,5,Fluminense,0
+20210114,Brazil Serie B,Cruzeiro,0,Oeste,1
+20210104,Brazil Serie B,Confianca,2,Nautico,0
+20210104,Chile Primera,UniversidadCatolica,3,Huachipato,0
+20210104,Portugal Superliga,Portimonense,2,Farense,0
+20210104,Argentina Primera B Nacional,AgropecuarioArgentino,0,FerroCarrilOeste,1
+20210104,Holland Eerste Divisie,FCUtrechtII,3,FCDenBosch,1
+20210104,England Premier League,Southampton,1,Liverpool,0
+20210104,Spain Primera Liga,Valencia,1,Cadiz,1
+20210104,Brazil Serie B,Parana,1,Botafogo,1
+20210104,Spain Segunda Liga,Lugo,0,SportingGijon,0
+20210104,Italy Serie B,Brescia,0,Vicenza,3
+20210104,Germany 2. Bundesliga,FortunaDusseldorf,2,Paderborn,1
+20210104,Portugal Superliga,GilVicente,0,Belenenses,0
+20210104,Holland Eerste Divisie,AZII,0,RodaJC,1
+20210104,Spain Segunda Liga,Girona,0,Sabadell,0
+20210104,Greece Etniki Katigoria,Lamia,2,ArisSalonika,0
+20210104,Italy Serie B,Cremonese,0,Chievo,2
+20210104,Italy Serie B,Frosinone,1,Spal,2
+20210104,Italy Serie B,Reggiana,0,Pescara,1
+20210104,Italy Serie B,Salernitana,0,Pordenone,2
+20210104,Italy Serie B,VirtusEntella,1,Cittadella,0
+20210104,Portugal LigaPro,Estoril,3,Penafiel,1
+20210104,Jordan Pro League,ShababAlOrdun,3,AlHussein,4
+20210104,Turkey Super Lig,Kasimpasa,0,Fenerbahce,3
+20210104,Italy Serie B,Ascoli,2,ReggioCalabria,1
+20210104,Turkey Lig 1,AdanaDemirspor,3,MenemenBelediyespor,0
+20210104,Greece Etniki Katigoria,VolosNps,1,Atromitos,0
+20210104,Italy Serie B,Lecce,0,Monza,0
+20210104,Italy Serie B,Cosenza,0,Empoli,2
+20210104,Italy Serie B,Venezia,1,Pisa,1
+20210104,Portugal LigaPro,CovaPiedade,1,FCPortoII,1
+20210104,Jordan Pro League,Sahab,2,Ramtha,4
+20210104,Chile Primera,Palestino,4,CuricoUnido,2
+20210104,Iran Pro League,Foolad,1,MesRafsanjan,1
+20210104,Iran Pro League,Esteghlal,2,AluminiumArak,0
+20210104,Turkey Lig 1,Eskisehirspor,0,Boluspor,2
+20210104,Iran Pro League,SanatNaft,2,NaftTehran,0
+20210104,Iran Pro League,PadidehKhorasan,1,Saipa,0
+20210104,Chile Primera B,SanLuis,1,SantiagoMorning,1
+20210103,Chile Primera,UniversidaddeChile,2,UniversidaddeConcepcion,0
+20210103,Brazil Serie B,Vitoria,1,Operario,1
+20210103,Portugal Superliga,FCPorto,3,Moreirense,0
+20210103,Argentina Primera B Nacional,NuevaChicago,1,GuillermoBrown,1
+20210103,Argentina Primera B Nacional,DeportivoSantamarina,2,Almagro,0
+20210103,Chile Primera B,SanMarcos,2,DeportesCopiapo,3
+20210103,Spain Primera Liga,Huesca,0,Barcelona,1
+20210103,Spain Segunda Liga,RealOviedo,2,Mallorca,2
+20210103,Italy Serie A,Juventus,4,Udinese,1
+20210103,Spain Segunda Liga,Almeria,3,Ponferradina,1
+20210103,Portugal Superliga,PacosFerreira,2,RioAve,0
+20210103,Brazil Serie B,Chapecoense,0,BrasilDePelotas,0
+20210103,Holland Eerste Divisie,FCVolendam,0,MVVMaastricht,1
+20210103,Cyprus 1. Division,ApollonLimassol,3,AnorthosisFamagusta,2
+20210103,Egypt Premier League,MisrLelMakasa,3,Ismaily,1
+20210103,Spain Primera Liga,Eibar,2,Granada,0
+20210103,Spain Primera Liga,RealSociedad,1,Osasuna,1
+20210103,Spain Segunda Liga,Albacete,1,Malaga,1
+20210103,Portugal Superliga,SantaClara,1,Benfica,1
+20210103,Germany Bundesliga,BayernMunich,5,Mainz,2
+20210103,Portugal LigaPro,Leixoes,0,Covilha,0
+20210103,Italy Serie A,Benevento,0,ACMilan,2
+20210103,Portugal LigaPro,Varzim,1,Vilafranquense,1
+20210103,England Premier League,Chelsea,1,ManCity,3
+20210103,Turkey Super Lig,Kayserispor,0,Besiktas,2
+20210103,Turkey Lig 1,Samsunspor,2,Adanaspor,1
+20210103,Cyprus 1. Division,AEKLarnaca,0,OmoniaNicosia,3
+20210103,Qatar Stars League,QatarSC,2,AlGharrafa,2
+20210103,Qatar Stars League,AlArabi,3,AlKhoor,0
+20210103,Holland Eerste Divisie,Telstar,5,NEC,2
+20210103,Spain Primera Liga,Alaves,1,AtleticoMadrid,2
+20210103,Greece Etniki Katigoria,Larissa,1,PAOKSalonika,1
+20210103,Greece Etniki Katigoria,PASGiannina,1,ApollonSmirnis,3
+20210103,Portugal LigaPro,Feirense,1,Vizela,2
+20210103,Spain Segunda Liga,LasPalmas,1,Espanyol,0
+20210103,Portugal Superliga,Maritimo,0,Boavista,0
+20210103,Germany Bundesliga,BorussiaDortmund,2,Wolfsburg,0
+20210103,England Premier League,Newcastle,1,Leicester,2
+20210103,Italy Serie A,Cagliari,1,Napoli,4
+20210103,Italy Serie A,Fiorentina,0,Bologna,0
+20210103,Italy Serie A,Genoa,1,Lazio,1
+20210103,Italy Serie A,Parma,0,Torino,3
+20210103,Italy Serie A,Roma,1,Sampdoria,0
+20210103,Italy Serie A,Spezia,0,HellasVerona,1
+20210103,Italy Serie A,Atalanta,5,Sassuolo,1
+20210103,Chile Primera,Antofagasta,0,ColoColo,1
+20210103,Holland Eerste Divisie,FCEindhoven,2,CambuurLeeuwarden,5
+20210103,Qatar Stars League,UmmSalal,0,Lekhwiya,1
+20210103,Greece Etniki Katigoria,Panaitolikos,2,OFICrete,1
+20210103,Spain Segunda Liga,Castellon,0,Tenerife,1
+20210103,Turkey Lig 1,Giresunspor,3,Tuzlaspor,0
+20210103,Turkey Super Lig,FatihKaragumruk,1,Trabzonspor,2
+20210103,Turkey Lig 1,Istanbulspor,5,Osmanlispor,3
+20210103,Portugal Superliga,Tondela,1,Famalicao,0
+20210103,Spain Primera Liga,AthleticBilbao,1,Elche,0
+20210103,Germany 2. Bundesliga,Hamburg,3,Regensburg,1
+20210103,Germany 2. Bundesliga,Hannover,964,Sandhausen,0
+20210103,Germany 2. Bundesliga,ErzgebirgeAue,3,Braunschweig,1
+20210103,Germany 2. Bundesliga,GreutherFurth,2,StPauli,1
+20210103,Germany 2. Bundesliga,HolsteinKiel,1,Osnabruck,2
+20210103,Italy Serie A,InterMilan,6,Crotone,2
+20210103,Portugal LigaPro,Mafra,1,Chaves,2
+20210103,Holland Eerste Divisie,ExcelsiorRotterdam,0,NAC,3
+20210103,Portugal LigaPro,BenficaII,4,Oliveirense,0
+20210103,Turkey Super Lig,CaykurRizespor,1,Genclerbirligi,1
+20210103,Turkey Lig 1,Bandirmaspor,2,Altay,0
+20210103,Australia A League,AdelaideUnited,2,MelbourneCity,0
+20210103,Australia A League,Macarthur,0,CentralCoastMariners,2
+20210103,Chile Primera B,Nublense,1,DeportesTemuco,2
+20210113,Uruguay Primera Division,Torque,2,Rentistas,1
+20210113,Copa Libertadores,Santos,3,BocaJuniors,0
+20210113,Chile Primera B,Nublense,2,UnionSanFelipe,3
+20210113,Brazil Serie B,Avai,2,Vitoria,2
+20210113,Costa Rica Primera,Grecia,0,Saprissa,0
+20210113,Costa Rica Primera,Jicaral,1,SanCarlos,1
+20210113,Uruguay Primera Division,Defensor,1,BostonRiver,1
+20210113,England Premier League,Tottenham,1,Fulham,1
+20210113,Holland Eredivisie,Feyenoord,1,FCZwolle,0
+20210113,Chile Primera,UniversidaddeConcepcion,1,ColoColo,1
+20210113,Supercopa De Espana,RealSociedad,1,Barcelona,1
+20210113,Germany DFB Pokal,HolsteinKiel,2,BayernMunich,2
+20210113,Coppa Italia,Juventus,2,Genoa,2
+20210113,England League 2,Oldham,2,Mansfield,3
+20210113,Holland Eredivisie,FortunaSittard,0,Sparta,1
+20210113,Holland Eredivisie,ADODenHaag,1,VVVVenlo,4
+20210113,Germany 3. Liga,Lubeck,0,WaldhofMannheim,1
+20210113,Germany 3. Liga,FSVZwickau,0,Ingolstadt,2
+20210113,England Premier League,ManCity,1,Brighton,0
+20210113,Holland Eredivisie,PSV,1,AZ,3
+20210113,Belgium Juliper League,BeerschotWilrijk,1,CercleBrugge,1
+20210113,Romania Liga I,Hermannstadt,0,DinamoBucharest,2
+20210113,Coppa Italia,Napoli,3,Empoli,2
+20210113,Cyprus 1. Division,ApollonLimassol,0,OmoniaNicosia,0
+20210113,Qatar Stars League,AlAhli,1,AlKhoor,2
+20210113,Oman League,AlNasr,1,Dhufar,3
+20210113,Romania Liga I,ChindiaTargoviste,1,CSMSIasi,1
+20210113,South Africa Premiership,Tshakhuma,0,OrlandoPirates,3
+20210113,South Africa Premiership,SupersportUnited,2,BloemfonteinCeltic,1
+20210113,Coppa Italia,Fiorentina,1,InterMilan,1
+20210113,Cyprus 1. Division,ApoelNicosia,1,AEKLarnaca,1
+20210113,Oman League,AlSuwaiq,2,Nizwa,0
+20210113,Oman League,BahlaClub,2,AlMsnaa,2
+20210113,Qatar Stars League,UmmSalal,0,AlWakra,0
+20210113,South Africa Premiership,AmaZulu,0,KaizerChiefs,1
+20210113,Oman League,OmanFC,0,AlNahda,0
+20210113,Copa Libertadores,Palmeiras,0,RiverPlate,2
+20210113,Brazil Serie B,Chapecoense,2,Figueirense,1
+20210105,Brazil Serie B,Guarani,1,PontePreta,1
+20210105,Portugal LigaPro,Arouca,0,Academica,2
+20210105,Spain Copa Del Rey,Marbella,2,Valladolid,2
+20210105,Spain Copa Del Rey,Alcorcon,2,RealZaragoza,1
+20210105,Holland Eerste Divisie,TOPOss,1,JongAjax,0
+20210105,England Conference,Weymouth,0,Yeovil,3
+20210105,England Conference,SolihullMoors,2,Chesterfield,1
+20210105,England Conference North,BrackleyTown,2,Darlington,0
+20210105,England Conference North,Chester,1,Guiseley,0
+20210105,England Conference North,Kidderminster,2,York,2
+20210105,England Conference North,BostonUtd,2,KetteringTown,2
+20210105,England Conference South,DorkingWanderers,2,EbbsfleetUtd,0
+20210105,England League Cup,Tottenham,2,Brentford,0
+20210105,England Conference South,Dartford,1,TonbridgeAngels,0
+20210105,England League 2,Mansfield,2,SalfordCity,1
+20210105,France Ligue 2,ACAjaccio,4,Pau,1
+20210105,France Ligue 2,Auxerre,1,Caen,1
+20210105,France Ligue 2,Chambly,0,LeHavre,1
+20210105,France Ligue 2,ClermontFoot,3,Grenoble,0
+20210105,France Ligue 2,Guingamp,2,Amiens,2
+20210105,France Ligue 2,RodezAveyron,1,ChamoisNiort,1
+20210105,France Ligue 2,Sochaux,1,Dunkerque,0
+20210105,France Ligue 2,Toulouse,1,Paris,0
+20210105,France Ligue 2,Troyes,2,Chateauroux,0
+20210105,France Ligue 2,Valenciennes,2,Nancy,3
+20210105,Spain Copa Del Rey,Linares,0,Sevilla,2
+20210105,Cyprus 1. Division,DoxaKatokopias,2,ApoelNicosia,1
+20210105,Spain Copa Del Rey,Zamora,1,Villarreal,4
+20210105,Holland Eerste Divisie,JongPSV,2,GoAheadEagles,3
+20210105,Jordan Pro League,AlJazeeraJordan,0,AlWihdat,1
+20210105,Turkey Super Lig,Konyaspor,4,Galatasaray,3
+20210105,Spain Copa Del Rey,UDIbizaEivissa,5,CeltaVigo,2
+20210105,Cyprus 1. Division,ErmisAradippou,1,NeaSalamina,2
+20210105,Spain Copa Del Rey,Cordoba,1,Getafe,0
+20210105,Portugal LigaPro,AcademicoViseu,1,CasaPiaAtletico,1
+20210105,South Africa Premiership,TSGalaxy,2,Baroka,2
+20210105,South Africa Premiership,Stellenbosch,2,Tshakhuma,0
+20210105,South Africa Premiership,MorokaSwallows,3,CapeTownCity,2
+20210105,Cyprus 1. Division,Enosis,2,Karmiotissa,2
+20210105,Jordan Pro League,AlSareeh,0,Maan,3
+20210105,Turkey Super Lig,Malatyaspor,2,Sivasspor,2
+20210105,Turkey Super Lig,GaziantepBB,2,Ankaragucu,0
+20210105,Iran Pro League,Zobahan,1,TractorSazi,2
+20210105,Iran Pro League,Paykan,2,NassajiMazandaran,1
+20210105,Chile Primera,AudaxItaliano,2,UnionEspanola,2
+20210107,Chile Primera,Huachipato,4,UnionLaCalera,3
+20210107,Brazil Serie A,Ceara,0,Internacional,2
+20210107,Portugal Superliga,Braga,2,Maritimo,1
+20210107,Chile Primera,UniversidaddeConcepcion,1,Palestino,1
+20210107,Spain Copa Del Rey,LasRozasCF,3,Eibar,3
+20210107,Spain Copa Del Rey,Alcoyano,2,Huesca,1
+20210107,Spain Copa Del Rey,Pontevedra,0,Cadiz,0
+20210107,Spain Copa Del Rey,PenaDeportiva,0,Sabadell,0
+20210107,Spain Copa Del Rey,Amorebieta,0,SportingGijon,1
+20210107,Spain Copa Del Rey,YeclanoDeportivo,1,Valencia,4
+20210107,Spain Copa Del Rey,Girona,0,Lugo,0
+20210107,Cyprus 1. Division,Paphos,5,OlympiakosNicosia,0
+20210107,Oman League,Sohar,0,AlSeeb,1
+20210107,Turkey Lig 1,Istanbulspor,5,Balikesirspor,0
+20210107,Turkey Super Lig,Fenerbahce,2,Alanyaspor,1
+20210107,Qatar Stars League,QatarSC,3,AlKharaityat,1
+20210107,Qatar Stars League,AlRayyan,2,AlGharrafa,1
+20210107,Saudi Arabia Pro League,AlWehda,0,AlFateh,0
+20210107,Greece Etniki Katigoria,OFICrete,2,Lamia,0
+20210107,Greece Etniki Katigoria,ArisSalonika,2,VolosNps,0
+20210107,Egypt Premier League,AlIttihad,1,AlMasry,1
+20210107,Oman League,Nizwa,1,Saham,2
+20210107,Oman League,AlNasr,1,OmanFC,0
+20210107,Chile Primera,CuricoUnido,2,Antofagasta,0
+20210107,Qatar Stars League,AlSadd,8,AlSailiya,0
+20210107,Iran Pro League,Perspolis,0,Sepahan,0
+20210107,Turkey Lig 1,Osmanlispor,0,Adanaspor,2
+20210107,Saudi Arabia Pro League,AbhaClub,1,AlFaisaly,0
+20210107,Brazil Serie A,Flamengo,1,Fluminense,2
+20210107,Brazil Serie A,Bragantino,4,SaoPaulo,2
+20210107,Chile Primera B,Barnechea,2,Nublense,4
+20210111,Brazil Serie A,Bragantino,2,AtleticoMineiro,2
+20210111,Brazil Serie B,Confianca,1,Operario,2
+20210111,Brazil Serie B,CRB,2,Guarani,0
+20210111,Chile Primera,SantiagoWanderers,1,Cobresal,0
+20210111,Spain Segunda Liga,Sabadell,1,Lugo,1
+20210111,Brazil Serie B,PontePreta,2,CuiabaEsporteClube,2
+20210111,Holland Eerste Divisie,FCDordrecht,2,JongPSV,3
+20210111,Spain Primera Liga,Huesca,0,RealBetis,2
+20210111,Chile Primera,Antofagasta,2,DeportesLaSerena,2
+20210111,England FA Cup,Stockport,0,WestHam,1
+20210111,Italy Serie A,Spezia,2,Sampdoria,1
+20210111,England Conference North,BradfordParkAvenue,1,BostonUtd,1
+20210111,Belgium Juliper League,StandardLiege,3,Waasland,1
+20210111,France National,Bastia,2,QuevillyRouen,1
+20210111,Scotland Premiership,Celtic,1,Hibernian,1
+20210111,France Ligue 2,Caen,2,Toulouse,2
+20210111,Germany 2. Bundesliga,Braunschweig,0,FortunaDusseldorf,0
+20210111,Spain Segunda Liga,SportingGijon,2,Fuenlabrada,1
+20210111,Scottish Cup,CamelonJuniors,1,BroraRangers,2
+20210111,Portugal LigaPro,Academica,1,Mafra,0
+20210111,Spain Primera Liga,Elche,1,Getafe,3
+20210111,Spain Segunda Liga,Ponferradina,1,Girona,1
+20210111,Germany 3. Liga,TurkgucuAtasporMunchen,1,DynamoDresden,0
+20210111,Cyprus 1. Division,NeaSalamina,2,Paphos,0
+20210111,Holland Eerste Divisie,FCDenBosch,1,AZII,2
+20210111,Greece Etniki Katigoria,Lamia,0,AEKAthens,1
+20210111,Jordan Pro League,Maan,2,AlFaysali,3
+20210111,Turkey Lig 1,AkhisarBelediyespor,0,Adanaspor,1
+20210111,Turkey Super Lig,Alanyaspor,1,Kasimpasa,2
+20210111,Cyprus 1. Division,OlympiakosNicosia,0,AnorthosisFamagusta,3
+20210111,Greece Etniki Katigoria,PASGiannina,0,ArisSalonika,0
+20210111,Egypt Premier League,PyramidsFC,1,WadiDegla,1
+20210111,Portugal LigaPro,FCPortoII,1,Leixoes,2
+20210111,Jordan Pro League,AlSalt,3,AlAhlyJordan,1
+20210111,Jordan Pro League,AlHussein,2,AlAqaba,3
+20210111,Algeria Ligue 1,MCAlger,1,MCOran,1
+20210111,Algeria Ligue 1,Kabylie,1,USMAlger,2
+20210111,Chile Primera,Palestino,2,UnionEspanola,2
+20210111,Iran Pro League,Esteghlal,2,Perspolis,2
+20210111,Turkey Super Lig,Erzurumspor,0,Fenerbahce,3
+20210111,Algeria Ligue 1,Paradou,1,Belouizdad,1
+20210111,Mexico Liga MX,SantosLaguna,1,CruzAzul,0
+20210112,Brazil Serie B,Nautico,0,AmericaMineiro,0
+20210112,Brazil Serie B,BrasilDePelotas,2,JuventudeRS,1
+20210112,Brazil Serie B,Parana,2,CSAAL,0
+20210112,Brazil Serie B,Botafogo,2,SampaioCorrea,1
+20210112,Chile Primera B,Melipilla,3,Barnechea,1
+20210112,Chile Primera B,DeportesMagallanes,2,CDSantaCruz,0
+20210112,Spain Primera Liga,AtleticoMadrid,2,Sevilla,0
+20210112,England Premier League,Burnley,0,ManUtd,1
+20210112,England Premier League,Wolverhampton,1,Everton,2
+20210112,Holland Eredivisie,Heracles,4,FCEmmen,0
+20210112,England Conference,DoverAthletic,1,BorehamWood,1
+20210112,England Conference North,Chorley,1,Leamington,2
+20210112,England Conference North,FarsleyCeltic,1,Darlington,0
+20210112,England Conference South,WellingUtd,0,StAlbansCity,2
+20210112,England Conference South,EbbsfleetUtd,2,ConcordRangers,1
+20210112,England Conference South,TonbridgeAngels,4,ChippenhamTown,0
+20210112,England Conference South,BraintreeTown,1,OxfordCity,2
+20210112,England Conference South,Dartford,3,BillericayTown,0
+20210112,Germany DFB Pokal,BayerLeverkusen,4,EintrachtFrankfurt,1
+20210112,Coppa Italia,ACMilan,0,Torino,0
+20210112,England Championship,Bournemouth,1,Millwall,1
+20210112,Belgium Juliper League,Oostende,1,Eupen,1
+20210112,England Conference South,EastbourneBorough,2,MaidstoneUtd,3
+20210112,England Championship,Luton,0,QPR,2
+20210112,England League 1,Charlton,4,Rochdale,4
+20210112,England League 2,Scunthorpe,0,SalfordCity,1
+20210112,England League 2,Exeter,1,Bolton,1
+20210112,Scotland Premiership,DundeeUtd,2,StJohnstone,2
+20210112,Germany 3. Liga,Unterhaching,3,Verl,4
+20210112,Germany 3. Liga,BayernMunichII,2,Meppen,0
+20210112,Germany 3. Liga,Magdeburg,1,Saarbrucken,2
+20210112,Spain Primera Liga,Granada,2,Osasuna,0
+20210112,Germany Regionalliga Southwest,TSVSchottMainz,0,SonnenhofGrossaspach,3
+20210112,Germany Regionalliga Southwest,MainzII,2,FCGiessen,1
+20210112,England Premier League,SheffUtd,1,Newcastle,0
+20210112,Holland Eredivisie,Vitesse,1,FCUtrecht,0
+20210112,Romania Liga I,CSUniversitateaCraiova,0,Sepsi,0
+20210112,Egypt Premier League,AlAhly,4,ElEntagElHarby,1
+20210112,Qatar Stars League,AlSadd,3,Lekhwiya,1
+20210112,Qatar Stars League,AlSailiya,2,AlKharaityat,0
+20210112,Oman League,Saham,0,AlSeeb,3
+20210112,Egypt Premier League,AlMasry,0,Zamalek,1
+20210112,Romania Liga I,GazMetanMedias,2,Voluntari,0
+20210112,Egypt Premier League,AlMoqawloonAlArab,1,CeramicaCleopatra,1
+20210112,Chile Primera,OHiggins,2,MunicipalIquique,2
+20210112,Qatar Stars League,AlRayyan,2,QatarSC,1
+20210112,Chile Primera B,Cobreloa,1,DeportesCopiapo,1
+20210112,Chile Primera B,DeportesValdivia,2,SantiagoMorning,1
+20210112,Chile Primera B,SanLuis,3,DeportesTemuco,0
+20210112,Oman League,AlRustaq,2,Sohar,1
+20210112,Oman League,Muscat,1,AlIttehad,1
+20210112,Egypt Premier League,Smouha,2,NationalBank,2
+20210112,Iran Pro League,NaftTehran,3,PadidehKhorasan,1
+20210112,Mexico Liga MX,Pachuca,1,Juarez,1
+20210112,Chile Primera,AudaxItaliano,2,Huachipato,0
+20210112,Argentina Primera B Nacional,AllBoys,2,Instituto,2
+20210112,Argentina Primera B Nacional,GimnasiaJujuy,2,DeportivoSantamarina,2
+20210106,Brazil Serie A,SportRecife,1,FortalezaCE,0
+20210106,Brazil Serie A,Coritiba,1,Goias,2
+20210106,Brazil Serie A,Botafogo,0,AtleticoParanaense,2
+20210106,Brazil Serie A,Gremio,2,Bahia,1
+20210106,Copa Libertadores,BocaJuniors,0,Santos,0
+20210106,Chile Primera,UniversidaddeChile,0,OHiggins,1
+20210106,Chile Primera B,DeportesMagallanes,1,SantiagoMorning,0
+20210106,Scottish Cup,Huntly,3,CumbernauldColts,1
+20210106,Chile Primera,DeportesLaSerena,1,EvertonVinadelMar,1
+20210106,Spain Copa Del Rey,Malaga,0,RealOviedo,0
+20210106,Spain Copa Del Rey,Fuenlabrada,1,Mallorca,1
+20210106,France Ligue 1,StEtienne,1,PSG,1
+20210106,France Ligue 1,Lyon,3,Lens,2
+20210106,France Ligue 1,Marseille,3,Montpellier,1
+20210106,France Ligue 1,Lille,1,Angers,2
+20210106,France Ligue 1,Reims,0,Dijon,0
+20210106,Spain Primera Liga,AthleticBilbao,2,Barcelona,3
+20210106,Italy Serie A,ACMilan,1,Juventus,3
+20210106,Belgium Juliper League,Eupen,1,Genk,4
+20210106,England League Cup,ManUtd,0,ManCity,2
+20210106,England Conference South,BillericayTown,1,OxfordCity,3
+20210106,Spain Copa Del Rey,Castellon,0,Tenerife,2
+20210106,Spain Copa Del Rey,Burgos,0,Espanyol,2
+20210106,Spain Copa Del Rey,DeportivoLaCoruna,0,Alaves,1
+20210106,Spain Copa Del Rey,Olot,0,Osasuna,3
+20210106,Cyprus 1. Division,Limassol,3,AEKLarnaca,1
+20210106,Portugal LigaPro,Leixoes,1,Oliveirense,1
+20210106,France Ligue 1,Strasbourg,5,Nimes,0
+20210106,France Ligue 1,Lorient,2,Monaco,5
+20210106,France Ligue 1,Metz,0,Bordeaux,0
+20210106,France Ligue 1,Nantes,0,Rennes,0
+20210106,France Ligue 1,Brestois,2,Nice,0
+20210106,Germany 2. Bundesliga,FCKickersWurzburg,1,StPauli,1
+20210106,Greece Etniki Katigoria,AsterasTripoli,0,Olympiacos,4
+20210106,Spain Copa Del Rey,Cornella,1,AtleticoMadrid,0
+20210106,Italy Serie A,Napoli,1,Spezia,2
+20210106,Jordan Pro League,AlAqaba,1,AlAhlyJordan,0
+20210106,Turkey Super Lig,Besiktas,6,CaykurRizespor,0
+20210106,Turkey Super Lig,Antalyaspor,3,FatihKaragumruk,1
+20210106,Spain Copa Del Rey,CulturalLeonesa,1,Granada,1
+20210106,Spain Copa Del Rey,ArtisticoNavalcarnero,1,LasPalmas,0
+20210106,Spain Copa Del Rey,Haro,1,RayoVallecano,3
+20210106,Cyprus 1. Division,OmoniaNicosia,2,ApollonLimassol,1
+20210106,Spain Copa Del Rey,UnionMutilvera,1,RealBetis,3
+20210106,Greece Etniki Katigoria,Larissa,0,PASGiannina,0
+20210106,South Africa Premiership,SupersportUnited,2,ChippaUnited,2
+20210106,Italy Serie A,Crotone,1,Roma,3
+20210106,Italy Serie A,Lazio,2,Fiorentina,1
+20210106,Cyprus 1. Division,AnorthosisFamagusta,1,EthnikosAchnas,0
+20210106,Italy Serie A,Sampdoria,2,InterMilan,1
+20210106,Italy Serie A,Sassuolo,2,Genoa,1
+20210106,Italy Serie A,Torino,1,HellasVerona,1
+20210106,Italy Serie A,Atalanta,3,Parma,0
+20210106,Italy Serie A,Bologna,2,Udinese,2
+20210106,Jordan Pro League,AlFaysali,1,AlSalt,2
+20210106,Chile Primera,SantiagoWanderers,3,ColoColo,0
+20210106,Chile Primera B,Cobreloa,6,DeportesValdivia,0
+20210106,Greece Etniki Katigoria,ApollonSmirnis,0,Panathinaikos,1
+20210106,Turkey Super Lig,Genclerbirligi,3,Hatayspor,1
+20210106,Turkey Super Lig,IstanbulBuyuksehirBSK,1,Erzurumspor,0
+20210106,Turkey Super Lig,Trabzonspor,1,Goztepespor,0
+20210106,Spain Copa Del Rey,Socuellamos,0,Leganes,2
+20210106,Italy Serie A,Cagliari,1,Benevento,2
+20210106,Spain Copa Del Rey,Numancia,1,Almeria,2
+20210106,Spain Copa Del Rey,CFLaNucia,0,Elche,1
+20210106,Spain Copa Del Rey,Portugalete,1,Levante,2
+20210106,Turkey Super Lig,Denizlispor,0,Kayserispor,1
+20210106,Brazil Serie B,CuiabaEsporteClube,1,JuventudeRS,0
+20210106,Copa Libertadores,RiverPlate,0,Palmeiras,3
+20210115,Brazil Serie B,SampaioCorrea,2,Parana,1
+20210115,Chile Primera,CuricoUnido,1,OHiggins,3
+20210115,Portugal Superliga,FCPorto,1,Benfica,1
+20210115,Brazil Serie B,Figueirense,3,BrasilDePelotas,0
+20210115,France Ligue 1,Montpellier,2,Monaco,3
+20210115,Holland Eerste Divisie,GoAheadEagles,3,MVVMaastricht,0
+20210115,Holland Eerste Divisie,HelmondSport,4,FCDenBosch,0
+20210115,Holland Eerste Divisie,AZII,2,AlmereCity,5
+20210115,Chile Primera,DeportesLaSerena,0,UnionLaCalera,3
+20210115,Italy Serie B,Vicenza,0,Frosinone,0
+20210115,Scotland Championship,Morton,0,Dunfermline,0
+20210115,Belgium Juliper League,Eupen,2,Anderlecht,0
+20210115,Italy Serie A,Lazio,3,Roma,0
+20210115,Germany Bundesliga,UnionBerlin,1,BayerLeverkusen,0
+20210115,France National,Orleans,2,Creteil,2
+20210115,Portugal Superliga,SportingLisbon,1,RioAve,1
+20210115,Italy Serie B,Chievo,2,VirtusEntella,1
+20210115,Romania Liga I,SteauaBucharest,3,AstraGiurgiu,0
+20210115,Germany 3. Liga,ViktoriaKoln,0,TurkgucuAtasporMunchen,2
+20210115,Holland Eerste Divisie,RodaJC,1,DeGraafschap,3
+20210115,Holland Eerste Divisie,FCDordrecht,0,FCVolendam,0
+20210115,Holland Eerste Divisie,ExcelsiorRotterdam,1,FCEindhoven,0
+20210115,Germany 2. Bundesliga,GreutherFurth,1,Paderborn,1
+20210115,Germany 2. Bundesliga,FCKickersWurzburg,0,Braunschweig,0
+20210115,France National,Avranches,2,Laval,1
+20210115,Saudi Arabia Pro League,AlAhliJeddah,0,AlHilal,0
+20210115,Cyprus 1. Division,ErmisAradippou,2,Karmiotissa,0
+20210115,France National,SaintBrieuc,0,Concarneau,0
+20210115,Albania Superliga,Kukesi,0,Vllaznia,1
+20210115,Albania Superliga,TeutaDurres,2,BylisBallsh,0
+20210115,France National,QuevillyRouen,2,LeMans,0
+20210115,France National,Cholet,1,VillefrancheSurSaone,2
+20210115,France National,RedStar,0,Boulogne,0
+20210115,France National,LyonDuchere,0,Sete,34
+20210115,Czech First League,Teplice,0,Jablonec,975
+20210115,Turkey Super Lig,Genclerbirligi,1,FatihKaragumruk,3
+20210115,United Arab Emirates UFL,ShababAlAhliDubai,1,AlNas,0
+20210115,United Arab Emirates UFL,Ajman,2,AlFujirah,1
+20210115,Cyprus 1. Division,Enosis,1,Limassol,0
+20210115,Bahrain Premier League,AlAhliManama,0,Busaiteen,0
+20210115,Saudi Arabia Pro League,AlRaed,0,AlNassr,1
+20210115,Romania Liga I,UTABatranaDoamna,0,ViitorulConstanta,0
+20210115,Jordan Pro League,AlHussein,0,Sahab,2
+20210115,Jordan Pro League,AlSareeh,1,Ramtha,2
+20210115,Jordan Pro League,AlAqaba,1,AlSalt,1
+20210115,Bahrain Premier League,Malkiya,0,AlBadii,0
+20210115,Chile Primera,Cobresal,3,Antofagasta,1
+20210115,India I League,NEROCA,1,TRAU,1
+20210115,Algeria Ligue 1,Chlef,2,BordjBouArreridj,0
+20210115,Algeria Ligue 1,JSSaoura,2,HusseinDey,1
+20210115,Algeria Ligue 1,AinMlila,1,OlympiqueMedea,3
+20210115,Algeria Ligue 1,Biskra,0,USMBelAbbes,1
+20210115,United Arab Emirates UFL,Hatta,0,AlAin,1
+20210115,United Arab Emirates UFL,AlSharjah,1,AlIttihadKalba,0
+20210115,Saudi Arabia Pro League,Dhamk,0,AlWehda,0
+20210115,Egypt Premier League,ElGaish,1,WadiDegla,0
+20210115,Egypt Premier League,Enppi,2,CeramicaCleopatra,1
+20210115,Egypt Premier League,PyramidsFC,3,AlMoqawloonAlArab,1
+20210115,Iran Pro League,Sepahan,2,Paykan,1
+20210115,Iran Pro League,Saipa,2,Zobahan,1
+20210115,Iran Pro League,AluminiumArak,0,GolGoharSirjan,0
+20210115,Iran Pro League,NassajiMazandaran,1,MachineSaziTabriz,1
+20210115,Vietnam V League,NamDinh,3,TTHaNoi,0
+20210115,India I League,ChennaiCity,0,RealKashmir,2
+20210115,Costa Rica Primera,Cartagines,1,SantosdeGuapiles,0
+20210115,Chile Primera,UnionEspanola,1,UniversidadCatolica,1
+20210115,Brazil Serie B,CuiabaEsporteClube,4,Guarani,0
+20210110,Brazil Serie A,VascodaGama,3,Botafogo,0
+20210110,Argentina Primera B Nacional,SanMartindeTucuman,2,GimnasiaMendoza,2
+20210110,Chile Primera,ColoColo,1,EvertonVinadelMar,0
+20210110,Brazil Serie A,Internacional,1,Goias,0
+20210110,Brazil Serie A,AtleticoGoianiense,1,Bahia,1
+20210110,Argentina Primera B Nacional,IndependienteRivadavia,0,Mitre,1
+20210110,Portugal Superliga,Belenenses,0,PacosFerreira,2
+20210110,Spain Primera Liga,Valladolid,0,Valencia,1
+20210110,Spain Segunda Liga,Espanyol,2,Castellon,0
+20210110,Italy Serie A,Juventus,3,Sassuolo,1
+20210110,England FA Cup,NewportCounty,1,Brighton,1
+20210110,Belgium Juliper League,StTruiden,1,ClubBrugge,2
+20210110,Holland Eerste Divisie,GoAheadEagles,1,TOPOss,0
+20210110,Brazil Serie A,SaoPaulo,0,Santos,1
+20210110,Brazil Serie A,Flamengo,0,Ceara,2
+20210110,Mexico Liga MX,Toluca,3,JaguaresChiapas,1
+20210110,Greece Etniki Katigoria,Panathinaikos,2,Larissa,0
+20210110,Spain Segunda Liga,Tenerife,3,FCCartagena,0
+20210110,Belgium Juliper League,OudHeverlee,1,Anderlecht,0
+20210110,Romania Liga I,ViitorulConstanta,2,Hermannstadt,1
+20210110,Germany Bundesliga,ArminiaBielefeld,1,HerthaBerlin,0
+20210110,Portugal LigaPro,CasaPiaAtletico,1,Arouca,1
+20210110,Portugal LigaPro,Vizela,2,CovaPiedade,1
+20210110,Italy Serie A,Fiorentina,1,Cagliari,0
+20210110,England FA Cup,MarineFC,0,Tottenham,5
+20210110,Jordan Pro League,Ramtha,0,AlJazeeraJordan,1
+20210110,Cyprus 1. Division,AEKLarnaca,1,Enosis,2
+20210110,Turkey Super Lig,Hatayspor,2,Besiktas,2
+20210110,Holland Eredivisie,Ajax,2,PSV,2
+20210110,Greece Etniki Katigoria,Atromitos,0,OFICrete,0
+20210110,Greece Etniki Katigoria,ApollonSmirnis,0,AsterasTripoli,1
+20210110,Spain Primera Liga,Cadiz,3,Alaves,1
+20210110,Portugal Superliga,Farense,3,GilVicente,1
+20210110,Scotland Premiership,Aberdeen,1,Rangers,2
+20210110,Scotland Premiership,Livingston,3,RossCounty,1
+20210110,Belgium Juliper League,BeerschotWilrijk,1,Gent,1
+20210110,Spain Segunda Liga,Mallorca,0,LasPalmas,1
+20210110,Portugal LigaPro,Covilha,1,BenficaII,1
+20210110,Portugal LigaPro,Oliveirense,1,Feirense,0
+20210110,Germany Bundesliga,Augsburg,1,VfBStuttgart,4
+20210110,Jordan Pro League,AlWihdat,3,AlSareeh,0
+20210110,Italy Serie A,HellasVerona,2,Crotone,1
+20210110,Italy Serie A,Parma,0,Lazio,2
+20210110,Italy Serie A,Udinese,1,Napoli,2
+20210110,Cyprus 1. Division,Karmiotissa,1,DoxaKatokopias,1
+20210110,Chile Primera,UniversidadCatolica,1,CuricoUnido,1
+20210110,South Africa Premiership,OrlandoPirates,1,MorokaSwallows,1
+20210110,South Africa Premiership,BloemfonteinCeltic,1,AmaZulu,1
+20210110,India I League,AiffXI,2,ChurchillBrothers,5
+20210110,England FA Cup,BristolCity,2,Portsmouth,1
+20210110,England FA Cup,Chelsea,4,Morecambe,0
+20210110,England FA Cup,Barnsley,2,Tranmere,0
+20210110,England FA Cup,ManCity,3,Birmingham,0
+20210110,England FA Cup,CrawleyTown,3,Leeds,0
+20210110,England FA Cup,Cheltenham,1,Mansfield,1
+20210110,Holland Eredivisie,Heerenveen,1,FortunaSittard,3
+20210110,Holland Eredivisie,VVVVenlo,2,WillemII,1
+20210110,Spain Primera Liga,Levante,2,Eibar,1
+20210110,Turkey Super Lig,Ankaragucu,1,IstanbulBuyuksehirBSK,2
+20210110,Germany 3. Liga,FSVZwickau,2,Lubeck,1
+20210110,Turkey Super Lig,CaykurRizespor,1,Denizlispor,1
+20210110,Greece Etniki Katigoria,PAOKSalonika,3,VolosNps,1
+20210110,Scottish Cup,AirdrieUtd,0,EdinburghCity,1
+20210110,Germany 2. Bundesliga,Paderborn,2,ErzgebirgeAue,1
+20210110,Germany 2. Bundesliga,Darmstadt,1,Hannover,962
+20210110,Germany 2. Bundesliga,Regensburg,0,VfLBochum,2
+20210110,Belgium Juliper League,KVMechelen,3,Antwerp,0
+20210110,Germany 3. Liga,Ingolstadt,2,MSVDuisburg,1
+20210110,Italy Serie A,Roma,2,InterMilan,2
+20210110,Iran Pro League,MesRafsanjan,1,MachineSaziTabriz,0
+20210110,Iran Pro League,NassajiMazandaran,0,SanatNaft,1
+20210110,Iran Pro League,Sepahan,1,Foolad,1
+20210110,Iran Pro League,AluminiumArak,2,Zobahan,2
+20210110,Portugal LigaPro,Penafiel,1,Varzim,2
+20210110,Holland Eredivisie,Sparta,0,Feyenoord,2
+20210110,Turkey Super Lig,FatihKaragumruk,2,Konyaspor,1
+20210110,India I League,RealKashmir,1,TRAU,1
+20210110,New Zealand Premiership,WaitakereUnited,0,AucklandCity,3
+20210110,Mexico Liga MX,CFAmerica,2,AtleticoSanLuis,1
+20210110,New Zealand Premiership,EasternSuburbs,1,HawkesBayUnited,2
+20210110,New Zealand Premiership,Wanderers,1,TeamWellington,1
+20210110,Mexico Liga MX,Tigres,2,Leon,0
+20210120,Brazil Serie A,Coritiba,3,Fluminense,3
+20210120,Costa Rica Primera,SanCarlos,1,Guadelupe,0
+20210120,Brazil Serie B,Nautico,4,Oeste,1
+20210120,Brazil Serie A,Gremio,1,AtleticoMineiro,1
+20210120,Brazil Serie A,Bahia,1,AtleticoParanaense,0
+20210120,Spain Primera Liga,Villarreal,2,Granada,2
+20210120,Scotland Premiership,Livingston,2,Celtic,2
+20210120,England Premier League,Fulham,1,ManUtd,2
+20210120,France Ligue 1,Marseille,0,Lens,1
+20210120,Brazil Serie A,Botafogo,1,AtleticoGoianiense,3
+20210120,Belgium Juliper League,ClubBrugge,2,Oostende,1
+20210120,Belgium Juliper League,Antwerp,1,CercleBrugge,0
+20210120,Spain Primera Liga,RealBetis,2,CeltaVigo,1
+20210120,Spain Copa Del Rey,Alcoyano,1,RealMadrid,1
+20210120,Uruguay Primera Division,RiverPlateMontevideo,1,Cerro,2
+20210120,Coupe de France,Guingamp,1,Caen,3
+20210120,England Championship,Birmingham,0,Preston,1
+20210120,Germany Bundesliga,RBLeipzig,1,UnionBerlin,0
+20210120,Germany Bundesliga,Freiburg,2,EintrachtFrankfurt,2
+20210120,Germany Bundesliga,Augsburg,0,BayernMunich,1
+20210120,Germany Bundesliga,ArminiaBielefeld,3,VfBStuttgart,0
+20210120,Hungary NB I,Ferencvarosi,0,Diosgyori,1
+20210120,England Championship,Brentford,1,Luton,0
+20210120,England Championship,Cardiff,0,QPR,1
+20210120,England Championship,Huddersfield,0,Millwall,1
+20210120,Brazil Serie B,Guarani,1,Vitoria,2
+20210120,England Championship,NottmForest,1,Middlesbrough,2
+20210120,Spain Primera Liga,Getafe,1,Huesca,0
+20210120,Germany Regionalliga Southwest,Ulm,2,FCGiessen,3
+20210120,Germany Regionalliga Southwest,KickersOffenbach,0,Elversberg,0
+20210120,England Championship,Norwich,2,BristolCity,0
+20210120,Germany 3. Liga,Hallescher,0,WaldhofMannheim,0
+20210120,Germany 3. Liga,MSVDuisburg,1,Magdeburg,2
+20210120,England Premier League,ManCity,2,AstonVilla,0
+20210120,Spain Copa Del Rey,Cordoba,0,RealSociedad,2
+20210120,Belgium Juliper League,KVMechelen,0,StandardLiege,4
+20210120,Belgium Juliper League,Eupen,3,BeerschotWilrijk,1
+20210120,Germany Bundesliga,Schalke,041,FCKoln,2
+20210120,Coupe de France,Nancy,0,Sochaux,1
+20210120,Saudi Arabia Pro League,AlNassr,3,AlWehda,1
+20210120,Switzerland Super League,StGallen,2,FCVaduz,0
+20210120,Czech First League,Opava,0,SpartaPrague,3
+20210120,Germany Regionalliga Southwest,EintrachtStadtallendorf,0,Steinbach,1
+20210120,Coupe de France,Toulouse,1,ChamoisNiort,0
+20210120,Germany Regionalliga Southwest,TSGBalingen,2,HessenKassel,0
+20210120,Turkey Super Lig,Galatasaray,6,Denizlispor,1
+20210120,Qatar Stars League,AlSadd,7,AlKhoor,0
+20210120,Qatar Stars League,AlSailiya,0,AlAhli,0
+20210120,Belgium Juliper League,Kortrijk,0,StTruiden,2
+20210120,Saudi Arabia Pro League,AlHilal,2,AlTaawon,0
+20210120,Czech First League,BanikOstrava,1,Slovacko,2
+20210120,Czech First League,CeskoBudejovice,2,MarilaPribram,1
+20210120,South Africa Premiership,SupersportUnited,1,AmaZulu,1
+20210120,South Africa Premiership,Stellenbosch,2,Baroka,3
+20210120,South Africa Premiership,OrlandoPirates,0,GoldenArrows,0
+20210120,South Africa Premiership,MaritzburgUnited,0,TSGalaxy,3
+20210120,South Africa Premiership,MorokaSwallows,1,ChippaUnited,1
+20210120,South Africa Premiership,BlackLeopards,0,CapeTownCity,2
+20210120,Italy Serie A,Udinese,1,Atalanta,1
+20210120,Greece Football League,Levadiakos,1,Kissamikos,1
+20210120,India I League,AiffXI,0,NEROCA,4
+20210120,Qatar Stars League,AlKharaityat,1,AlGharrafa,2
+20210120,Uruguay Primera Division,Torque,3,Fenix,0
+20210120,Greece Football League,Diagoras,1,PanahaikiPatras,1
+20210120,Greece Football League,OFIIerapetras,2,Karaiskakis,2
+20210120,Greece Football League,Trikala,1,ApollonLarisas,0
+20210120,Cyprus 1. Division,OlympiakosNicosia,0,Enosis,1
+20210120,Greece Football League,Xanthi,1,Ionikos,0
+20210120,Turkey Super Lig,Hatayspor,1,Malatyaspor,2
+20210120,Turkey Super Lig,CaykurRizespor,3,GaziantepBB,0
+20210120,Germany Regionalliga Southwest,Bahlinger,0,FSVFrankfurt,0
+20210120,Saudi Arabia Pro League,Dhamk,2,AlBaten,0
+20210120,Albania Superliga,KastriotiKruje,0,TeutaDurres,1
+20210120,Albania Superliga,BylisBallsh,0,Vllaznia,1
+20210120,Albania Superliga,Laci,1,SkenderbeuKorce,1
+20210120,Albania Superliga,ApoloniaFier,1,Kukesi,3
+20210120,Coupe de France,ClermontFoot,1,Grenoble,1
+20210120,Egypt Premier League,WadiDegla,1,AlMasry,3
+20210120,Iran Pro League,Paykan,2,MesRafsanjan,3
+20210120,Iran Pro League,PadidehKhorasan,1,NassajiMazandaran,0
+20210120,Australia A League,PerthGlory,5,AdelaideUnited,3
+20210120,India I League,Aizawl,2,GokulamKerala,0
+20210120,Australia A League,NewcastleJets,1,BrisbaneRoar,2
+20210120,Colombia Copa Mustang,AtleticoBucaramanga,2,ChicoFC,0
+20210120,Chile Primera,OHiggins,0,UniversidaddeConcepcion,0
+20210120,Brazil Serie B,Parana,0,CuiabaEsporteClube,2
+20210119,Brazil Serie B,Confianca,0,SampaioCorrea,1
+20210119,Brazil Serie B,Botafogo,1,CSAAL,3
+20210119,Brazil Serie B,CRB,5,Figueirense,1
+20210119,Brazil Serie B,Avai,5,JuventudeRS,2
+20210119,Chile Primera,UniversidadCatolica,1,EvertonVinadelMar,1
+20210119,Spain Primera Liga,Alaves,1,Sevilla,2
+20210119,England Premier League,Leicester,2,Chelsea,0
+20210119,Coppa Italia,Roma,2,Spezia,2
+20210119,England FA Cup,Southampton,2,Shrewsbury,0
+20210119,Chile Primera,Huachipato,4,UnionEspanola,1
+20210119,Coupe de France,Auxerre,1,Troyes,0
+20210119,Belgium Juliper League,Anderlecht,3,Charleroi,0
+20210119,England Championship,Rotherham,3,Stoke,3
+20210119,England Championship,Watford,1,Barnsley,0
+20210119,England Conference North,BradfordParkAvenue,3,Chester,3
+20210119,England Conference South,HemelHempstead,3,OxfordCity,5
+20210119,England Conference South,Bath,2,HavantandWaterlooville,1
+20210119,England Conference South,BillericayTown,3,ChelmsfordCity,3
+20210119,England Conference South,SloughTown,0,EbbsfleetUtd,2
+20210119,England Conference South,MaidstoneUtd,0,BraintreeTown,2
+20210119,Germany Bundesliga,BayerLeverkusen,2,BorussiaDortmund,1
+20210119,Germany Bundesliga,HerthaBerlin,0,Hoffenheim,3
+20210119,Germany Bundesliga,Mainz,0,Wolfsburg,2
+20210119,England League 1,Crewe,3,BristolRovers,2
+20210119,England League 1,Doncaster,1,Rochdale,0
+20210119,England League 1,MiltonKeynesDons,3,FleetwoodTown,1
+20210119,England League 1,Portsmouth,4,AFCWimbledon,0
+20210119,England League 1,Sunderland,1,Plymouth,2
+20210119,England League 2,Southend,1,CambridgeUtd,2
+20210119,England League 2,Cheltenham,1,NewportCounty,1
+20210119,England League 2,Morecambe,1,Walsall,1
+20210119,England League 2,Tranmere,3,ForestGreen,2
+20210119,England League 2,HarrogateTown,0,Exeter,0
+20210119,Brazil Serie B,BrasilDePelotas,0,AmericaMineiro,0
+20210119,England Conference,DagenhamandRedbridge,0,Stockport,2
+20210119,England Conference,Eastleigh,0,KingsLynn,1
+20210119,England League 1,Peterborough,2,Charlton,1
+20210119,Italy Serie B,Vicenza,1,Chievo,1
+20210119,Germany 3. Liga,Verl,1,FSVZwickau,1
+20210119,Germany 3. Liga,TurkgucuAtasporMunchen,0,Unterhaching,0
+20210119,England Championship,Reading,3,Coventry,0
+20210119,Spain Primera Liga,Cadiz,2,Levante,2
+20210119,Spain Primera Liga,Valladolid,2,Elche,2
+20210119,Spain Segunda Liga,Mirandes,0,RayoVallecano,2
+20210119,England Premier League,WestHam,2,WestBrom,1
+20210119,England Championship,Derby,1,Bournemouth,0
+20210119,Romania Liga I,ViitorulConstanta,2,SteauaBucharest,2
+20210119,Germany Regionalliga Southwest,MainzII,0,AstoriaWalldorf,2
+20210119,Germany Regionalliga Southwest,VfRAalen,1,Pirmasens,1
+20210119,Germany Regionalliga Southwest,BayernAlzenau,1,VfBStuttgartII,4
+20210119,Germany Regionalliga Southwest,TSGHoffenheimII,0,Homburg,0
+20210119,Belgium Juliper League,Peruwelz,1,Waasland,1
+20210119,Germany Bundesliga,BorussiaMonchengladbach,1,WerderBremen,0
+20210119,England League 1,Hull,3,AccringtonStanley,0
+20210119,Saudi Arabia Pro League,AlAhliJeddah,3,AbhaClub,0
+20210119,Croatia 1.HNL,DynamoZagreb,0,NKRijeka,2
+20210119,Coupe de France,Valenciennes,2,Chambly,0
+20210119,Coupe de France,Pau,0,RodezAveyron,0
+20210119,Coupe de France,Chateauroux,0,ACAjaccio,2
+20210119,Coupe de France,Dunkerque,1,Amiens,1
+20210119,Qatar Stars League,QatarSC,1,Lekhwiya,1
+20210119,Qatar Stars League,UmmSalal,0,AlArabi,0
+20210119,Turkey Super Lig,Trabzonspor,3,Konyaspor,1
+20210119,Saudi Arabia Pro League,AlShababRiyadh,1,AlFaisaly,1
+20210119,South Africa Premiership,MamelodiSundowns,0,BloemfonteinCeltic,0
+20210119,South Africa Premiership,KaizerChiefs,3,Tshakhuma,0
+20210119,Egypt Premier League,Zamalek,1,ElGouna,0
+20210119,Coupe de France,LeHavre,0,Paris,1
+20210119,Croatia 1.HNL,Istra,1,Gorica,1
+20210119,Romania Liga I,Voluntari,0,UTABatranaDoamna,1
+20210119,Saudi Arabia Pro League,AlQadisiyah,1,AlFateh,1
+20210119,Qatar Stars League,AlWakra,0,AlRayyan,3
+20210119,Chile Primera,Antofagasta,3,MunicipalIquique,1
+20210119,India I League,RealKashmir,1,SudevaDelhi,1
+20210119,Saudi Arabia Pro League,AlAin,1,IttihadJeddah,2
+20210119,Turkey Super Lig,Goztepespor,4,Genclerbirligi,0
+20210119,Turkey Super Lig,Kayserispor,2,IstanbulBuyuksehirBSK,0
+20210119,Saudi Arabia Pro League,AlRaed,2,AlEttifaq,3
+20210119,India I League,TRAU,2,Mohammedan,2
+20210119,India I League,Minerva,0,ChurchillBrothers,1
+20210119,Australia A League,CentralCoastMariners,0,WestSydney,1
+20210119,Mexico Liga MX,Leon,0,Pachuca,0
+20210117,Brazil Serie A,Internacional,4,FortalezaCE,2
+20210117,Brazil Serie A,Ceara,1,Bragantino,2
+20210117,Colombia Copa Mustang,NacionaldeMedellin,2,SantaFe,0
+20210117,Uruguay Primera Division,ClubNacional,1,Rentistas,1
+20210117,Brazil Serie A,AtleticoMineiro,3,AtleticoGoianiense,1
+20210117,Chile Primera,ColoColo,0,UniversidaddeChile,0
+20210117,Costa Rica Primera,SantosdeGuapiles,2,PerezZeledon,0
+20210117,Costa Rica Primera,Grecia,1,SportingSanJose,1
+20210117,Supercopa De Espana,Barcelona,2,AthleticBilbao,2
+20210117,France Ligue 1,Lyon,0,Metz,1
+20210117,Portugal Superliga,GilVicente,0,Maritimo,1
+20210117,Italy Serie B,Empoli,5,Salernitana,0
+20210117,Italy Serie A,InterMilan,2,Juventus,0
+20210117,Belgium Juliper League,StTruiden,3,OudHeverlee,1
+20210117,England Premier League,ManCity,4,CrystalPalace,0
+20210117,Brazil Serie A,Santos,2,Botafogo,1
+20210117,Brazil Serie A,AtleticoParanaense,1,SaoPaulo,1
+20210117,Brazil Serie B,Vitoria,0,Chapecoense,0
+20210117,Brazil Serie B,PontePreta,2,Nautico,0
+20210117,Mexico Liga MX,PumasUNAM,3,Mazatlan,0
+20210117,Greece Etniki Katigoria,ArisSalonika,0,Panathinaikos,1
+20210117,Czech First League,BanikOstrava,0,SpartaPrague,0
+20210117,Portugal Superliga,SantaClara,1,Famalicao,2
+20210117,Belgium Juliper League,BeerschotWilrijk,0,ClubBrugge,3
+20210117,Romania Liga I,AcademicaClinceni,0,Hermannstadt,0
+20210117,Germany Bundesliga,EintrachtFrankfurt,3,Schalke,041
+20210117,Portugal LigaPro,Varzim,0,CasaPiaAtletico,1
+20210117,Italy Serie A,Atalanta,0,Genoa,0
+20210117,Spain Copa Del Rey,Alcorcon,0,Valencia,2
+20210117,Costa Rica Primera,Cartagines,2,Guadelupe,1
+20210117,Spain Copa Del Rey,Tenerife,0,Villarreal,1
+20210117,Cyprus 1. Division,ApollonLimassol,2,OlympiakosNicosia,1
+20210117,England Premier League,Liverpool,0,ManUtd,0
+20210117,Oman League,AlSuwaiq,1,Saham,0
+20210117,Oman League,AlIttehad,2,AlNasr,1
+20210117,Turkey Super Lig,Besiktas,2,Galatasaray,0
+20210117,Austria Bundesliga,Wolfsberger,0,SKSturmGraz,0
+20210117,France Ligue 1,Lille,2,Reims,1
+20210117,Holland Eredivisie,Ajax,1,Feyenoord,0
+20210117,Greece Etniki Katigoria,OFICrete,0,PAOKSalonika,3
+20210117,Greece Etniki Katigoria,VolosNps,1,Lamia,1
+20210117,Portugal Superliga,Nacional,0,Moreirense,1
+20210117,Switzerland Super League,FCSion,1,Lugano,1
+20210117,Czech First League,MarilaPribram,0,Plzen,0
+20210117,Belgium Juliper League,CercleBrugge,0,StandardLiege,1
+20210117,Spain Copa Del Rey,SportingGijon,0,RealBetis,2
+20210117,Spain Copa Del Rey,ArtisticoNavalcarnero,3,Eibar,1
+20210117,Egypt Premier League,NationalBank,0,AlAhly,0
+20210117,Romania Liga I,Sepsi,0,CFRCluj,1
+20210117,Germany Bundesliga,BayernMunich,2,Freiburg,1
+20210117,Germany Regionalliga West,BorussiaDortmundII,2,AlemanniaAachen,1
+20210117,Cyprus 1. Division,Paphos,2,ApoelNicosia,3
+20210117,France Ligue 1,Nantes,1,Lens,1
+20210117,France Ligue 1,Nice,0,Bordeaux,3
+20210117,France Ligue 1,Strasbourg,1,StEtienne,0
+20210117,Italy Serie A,Crotone,4,Benevento,1
+20210117,Portugal LigaPro,Arouca,0,Mafra,0
+20210117,England Premier League,SheffUtd,1,Tottenham,3
+20210117,Italy Serie A,Sassuolo,1,Parma,1
+20210117,Italy Serie B,Pescara,0,Cremonese,2
+20210117,South Africa Premiership,BlackLeopards,2,OrlandoPirates,0
+20210117,South Africa Premiership,AmaZulu,0,MaritzburgUnited,0
+20210117,Holland Eredivisie,FCGroningen,2,FCTwente,2
+20210117,Holland Eredivisie,VVVVenlo,1,Heerenveen,1
+20210117,Oman League,AlNahda,0,Dhufar,1
+20210117,Chile Primera B,CDSantaCruz,3,DeportesValdivia,2
+20210117,Chile Primera B,DeportesTemuco,1,Cobreloa,0
+20210117,Chile Primera B,DeportesCopiapo,1,SanLuis,0
+20210117,Chile Primera B,Barnechea,7,RangersTalca,1
+20210117,Chile Primera B,SanMarcos,0,Nublense,0
+20210117,Chile Primera B,UnionSanFelipe,1,Melipilla,1
+20210117,Uruguay Primera Division,Progreso,0,Torque,0
+20210117,Chile Primera B,PuertoMontt,1,DeportesMagallanes,0
+20210117,Czech First League,Pardubice,0,CeskoBudejovice,2
+20210117,Germany 3. Liga,MSVDuisburg,1,Meppen,0
+20210117,Turkey Super Lig,Malatyaspor,4,CaykurRizespor,1
+20210117,Greece Football League,ApollonLarisas,1,Xanthi,1
+20210117,Egypt Premier League,ElEntagElHarby,1,Smouha,1
+20210117,Germany 2. Bundesliga,FCHeidenheim,3,Darmstadt,0
+20210117,Germany 2. Bundesliga,HolsteinKiel,2,Karlsruhe,3
+20210117,Germany 2. Bundesliga,Regensburg,3,Sandhausen,1
+20210117,Romania Liga I,Arges,1,GazMetanMedias,1
+20210117,Belgium Juliper League,Gent,0,Antwerp,1
+20210117,Vietnam V League,HaNoi,1,HoangAnhGiaLai,0
+20210117,Scotland Premiership,Motherwell,1,Rangers,1
+20210117,France Ligue 1,Brestois,1,Rennes,2
+20210117,Greece Football League,Ergotelis,0,Ionikos,1
+20210117,Germany 3. Liga,Uerdingen,1,WaldhofMannheim,1
+20210117,Italy Serie A,Napoli,6,Fiorentina,0
+20210117,Portugal LigaPro,Feirense,2,FCPortoII,0
+20210117,Portugal LigaPro,AcademicoViseu,1,Oliveirense,2
+20210117,Holland Eredivisie,RKCWaalwijk,1,WillemII,1
+20210117,Holland Eerste Divisie,NEC,0,CambuurLeeuwarden,0
+20210117,Vietnam V League,HongLinhHaTinh,1,QuangNinh,2
+20210117,Spain Copa Del Rey,Espanyol,0,Osasuna,2
+20210117,Spain Copa Del Rey,Malaga,1,Granada,2
+20210117,Turkey Super Lig,Denizlispor,0,Hatayspor,2
+20210117,Vietnam V League,DaNang,1,HoChiMinhCity,0
+20210117,Australia A League,NewcastleJets,1,Macarthur,2
+20210117,Mexico Liga MX,Monterrey,1,CFAmerica,0
+20210117,New Zealand Premiership,WellingtonPhoenixReserves,1,WaitakereUnited,1
+20210117,Costa Rica Primera,Saprissa,2,Jicaral,2
+20210117,Mexico Liga MX,CruzAzul,0,Puebla,1
+20210117,Colombia Copa Mustang,Junior,1,Medellin,0
+20210108,Brazil Serie B,Operario,2,Oeste,0
+20210108,Brazil Serie B,CRB,2,Confianca,0
+20210108,Brazil Serie B,Nautico,2,Parana,1
+20210108,Portugal Superliga,Famalicao,1,FCPorto,4
+20210108,Spain Primera Liga,CeltaVigo,0,Villarreal,4
+20210108,Spain Segunda Liga,RealZaragoza,2,UDLogrones,0
+20210108,Holland Eerste Divisie,NAC,2,RodaJC,2
+20210108,Holland Eerste Divisie,AlmereCity,0,FCEindhoven,0
+20210108,Holland Eerste Divisie,CambuurLeeuwarden,0,FCVolendam,1
+20210108,England League 1,Charlton,0,AccringtonStanley,2
+20210108,England FA Cup,AstonVilla,1,Liverpool,4
+20210108,England FA Cup,Wolverhampton,1,CrystalPalace,0
+20210108,Scottish Cup,QueensPark,0,QueenofSouth,3
+20210108,Germany Bundesliga,BorussiaMonchengladbach,3,BayernMunich,2
+20210108,France National,LeMans,2,Cholet,0
+20210108,France National,Laval,1,Creteil,2
+20210108,Brazil Serie B,BrasilDePelotas,0,Avai,1
+20210108,France Ligue 2,Chateauroux,2,Guingamp,3
+20210108,France Ligue 2,Dunkerque,0,Troyes,0
+20210108,France Ligue 2,LeHavre,0,Valenciennes,2
+20210108,France Ligue 2,Nancy,2,RodezAveyron,2
+20210108,France Ligue 2,ChamoisNiort,0,Amiens,2
+20210108,France Ligue 2,Paris,1,ACAjaccio,1
+20210108,France Ligue 2,Pau,1,Chambly,3
+20210108,France Ligue 2,Sochaux,0,ClermontFoot,0
+20210108,Portugal Superliga,Benfica,2,Tondela,0
+20210108,Portugal Superliga,RioAve,3,Portimonense,0
+20210108,France National,Boulogne,0,Annecy,1
+20210108,Germany 3. Liga,WaldhofMannheim,2,Verl,2
+20210108,Portugal Superliga,Nacional,0,SportingLisbon,2
+20210108,Holland Eerste Divisie,NEC,3,ExcelsiorRotterdam,2
+20210108,Holland Eerste Divisie,DeGraafschap,2,Telstar,0
+20210108,Holland Eerste Divisie,MVVMaastricht,0,FCUtrechtII,2
+20210108,Germany 2. Bundesliga,Sandhausen,4,FCHeidenheim,0
+20210108,Germany 2. Bundesliga,Karlsruhe,3,GreutherFurth,2
+20210108,Egypt Premier League,CeramicaCleopatra,0,AlAhly,2
+20210108,France National,BastiaBorgo,3,RedStar,1
+20210108,France National,BourgPeronnas,0,LyonDuchere,1
+20210108,France National,Sete,34,FC,0
+20210108,France National,VillefrancheSurSaone,1,SaintBrieuc,0
+20210108,France National,Concarneau,1,Orleans,3
+20210108,Albania Superliga,Vllaznia,1,TeutaDurres,0
+20210108,Saudi Arabia Pro League,AlNassr,3,AlAin,0
+20210108,Oman League,AlIttehad,1,AlRustaq,2
+20210108,Bahrain Premier League,Manama,1,Malkiya,0
+20210108,Oman League,AlMsnaa,1,AlSuwaiq,0
+20210108,Egypt Premier League,WadiDegla,1,Enppi,2
+20210108,Bahrain Premier League,AlBadii,1,AlAhliManama,0
+20210108,South Africa Premiership,Stellenbosch,1,BlackLeopards,1
+20210108,Qatar Stars League,AlKhoor,0,UmmSalal,1
+20210108,Qatar Stars League,AlArabi,1,AlAhli,0
+20210108,Saudi Arabia Pro League,AlQadisiyah,3,AlAhliJeddah,1
+20210108,Algeria Ligue 1,HusseinDey,1,Chlef,0
+20210108,Algeria Ligue 1,CSConstantine,0,AinMlila,1
+20210108,Algeria Ligue 1,JSMSkikda,1,JSSaoura,0
+20210108,Bahrain Premier League,AlNajma,1,Busaiteen,0
+20210108,Chile Primera,Cobresal,1,AudaxItaliano,2
+20210108,Oman League,Dhufar,2,Muscat,0
+20210108,Oman League,AlNahda,1,BahlaClub,1
+20210108,Egypt Premier League,NationalBank,0,PyramidsFC,0
+20210108,Saudi Arabia Pro League,AlBaten,2,AlHilal,2
+20210108,Qatar Stars League,Lekhwiya,8,AlWakra,1
+20210108,Australia A League,NewcastleJets,1,WestSydney,2
+20210108,Chile Primera,MunicipalIquique,0,UniversidadCatolica,1
+20210102,Chile Primera,UnionLaCalera,3,SantiagoWanderers,0
+20210102,Brazil Serie B,Oeste,2,Figueirense,1
+20210102,Holland Eerste Divisie,AlmereCity,1,DeGraafschap,0
+20210102,England Premier League,WestBrom,0,Arsenal,4
+20210102,Spain Primera Liga,RealMadrid,2,CeltadeVigo,0
+20210102,Chile Primera,EvertonVinadelMar,1,MunicipalIquique,0
+20210102,England Championship,Stoke,0,Bournemouth,1
+20210102,Brazil Serie B,CSAAL,2,SampaioCorrea,1
+20210102,Spain Segunda Liga,FCCartagena,1,RealZaragoza,1
+20210102,Germany Bundesliga,VfBStuttgart,0,RBLeipzig,1
+20210102,Scotland Championship,Dundee,3,Hearts,1
+20210102,Cyprus 1. Division,ApoelNicosia,0,Enosis,2
+20210102,Portugal Superliga,SportingLisbon,2,Braga,0
+20210102,Holland Eerste Divisie,HelmondSport,5,FCDordrecht,2
+20210102,England Premier League,Brighton,3,Wolverhampton,3
+20210102,Germany Bundesliga,HerthaBerlin,3,Schalke,040
+20210102,Northern Ireland Premier League,Glentoran,2,Portadown,1
+20210102,Spain Primera Liga,Getafe,0,Valladolid,1
+20210102,Egypt Premier League,Enppi,1,Zamalek,2
+20210102,England Conference,Barnet,0,BorehamWood,3
+20210102,Spain Segunda Liga,UDLogrones,2,Mirandes,1
+20210102,Turkey Lig 1,Altinordu,0,Balikesirspor,0
+20210102,Turkey Super Lig,Galatasaray,0,Antalyaspor,0
+20210102,Turkey Super Lig,Hatayspor,2,Konyaspor,1
+20210102,Bahrain Premier League,AlRifaa,1,AlHadd,0
+20210102,Qatar Stars League,AlRayyan,0,AlSailiya,2
+20210102,South Africa Premiership,MaritzburgUnited,2,BloemfonteinCeltic,1
+20210102,Saudi Arabia Pro League,AlAhliJeddah,0,AlTaawon,3
+20210102,Spain Primera Liga,RealBetis,1,Sevilla,1
+20210102,England Premier League,CrystalPalace,2,SheffUtd,0
+20210102,Spain Segunda Liga,RayoVallecano,2,Alcorcon,1
+20210102,England Conference,Chesterfield,1,SolihullMoors,0
+20210102,England Conference,Stockport,2,Altrincham,2
+20210102,England Conference,Weymouth,1,Eastleigh,1
+20210102,England Conference,Woking,0,Aldershot,1
+20210102,England Conference,Yeovil,2,Torquay,1
+20210102,England Championship,Millwall,1,Coventry,2
+20210102,England Championship,Birmingham,0,Blackburn,2
+20210102,England Championship,Preston,0,NottmForest,1
+20210102,England Championship,Wycombe,1,Middlesbrough,3
+20210102,England Championship,Huddersfield,1,Reading,2
+20210102,England Championship,Norwich,1,Barnsley,0
+20210102,Scotland Championship,Alloa,1,Morton,1
+20210102,Scotland Premiership,RossCounty,1,StJohnstone,1
+20210102,Scotland Premiership,Aberdeen,0,DundeeUtd,0
+20210102,Scotland Premiership,Hamilton,3,Motherwell,0
+20210102,Scotland Premiership,Hibernian,0,Livingston,3
+20210102,Scotland Premiership,Kilmarnock,1,StMirren,1
+20210102,Scotland Championship,QueenofSouth,3,Ayr,2
+20210102,Scotland League One,CoveRangers,1,Peterhead,0
+20210102,Scotland League One,EastFife,2,Falkirk,1
+20210102,Scotland League One,Montrose,0,Forfar,0
+20210102,Scotland League Two,Stranraer,2,AnnanAthletic,0
+20210102,England Championship,Swansea,2,Watford,1
+20210102,England League 1,AFCWimbledon,1,LincolnCity,2
+20210102,England League 1,BristolRovers,2,Blackpool,1
+20210102,England League 1,BurtonAlbion,1,OxfordUtd,5
+20210102,England League 1,Hull,2,Charlton,0
+20210102,England League 1,Northampton,0,Sunderland,0
+20210102,England League 1,Plymouth,1,Gillingham,0
+20210102,England League 2,Bolton,0,CrawleyTown,1
+20210102,England League 2,Grimsby,1,CambridgeUtd,2
+20210102,England League 2,LeytonOrient,1,SalfordCity,0
+20210102,England League 2,Mansfield,4,PortVale,0
+20210102,England League 2,Stevenage,3,Scunthorpe,1
+20210102,England League 2,Walsall,0,Carlisle,2
+20210102,Northern Ireland Premier League,Crusaders,4,WarrenpointTown,0
+20210102,Northern Ireland Premier League,Glenavon,1,Linfield,2
+20210102,Northern Ireland Premier League,Larne,0,BallymenaUnited,1
+20210102,Northern Ireland Premier League,Coleraine,3,CarrickRangers,0
+20210102,Northern Ireland Premier League,DungannonSwifts,1,Cliftonville,2
+20210102,Bahrain Premier League,EastRiffa,3,Busaiteen,0
+20210102,Egypt Premier League,ElGaish,1,AlIttihad,2
+20210102,England Conference South,HavantandWaterlooville,4,HungerfordTown,2
+20210102,England Conference South,BillericayTown,0,ConcordRangers,1
+20210102,England Conference South,HamptonandRichmond,1,DorkingWanderers,1
+20210102,England Conference South,Dartford,0,EbbsfleetUtd,0
+20210102,England Conference South,ChelmsfordCity,4,BraintreeTown,2
+20210102,England Conference North,Kidderminster,1,Hereford,1
+20210102,England Conference North,Chester,3,TelfordUtd,0
+20210102,England Conference North,BrackleyTown,1,KetteringTown,1
+20210102,England Conference North,Leamington,1,GloucesterCity,1
+20210102,England Conference North,Fylde,4,Chorley,0
+20210102,Cyprus 1. Division,NeaSalamina,4,DoxaKatokopias,3
+20210102,Germany Bundesliga,Hoffenheim,1,Freiburg,3
+20210102,Germany Bundesliga,EintrachtFrankfurt,2,BayerLeverkusen,1
+20210102,Germany Bundesliga,FCKoln,0,Augsburg,1
+20210102,Germany Bundesliga,WerderBremen,0,UnionBerlin,2
+20210102,Germany Bundesliga,ArminiaBielefeld,0,BorussiaMonchengladbach,1
+20210102,Cyprus 1. Division,Karmiotissa,0,Limassol,1
+20210102,South Africa Premiership,MamelodiSundowns,1,OrlandoPirates,0
+20210102,Chile Primera,OHiggins,1,DeportesLaSerena,1
+20210102,Bahrain Premier League,AlMuharraq,2,Malkiya,0
+20210102,Qatar Stars League,AlSadd,5,AlKharaityat,0
+20210102,Turkey Super Lig,Ankaragucu,3,Malatyaspor,1
+20210102,Spain Segunda Liga,Fuenlabrada,0,Leganes,0
+20210102,Spain Primera Liga,Villarreal,2,Levante,1
+20210102,Turkey Super Lig,Alanyaspor,3,IstanbulBuyuksehirBSK,0
+20210102,Scotland Premiership,Rangers,1,Celtic,0
+20210102,England Premier League,Tottenham,3,Leeds,0
+20210102,Cyprus 1. Division,OlympiakosNicosia,0,ErmisAradippou,0
+20210102,Egypt Premier League,Smouha,0,CeramicaCleopatra,0
+20210102,Saudi Arabia Pro League,AlRaed,2,AlQadisiyah,2
+20210102,Germany 2. Bundesliga,FCHeidenheim,2,Nurnberg,0
+20210102,Germany 2. Bundesliga,VfLBochum,2,Darmstadt,1
+20210102,Germany 2. Bundesliga,FCKickersWurzburg,2,Karlsruhe,4
+20210102,Turkey Lig 1,Umraniyespor,2,AkhisarBelediyespor,1
+20210102,Turkey Lig 1,Keciorengucu,0,Bursaspor,1
+20210102,Turkey Super Lig,Erzurumspor,1,GaziantepBB,1
+20210102,Turkey Super Lig,Sivasspor,2,Denizlispor,2
+20210102,Australia A League,MelbourneVictory,1,BrisbaneRoar,3
+20210102,Australia A League,WellingtonPhoenix,1,SydneyFC,2
+20210121,Uruguay Primera Division,DeportivoMaldonado,2,LiverpoolFC,4
+20210121,Brazil Serie A,FortalezaCE,2,Santos,0
+20210121,Brazil Serie A,Goias,0,Ceara,4
+20210121,Brazil Serie A,Flamengo,2,Palmeiras,0
+20210121,Costa Rica Primera,Jicaral,2,Limon,0
+20210121,Brazil Serie B,Chapecoense,1,PontePreta,0
+20210121,Spain Primera Liga,Eibar,1,AtleticoMadrid,2
+20210121,Uruguay Primera Division,PlazaColonia,0,Progreso,1
+20210121,Portugal Superliga,Guimaraes,3,Nacional,1
+20210121,Coppa Italia,Lazio,2,Parma,1
+20210121,Spain Copa Del Rey,Cornella,0,Barcelona,0
+20210121,England Premier League,Liverpool,0,Burnley,1
+20210121,Belgium Juliper League,Genk,1,Gent,1
+20210121,Spain Primera Liga,Valencia,1,Osasuna,1
+20210121,Portugal LigaPro,Leixoes,2,Vilafranquense,0
+20210121,Spain Copa Del Rey,UDIbizaEivissa,1,AthleticBilbao,2
+20210121,Belgium Juliper League,ZulteWaregem,2,OudHeverlee,3
+20210121,Albania Superliga,PartizaniTirana,1,KFTirana,0
+20210121,Turkey Super Lig,Sivasspor,1,Fenerbahce,1
+20210121,Turkey Super Lig,Ankaragucu,1,Kasimpasa,0
+20210121,Egypt Premier League,AlAhly,3,AlMoqawloonAlArab,2
+20210121,Turkey Super Lig,FatihKaragumruk,1,Besiktas,4
+20210121,Turkey Super Lig,Erzurumspor,1,Alanyaspor,1
+20210121,Azerbaijan Premier League,Zira,2,Gabala,0
+20210121,Costa Rica Primera,Herediano,1,Grecia,1
+20210121,Uruguay Primera Division,MontevideoWanderers,2,Danubio,0
+20210121,Colombia Copa Mustang,AlianzaPetrolera,2,Pereira,2
+20210121,Chile Primera,CoquimboUnido,0,CuricoUnido,0
+20210121,Brazil Serie A,SaoPaulo,1,Internacional,5
+20210121,Brazil Serie A,Bragantino,4,VascodaGama,1
+20210121,Brazil Serie B,Cruzeiro,2,Operario,1
+20210109,Mexico Liga MX,Atlas,0,Monterrey,2
+20210109,Brazil Serie A,SportRecife,0,Palmeiras,1
+20210109,Brazil Serie A,Coritiba,0,AtleticoParanaense,0
+20210109,Brazil Serie B,AmericaMineiro,4,Vitoria,0
+20210109,Chile Primera B,Nublense,5,DeportesCopiapo,0
+20210109,Portugal Superliga,Boavista,1,SantaClara,1
+20210109,Spain Primera Liga,Osasuna,0,RealMadrid,0
+20210109,France Ligue 1,PSG,3,Brestois,0
+20210109,France Ligue 1,Bordeaux,2,Lorient,1
+20210109,France Ligue 1,Dijon,0,Marseille,0
+20210109,France Ligue 1,Lens,0,Strasbourg,1
+20210109,France Ligue 1,Metz,1,Nice,1
+20210109,France Ligue 1,Monaco,3,Angers,0
+20210109,France Ligue 1,Montpellier,1,Nantes,1
+20210109,France Ligue 1,Nimes,0,Lille,1
+20210109,France Ligue 1,Reims,3,StEtienne,1
+20210109,France Ligue 1,Rennes,2,Lyon,2
+20210109,Holland Eredivisie,FCUtrecht,2,FCGroningen,2
+20210109,England FA Cup,ManUtd,1,Watford,0
+20210109,Italy Serie A,ACMilan,2,Torino,0
+20210109,Scottish Cup,Dundee,1,BonnyriggRose,1
+20210109,Belgium Juliper League,Oostende,3,Charleroi,2
+20210109,England League 1,Sunderland,1,Hull,1
+20210109,Holland Eredivisie,Heracles,0,Vitesse,2
+20210109,Holland Eredivisie,FCZwolle,1,AZ,1
+20210109,Scottish Cup,KeltyHearts,2,Stranraer,3
+20210109,Cyprus 1. Division,ApoelNicosia,3,ErmisAradippou,0
+20210109,England FA Cup,Huddersfield,2,Plymouth,3
+20210109,England FA Cup,Brentford,2,Middlesbrough,1
+20210109,Holland Eredivisie,FCEmmen,1,FCTwente,4
+20210109,Belgium Juliper League,CercleBrugge,1,Eupen,2
+20210109,Belgium Juliper League,Kortrijk,2,Genk,1
+20210109,Spain Primera Liga,Granada,0,Barcelona,4
+20210109,England League 1,Ipswich,2,Swindon,3
+20210109,Germany Bundesliga,RBLeipzig,1,BorussiaDortmund,3
+20210109,England FA Cup,Arsenal,0,Newcastle,0
+20210109,Greece Etniki Katigoria,Panaitolikos,1,Olympiacos,2
+20210109,Spain Segunda Liga,Malaga,1,RealOviedo,1
+20210109,Portugal LigaPro,Vilafranquense,1,AcademicoViseu,1
+20210109,Portugal Superliga,Moreirense,2,Guimaraes,2
+20210109,Italy Serie A,Genoa,2,Bologna,0
+20210109,Saudi Arabia Pro League,IttihadJeddah,1,Dhamk,0
+20210109,Bahrain Premier League,AlMuharraq,2,AlHadd,0
+20210109,Cyprus 1. Division,EthnikosAchnas,1,ApollonLimassol,4
+20210109,Turkey Super Lig,Galatasaray,6,Genclerbirligi,0
+20210109,Albania Superliga,PartizaniTirana,1,ApoloniaFier,1
+20210109,Holland Eredivisie,RKCWaalwijk,0,ADODenHaag,1
+20210109,Belgium Juliper League,ZulteWaregem,1,Peruwelz,0
+20210109,Scotland Premiership,Kilmarnock,2,Hamilton,0
+20210109,Scotland Premiership,StMirren,1,Motherwell,1
+20210109,England League 1,Rochdale,3,Crewe,3
+20210109,England League 2,CambridgeUtd,2,HarrogateTown,1
+20210109,England League 2,PortVale,3,Grimsby,0
+20210109,England League 2,Southend,1,Barrow,0
+20210109,Scottish Cup,Fraserburgh,2,BanksODee,1
+20210109,Scottish Cup,EastFife,5,TranentJuniors,1
+20210109,Scottish Cup,Forfar,1,LinlithgowRose,1
+20210109,Scottish Cup,Alloa,2,CoveRangers,3
+20210109,England Conference South,OxfordCity,0,WellingUtd,0
+20210109,England Conference South,StAlbansCity,0,ChelmsfordCity,2
+20210109,England Conference South,BraintreeTown,2,Dartford,1
+20210109,England Conference South,HungerfordTown,2,MaidstoneUtd,1
+20210109,England Conference South,DorkingWanderers,2,HemelHempstead,1
+20210109,England Conference North,TelfordUtd,0,Fylde,2
+20210109,England Conference North,GloucesterCity,3,Kidderminster,2
+20210109,Egypt Premier League,GhazlELMahallah,0,ElGouna,0
+20210109,England Conference,Hartlepool,3,Wealdstone,1
+20210109,England Conference,KingsLynn,1,Halifax,1
+20210109,England Conference,SuttonUtd,2,Altrincham,2
+20210109,Northern Ireland Premier League,Cliftonville,2,Crusaders,2
+20210109,South Africa Premiership,Tshakhuma,2,CapeTownCity,2
+20210109,South Africa Premiership,KaizerChiefs,0,MaritzburgUnited,2
+20210109,England FA Cup,Blackburn,0,Doncaster,1
+20210109,England FA Cup,Stevenage,0,Swansea,2
+20210109,England FA Cup,BristolRovers,2,SheffUtd,3
+20210109,England FA Cup,Wycombe,4,Preston,1
+20210109,England FA Cup,Exeter,0,SheffWed,2
+20210109,England FA Cup,Blackpool,2,WestBrom,2
+20210109,England FA Cup,Oldham,1,Bournemouth,4
+20210109,England FA Cup,Stoke,0,Leicester,4
+20210109,England FA Cup,Burnley,1,MiltonKeynesDons,1
+20210109,England FA Cup,QPR,0,Fulham,0
+20210109,Saudi Arabia Pro League,AlShababRiyadh,1,AlEttifaq,0
+20210109,Germany Bundesliga,BayerLeverkusen,1,WerderBremen,1
+20210109,Germany Bundesliga,Freiburg,5,FCKoln,0
+20210109,Germany Bundesliga,UnionBerlin,2,Wolfsburg,2
+20210109,Germany Bundesliga,Schalke,044,Hoffenheim,0
+20210109,Germany Bundesliga,Mainz,0,EintrachtFrankfurt,2
+20210109,France Ligue 2,Grenoble,2,Auxerre,2
+20210109,England League 1,Gillingham,0,BurtonAlbion,1
+20210109,Jordan Pro League,Sahab,1,ShababAlOrdun,0
+20210109,Italy Serie A,Benevento,1,Atalanta,4
+20210109,Algeria Ligue 1,USMBelAbbes,1,MCMagra,0
+20210109,Cyprus 1. Division,Limassol,1,OmoniaNicosia,1
+20210109,India I League,GokulamKerala,1,ChennaiCity,2
+20210109,Algeria Ligue 1,BordjBouArreridj,1,ESSetif,5
+20210109,Bahrain Premier League,EastRiffa,1,AlRifaa,2
+20210109,Algeria Ligue 1,RCRelizane,2,Biskra,0
+20210109,South Africa Premiership,GoldenArrows,1,ChippaUnited,0
+20210109,South Africa Premiership,TSGalaxy,0,SupersportUnited,3
+20210109,South Africa Premiership,Baroka,0,MamelodiSundowns,2
+20210109,Italy Serie B,Reggiana,0,Cittadella,2
+20210109,Algeria Ligue 1,OlympiqueMedea,2,Tlemcen,1
+20210109,Germany 3. Liga,Wehen,1,Hallescher,1
+20210109,Germany 3. Liga,BayernMunichII,01860,Munich,2
+20210109,Germany 3. Liga,Meppen,1,Saarbrucken,0
+20210109,Germany 3. Liga,Magdeburg,1,Uerdingen,1
+20210109,Germany 3. Liga,HansaRostock,1,Unterhaching,0
+20210109,Germany 3. Liga,Kaiserslautern,0,ViktoriaKoln,0
+20210109,Spain Primera Liga,Sevilla,3,RealSociedad,2
+20210109,Turkey Super Lig,Goztepespor,0,Antalyaspor,1
+20210109,Turkey Super Lig,Kayserispor,1,Malatyaspor,0
+20210109,Germany Regionalliga West,Straelen,0,AlemanniaAachen,0
+20210109,Holland Eerste Divisie,JongAjax,2,HelmondSport,2
+20210109,Germany Regionalliga Southwest,VfBStuttgartII,2,TSGBalingen,3
+20210109,Germany Regionalliga Southwest,FCGiessen,2,Steinbach,1
+20210109,Germany Regionalliga Southwest,Ulm,2,FreiburgII,0
+20210109,Germany Regionalliga Southwest,FSVFrankfurt,2,AstoriaWalldorf,0
+20210109,Germany Regionalliga Southwest,Homburg,0,Bahlinger,1
+20210109,Germany Regionalliga Southwest,HessenKassel,0,SonnenhofGrossaspach,2
+20210109,Germany Regionalliga Southwest,EintrachtStadtallendorf,1,KickersOffenbach,4
+20210109,Germany Regionalliga Southwest,TSVSchottMainz,2,TSGHoffenheimII,2
+20210109,Germany Regionalliga Southwest,Elversberg,1,MainzII,1
+20210109,England League 1,LincolnCity,1,Peterborough,1
+20210109,Albania Superliga,KastriotiKruje,2,SkenderbeuKorce,2
+20210109,Albania Superliga,Laci,3,Kukesi,2
+20210109,Albania Superliga,BylisBallsh,0,KFTirana,0
+20210109,Egypt Premier League,MisrLelMakasa,1,AswanFC,0
+20210109,Saudi Arabia Pro League,AlTaawon,0,AlRaed,0
+20210109,England FA Cup,Chorley,2,Derby,0
+20210109,England FA Cup,Everton,1,Rotherham,1
+20210109,England FA Cup,Luton,1,Reading,0
+20210109,England FA Cup,BorehamWood,0,Millwall,2
+20210109,England FA Cup,NottmForest,1,Cardiff,0
+20210109,England FA Cup,Norwich,2,Coventry,0
+20210109,Germany 2. Bundesliga,Osnabruck,2,FCKickersWurzburg,3
+20210109,Germany 2. Bundesliga,StPauli,1,HolsteinKiel,1
+20210109,Germany 2. Bundesliga,Nurnberg,1,Hamburg,1
+20210109,Portugal LigaPro,Chaves,0,Estoril,2
+20210109,Turkey Super Lig,Sivasspor,2,GaziantepBB,1
+20210109,India I League,Minerva,1,Aizawl,0
+20210109,India I League,SudevaDelhi,0,Mohammedan,1
+20210109,Australia A League,Macarthur,1,WellingtonPhoenix,1
+20210109,Mexico Liga MX,Mazatlan,3,Necaxa,2
+20210109,Mexico Liga MX,Tijuana,0,PumasUNAM,0
+20210109,Mexico Liga MX,Puebla,1,Guadalajara,1
+20210109,New Zealand Premiership,WellingtonPhoenixReserves,1,CanterburyUnited,1
+20210109,Brazil Serie B,SampaioCorrea,0,Cruzeiro,1
+20210109,Brazil Serie B,Figueirense,0,CSAAL,0
+20210122,Brazil Serie B,CSAAL,1,BrasilDePelotas,1
+20210122,Uruguay Primera Division,Rentistas,0,BostonRiver,1
+20210122,Portugal LigaPro,Penafiel,2,Feirense,2
+20210122,Spain Primera Liga,Levante,2,Valladolid,2
+20210122,Spain Segunda Liga,Albacete,1,RealZaragoza,0
+20210122,France Ligue 1,PSG,4,Montpellier,0
+20210122,Holland Eerste Divisie,AlmereCity,3,FCDordrecht,0
+20210122,Holland Eerste Divisie,Telstar,2,AZII,2
+20210122,Italy Serie B,VirtusEntella,2,Pisa,1
+20210122,Italy Serie A,Benevento,2,Torino,2
+20210122,England FA Cup,Chorley,0,Wolverhampton,1
+20210122,Scotland Championship,Arbroath,1,Dundee,1
+20210122,Belgium Juliper League,Anderlecht,0,Waasland,0
+20210122,England Championship,Stoke,1,Watford,2
+20210122,Germany Bundesliga,BorussiaMonchengladbach,4,BorussiaDortmund,2
+20210122,Holland Eredivisie,WillemII,1,FCZwolle,3
+20210122,France National,Concarneau,1,LyonDuchere,1
+20210122,England League 2,SalfordCity,2,HarrogateTown,2
+20210122,Brazil Serie B,JuventudeRS,2,Figueirense,1
+20210122,Switzerland Challenge League,Grasshoppers,2,FCStadeLsOuchy,0
+20210122,Belgium Division 2,LierseKempenzonen,3,ClubBruggeII,1
+20210122,Austria Bundesliga,RapidVienna,4,SKSturmGraz,1
+20210122,Switzerland Challenge League,NeuchatelXamax,0,SCKriens,1
+20210122,Germany 3. Liga,TurkgucuAtasporMunchen,0,BayernMunichII,0
+20210122,Spain Segunda Liga,Fuenlabrada,0,Alcorcon,0
+20210122,Portugal LigaPro,Oliveirense,1,Varzim,1
+20210122,Romania Liga I,SteauaBucharest,2,Voluntari,1
+20210122,Holland Eerste Divisie,CambuurLeeuwarden,5,JongPSV,1
+20210122,Holland Eerste Divisie,MVVMaastricht,1,HelmondSport,1
+20210122,Germany 2. Bundesliga,FortunaDusseldorf,3,GreutherFurth,3
+20210122,Germany 2. Bundesliga,Osnabruck,0,ErzgebirgeAue,1
+20210122,France National,Laval,0,SaintBrieuc,0
+20210122,Croatia 1.HNL,HNKSibenik,0,HajdukSplit,1
+20210122,France National,BastiaBorgo,2,Orleans,2
+20210122,France National,Creteil,1,Avranches,2
+20210122,Czech First League,FCBrno,0,SlovanLiberec,3
+20210122,France National,BourgPeronnas,0,QuevillyRouen,1
+20210122,France National,VillefrancheSurSaone,1,Annecy,1
+20210122,France National,Sete,34,FC,0
+20210122,Bahrain Premier League,AlAhliManama,1,AlRifaa,3
+20210122,Bahrain Premier League,Malkiya,2,AlHadd,1
+20210122,Cyprus 1. Division,AEKLarnaca,3,ErmisAradippou,1
+20210122,Croatia 1.HNL,Lokomotiva,0,NKOsijek,3
+20210122,Romania Liga I,ChindiaTargoviste,2,AcademicaClinceni,1
+20210122,Algeria Ligue 1,MCAlger,3,AinMlila,3
+20210122,Algeria Ligue 1,MCOran,1,Chlef,0
+20210122,Algeria Ligue 1,BordjBouArreridj,0,USMAlger,1
+20210122,Algeria Ligue 1,USMBelAbbes,2,Tlemcen,3
+20210122,Cyprus 1. Division,Limassol,3,DoxaKatokopias,1
+20210122,Bahrain Premier League,AlBadii,1,Busaiteen,1
+20210122,Algeria Ligue 1,Kabylie,2,JSSaoura,1
+20210122,Algeria Ligue 1,HusseinDey,1,MCMagra,1
+20210122,Algeria Ligue 1,CSConstantine,0,ESSetif,1
+20210122,Algeria Ligue 1,OlympiqueMedea,1,Biskra,0
+20210122,Algeria Ligue 1,RCRelizane,0,Belouizdad,1
+20210122,Algeria Ligue 1,Paradou,3,JSMSkikda,0
+20210122,Egypt Premier League,ElGaish,3,ElEntagElHarby,0
+20210122,Egypt Premier League,Smouha,1,PyramidsFC,1
+20210122,Vietnam V League,HoangAnhGiaLai,2,SongLamNgheAn,1
+20210122,Australia A League,SydneyFC,0,CentralCoastMariners,2
+20210122,Mexico Liga MX,AtleticoSanLuis,3,Guadalajara,1
+20210122,Costa Rica Primera,PerezZeledon,2,Cartagines,1
+20210116,Mexico Liga MX,Guadalajara,1,Toluca,1
+20210116,Brazil Serie A,Fluminense,1,SportRecife,0
+20210116,Brazil Serie B,JuventudeRS,1,Cruzeiro,0
+20210116,Colombia Copa Mustang,Millonarios,1,Envigado,0
+20210116,Costa Rica Primera,Limon,0,Alajuelense,2
+20210116,Spain Copa Del Rey,RayoVallecano,2,Elche,0
+20210116,Portugal Superliga,Tondela,3,Boavista,1
+20210116,England Premier League,Leicester,2,Southampton,0
+20210116,Holland Eredivisie,AZ,2,ADODenHaag,1
+20210116,France Ligue 1,Angers,0,PSG,1
+20210116,Uruguay Primera Division,Cerro,1,Penarol,1
+20210116,Belgium Juliper League,Charleroi,0,KVMechelen,1
+20210116,England Championship,Barnsley,0,Swansea,2
+20210116,Italy Serie A,Sampdoria,2,Udinese,1
+20210116,Brazil Serie B,CSAAL,1,Avai,1
+20210116,Holland Eredivisie,FCUtrecht,2,Heracles,0
+20210116,Holland Eredivisie,FCZwolle,0,FortunaSittard,2
+20210116,Spain Copa Del Rey,Leganes,0,Sevilla,0
+20210116,France Ligue 2,ACAjaccio,1,Caen,0
+20210116,France Ligue 2,Amiens,0,LeHavre,0
+20210116,France Ligue 2,Auxerre,4,Chateauroux,1
+20210116,France Ligue 2,ClermontFoot,5,Dunkerque,0
+20210116,France Ligue 2,Guingamp,0,Nancy,0
+20210116,France Ligue 2,RodezAveyron,1,Pau,0
+20210116,Romania Liga I,DinamoBucharest,0,ChindiaTargoviste,1
+20210116,Holland Eredivisie,Sparta,3,PSV,5
+20210116,Belgium Juliper League,Peruwelz,2,Genk,0
+20210116,England Premier League,Fulham,0,Chelsea,1
+20210116,Germany Bundesliga,VfBStuttgart,2,BorussiaMonchengladbach,2
+20210116,Czech First League,SlaviaPrague,3,SigmaOlomouc,1
+20210116,Belgium Juliper League,Waasland,1,ZulteWaregem,5
+20210116,Greece Etniki Katigoria,Larissa,0,ApollonSmirnis,1
+20210116,England Conference North,Gateshead,1,Guiseley,0
+20210116,Portugal LigaPro,Vizela,3,Penafiel,1
+20210116,Italy Serie A,Torino,0,Spezia,0
+20210116,Spain Copa Del Rey,Fuenlabrada,1,Levante,1
+20210116,Cyprus 1. Division,AnorthosisFamagusta,2,NeaSalamina,0
+20210116,Bahrain Premier League,Manama,2,AlHadd,2
+20210116,Portugal LigaPro,BenficaII,2,Academica,2
+20210116,Turkey Super Lig,Antalyaspor,1,Trabzonspor,1
+20210116,United Arab Emirates UFL,AlWahda,0,BaniYas,2
+20210116,France Ligue 1,Marseille,1,Nimes,2
+20210116,Holland Eredivisie,FCEmmen,1,Vitesse,4
+20210116,Portugal Superliga,PacosFerreira,2,Braga,0
+20210116,Belgium Juliper League,Oostende,2,Kortrijk,1
+20210116,Scotland Championship,Alloa,1,Hearts,3
+20210116,Scotland Championship,QueenofSouth,2,Arbroath,2
+20210116,Scotland Premiership,StJohnstone,1,StMirren,0
+20210116,Scotland Premiership,RossCounty,4,Aberdeen,1
+20210116,Scotland Premiership,Celtic,0,Livingston,0
+20210116,Scotland Premiership,Hamilton,0,DundeeUtd,0
+20210116,Scotland Premiership,Hibernian,2,Kilmarnock,0
+20210116,Czech First League,Slovacko,2,Karvina,0
+20210116,Czech First League,SlovanLiberec,1,Bohemians,19051
+20210116,England Premier League,Leeds,0,Brighton,1
+20210116,England Championship,Bournemouth,0,Luton,1
+20210116,England Championship,BristolCity,2,Preston,0
+20210116,England Championship,Cardiff,1,Norwich,2
+20210116,England Championship,Derby,0,Rotherham,1
+20210116,England Championship,NottmForest,3,Millwall,1
+20210116,England League 1,FleetwoodTown,0,Portsmouth,1
+20210116,England League 1,Hull,1,Blackpool,1
+20210116,England League 1,Rochdale,3,Wigan,3
+20210116,England Premier League,WestHam,1,Burnley,0
+20210116,England Championship,Blackburn,1,Stoke,1
+20210116,England Championship,Watford,2,Huddersfield,0
+20210116,England Conference,Wrexham,3,DoverAthletic,1
+20210116,England Conference North,TelfordUtd,1,CurzonAshton,1
+20210116,England League 1,AccringtonStanley,0,Gillingham,1
+20210116,England League 1,BristolRovers,0,Charlton,1
+20210116,England League 1,BurtonAlbion,0,Ipswich,1
+20210116,England League 1,Peterborough,3,MiltonKeynesDons,0
+20210116,England League 1,Plymouth,1,Crewe,1
+20210116,England League 1,Swindon,1,Doncaster,2
+20210116,England League 2,Barrow,1,Scunthorpe,0
+20210116,England League 2,Bolton,1,Cheltenham,1
+20210116,England League 2,Colchester,1,CambridgeUtd,1
+20210116,England League 2,ForestGreen,1,PortVale,1
+20210116,England League 2,Grimsby,0,Southend,0
+20210116,England League 2,LeytonOrient,2,Morecambe,0
+20210116,England League 2,NewportCounty,0,SalfordCity,0
+20210116,England League 2,Stevenage,0,Tranmere,0
+20210116,England League 2,Walsall,1,Oldham,1
+20210116,Italy Serie B,ReggioCalabria,0,Lecce,1
+20210116,South Africa Premiership,Baroka,0,MorokaSwallows,1
+20210116,South Africa Premiership,CapeTownCity,1,KaizerChiefs,2
+20210116,Bahrain Premier League,AlMuharraq,0,EastRiffa,1
+20210116,Spain Copa Del Rey,Girona,2,Cadiz,0
+20210116,England Conference North,Chorley,3,FarsleyCeltic,2
+20210116,England Conference South,Dartford,1,HungerfordTown,1
+20210116,England Conference South,HavantandWaterlooville,1,EastbourneBorough,2
+20210116,Jordan Pro League,AlFaysali,1,AlWihdat,2
+20210116,England Conference South,BillericayTown,2,DulwichHamlet,0
+20210116,England Conference South,HamptonandRichmond,2,EbbsfleetUtd,1
+20210116,England Conference South,SloughTown,3,BraintreeTown,2
+20210116,Germany Bundesliga,BorussiaDortmund,1,Mainz,1
+20210116,Germany Bundesliga,Hoffenheim,0,ArminiaBielefeld,0
+20210116,Germany Bundesliga,Wolfsburg,2,RBLeipzig,2
+20210116,Germany Bundesliga,FCKoln,0,HerthaBerlin,0
+20210116,Germany Bundesliga,WerderBremen,2,Augsburg,0
+20210116,France Ligue 2,Toulouse,2,Grenoble,0
+20210116,France Ligue 2,Troyes,2,Sochaux,1
+20210116,Algeria Ligue 1,USMAlger,3,RCRelizane,1
+20210116,Italy Serie A,Bologna,1,HellasVerona,0
+20210116,Cyprus 1. Division,OmoniaNicosia,2,EthnikosAchnas,0
+20210116,Bahrain Premier League,AlNajma,1,AlRifaa,2
+20210116,Algeria Ligue 1,Belouizdad,1,MCOran,1
+20210116,Algeria Ligue 1,ESSetif,0,MCAlger,1
+20210116,South Africa Premiership,BloemfonteinCeltic,1,Stellenbosch,1
+20210116,South Africa Premiership,TSGalaxy,0,ChippaUnited,1
+20210116,South Africa Premiership,GoldenArrows,1,Tshakhuma,0
+20210116,South Africa Premiership,SupersportUnited,0,MamelodiSundowns,0
+20210116,Algeria Ligue 1,Tlemcen,0,Kabylie,2
+20210116,Algeria Ligue 1,MCMagra,0,Paradou,0
+20210116,Germany 3. Liga,Unterhaching,0,Magdeburg,2
+20210116,Germany 3. Liga,Verl,1,Kaiserslautern,1
+20210116,Germany 3. Liga,Hallescher,0,BayernMunichII,4
+20210116,Italy Serie B,Cittadella,1,Ascoli,0
+20210116,Italy Serie B,Monza,2,Cosenza,2
+20210116,Italy Serie B,Pisa,1,Brescia,0
+20210116,Italy Serie B,Pordenone,2,Venezia,0
+20210116,Turkey Super Lig,IstanbulBuyuksehirBSK,1,Sivasspor,1
+20210116,Turkey Super Lig,GaziantepBB,2,Kayserispor,1
+20210116,Holland Eerste Divisie,TOPOss,1,Telstar,4
+20210116,Germany Regionalliga Southwest,VfBStuttgartII,1,FreiburgII,2
+20210116,Germany Regionalliga Southwest,FCGiessen,1,BayernAlzenau,0
+20210116,Germany Regionalliga Southwest,AstoriaWalldorf,1,VfRAalen,0
+20210116,Germany Regionalliga Southwest,FSVFrankfurt,2,MainzII,1
+20210116,Germany Regionalliga Southwest,Elversberg,4,SonnenhofGrossaspach,0
+20210116,Germany Regionalliga Southwest,HessenKassel,2,TSGHoffenheimII,2
+20210116,Germany Regionalliga Southwest,EintrachtStadtallendorf,0,TSGBalingen,3
+20210116,Germany Regionalliga Southwest,TSVSchottMainz,1,Steinbach,3
+20210116,Germany Regionalliga Southwest,Ulm,4,Pirmasens,0
+20210116,Czech First League,MladaBoleslav,1,FCBrno,1
+20210116,Czech First League,Opava,0,Zlin,0
+20210116,Germany Regionalliga West,Oberhausen,5,WegbergBeeck,0
+20210116,Germany Regionalliga West,Bonner,0,Lotte,1
+20210116,Germany Regionalliga West,Ahlen,0,Wuppertaler,1
+20210116,Germany Regionalliga West,Lippstadt,083,VfBHomberg,1
+20210116,Germany Regionalliga West,FortunaDusseldorfII,0,Straelen,2
+20210116,Germany Regionalliga West,FortunaKoln,3,BergischGladbach,0
+20210116,Germany Regionalliga West,PreussenMunster,2,Rodinghausen,0
+20210116,Germany Regionalliga West,Wiedenbruck,0,RotWeissEssen,0
+20210116,England League 1,AFCWimbledon,0,Sunderland,3
+20210116,United Arab Emirates UFL,AlDhafra,1,AlWasl,1
+20210116,United Arab Emirates UFL,AlKhaleejKhorFakkan,3,AlJazira,0
+20210116,Jordan Pro League,AlAhlyJordan,2,Maan,5
+20210116,Uruguay Primera Division,Danubio,0,CerroLargo,3
+20210116,Albania Superliga,KFTirana,2,KastriotiKruje,1
+20210116,Albania Superliga,SkenderbeuKorce,1,PartizaniTirana,2
+20210116,Albania Superliga,ApoloniaFier,1,Laci,0
+20210116,Greece Football League,PanahaikiPatras,1,Trikala,1
+20210116,Greece Football League,OFIIerapetras,1,Diagoras,1
+20210116,Greece Football League,Karaiskakis,0,Levadiakos,2
+20210116,England Championship,Middlesbrough,0,Birmingham,1
+20210116,England Premier League,Wolverhampton,2,WestBrom,3
+20210116,Vietnam V League,Viettel,0,HaiPhong,1
+20210116,Germany 2. Bundesliga,Hannover,962,StPauli,3
+20210116,Germany 2. Bundesliga,ErzgebirgeAue,0,FortunaDusseldorf,3
+20210116,Germany 2. Bundesliga,VfLBochum,3,Nurnberg,1
+20210116,Portugal LigaPro,Leixoes,1,Chaves,0
+20210116,Spain Copa Del Rey,Almeria,5,Alaves,0
+20210116,Spain Copa Del Rey,PenaDeportiva,1,Valladolid,1
+20210116,Turkey Super Lig,Konyaspor,2,Goztepespor,3
+20210116,Vietnam V League,BinhDuong,1,ThanhHoa,0
+20210116,Vietnam V League,SongLamNgheAn,1,BinhDinh,1
+20210116,Australia A League,MelbourneCity,2,WesternUnited,1
+20210116,Australia A League,SydneyFC,1,WestSydney,1
+20210116,Mexico Liga MX,Juarez,0,Tijuana,0
+20210116,New Zealand Premiership,CanterburyUnited,1,EasternSuburbs,0
+20210116,Mexico Liga MX,Necaxa,1,AtleticoSanLuis,0
+20210116,New Zealand Premiership,AucklandCity,2,Wanderers,1
+20210116,Chile Primera,Huachipato,4,SantiagoWanderers,0
+20210116,Brazil Serie B,AmericaMineiro,1,Botafogo,1
+20210116,Brazil Serie A,Palmeiras,1,Gremio,1
+20210125,Brazil Serie A,Corinthians,0,Bragantino,2
+20210125,Chile Primera,UniversidadCatolica,2,Palestino,3
+20210125,Colombia Copa Mustang,OnceCaldas,1,Junior,2
+20210125,Portugal Superliga,Farense,0,FCPorto,1
+20210125,Spain Primera Liga,AthleticBilbao,5,Getafe,1
+20210125,Spain Segunda Liga,FCCartagena,0,Mirandes,2
+20210125,Brazil Serie B,Operario,2,Chapecoense,0
+20210125,Holland Eerste Divisie,FCEindhoven,0,NEC,1
+20210125,Italy Serie B,Brescia,0,Monza,1
+20210125,France Ligue 2,Sochaux,0,Toulouse,1
+20210125,France National,LeMans,2,RedStar,1
+20210125,England FA Cup,Wycombe,1,Tottenham,4
+20210125,Colombia Copa Mustang,LaEquidad,1,NacionaldeMedellin,0
+20210125,Romania Liga I,Hermannstadt,1,CFRCluj,3
+20210125,Holland Eerste Divisie,JongAjax,0,GoAheadEagles,2
+20210125,Portugal LigaPro,CasaPiaAtletico,2,CovaPiedade,1
+20210125,Portugal Superliga,Benfica,1,Nacional,1
+20210125,Cyprus 1. Division,Karmiotissa,0,Paphos,0
+20210125,Portugal Superliga,RioAve,1,SantaClara,2
+20210125,Turkey Lig 1,Altinordu,2,MenemenBelediyespor,4
+20210125,Turkey Super Lig,Alanyaspor,4,Ankaragucu,3
+20210125,Turkey Super Lig,Fenerbahce,3,Kayserispor,0
+20210125,Oman League,Muscat,0,AlRustaq,0
+20210125,Saudi Arabia Pro League,AlWehda,2,AlShababRiyadh,4
+20210125,Albania Superliga,TeutaDurres,1,PartizaniTirana,1
+20210125,Saudi Arabia Pro League,AlFaisaly,1,AlHilal,1
+20210125,Portugal LigaPro,FCPortoII,1,BenficaII,1
+20210125,Portugal Superliga,Belenenses,2,Tondela,0
+20210125,India I League,NEROCA,1,GokulamKerala,4
+20210125,Oman League,AlNasr,2,Sohar,0
+20210125,Oman League,BahlaClub,2,Saham,1
+20210125,Turkey Super Lig,Kasimpasa,2,Sivasspor,0
+20210125,Turkey Lig 1,Istanbulspor,1,Adanaspor,0
+20210125,Albania Superliga,KFTirana,0,Laci,1
+20210125,Saudi Arabia Pro League,AlTaawon,3,Dhamk,1
+20210125,Iran Pro League,SanatNaft,1,Sepahan,2
+20210125,Iran Pro League,MachineSaziTabriz,0,Foolad,1
+20210125,Iran Pro League,AluminiumArak,2,Perspolis,1
+20210125,India I League,ChurchillBrothers,2,SudevaDelhi,0
+20210125,Colombia Copa Mustang,Pereira,0,Cali,1
+20210125,Mexico Liga MX,JaguaresChiapas,2,PumasUNAM,0
+20210128,Brazil Serie A,Gremio,2,Flamengo,4
+20210128,Chile Primera,UnionLaCalera,1,MunicipalIquique,2
+20210128,Brazil Serie A,Bahia,2,Corinthians,1
+20210128,Nicaragua Liga Primera,Chinandega,2,RealEsteli,4
+20210128,Coppa Italia,Napoli,4,Spezia,2
+20210128,Belgium Juliper League,Oostende,2,StandardLiege,2
+20210128,Holland Eredivisie,Ajax,3,WillemII,1
+20210128,England Premier League,Tottenham,1,Liverpool,3
+20210128,Spain Copa Del Rey,Alcoyano,1,AthleticBilbao,2
+20210128,Switzerland Super League,FCSion,2,Basle,3
+20210128,Germany 2. Bundesliga,StPauli,2,VfLBochum,3
+20210128,Spain Copa Del Rey,ArtisticoNavalcarnero,0,Granada,6
+20210128,Romania Liga I,CFRCluj,1,AstraGiurgiu,1
+20210128,Belgium Juliper League,CercleBrugge,1,ClubBrugge,2
+20210128,Holland Eredivisie,Sparta,0,FCTwente,0
+20210128,Egypt Premier League,Zamalek,4,MisrLelMakasa,1
+20210128,Romania Liga I,Hermannstadt,1,ChindiaTargoviste,1
+20210128,Egypt Premier League,NationalBank,0,ElGaish,2
+20210128,Costa Rica Primera,Saprissa,4,SportingSanJose,0
+20210128,Nicaragua Liga Primera,WalterFerreti,1,JuventusManagua,0
+20210128,Costa Rica Primera,SantosdeGuapiles,0,Alajuelense,3
+20210128,Nicaragua Liga Primera,MunicipalJalapa,1,JuniorManagua,1
+20210128,Nicaragua Liga Primera,Diriangen,4,RealMadriz,0
+20210129,Colombia Copa Mustang,JaguaresdeCordoba,2,AlianzaPetrolera,0
+20210129,Uruguay Primera Division,BostonRiver,2,CerroLargo,1
+20210129,Brazil Serie B,Botafogo,0,Operario,1
+20210129,Brazil Serie B,CRB,4,CuiabaEsporteClube,1
+20210129,Chile Primera,CoquimboUnido,0,UniversidaddeChile,1
+20210129,Uruguay Primera Division,Fenix,3,PlazaColonia,3
+20210129,France Ligue 1,Lyon,2,Bordeaux,1
+20210129,Holland Eerste Divisie,DeGraafschap,2,TOPOss,1
+20210129,Holland Eerste Divisie,NEC,2,FCUtrechtII,0
+20210129,Brazil Serie B,SampaioCorrea,1,Oeste,0
+20210129,England Championship,Reading,3,Bournemouth,1
+20210129,Spain Primera Liga,Valladolid,1,Huesca,3
+20210129,Spain Segunda Liga,RealZaragoza,1,Ponferradina,0
+20210129,Italy Serie B,Vicenza,0,Venezia,0
+20210129,Northern Ireland Premier League,Larne,1,Glentoran,1
+20210129,Italy Serie A,Torino,1,Fiorentina,1
+20210129,Belgium Juliper League,Antwerp,3,Waasland,2
+20210129,Germany Bundesliga,VfBStuttgart,2,Mainz,0
+20210129,Poland Ekstraklasa,RakowCzestochowa,0,PogonSzczecin,1
+20210129,Brazil Serie B,Figueirense,2,PontePreta,7
+20210129,England League 2,Colchester,0,Scunthorpe,1
+20210129,Switzerland Challenge League,Schaffhausen,1,Winterthur,0
+20210129,Belgium Division 2,KVSKUnited,4,Deinze,2
+20210129,Switzerland Challenge League,NeuchatelXamax,2,Chiasso,0
+20210129,Switzerland Challenge League,SCKriens,1,Wil,2
+20210129,Switzerland Challenge League,FCStadeLsOuchy,1,FCThun,3
+20210129,Romania Liga I,CSUniversitateaCraiova,1,Arges,1
+20210129,Holland Eerste Divisie,HelmondSport,1,Telstar,1
+20210129,Holland Eerste Divisie,JongPSV,1,JongAjax,2
+20210129,Germany 2. Bundesliga,GreutherFurth,3,ErzgebirgeAue,0
+20210129,Germany 2. Bundesliga,FCKickersWurzburg,2,FortunaDusseldorf,1
+20210129,Poland Ekstraklasa,ZaglebieLubin,0,WislaPlock,2
+20210129,Croatia 1.HNL,NKSlaven,2,Varazdin,0
+20210129,Bahrain Premier League,AlAhliManama,1,AlMuharraq,0
+20210129,United Arab Emirates UFL,AlJazira,3,AlNas,0
+20210129,Cyprus 1. Division,ErmisAradippou,2,Limassol,2
+20210129,Turkey Lig 1,AkhisarBelediyespor,1,Bandirmaspor,0
+20210129,Turkey Super Lig,GaziantepBB,1,Galatasaray,2
+20210129,South Africa Premiership,AmaZulu,2,Stellenbosch,1
+20210129,Egypt Premier League,ElEntagElHarby,0,AlMasry,3
+20210129,Cyprus 1. Division,OmoniaNicosia,1,OlympiakosNicosia,1
+20210129,Bahrain Premier League,AlHadd,2,AlBadii,1
+20210129,India I League,ChurchillBrothers,1,TRAU,1
+20210129,United Arab Emirates UFL,Hatta,1,AlWahda,4
+20210129,United Arab Emirates UFL,Ajman,2,AlDhafra,1
+20210129,Turkey Super Lig,Malatyaspor,0,FatihKaragumruk,0
+20210129,Egypt Premier League,WadiDegla,0,AswanFC,0
+20210129,Egypt Premier League,CeramicaCleopatra,2,ElGouna,1
+20210129,Iran Pro League,Saipa,0,GolGoharSirjan,1
+20210129,Iran Pro League,NaftTehran,1,Esteghlal,1
+20210129,Iran Pro League,NassajiMazandaran,2,Zobahan,3
+20210129,India I League,ChennaiCity,1,AiffXI,0
+20210129,India I League,Minerva,0,SudevaDelhi,0
+20210129,Australia A League,WestSydney,1,NewcastleJets,1
+20210129,Mexico Liga MX,Tigres,1,Necaxa,1
+20210126,Brazil Serie A,Palmeiras,1,VascodaGama,1
+20210126,Brazil Serie A,AtleticoMineiro,2,Santos,0
+20210126,Chile Primera,UnionEspanola,0,CoquimboUnido,1
+20210126,Brazil Serie B,Oeste,1,Parana,0
+20210126,Portugal Superliga,Boavista,0,SportingLisbon,2
+20210126,England Premier League,WestBrom,0,ManCity,5
+20210126,England Premier League,Southampton,1,Arsenal,3
+20210126,Belgium Juliper League,Peruwelz,1,Anderlecht,1
+20210126,Holland Eredivisie,FCGroningen,3,ADODenHaag,0
+20210126,Spain Copa Del Rey,Girona,0,Villarreal,1
+20210126,Spain Copa Del Rey,RealBetis,1,RealSociedad,1
+20210126,Coppa Italia,InterMilan,2,ACMilan,1
+20210126,Scotland Championship,Raith,0,Hearts,4
+20210126,England League 1,Ipswich,0,Sunderland,1
+20210126,England League 1,FleetwoodTown,0,Northampton,0
+20210126,Portugal Superliga,Braga,1,GilVicente,0
+20210126,Northern Ireland Premier League,Glentoran,2,CarrickRangers,0
+20210126,Northern Ireland Premier League,Cliftonville,4,Linfield,3
+20210126,Northern Ireland Premier League,Larne,1,Coleraine,2
+20210126,Northern Ireland Premier League,Portadown,2,Crusaders,2
+20210126,England Conference,Aldershot,0,Weymouth,2
+20210126,England Conference,Altrincham,2,Wealdstone,0
+20210126,England Conference,BorehamWood,0,Chesterfield,0
+20210126,England Conference,Bromley,2,Woking,2
+20210126,England Conference,DoverAthletic,3,Barnet,1
+20210126,England Conference,Eastleigh,3,DagenhamandRedbridge,0
+20210126,Germany 2. Bundesliga,Osnabruck,0,GreutherFurth,1
+20210126,Germany 2. Bundesliga,Braunschweig,1,FCHeidenheim,0
+20210126,Germany 2. Bundesliga,FortunaDusseldorf,0,Hamburg,0
+20210126,Holland Eredivisie,FCEmmen,0,PSV,2
+20210126,England League 1,Swindon,0,Plymouth,2
+20210126,England League 1,Doncaster,2,AFCWimbledon,0
+20210126,England League 2,Cheltenham,2,Oldham,0
+20210126,England League 1,MiltonKeynesDons,0,Charlton,1
+20210126,England League 1,Peterborough,0,BristolRovers,0
+20210126,England League 1,Portsmouth,0,LincolnCity,1
+20210126,England League 1,Rochdale,3,OxfordUtd,4
+20210126,England League 1,Wigan,0,Blackpool,5
+20210126,England Championship,Millwall,0,Watford,0
+20210126,England Championship,BristolCity,2,Huddersfield,1
+20210126,England Conference,Torquay,0,SuttonUtd,0
+20210126,England Conference,Wrexham,0,Halifax,0
+20210126,England League 2,Scunthorpe,2,PortVale,0
+20210126,England League 2,Southend,1,Bradford,3
+20210126,England League 2,Stevenage,0,Colchester,0
+20210126,England League 2,Tranmere,3,HarrogateTown,2
+20210126,England FA Cup,Bournemouth,2,CrawleyTown,1
+20210126,Spain Segunda Liga,Alcorcon,1,Albacete,2
+20210126,Germany 3. Liga,FSVZwickau,3,MSVDuisburg,1
+20210126,Germany 3. Liga,Wehen,2,ViktoriaKoln,2
+20210126,Germany 3. Liga,WaldhofMannheim,1,DynamoDresden,0
+20210126,Germany 3. Liga,Kaiserslautern,0,TurkgucuAtasporMunchen,0
+20210126,England Premier League,CrystalPalace,2,WestHam,3
+20210126,England Premier League,Newcastle,1,Leeds,2
+20210126,England League 2,Exeter,0,Morecambe,2
+20210126,France National,Annecy,2,BourgPeronnas,2
+20210126,France Ligue 2,Valenciennes,2,Paris,0
+20210126,England League 1,Gillingham,4,Crewe,1
+20210126,Spain Copa Del Rey,Valladolid,2,Levante,4
+20210126,Belgium Juliper League,Eupen,0,Antwerp,2
+20210126,Belgium Juliper League,Waasland,2,KVMechelen,3
+20210126,Holland Eredivisie,FCZwolle,2,Heracles,2
+20210126,Romania Liga I,Arges,0,SteauaBucharest,0
+20210126,Germany 2. Bundesliga,ErzgebirgeAue,2,FCKickersWurzburg,1
+20210126,Austria Bundesliga,SKSturmGraz,2,Hartberg,1
+20210126,Austria Bundesliga,Admira,0,AustriaVienna,4
+20210126,England League 1,AccringtonStanley,2,Hull,0
+20210126,Greece Etniki Katigoria,ArisSalonika,1,Larissa,0
+20210126,Egypt Premier League,PyramidsFC,0,AlAhly,0
+20210126,Portugal LigaPro,Academica,1,Leixoes,1
+20210126,Oman League,AlSeeb,4,AlSuwaiq,0
+20210126,Croatia 1.HNL,Lokomotiva,0,HNKSibenik,4
+20210126,Romania Liga I,Voluntari,1,CSUniversitateaCraiova,1
+20210126,Greece Etniki Katigoria,OFICrete,0,AsterasTripoli,1
+20210126,Egypt Premier League,AlMoqawloonAlArab,1,Smouha,2
+20210126,Portugal LigaPro,Vilafranquense,1,Vizela,1
+20210126,South Africa Premiership,OrlandoPirates,1,TSGalaxy,1
+20210126,South Africa Premiership,KaizerChiefs,1,Baroka,1
+20210126,Algeria Ligue 1,ESSetif,0,OlympiqueMedea,0
+20210126,Algeria Ligue 1,Chlef,2,Paradou,1
+20210126,Algeria Ligue 1,Tlemcen,1,MCAlger,0
+20210126,Algeria Ligue 1,USMAlger,2,MCOran,0
+20210126,Algeria Ligue 1,JSSaoura,1,CSConstantine,0
+20210126,Algeria Ligue 1,AinMlila,0,RCRelizane,0
+20210126,Algeria Ligue 1,JSMSkikda,0,HusseinDey,1
+20210126,Algeria Ligue 1,MCMagra,1,Kabylie,0
+20210126,Algeria Ligue 1,Biskra,1,BordjBouArreridj,1
+20210126,Algeria Ligue 1,Belouizdad,3,USMBelAbbes,1
+20210126,Romania Liga I,ViitorulConstanta,3,Sepsi,3
+20210126,Oman League,OmanFC,1,Nizwa,0
+20210126,Oman League,Dhufar,2,AlMsnaa,0
+20210126,Oman League,AlNahda,0,AlIttehad,0
+20210126,Saudi Arabia Pro League,AlBaten,2,AlAin,1
+20210126,Australia A League,MelbourneVictory,2,PerthGlory,1
+20210126,Mexico Liga MX,Pachuca,0,CruzAzul,1
+20210126,Costa Rica Primera,Guadelupe,2,Saprissa,2
+20210124,Brazil Serie A,Fluminense,2,Botafogo,0
+20210124,Colombia Copa Mustang,JaguaresdeCordoba,2,AtleticoBucaramanga,1
+20210124,Costa Rica Primera,Cartagines,1,Limon,1
+20210124,Chile Primera,UniversidaddeChile,2,MunicipalIquique,2
+20210124,Brazil Serie A,Santos,3,Goias,4
+20210124,Brazil Serie A,SportRecife,2,Bahia,0
+20210124,Brazil Serie A,AtleticoGoianiense,2,FortalezaCE,0
+20210124,Brazil Serie B,PontePreta,3,CRB,1
+20210124,Costa Rica Primera,Jicaral,2,Herediano,0
+20210124,Nicaragua Liga Primera,Chinandega,0,Diriangen,3
+20210124,Colombia Copa Mustang,America,1,ItaguiDitares,1
+20210124,Portugal Superliga,Famalicao,0,Guimaraes,1
+20210124,Spain Primera Liga,AtleticoMadrid,3,Valencia,1
+20210124,France Ligue 1,StEtienne,0,Lyon,5
+20210124,England FA Cup,Everton,3,SheffWed,0
+20210124,Costa Rica Primera,Grecia,0,PerezZeledon,0
+20210124,Chile Primera,DeportesLaSerena,2,CuricoUnido,0
+20210124,Italy Serie B,Cremonese,1,Spal,1
+20210124,Italy Serie A,Parma,0,Sampdoria,2
+20210124,Belgium Juliper League,OudHeverlee,0,Gent,3
+20210124,Spain Segunda Liga,LasPalmas,2,Leganes,1
+20210124,Holland Eerste Divisie,RodaJC,2,FCUtrechtII,1
+20210124,Brazil Serie B,Cruzeiro,0,Nautico,0
+20210124,Brazil Serie A,Ceara,2,Palmeiras,1
+20210124,Brazil Serie A,AtleticoParanaense,2,Flamengo,1
+20210124,Brazil Serie A,Internacional,2,Gremio,1
+20210124,Belgium Division 2,KVSKUnited,3,RWDM,2
+20210124,Mexico Liga MX,Toluca,2,Necaxa,0
+20210124,Romania Liga I,Botosani,4,DinamoBucharest,0
+20210124,Spain Primera Liga,CeltaVigo,1,Eibar,1
+20210124,Portugal Superliga,Moreirense,2,Portimonense,2
+20210124,Czech First League,SpartaPrague,1,MladaBoleslav,0
+20210124,Belgium Juliper League,StandardLiege,3,Charleroi,2
+20210124,Spain Segunda Liga,Castellon,2,SportingGijon,0
+20210124,Saudi Arabia Pro League,AlEttifaq,1,AlAhliJeddah,2
+20210124,Italy Serie A,Lazio,2,Sassuolo,1
+20210124,Hungary NB I,BudapestHonved,2,ZalaegerszegTE,2
+20210124,England FA Cup,ManUtd,3,Liverpool,2
+20210124,Germany Bundesliga,Hoffenheim,3,FCKoln,0
+20210124,Cyprus 1. Division,NeaSalamina,1,ApollonLimassol,1
+20210124,Croatia 1.HNL,Istra,2,NKSlaven,1
+20210124,Austria Bundesliga,LASKLinz,2,WSGWattens,4
+20210124,Romania Liga I,GazMetanMedias,2,CSMSIasi,1
+20210124,Turkey Super Lig,Besiktas,2,Goztepespor,1
+20210124,Turkey Super Lig,GaziantepBB,1,Hatayspor,1
+20210124,Turkey Lig 1,Samsunspor,1,Altay,0
+20210124,France Ligue 1,Rennes,0,Lille,1
+20210124,Scottish League Cup,Livingston,1,StMirren,0
+20210124,Albania Superliga,Vllaznia,0,KastriotiKruje,0
+20210124,Holland Eredivisie,Feyenoord,2,AZ,3
+20210124,Saudi Arabia Pro League,IttihadJeddah,1,AlNassr,1
+20210124,Greece Etniki Katigoria,PASGiannina,0,VolosNps,1
+20210124,Greece Etniki Katigoria,Panaitolikos,0,Lamia,0
+20210124,Spain Primera Liga,Elche,0,Barcelona,2
+20210124,Switzerland Super League,FCVaduz,0,YoungBoys,0
+20210124,Spain Segunda Liga,UDLogrones,0,RealOviedo,0
+20210124,Portugal Superliga,Maritimo,0,PacosFerreira,3
+20210124,England Championship,Middlesbrough,0,Blackburn,1
+20210124,Czech First League,Plzen,2,Pardubice,0
+20210124,Belgium Juliper League,ZulteWaregem,0,BeerschotWilrijk,3
+20210124,Belgium Division 2,Westerlo,4,RFCSeraing,3
+20210124,Switzerland Super League,StGallen,0,Lugano,1
+20210124,Saudi Arabia Pro League,AlFateh,0,AlRaed,2
+20210124,Hungary NB I,PaksiSE,2,Diosgyori,1
+20210124,England FA Cup,Fulham,0,Burnley,3
+20210124,England FA Cup,Brentford,1,Leicester,3
+20210124,Germany Bundesliga,Schalke,040,BayernMunich,4
+20210124,France Ligue 1,Dijon,1,Strasbourg,1
+20210124,France Ligue 1,Metz,2,Nantes,0
+20210124,France Ligue 1,Reims,1,Brestois,0
+20210124,Portugal LigaPro,Chaves,2,Arouca,1
+20210124,Italy Serie A,Genoa,1,Cagliari,0
+20210124,Italy Serie A,HellasVerona,3,Napoli,1
+20210124,Cyprus 1. Division,ApoelNicosia,0,AnorthosisFamagusta,0
+20210124,Italy Serie B,Lecce,2,Empoli,2
+20210124,South Africa Premiership,Tshakhuma,0,SupersportUnited,2
+20210124,South Africa Premiership,CapeTownCity,4,GoldenArrows,2
+20210124,India I League,Minerva,0,Mohammedan,0
+20210124,Austria Bundesliga,CSRAltach,0,RBSalzburg,2
+20210124,Holland Eredivisie,FCTwente,0,VVVVenlo,1
+20210124,Holland Eredivisie,FCUtrecht,1,Sparta,0
+20210124,Germany Regionalliga Southwest,Pirmasens,1,FCGiessen,2
+20210124,Germany Regionalliga Southwest,Homburg,1,TSGBalingen,0
+20210124,Germany Regionalliga Southwest,VfBStuttgartII,0,Ulm,1
+20210124,Czech First League,CeskoBudejovice,2,Teplice,0
+20210124,Czech First League,Jablonec,972,MarilaPribram,1
+20210124,Turkey Lig 1,Giresunspor,1,Balikesirspor,0
+20210124,Turkey Super Lig,Malatyaspor,0,Galatasaray,1
+20210124,Turkey Super Lig,Denizlispor,1,FatihKaragumruk,2
+20210124,Spain Segunda Liga,Almeria,2,Sabadell,2
+20210124,Germany 3. Liga,Saarbrucken,0,Lubeck,0
+20210124,Spain Primera Liga,Osasuna,3,Granada,1
+20210124,Saudi Arabia Pro League,AbhaClub,2,AlQadisiyah,2
+20210124,Albania Superliga,SkenderbeuKorce,1,ApoloniaFier,1
+20210124,Greece Football League,Ionikos,1,Trikala,1
+20210124,Greece Football League,Ergotelis,0,Levadiakos,1
+20210124,Albania Superliga,Kukesi,2,BylisBallsh,1
+20210124,England Championship,Preston,0,Reading,0
+20210124,Germany 2. Bundesliga,Darmstadt,0,HolsteinKiel,2
+20210124,Germany 2. Bundesliga,Sandhausen,1,VfLBochum,1
+20210124,Germany 2. Bundesliga,StPauli,2,Regensburg,0
+20210124,Germany 2. Bundesliga,Nurnberg,2,Hannover,965
+20210124,Belgium Juliper League,ClubBrugge,3,Genk,2
+20210124,Egypt Premier League,Enppi,3,NationalBank,2
+20210124,Egypt Premier League,ElGouna,2,WadiDegla,0
+20210124,Hungary NB I,Budafoki,2,MTK,2
+20210124,Vietnam V League,HoChiMinhCity,2,HongLinhHaTinh,0
+20210124,England FA Cup,Chelsea,3,Luton,1
+20210124,Greece Football League,PanahaikiPatras,2,OFIIerapetras,0
+20210124,Greece Football League,Karaiskakis,1,Kissamikos,1
+20210124,France Ligue 1,Bordeaux,2,Angers,1
+20210124,Italy Serie A,Juventus,2,Bologna,0
+20210124,Portugal LigaPro,Mafra,1,Estoril,1
+20210124,Holland Eredivisie,FortunaSittard,1,Ajax,2
+20210124,Holland Eerste Divisie,FCVolendam,1,DeGraafschap,4
+20210124,Vietnam V League,QuangNinh,0,DaNang,1
+20210124,India I League,Aizawl,1,AiffXI,1
+20210124,Turkey Super Lig,Konyaspor,0,Antalyaspor,0
+20210124,Turkey Lig 1,Keciorengucu,2,Boluspor,0
+20210124,Turkey Lig 1,Tuzlaspor,0,AkhisarBelediyespor,3
+20210124,Vietnam V League,ThanhHoa,0,Viettel,0
+20210124,India I League,TRAU,2,ChennaiCity,0
+20210124,Australia A League,WellingtonPhoenix,1,NewcastleJets,2
+20210124,New Zealand Premiership,TeamWellington,5,WellingtonPhoenixReserves,2
+20210124,New Zealand Premiership,EasternSuburbs,1,AucklandCity,1
+20210124,New Zealand Premiership,Wanderers,1,HawkesBayUnited,4
+20210124,Costa Rica Primera,Alajuelense,1,SanCarlos,1
+20210124,Nicaragua Liga Primera,RealMadriz,1,WalterFerreti,1
+20210124,Nicaragua Liga Primera,JuventusManagua,3,MunicipalJalapa,1
+20210124,Nicaragua Liga Primera,JuniorManagua,1,Managua,3
+20210127,Nicaragua Liga Primera,Managua,3,DeportivoOcotal,0
+20210127,England Premier League,Everton,1,Leicester,1
+20210127,England Premier League,ManUtd,1,SheffUtd,2
+20210127,Spain Copa Del Rey,Almeria,0,Osasuna,0
+20210127,Spain Copa Del Rey,RayoVallecano,1,Barcelona,2
+20210127,France Ligue 1,Lorient,3,Dijon,2
+20210127,Belgium Juliper League,Gent,1,StTruiden,1
+20210127,Holland Eredivisie,Heerenveen,3,Feyenoord,0
+20210127,Belgium Juliper League,Charleroi,1,OudHeverlee,1
+20210127,Scotland Premiership,Celtic,2,Hamilton,0
+20210127,Scotland Premiership,Hibernian,0,Rangers,1
+20210127,Scotland Premiership,Livingston,2,Kilmarnock,0
+20210127,England Conference,MaidenheadUtd,4,Yeovil,2
+20210127,England Conference,NottsCounty,2,SolihullMoors,0
+20210127,Coppa Italia,Juventus,4,Spal,0
+20210127,England Premier League,Brighton,0,Fulham,0
+20210127,Germany 2. Bundesliga,Paderborn,1,HolsteinKiel,1
+20210127,Germany 2. Bundesliga,Karlsruhe,1,Hannover,960
+20210127,Germany 2. Bundesliga,Nurnberg,0,Regensburg,1
+20210127,Austria Bundesliga,Wolfsberger,0,LASKLinz,3
+20210127,Holland Eredivisie,RKCWaalwijk,1,FortunaSittard,2
+20210127,Holland Eredivisie,VVVVenlo,4,Vitesse,1
+20210127,England Championship,Middlesbrough,0,Rotherham,3
+20210127,England Championship,Coventry,2,SheffWed,0
+20210127,England Championship,Barnsley,2,Cardiff,2
+20210127,England Championship,Swansea,1,Brentford,1
+20210127,Hungary NB I,Budafoki,0,Ferencvarosi,3
+20210127,Scotland Championship,Morton,2,InvernessCT,2
+20210127,Scotland Premiership,RossCounty,1,Motherwell,2
+20210127,Scotland Premiership,StJohnstone,0,Aberdeen,0
+20210127,Scotland Premiership,DundeeUtd,1,StMirren,5
+20210127,France Ligue 2,Chambly,1,ChamoisNiort,1
+20210127,Romania Liga I,DinamoBucharest,2,GazMetanMedias,1
+20210127,Spain Copa Del Rey,Sevilla,3,Valencia,0
+20210127,Germany 3. Liga,Ingolstadt,1,Hallescher,1
+20210127,Germany 3. Liga,HansaRostock,4,Saarbrucken,2
+20210127,Germany 3. Liga,Magdeburg,01860,Munich,3
+20210127,Germany 3. Liga,Lubeck,1,Unterhaching,0
+20210127,England Premier League,Burnley,3,AstonVilla,2
+20210127,England Premier League,Chelsea,0,Wolverhampton,0
+20210127,Italy Serie B,Chievo,2,Cittadella,1
+20210127,Belgium Juliper League,BeerschotWilrijk,0,Kortrijk,0
+20210127,Belgium Juliper League,Genk,3,ZulteWaregem,2
+20210127,Holland Eredivisie,AZ,0,FCUtrecht,1
+20210127,Germany 2. Bundesliga,Darmstadt,2,Sandhausen,1
+20210127,Austria Bundesliga,WSGWattens,3,CSRAltach,1
+20210127,Austria Bundesliga,RBSalzburg,3,SVRied,0
+20210127,Austria Bundesliga,RapidVienna,2,StPolten,1
+20210127,Greece Etniki Katigoria,Olympiacos,3,PAOKSalonika,0
+20210127,Switzerland Super League,FCZurich,0,FCVaduz,1
+20210127,Czech First League,Zlin,2,SlaviaPrague,6
+20210127,Hungary NB I,Kisvarda,2,FehervarFC,1
+20210127,Coppa Italia,Atalanta,3,Lazio,2
+20210127,Croatia 1.HNL,DynamoZagreb,3,HajdukSplit,1
+20210127,Romania Liga I,CSMSIasi,1,UTABatranaDoamna,2
+20210127,Greece Etniki Katigoria,Lamia,1,ApollonSmirnis,0
+20210127,South Africa Premiership,BlackLeopards,1,MamelodiSundowns,2
+20210127,Czech First League,Bohemians,19050,Opava,0
+20210127,Czech First League,BanikOstrava,1,SlovanLiberec,0
+20210127,Croatia 1.HNL,Istra,1,NKRijeka,2
+20210127,Greece Football League,Levadiakos,1,Xanthi,1
+20210127,Greece Football League,Diagoras,1,Ionikos,1
+20210127,Greece Football League,OFIIerapetras,0,ApollonLarisas,0
+20210127,Greece Football League,Trikala,3,DoxaDramas,0
+20210127,Greece Football League,Kissamikos,0,Ergotelis,1
+20210127,Greece Football League,PanahaikiPatras,2,Karaiskakis,2
+20210127,Germany Regionalliga West,FCKolnII,1,Bonner,1
+20210127,Greece Etniki Katigoria,VolosNps,0,Panathinaikos,2
+20210127,Germany Regionalliga West,BorussiaDortmundII,5,BorussiaMonchengladbachII,1
+20210127,Romania Liga I,AcademicaClinceni,2,Botosani,1
+20210127,Mexico Liga MX,CFAmerica,2,Juarez,0
+20210127,Brazil Serie B,Vitoria,1,Botafogo,0
+20210123,Chile Primera,Cobresal,1,UnionLaCalera,1
+20210123,Costa Rica Primera,SportingSanJose,0,SantosdeGuapiles,1
+20210123,Colombia Copa Mustang,Envigado,0,Pasto,1
+20210123,Brazil Serie A,SaoPaulo,1,Coritiba,1
+20210123,Brazil Serie B,Avai,2,Guarani,1
+20210123,Chile Primera,ColoColo,2,CoquimboUnido,1
+20210123,Spain Primera Liga,Alaves,1,RealMadrid,4
+20210123,France Ligue 1,Monaco,3,Marseille,1
+20210123,Holland Eredivisie,Heracles,1,Heerenveen,0
+20210123,England Premier League,AstonVilla,2,Newcastle,0
+20210123,Belgium Juliper League,Antwerp,1,Oostende,2
+20210123,Italy Serie A,Fiorentina,2,Crotone,1
+20210123,Belgium Division 2,Deinze,2,UnionSaintGilloise,4
+20210123,Spain Segunda Liga,Malaga,0,Ponferradina,2
+20210123,Switzerland Super League,Basle,1,FCZurich,4
+20210123,Brazil Serie B,Confianca,0,AmericaMineiro,0
+20210123,Holland Eredivisie,PSV,2,RKCWaalwijk,0
+20210123,Romania Liga I,CSUniversitateaCraiova,1,ViitorulConstanta,1
+20210123,Hungary NB I,Ujpesti,0,FehervarFC,5
+20210123,France Ligue 2,Caen,1,RodezAveyron,2
+20210123,France Ligue 2,Chateauroux,3,Valenciennes,3
+20210123,France Ligue 2,Dunkerque,3,ACAjaccio,1
+20210123,France Ligue 2,Grenoble,2,Chambly,0
+20210123,France Ligue 2,LeHavre,1,Guingamp,1
+20210123,France Ligue 2,Nancy,2,ChamoisNiort,2
+20210123,France Ligue 2,Paris,4,Amiens,2
+20210123,France Ligue 2,Pau,0,Troyes,1
+20210123,Holland Eredivisie,Vitesse,1,FCGroningen,0
+20210123,Belgium Juliper League,Kortrijk,1,CercleBrugge,2
+20210123,Belgium Juliper League,StTruiden,0,Peruwelz,2
+20210123,Czech First League,Karvina,1,SlaviaPrague,3
+20210123,Germany Bundesliga,HerthaBerlin,1,WerderBremen,4
+20210123,Spain Primera Liga,RealSociedad,2,RealBetis,2
+20210123,Greece Etniki Katigoria,Panathinaikos,2,OFICrete,0
+20210123,Scottish League Cup,StJohnstone,3,Hibernian,0
+20210123,England FA Cup,Cheltenham,1,ManCity,3
+20210123,Spain Segunda Liga,Girona,1,Espanyol,0
+20210123,Spain Segunda Liga,Lugo,2,Tenerife,0
+20210123,Switzerland Super League,LausanneSports,0,FCSion,1
+20210123,Switzerland Challenge League,Wil,3,Aarau,1
+20210123,Switzerland Challenge League,FCThun,3,Schaffhausen,1
+20210123,Italy Serie A,ACMilan,0,Atalanta,3
+20210123,Italy Serie A,Udinese,0,InterMilan,0
+20210123,Cyprus 1. Division,Enosis,0,OmoniaNicosia,1
+20210123,Bahrain Premier League,AlNajma,2,AlMuharraq,1
+20210123,Croatia 1.HNL,Gorica,3,DynamoZagreb,4
+20210123,Austria Bundesliga,Wolfsberger,0,Hartberg,0
+20210123,Austria Bundesliga,StPolten,2,Admira,2
+20210123,Austria Bundesliga,SVRied,0,AustriaVienna,1
+20210123,France Ligue 1,Lens,0,Nice,1
+20210123,Switzerland Challenge League,Chiasso,0,Winterthur,3
+20210123,Turkey Lig 1,AdanaDemirspor,1,Bursaspor,2
+20210123,Turkey Super Lig,IstanbulBuyuksehirBSK,1,CaykurRizespor,1
+20210123,Hungary NB I,Puskas,1,Ferencvarosi,1
+20210123,Holland Eredivisie,ADODenHaag,0,FCEmmen,0
+20210123,Holland Eerste Divisie,TOPOss,1,ExcelsiorRotterdam,3
+20210123,Belgium Juliper League,KVMechelen,3,Eupen,0
+20210123,Spain Primera Liga,Sevilla,3,Cadiz,0
+20210123,Greece Etniki Katigoria,ApollonSmirnis,0,ArisSalonika,1
+20210123,Northern Ireland Premier League,Coleraine,2,DungannonSwifts,0
+20210123,Northern Ireland Premier League,Linfield,6,WarrenpointTown,0
+20210123,South Africa Premiership,Baroka,0,AmaZulu,2
+20210123,South Africa Premiership,Stellenbosch,0,KaizerChiefs,0
+20210123,South Africa Premiership,MaritzburgUnited,0,OrlandoPirates,1
+20210123,Italy Serie B,Salernitana,2,Pescara,0
+20210123,England Conference,DoverAthletic,0,SolihullMoors,2
+20210123,England Conference,Barnet,1,Altrincham,2
+20210123,England Conference,Chesterfield,2,Wrexham,1
+20210123,England Conference,DagenhamandRedbridge,3,KingsLynn,2
+20210123,England Conference,NottsCounty,0,Torquay,0
+20210123,England Conference,Stockport,1,BorehamWood,1
+20210123,England Conference,SuttonUtd,3,Eastleigh,0
+20210123,England Conference,Wealdstone,3,Aldershot,4
+20210123,England Conference,Weymouth,1,Hartlepool,0
+20210123,England Conference,Woking,0,MaidenheadUtd,0
+20210123,England Conference,Bromley,1,Halifax,2
+20210123,Spain Segunda Liga,RayoVallecano,1,Mallorca,3
+20210123,England League 2,Morecambe,3,Colchester,0
+20210123,England League 2,Oldham,3,NewportCounty,2
+20210123,England League 2,PortVale,1,Walsall,3
+20210123,England League 2,Southend,0,Mansfield,1
+20210123,England League 2,Tranmere,2,Bolton,1
+20210123,England League 2,LeytonOrient,0,ForestGreen,1
+20210123,Scotland Premiership,Aberdeen,2,Motherwell,0
+20210123,Scotland Premiership,Rangers,5,RossCounty,0
+20210123,Scotland Championship,Dunfermline,0,Ayr,0
+20210123,Scotland Championship,Hearts,2,Raith,3
+20210123,Scotland Championship,QueenofSouth,2,Morton,1
+20210123,England Championship,QPR,0,Derby,1
+20210123,England League 1,Charlton,2,Swindon,2
+20210123,England League 1,Crewe,1,AFCWimbledon,1
+20210123,England League 1,Gillingham,2,Rochdale,2
+20210123,England League 1,Ipswich,0,Peterborough,1
+20210123,England League 1,Portsmouth,0,Hull,4
+20210123,England League 1,LincolnCity,2,Northampton,1
+20210123,England League 1,OxfordUtd,2,BristolRovers,0
+20210123,England League 1,Sunderland,1,Shrewsbury,0
+20210123,England League 1,Wigan,0,FleetwoodTown,0
+20210123,England League 2,CambridgeUtd,0,Bradford,0
+20210123,Czech First League,Bohemians,19051,Slovacko,3
+20210123,Czech First League,Zlin,1,BanikOstrava,1
+20210123,England FA Cup,WestHam,4,Doncaster,0
+20210123,England FA Cup,Swansea,5,NottmForest,1
+20210123,England FA Cup,Brighton,2,Blackpool,1
+20210123,England FA Cup,Millwall,0,BristolCity,3
+20210123,England FA Cup,Barnsley,1,Norwich,0
+20210123,England FA Cup,SheffUtd,2,Plymouth,1
+20210123,Egypt Premier League,AswanFC,0,Zamalek,0
+20210123,Germany Bundesliga,BayerLeverkusen,0,Wolfsburg,1
+20210123,Germany Bundesliga,Freiburg,2,VfBStuttgart,1
+20210123,Germany Bundesliga,Mainz,3,RBLeipzig,2
+20210123,Germany Bundesliga,Augsburg,2,UnionBerlin,1
+20210123,Germany Bundesliga,ArminiaBielefeld,1,EintrachtFrankfurt,5
+20210123,Romania Liga I,UTABatranaDoamna,1,Arges,2
+20210123,Croatia 1.HNL,Varazdin,2,NKRijeka,1
+20210123,France Ligue 2,ClermontFoot,1,Auxerre,0
+20210123,Italy Serie A,Roma,4,Spezia,3
+20210123,Cyprus 1. Division,OlympiakosNicosia,1,EthnikosAchnas,2
+20210123,Bahrain Premier League,Manama,1,EastRiffa,2
+20210123,South Africa Premiership,BlackLeopards,0,ChippaUnited,3
+20210123,Hungary NB I,Kisvarda,0,MezokovesdiSE,0
+20210123,Iran Pro League,Esteghlal,0,Saipa,1
+20210123,Italy Serie B,Venezia,1,Cittadella,0
+20210123,South Africa Premiership,MamelodiSundowns,1,MorokaSwallows,1
+20210123,Greece Etniki Katigoria,AsterasTripoli,1,Larissa,0
+20210123,Italy Serie B,Ascoli,0,Chievo,0
+20210123,Italy Serie B,Cosenza,0,Pordenone,0
+20210123,Italy Serie B,Frosinone,1,ReggioCalabria,1
+20210123,Italy Serie B,Reggiana,2,Vicenza,1
+20210123,Turkey Lig 1,Eskisehirspor,0,Osmanlispor,0
+20210123,Spain Primera Liga,Huesca,0,Villarreal,0
+20210123,Germany 3. Liga,MSVDuisburg,1,HansaRostock,2
+20210123,Germany 3. Liga,Unterhaching,1,FSVZwickau,2
+20210123,Germany 3. Liga,Hallescher,1,Magdeburg,0
+20210123,Germany 3. Liga,DynamoDresden,4,Kaiserslautern,3
+20210123,Germany 3. Liga,ViktoriaKoln,1,WaldhofMannheim,2
+20210123,Germany 3. Liga,Verl,2,Wehen,2
+20210123,England League 2,Scunthorpe,3,Grimsby,0
+20210123,Turkey Super Lig,Genclerbirligi,1,Trabzonspor,2
+20210123,Holland Eerste Divisie,FCDenBosch,1,NAC,1
+20210123,Germany Regionalliga Southwest,VfRAalen,1,MainzII,2
+20210123,Germany Regionalliga Southwest,AstoriaWalldorf,0,Bahlinger,2
+20210123,Germany Regionalliga Southwest,FSVFrankfurt,1,SonnenhofGrossaspach,0
+20210123,Germany Regionalliga Southwest,Elversberg,4,TSGHoffenheimII,2
+20210123,Germany Regionalliga Southwest,HessenKassel,2,Steinbach,1
+20210123,Germany Regionalliga Southwest,EintrachtStadtallendorf,0,FreiburgII,0
+20210123,Germany Regionalliga Southwest,TSVSchottMainz,1,BayernAlzenau,1
+20210123,England League 2,Exeter,3,Stevenage,1
+20210123,Czech First League,SigmaOlomouc,4,Opava,1
+20210123,Germany Regionalliga West,Rodinghausen,2,BorussiaMonchengladbachII,0
+20210123,Germany Regionalliga West,BergischGladbach,0,PreussenMunster,1
+20210123,Germany Regionalliga West,Straelen,0,FortunaKoln,2
+20210123,Germany Regionalliga West,VfBHomberg,3,FortunaDusseldorfII,1
+20210123,Germany Regionalliga West,Wuppertaler,3,Lippstadt,081
+20210123,Germany Regionalliga West,AlemanniaAachen,0,Ahlen,0
+20210123,Germany Regionalliga West,FCKolnII,0,BorussiaDortmundII,3
+20210123,Germany Regionalliga West,RotWeissEssen,2,Bonner,0
+20210123,Germany Regionalliga West,WegbergBeeck,2,Wiedenbruck,0
+20210123,Germany Regionalliga West,FCSchalke,04,II,0
+20210123,Greece Football League,ApollonLarisas,0,Diagoras,1
+20210123,Egypt Premier League,GhazlELMahallah,2,Ismaily,2
+20210123,Northern Ireland Premier League,Crusaders,3,Larne,3
+20210123,Vietnam V League,TTHaNoi,1,BinhDuong,2
+20210123,England FA Cup,Southampton,1,Arsenal,0
+20210123,Germany 2. Bundesliga,Paderborn,1,FCKickersWurzburg,0
+20210123,Germany 2. Bundesliga,Karlsruhe,1,FCHeidenheim,1
+20210123,Germany 2. Bundesliga,Braunschweig,2,Hamburg,4
+20210123,Iran Pro League,GolGoharSirjan,1,TractorSazi,2
+20210123,Vietnam V League,HaiPhong,3,NamDinh,2
+20210123,Romania Liga I,Sepsi,4,AstraGiurgiu,1
+20210123,Turkey Lig 1,Bandirmaspor,1,Umraniyespor,0
+20210123,Vietnam V League,BinhDinh,1,HaNoi,0
+20210123,Australia A League,AdelaideUnited,1,MelbourneVictory,0
+20210123,Australia A League,WesternUnited,5,PerthGlory,4
+20210123,Mexico Liga MX,Mazatlan,0,SantosLaguna,0
+20210123,New Zealand Premiership,WaitakereUnited,3,CanterburyUnited,3
+20210123,Mexico Liga MX,Puebla,0,Tijuana,1
+20210123,Colombia Copa Mustang,Medellin,2,BoyacaPatriotas,1
+20210123,Brazil Serie B,CuiabaEsporteClube,1,SampaioCorrea,3
+20210131,Brazil Serie A,Fluminense,3,Goias,0
+20210131,Uruguay Primera Division,Cerro,1,Torque,3
+20210131,Costa Rica Primera,Saprissa,4,Cartagines,1
+20210131,Chile Primera,ColoColo,2,UnionLaCalera,1
+20210131,Brazil Serie A,Internacional,2,Bragantino,1
+20210131,Nicaragua Liga Primera,Chinandega,1,Managua,1
+20210131,Colombia Copa Mustang,DeportesTolima,1,LaEquidad,0
+20210131,Uruguay Primera Division,Danubio,0,Penarol,1
+20210131,Italy Serie B,Cittadella,1,Cremonese,1
+20210131,Brazil Serie A,AtleticoMineiro,2,FortalezaCE,0
+20210131,France Ligue 1,Nantes,1,Monaco,2
+20210131,Spain Primera Liga,Barcelona,2,AthleticBilbao,1
+20210131,Belgium Juliper League,StTruiden,3,CercleBrugge,0
+20210131,Italy Serie A,Roma,3,HellasVerona,1
+20210131,Spain Segunda Liga,Tenerife,1,Fuenlabrada,1
+20210131,England Premier League,Brighton,1,Tottenham,0
+20210131,Belgium Division 2,Westerlo,2,LierseKempenzonen,0
+20210131,Brazil Serie A,AtleticoGoianiense,2,SaoPaulo,1
+20210131,Brazil Serie A,Coritiba,1,Gremio,1
+20210131,Brazil Serie A,VascodaGama,0,Bahia,0
+20210131,Brazil Serie A,Ceara,0,AtleticoParanaense,2
+20210131,Holland Eerste Divisie,CambuurLeeuwarden,2,MVVMaastricht,0
+20210131,Romania Liga I,UTABatranaDoamna,0,DinamoBucharest,1
+20210131,Mexico Liga MX,PumasUNAM,0,Atlas,0
+20210131,Greece Etniki Katigoria,ApollonSmirnis,1,Olympiacos,3
+20210131,Czech First League,SlaviaPrague,3,Jablonec,970
+20210131,Spain Primera Liga,Granada,0,CeltaVigo,0
+20210131,Spain Segunda Liga,Mirandes,2,LasPalmas,0
+20210131,Belgium Juliper League,Anderlecht,0,Gent,0
+20210131,Saudi Arabia Pro League,AlAhliJeddah,2,AlBaten,2
+20210131,Italy Serie A,Napoli,2,Parma,0
+20210131,Germany Bundesliga,Wolfsburg,3,Freiburg,0
+20210131,Portugal LigaPro,CasaPiaAtletico,1,Leixoes,1
+20210131,England Premier League,WestHam,1,Liverpool,3
+20210131,Poland Ekstraklasa,PodbeskidzieBielskoBiala,1,LegiaWarsaw,0
+20210131,Cyprus 1. Division,EthnikosAchnas,1,NeaSalamina,1
+20210131,Croatia 1.HNL,NKRijeka,0,Gorica,2
+20210131,Austria Bundesliga,LASKLinz,1,RapidVienna,2
+20210131,France Ligue 1,Lille,1,Dijon,0
+20210131,Turkey Super Lig,Besiktas,1,Trabzonspor,2
+20210131,Turkey Lig 1,Bursaspor,1,Altinordu,2
+20210131,Albania Superliga,PartizaniTirana,0,Vllaznia,0
+20210131,Holland Eredivisie,AZ,0,Ajax,3
+20210131,Holland Eredivisie,ADODenHaag,1,Sparta,1
+20210131,Oman League,Saham,1,OmanFC,0
+20210131,Hungary NB I,Diosgyori,1,Budafoki,1
+20210131,Spain Primera Liga,Cadiz,2,AtleticoMadrid,4
+20210131,Portugal Superliga,Guimaraes,1,Maritimo,0
+20210131,Spain Segunda Liga,Espanyol,2,RayoVallecano,3
+20210131,Switzerland Super League,YoungBoys,2,FCSion,1
+20210131,Switzerland Super League,Servette,1,LausanneSports,1
+20210131,Switzerland Super League,Basle,2,Lugano,2
+20210131,Portugal LigaPro,FCPortoII,0,Varzim,1
+20210131,Czech First League,BanikOstrava,0,Plzen,2
+20210131,Belgium Juliper League,ZulteWaregem,2,Oostende,1
+20210131,Italy Serie B,Spal,1,Monza,1
+20210131,Belgium Division 2,RFCSeraing,2,ClubBruggeII,1
+20210131,Saudi Arabia Pro League,AlQadisiyah,2,AlWehda,2
+20210131,Germany Bundesliga,FCKoln,3,ArminiaBielefeld,1
+20210131,Poland Ekstraklasa,WislaKrakow,3,PiastGliwice,4
+20210131,France Ligue 1,Strasbourg,0,Reims,1
+20210131,France Ligue 1,Lorient,3,PSG,2
+20210131,France Ligue 1,Angers,3,Nimes,1
+20210131,France Ligue 1,Brestois,2,Metz,4
+20210131,Italy Serie A,Atalanta,1,Lazio,3
+20210131,Italy Serie A,Cagliari,1,Sassuolo,1
+20210131,Italy Serie A,Crotone,0,Genoa,3
+20210131,Portugal LigaPro,Academica,2,AcademicoViseu,1
+20210131,England Premier League,Leicester,1,Leeds,3
+20210131,Germany Regionalliga West,BorussiaDortmundII,4,Lotte,0
+20210131,Italy Serie B,Chievo,3,Pescara,1
+20210131,Cyprus 1. Division,Paphos,1,AEKLarnaca,4
+20210131,South Africa Premiership,MamelodiSundowns,2,ChippaUnited,0
+20210131,South Africa Premiership,Baroka,1,CapeTownCity,1
+20210131,Holland Eredivisie,Feyenoord,3,PSV,1
+20210131,Holland Eredivisie,WillemII,2,FCEmmen,0
+20210131,Austria Bundesliga,AustriaVienna,2,WSGWattens,2
+20210131,Austria Bundesliga,StPolten,0,Wolfsberger,2
+20210131,Hungary NB I,ZalaegerszegTE,4,PaksiSE,4
+20210131,Oman League,AlSuwaiq,1,BahlaClub,2
+20210131,Greece Etniki Katigoria,OFICrete,0,AEKAthens,2
+20210131,Oman League,Nizwa,1,Dhufar,1
+20210131,Czech First League,Opava,0,FCBrno,2
+20210131,Turkey Lig 1,Boluspor,1,AdanaDemirspor,2
+20210131,Spain Primera Liga,Getafe,0,Alaves,0
+20210131,Turkey Super Lig,Genclerbirligi,0,Antalyaspor,1
+20210131,Turkey Super Lig,Denizlispor,2,Goztepespor,1
+20210131,Spain Segunda Liga,SportingGijon,0,FCCartagena,0
+20210131,Albania Superliga,ApoloniaFier,0,KFTirana,1
+20210131,Albania Superliga,Laci,1,TeutaDurres,0
+20210131,Greece Football League,Ionikos,2,OFIIerapetras,1
+20210131,Greece Football League,DoxaDramas,0,Diagoras,2
+20210131,Greece Football League,Karaiskakis,0,Ergotelis,1
+20210131,Greece Football League,ApollonLarisas,0,PanahaikiPatras,3
+20210131,Saudi Arabia Pro League,AlRaed,4,Dhamk,2
+20210131,Germany 2. Bundesliga,FCHeidenheim,3,StPauli,4
+20210131,Germany 2. Bundesliga,VfLBochum,1,Karlsruhe,2
+20210131,Germany 2. Bundesliga,Sandhausen,2,Nurnberg,0
+20210131,Belgium Juliper League,ClubBrugge,3,StandardLiege,1
+20210131,France Ligue 1,Nice,0,StEtienne,1
+20210131,Germany 3. Liga,MSVDuisburg,3,Lubeck,1
+20210131,Romania Liga I,AstraGiurgiu,1,ViitorulConstanta,1
+20210131,England Premier League,Chelsea,2,Burnley,0
+20210131,Italy Serie A,Spezia,0,Udinese,1
+20210131,Portugal LigaPro,Vilafranquense,2,BenficaII,2
+20210131,Holland Eredivisie,FCTwente,0,Heerenveen,0
+20210131,Turkey Lig 1,MenemenBelediyespor,0,Giresunspor,4
+20210131,Turkey Super Lig,Erzurumspor,1,Ankaragucu,0
+20210131,Turkey Lig 1,Umraniyespor,2,Samsunspor,2
+20210131,Romania Liga I,Botosani,1,Hermannstadt,0
+20210131,Australia A League,MelbourneCity,1,PerthGlory,3
+20210131,Australia A League,CentralCoastMariners,1,WellingtonPhoenix,2
+20210131,Mexico Liga MX,Tijuana,3,Toluca,2
+20210131,Mexico Liga MX,CruzAzul,4,JaguaresChiapas,1
+20210131,New Zealand Premiership,EasternSuburbs,8,WellingtonPhoenixReserves,0
+20210131,Colombia Copa Mustang,Junior,2,America,1
+20210131,Mexico Liga MX,Guadalajara,1,Juarez,2
+20210131,New Zealand Premiership,HawkesBayUnited,0,AucklandCity,4
+20210131,Costa Rica Primera,Herediano,1,Alajuelense,1
+20210131,Nicaragua Liga Primera,MunicipalJalapa,2,WalterFerreti,0
+20210131,Nicaragua Liga Primera,JuventusManagua,1,Diriangen,0
+20210131,Nicaragua Liga Primera,JuniorManagua,0,DeportivoOcotal,0
+20210130,Colombia Copa Mustang,NacionaldeMedellin,5,Pereira,2
+20210130,Costa Rica Primera,SanCarlos,0,SportingSanJose,0
+20210130,Chile Primera,OHiggins,2,UniversidadCatolica,0
+20210130,Costa Rica Primera,Limon,0,Grecia,0
+20210130,Colombia Copa Mustang,ItaguiDitares,0,SantaFe,2
+20210130,Uruguay Primera Division,DeportivoMaldonado,3,Rentistas,1
+20210130,Portugal Superliga,Portimonense,1,Boavista,2
+20210130,Spain Segunda Liga,Almeria,3,Castellon,1
+20210130,Spain Primera Liga,Villarreal,1,RealSociedad,1
+20210130,Holland Eredivisie,Vitesse,1,RKCWaalwijk,1
+20210130,England Premier League,Southampton,0,AstonVilla,1
+20210130,Copa Libertadores,Palmeiras,1,Santos,0
+20210130,Belgium Juliper League,Kortrijk,1,Charleroi,3
+20210130,Italy Serie A,InterMilan,4,Benevento,0
+20210130,Belgium Division 2,RWDM,0,UnionSaintGilloise,2
+20210130,Spain Segunda Liga,Mallorca,1,Girona,0
+20210130,Switzerland Super League,StGallen,2,FCZurich,3
+20210130,Colombia Copa Mustang,BoyacaPatriotas,1,ChicoFC,1
+20210130,Holland Eredivisie,FortunaSittard,3,VVVVenlo,2
+20210130,Poland Ekstraklasa,GornikZabrze,1,LechPoznan,1
+20210130,Hungary NB I,FehervarFC,1,BudapestHonved,2
+20210130,Romania Liga I,SteauaBucharest,3,CSMSIasi,1
+20210130,Croatia 1.HNL,HajdukSplit,0,Lokomotiva,1
+20210130,Portugal Superliga,Tondela,2,Farense,0
+20210130,France Ligue 2,Valenciennes,1,Dunkerque,0
+20210130,France Ligue 2,ACAjaccio,2,Grenoble,1
+20210130,France Ligue 2,Amiens,1,Chateauroux,0
+20210130,France Ligue 2,Chambly,4,Caen,2
+20210130,France Ligue 2,Guingamp,2,Pau,3
+20210130,France Ligue 2,Nancy,1,Paris,1
+20210130,France Ligue 2,ChamoisNiort,0,LeHavre,0
+20210130,France Ligue 2,RodezAveyron,1,Sochaux,1
+20210130,Holland Eredivisie,FCUtrecht,3,FCZwolle,3
+20210130,Belgium Juliper League,Eupen,1,Peruwelz,1
+20210130,Czech First League,SpartaPrague,0,Bohemians,19051
+20210130,Belgium Juliper League,OudHeverlee,0,BeerschotWilrijk,1
+20210130,Germany Bundesliga,RBLeipzig,1,BayerLeverkusen,0
+20210130,Spain Primera Liga,Valencia,1,Elche,0
+20210130,Northern Ireland Premier League,CarrickRangers,0,BallymenaUnited,2
+20210130,England Premier League,Arsenal,0,ManUtd,0
+20210130,Egypt Premier League,Ismaily,1,PyramidsFC,1
+20210130,Greece Etniki Katigoria,Panathinaikos,0,Lamia,0
+20210130,England Conference,Bromley,2,Aldershot,0
+20210130,Spain Segunda Liga,Alcorcon,0,Malaga,1
+20210130,Portugal LigaPro,Oliveirense,0,Vizela,3
+20210130,Italy Serie A,Sampdoria,0,Juventus,2
+20210130,Poland Ekstraklasa,LechiaGdansk,0,JagielloniaBialystok,2
+20210130,Oman League,AlRustaq,0,AlNasr,0
+20210130,Cyprus 1. Division,ApollonLimassol,1,ApoelNicosia,0
+20210130,Bahrain Premier League,Busaiteen,1,AlRifaa,2
+20210130,Bahrain Premier League,Manama,2,AlNajma,0
+20210130,United Arab Emirates UFL,BaniYas,0,AlWasl,2
+20210130,United Arab Emirates UFL,AlSharjah,3,AlFujirah,2
+20210130,Croatia 1.HNL,DynamoZagreb,1,HNKSibenik,2
+20210130,Austria Bundesliga,Hartberg,0,RBSalzburg,3
+20210130,Austria Bundesliga,CSRAltach,2,SKSturmGraz,1
+20210130,Austria Bundesliga,SVRied,0,Admira,0
+20210130,France Ligue 1,Montpellier,1,Lens,2
+20210130,Turkey Super Lig,Fenerbahce,1,CaykurRizespor,0
+20210130,Turkey Lig 1,Balikesirspor,0,Tuzlaspor,2
+20210130,Hungary NB I,Ferencvarosi,1,Kisvarda,1
+20210130,Oman League,Muscat,0,AlSeeb,4
+20210130,Portugal Superliga,Nacional,2,Famalicao,1
+20210130,Holland Eredivisie,Heracles,1,FCGroningen,0
+20210130,Holland Eerste Divisie,FCDordrecht,0,RodaJC,5
+20210130,Belgium Juliper League,KVMechelen,0,Genk,0
+20210130,Spain Primera Liga,RealMadrid,1,Levante,2
+20210130,Greece Etniki Katigoria,AsterasTripoli,2,ArisSalonika,1
+20210130,Egypt Premier League,AlMoqawloonAlArab,2,Enppi,1
+20210130,Italy Serie B,Pisa,1,Reggiana,0
+20210130,Saudi Arabia Pro League,AlEttifaq,2,IttihadJeddah,0
+20210130,Spain Segunda Liga,RealOviedo,0,Albacete,1
+20210130,England Conference,Barnet,0,Torquay,2
+20210130,England Conference,BorehamWood,1,Eastleigh,2
+20210130,England Conference,DagenhamandRedbridge,2,Chesterfield,2
+20210130,England Conference,Halifax,2,MaidenheadUtd,3
+20210130,England Conference,Hartlepool,1,SuttonUtd,0
+20210130,England Conference,KingsLynn,0,Wrexham,2
+20210130,England Conference,Weymouth,0,NottsCounty,1
+20210130,England Conference,Woking,1,Stockport,4
+20210130,England Conference,Yeovil,3,DoverAthletic,1
+20210130,South Africa Premiership,SupersportUnited,1,MorokaSwallows,1
+20210130,South Africa Premiership,BloemfonteinCeltic,1,Tshakhuma,0
+20210130,South Africa Premiership,GoldenArrows,2,MaritzburgUnited,1
+20210130,South Africa Premiership,BlackLeopards,0,TSGalaxy,3
+20210130,Northern Ireland Premier League,Cliftonville,1,Glenavon,1
+20210130,Northern Ireland Premier League,Coleraine,2,Crusaders,1
+20210130,Northern Ireland Premier League,Portadown,0,WarrenpointTown,2
+20210130,England Premier League,ManCity,1,SheffUtd,0
+20210130,England League 2,ForestGreen,0,Cheltenham,0
+20210130,England League 2,Grimsby,1,Stevenage,2
+20210130,England League 2,HarrogateTown,2,NewportCounty,1
+20210130,England League 2,Morecambe,0,Tranmere,1
+20210130,England League 2,Oldham,2,SalfordCity,1
+20210130,England League 2,PortVale,5,Southend,1
+20210130,England Premier League,CrystalPalace,1,Wolverhampton,0
+20210130,England League 1,BristolRovers,1,Rochdale,2
+20210130,England League 1,LincolnCity,0,Doncaster,1
+20210130,England League 2,Bolton,2,LeytonOrient,0
+20210130,England League 2,Bradford,2,Barrow,1
+20210130,England League 2,CambridgeUtd,3,CrawleyTown,1
+20210130,England Championship,NottmForest,0,Barnsley,0
+20210130,England Championship,Rotherham,1,Swansea,3
+20210130,England Championship,SheffWed,1,Preston,0
+20210130,England Championship,Cardiff,1,Millwall,1
+20210130,England League 1,AFCWimbledon,0,MiltonKeynesDons,2
+20210130,England League 1,Crewe,1,Ipswich,1
+20210130,England League 1,Hull,1,Swindon,0
+20210130,England League 1,OxfordUtd,1,FleetwoodTown,0
+20210130,England League 1,Plymouth,2,AccringtonStanley,2
+20210130,England League 1,Shrewsbury,2,Peterborough,0
+20210130,Scotland Premiership,Celtic,1,StMirren,2
+20210130,Scotland Premiership,Livingston,0,Aberdeen,0
+20210130,Scotland Premiership,DundeeUtd,0,Hibernian,2
+20210130,Scotland Premiership,Kilmarnock,2,StJohnstone,3
+20210130,Czech First League,Pardubice,1,MarilaPribram,0
+20210130,Czech First League,Slovacko,0,CeskoBudejovice,0
+20210130,England Premier League,WestBrom,2,Fulham,2
+20210130,England Championship,Blackburn,1,Luton,0
+20210130,England Championship,Brentford,7,Wycombe,2
+20210130,England Championship,Birmingham,1,Coventry,1
+20210130,England Championship,Derby,1,BristolCity,0
+20210130,England Championship,Huddersfield,1,Stoke,1
+20210130,Scotland Championship,Ayr,4,Alloa,1
+20210130,Scotland Championship,Hearts,1,Dunfermline,0
+20210130,Scotland Championship,Morton,0,Arbroath,1
+20210130,Scotland Championship,Raith,3,Dundee,1
+20210130,Germany Bundesliga,BayernMunich,4,Hoffenheim,1
+20210130,Germany Bundesliga,BorussiaDortmund,3,Augsburg,1
+20210130,Germany Bundesliga,EintrachtFrankfurt,3,HerthaBerlin,1
+20210130,Germany Bundesliga,UnionBerlin,1,BorussiaMonchengladbach,1
+20210130,Germany Bundesliga,WerderBremen,1,Schalke,041
+20210130,France Ligue 2,Toulouse,3,ClermontFoot,2
+20210130,France Ligue 2,Troyes,3,Auxerre,1
+20210130,Poland Ekstraklasa,WartaPoznan,1,CracoviaKrakow,0
+20210130,Croatia 1.HNL,NKOsijek,1,Istra,0
+20210130,Algeria Ligue 1,MCAlger,1,Biskra,1
+20210130,Algeria Ligue 1,USMBelAbbes,1,USMAlger,1
+20210130,Italy Serie A,Bologna,1,ACMilan,2
+20210130,Cyprus 1. Division,DoxaKatokopias,1,Enosis,0
+20210130,Algeria Ligue 1,Kabylie,1,JSMSkikda,0
+20210130,Algeria Ligue 1,MCOran,2,JSSaoura,1
+20210130,Algeria Ligue 1,BordjBouArreridj,1,HusseinDey,2
+20210130,Hungary NB I,MezokovesdiSE,3,Ujpesti,2
+20210130,Iran Pro League,Foolad,0,Paykan,0
+20210130,Iran Pro League,Sepahan,1,PadidehKhorasan,3
+20210130,Algeria Ligue 1,CSConstantine,2,MCMagra,0
+20210130,Algeria Ligue 1,Belouizdad,1,ESSetif,1
+20210130,India I League,GokulamKerala,0,RealKashmir,0
+20210130,Algeria Ligue 1,OlympiqueMedea,2,Chlef,1
+20210130,Algeria Ligue 1,RCRelizane,0,Tlemcen,0
+20210130,Algeria Ligue 1,Paradou,0,AinMlila,0
+20210130,United Arab Emirates UFL,ShababAlAhliDubai,2,AlIttihadKalba,0
+20210130,United Arab Emirates UFL,AlKhaleejKhorFakkan,2,AlAin,2
+20210130,South Africa Premiership,OrlandoPirates,2,KaizerChiefs,1
+20210130,Iran Pro League,Perspolis,2,MachineSaziTabriz,1
+20210130,Oman League,AlMsnaa,1,AlIttehad,1
+20210130,Oman League,Sohar,0,AlNahda,1
+20210130,Greece Etniki Katigoria,Larissa,0,VolosNps,0
+20210130,Saudi Arabia Pro League,AbhaClub,2,AlShababRiyadh,3
+20210130,Italy Serie B,Ascoli,2,Brescia,1
+20210130,Italy Serie B,VirtusEntella,1,Cosenza,2
+20210130,Italy Serie B,Empoli,3,Frosinone,1
+20210130,Italy Serie B,Pordenone,1,Lecce,1
+20210130,Spain Primera Liga,Eibar,0,Sevilla,2
+20210130,England League 2,Carlisle,1,Exeter,0
+20210130,England League 1,Sunderland,2,Gillingham,2
+20210130,Germany 3. Liga,Kaiserslautern,0,Wehen,1
+20210130,Germany 3. Liga,Verl,3,Meppen,1
+20210130,Germany 3. Liga,TurkgucuAtasporMunchen,0,WaldhofMannheim,2
+20210130,Germany 3. Liga,Unterhaching,0,Ingolstadt,1
+20210130,Turkey Super Lig,Alanyaspor,3,Sivasspor,1
+20210130,Turkey Super Lig,IstanbulBuyuksehirBSK,1,Hatayspor,5
+20210130,Turkey Lig 1,Adanaspor,5,Eskisehirspor,2
+20210130,Holland Eerste Divisie,ExcelsiorRotterdam,4,FCDenBosch,4
+20210130,Germany Regionalliga Southwest,Bahlinger,1,SonnenhofGrossaspach,0
+20210130,Germany Regionalliga Southwest,MainzII,1,KickersOffenbach,1
+20210130,Germany Regionalliga Southwest,VfRAalen,3,TSGHoffenheimII,1
+20210130,Germany Regionalliga Southwest,AstoriaWalldorf,3,TSGBalingen,1
+20210130,Germany Regionalliga Southwest,Elversberg,3,BayernAlzenau,3
+20210130,Germany Regionalliga Southwest,Homburg,4,Ulm,4
+20210130,Germany Regionalliga Southwest,HessenKassel,1,FCGiessen,1
+20210130,Germany Regionalliga Southwest,EintrachtStadtallendorf,1,VfBStuttgartII,5
+20210130,Germany Regionalliga Southwest,TSVSchottMainz,1,Pirmasens,1
+20210130,Germany Regionalliga West,Ahlen,2,FCKolnII,4
+20210130,Germany Regionalliga West,BorussiaMonchengladbachII,2,BergischGladbach,1
+20210130,Germany Regionalliga West,Oberhausen,2,Rodinghausen,3
+20210130,Czech First League,Teplice,2,Karvina,2
+20210130,Albania Superliga,KastriotiKruje,1,BylisBallsh,0
+20210130,Albania Superliga,SkenderbeuKorce,0,Kukesi,4
+20210130,Greece Football League,Xanthi,0,Kissamikos,0
+20210130,Greece Football League,Trikala,1,Levadiakos,3
+20210130,Saudi Arabia Pro League,AlFaisaly,0,AlTaawon,0
+20210130,England Premier League,Everton,0,Newcastle,2
+20210130,England Championship,Norwich,0,Middlesbrough,0
+20210130,Romania Liga I,Sepsi,2,Voluntari,2
+20210130,Vietnam V League,HaNoi,1,SongLamNgheAn,0
+20210130,Iran Pro League,MesRafsanjan,0,SanatNaft,0
+20210130,Germany 2. Bundesliga,Hamburg,3,Paderborn,1
+20210130,Germany 2. Bundesliga,HolsteinKiel,3,Braunschweig,1
+20210130,Germany 2. Bundesliga,Regensburg,1,Darmstadt,1
+20210130,Iran Pro League,TractorSazi,0,AluminiumArak,1
+20210130,Hungary NB I,MTK,0,Puskas,1
+20210130,Portugal LigaPro,Chaves,0,Feirense,1
+20210130,Australia A League,BrisbaneRoar,3,AdelaideUnited,1
+20210130,Turkey Lig 1,Osmanlispor,1,Keciorengucu,0
+20210130,Turkey Super Lig,Kasimpasa,0,Kayserispor,1
+20210130,Romania Liga I,GazMetanMedias,1,AcademicaClinceni,1
+20210130,Vietnam V League,ThanhHoa,3,NamDinh,0
+20210130,India I League,NEROCA,1,Aizawl,2
+20210130,Australia A League,Macarthur,0,SydneyFC,3
+20210130,Australia A League,WesternUnited,0,MelbourneVictory,0
+20210130,Mexico Liga MX,Mazatlan,1,Pachuca,0
+20210130,Colombia Copa Mustang,Cali,1,Envigado,1
+20210130,Brazil Serie B,Nautico,1,CSAAL,1
+20210130,Brazil Serie B,BrasilDePelotas,0,Vitoria,1
+20210130,Brazil Serie B,Parana,0,Cruzeiro,0
+20210130,Brazil Serie B,Guarani,0,JuventudeRS,1
+20210130,Brazil Serie B,AmericaMineiro,2,Avai,1
+20210130,Brazil Serie B,Chapecoense,3,Confianca,1
