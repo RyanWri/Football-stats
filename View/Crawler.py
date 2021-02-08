@@ -30,6 +30,7 @@ class Crawler:
             req = session.get(url, headers=headers, timeout = timeout )
         except requests.exceptions.RequestException:
             return None
+        
         bs = BeautifulSoup(req.text, features = "lxml")
         return bs
     
@@ -75,9 +76,7 @@ class Crawler:
                 hoemGoals = -1
                 awayGoals = -1
             date = match.find('td', class_="dateTime").find('span').find('a').text
-            
             data.append( [date, homeTeam, awayTeam, hoemGoals, awayGoals] )
-            
         
         df = pd.DataFrame( data, columns = columns )
         return df
@@ -132,14 +131,12 @@ def main():
     today = date.today()
     yesterday = today - timedelta(days=1)
 
-    start = yesterday
-    end = yesterday
+    start = '2020-08-01'
+    end = '2020-12-13'
+
     c = Crawler( start, end )
-
-    # write today fixtures to np file
-    c.today_fixtures()
-
     df = c.concurrent_crawl()
+
     filename = f'data-from-{start}-to-{end}.csv'
     c.write_csv_to_file( df,  filename)
 

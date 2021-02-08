@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 import time
-from datetime import date, timedelta
+
 
 class SoccerBaseCleaner:
     def __init__(self, filename):
@@ -10,15 +10,9 @@ class SoccerBaseCleaner:
         df = pd.read_csv( filename )
         df['year'], df['month'], df['day'] = self.date_to_year_month_day( df['date'] )
         df['matchResults'] = df.apply( lambda x: self.add_match_results( x['homeGoals'], x['awayGoals'] ) ,axis=1 )
-        self.df = df.drop( ['date'], axis = 1)
-        self.df.to_csv( 'clean-' + filename , index=False)
 
-        oldDatafilename = 'clean-soccerbase-string.csv'
-        cleanfilename = 'clean-' + filename
-
-        df = pd.read_csv(cleanfilename, index_col=0)
-        # append clean data to complete csv
-        df.to_csv(oldDatafilename, mode='a', header=False)
+        data = df.drop( ['date'], axis = 1)
+        self.df = self.clean_minus_1( data )
 
 
     def date_to_year_month_day(self, dates):
@@ -36,14 +30,26 @@ class SoccerBaseCleaner:
         elif homegoals < awaygoals:
             result = 'A'
         return result
-    
+
+
+    def clean_minus_1(self, df):
+        df['homeTeam'] = df['homeTeam'].apply(lambda team: team.replace('-1', ''))
+        df['awayTeam'] = df['awayTeam'].apply(lambda team: team.replace('-1', ''))
+        finaldf = df.loc[(df['homeGoals'] >= 0) & (df['awayGoals'] >= 0)].copy()
+        return finaldf
+
+
+    def write_clean_csv(self, filename):
+        self.df.to_csv(filename, index=False)
+        os.chdir('..')
+
 
 def main():
-    today = date.today()
-    yesterday = today - timedelta(days=1)
-
-    filename = f'data-from-{yesterday}-to-{yesterday}.csv'
+    filename = f'data-from-2020-08-01-to-2020-12-13.csv'
     cleaner = SoccerBaseCleaner( filename )
+
+    cleanfilename = 'clean' + filename
+    cleaner.write_clean_csv( cleanfilename )
     
     
 if __name__ == "__main__":
