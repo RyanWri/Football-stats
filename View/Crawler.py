@@ -1,144 +1,89 @@
 import numpy as np
 import requests
-from requests.exceptions import HTTPError
 from bs4 import BeautifulSoup
 import pandas as pd
-import os
 import concurrent.futures
-from datetime import date, timedelta
+from dateutil.parser import parse
 
 
 class Crawler:
-    def __init__(self, start , end):
+    def __init__(self):
         # date must be in this format year-day-month
-        URLS = []
-        dates = pd.date_range(start=start, end=end)
-        for date in dates:
-            URLS.append( 'https://www.soccerbase.com/matches/results.sd?date=' + date.strftime("%Y-%m-%d") )
-        self.urls = np.array( URLS )
-             
-        
-    def convert_to_bs4_object(self, url):
-        session = requests.Session()
+        self.url = 'https://www.soccerbase.com/matches/results.sd?date='
+
+    def get_matches_as_bs4_from_url(self, formatted_date):
+        url = self.url + formatted_date
         timeout = 60
-        headers = { 'Accept':'*/*',
-                    'Accept-Language':'en-US,en;q=0.8',
-                    'Cache-Control':'max-age=0',
-                    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36',
-                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'}
+        headers = {'Accept': '*/*',
+                   'Accept-Language': 'en-US,en;q=0.8',
+                   'Cache-Control': 'max-age=0',
+                   'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36',
+                   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'}
         try:
-            req = session.get(url, headers=headers, timeout = timeout )
-        except requests.exceptions.RequestException:
-            return None
-        
-        bs = BeautifulSoup(req.text, features = "lxml")
-        return bs
-    
-        
-    def create_soup_object( self, soup):
-        results = None
-        body = siteContent = cpm = table = tbody = matchsoup = None
-        
-        if soup:
-            body = soup.find("div", class_="body")
-            if body:
-                siteContent = body.find("div", class_="siteContent")
-                if siteContent:
-                    cpm = siteContent.find("div", id="cpm")
-                    if cpm:
-                        table = cpm.find("table", class_="soccerGrid listWithCards")
-                        if table:
-                            tbody = table.find("tbody")
-                            if tbody:
-                                matchsoup = tbody.findAll( "tr", class_= "match" )
-            
-        if body and siteContent and cpm and table and tbody and matchsoup:
-            results = matchsoup
-        
-        return results
-        
-    
-    def create_csv( self, matchsoup):
-        columns = ['date', 'homeTeam', 'awayTeam', 'homeGoals', 'awayGoals']
-        if not matchsoup:
-            return pd.DataFrame(columns=columns)
-        
-        data =  []
-        for match in matchsoup:
-            homeTeam = match.find('td', class_= "team homeTeam").text
-            awayTeam = match.find('td', class_= "team awayTeam").text
-            score = match.find('td', class_= "score").find('a', class_="vs")
-            if score:
-                finalscore = score.findAll('em') 
-                hoemGoals = finalscore[0].text
-                awayGoals = finalscore[1].text
-            else: # no score collected
-                hoemGoals = -1
-                awayGoals = -1
-            date = match.find('td', class_="dateTime").find('span').find('a').text
-            data.append( [date, homeTeam, awayTeam, hoemGoals, awayGoals] )
-        
-        df = pd.DataFrame( data, columns = columns )
-        return df
-    
-    
-    def concurrent_crawl(self):
-        list_of_dataframes = []
+            r = requests.get(url, timeout=60, headers=headers)
+        except requests.exceptions.RequestException as e:
+            return e
+
+        bs = BeautifulSoup(r.text, "html.parser")
+        class_names = ['dateTime', 'team homeTeam', 'team awayTeam', 'vs']
+        matches = self.find_class_in_bs4(bs, class_names)
+        return matches
+
+    @staticmethod
+    def find_class_in_bs4(bs, class_names):
+        result = dict()
+        for name in class_names:
+            stats = []
+            for value in bs(attrs={'class': name}):
+                stats.append(value.text)
+            result[name] = stats
+        return result
+
+    def concurrent_crawl(self, start, end):
+        dates = [formatted_date.strftime("%Y-%m-%d") for formatted_date in pd.date_range(start=start, end=end)]
+        stats = []
         # We can use a with statement to ensure threads are cleaned up promptly
-        with concurrent.futures.ThreadPoolExecutor(max_workers = None) as executor:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=None) as executor:
             # Start the load operations and mark each future with its URL
-            future_to_url = {executor.submit(self.convert_to_bs4_object, url): url for url in self.urls}
-            for future in concurrent.futures.as_completed(future_to_url):
-                url = future_to_url[future]
+            matches_dict = {executor.submit(self.get_matches_as_bs4_from_url, d): d for d in dates}
+            for future in concurrent.futures.as_completed(matches_dict):
+                url = matches_dict[future]
                 try:
-                    soup = future.result()
-                    matchsoup = self.create_soup_object( soup )
-                    df = self.create_csv( matchsoup )
-                    list_of_dataframes.append( df )
+                    result = self.dict_to_dataframe(future.result())
+                    stats.append(result)
                 except Exception as exc:
                     print('%r generated an exception: %s' % (url, exc))
-        
-        finaldf = pd.concat(list_of_dataframes)           
-        return finaldf
-    
-    
-    def write_csv_to_file(self, df, filename ):
-        os.chdir('../Data')
-        df.to_csv( filename, index=False )
-        os.chdir('..')
-        
-        
-    def today_fixtures(self):
-        hometeams = []
-        awayteams = []
-        
-        url = 'https://www.soccerbase.com/matches/results.sd?date=' + date.today().strftime("%Y-%m-%d")
-        soup = self.convert_to_bs4_object(url)
-        if soup:
-            matchsoup = self.create_soup_object(soup)
-            if matchsoup:
-                for match in matchsoup:
-                    hometeams.append( match.find('td', class_= "team homeTeam").text )
-                    awayteams.append( match.find('td', class_= "team awayTeam").text )
 
-        os.chdir('/Users/rywright/Football/Data')
-        np.save('soccer-base-home-teams', np.array(hometeams) )
-        np.save('soccer-base-away-teams', np.array(awayteams) )
+        df = pd.concat(stats, ignore_index=True)
+        self.clean_and_write_data(df, start, end)
 
-                    
+    @staticmethod
+    def dict_to_dataframe(stats_dict):
+        result = []
+        for a, b, c, d in zip(*stats_dict.values()):
+            record = [a,b,c,d]
+            result.append(record)
+
+        stats = np.array(result)
+        df = pd.DataFrame(stats, columns=['date', 'home-team', 'away-team', 'score'])
+        return df
+
+    @staticmethod
+    def clean_and_write_data(df, start, end):
+        data = df[df['score'] != 'v'].copy()
+        data['home-goals'] = data.score.apply(lambda x: x.split('-')[0]).astype(int)
+        data['away-goals'] = data.score.apply(lambda x: x.split('-')[1]).astype(int)
+        data['formatted-date'] = data['date'].apply(lambda d: parse(d.split()[1]).date())
+        clean_data = data.drop(['date', 'score'], axis=1)
+        clean_data.to_csv(f'SoccerBase-{start}-{end}.csv', index=False)
+
+
 def main():
     # to run main just set start and end date and filename -> the results are in Data folder
-    today = date.today()
-    yesterday = today - timedelta(days=1)
-
-    start = '2020-08-01'
-    end = '2020-12-13'
-
-    c = Crawler( start, end )
-    df = c.concurrent_crawl()
-
-    filename = f'data-from-{start}-to-{end}.csv'
-    c.write_csv_to_file( df,  filename)
+    start = '2020-01-01'
+    end = '2020-03-31'
+    c = Crawler()
+    c.concurrent_crawl(start, end)
 
 
 if __name__ == "__main__":

@@ -1,34 +1,28 @@
 import pandas as pd
-from LeagueCombiner import LeagueCombiner
 import os
+import glob
 
 
 class Model:
-    def __init__(self, filename):
+    def __init__(self):
         os.chdir('/Users/rywright/Football/Data')
-        # read data
-        self.df = pd.read_csv(filename, index_col='date')
-        self._leagues = self.df['league'].unique()
-
-
-    def write_league_stats(self):
-        for title in self._leagues:
-            leaguedf = self.df[self.df['league'] == title]
-            league = LeagueCombiner(leaguedf)
-            league.dict_to_dataframe(title)
+        # find extension (csv in our case)
+        extension = 'csv'
+        all_filenames = [i for i in glob.glob('*.{}'.format(extension))]
+        # combine all files in the list
+        combined_csv = pd.concat([pd.read_csv(f) for f in all_filenames])
+        # export to csv
+        combined_csv.to_csv("combined_csv.csv", index=False, encoding='utf-8-sig')
 
 
     @property
-    def leagues(self):
-        return self._leagues
+    def data(self):
+        return self.df
 
-    
+
 def main():
-    filename = 'predictz-july2020-to-january2021.csv'
-    model = Model(filename)
-    # run leagues stats
-    model.write_league_stats()
-    print('success')
+    # to combine all data
+    model = Model()
 
 
 if __name__ == "__main__":

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+    <header>
+      <div class="container">
+        <h1 class="logo">Ryan web app</h1>
+      </div>
+    </header>
+    <div class="container">
+        {% for table in tables %}
+        {{ table|safe }}
+        {% endfor %}
+    </div>
+<script type="text/jsx">
+
+      /*** @jsx React.DOM */
+
+      var realPython = React.createClass({
+        render: function() {
+          return (<h2>Greetings, from Real Python!</h2>);
+        }
+      });
+
+      ReactDOM.render(
+        React.createElement(realPython, null),
+        document.getElementById('content')
+      );
+    </script>
+  </body>
+</html>

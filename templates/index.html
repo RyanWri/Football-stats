@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+    <form method="POST" action="/tables">
+        <p>this is just an example to show match results</p>
+        <br>
+        <button type="submit">Show tables</button>
+    </form>
+    <br>
+    <form method="POST" action="/team">
+        <p>This will show you arsenal home stats</p>
+        <br>
+        <button type="submit">Show Arsenal stats</button>
+    </form>
+    <form method="GET" action="/dropdown">
+        <p>Let's see all available teams</p>
+        <br>
+        <button type="submit">Show all teams in dropdown</button>
+    </form>
+
+</body>
+</html>
