@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import concurrent.futures
-from dateutil.parser import parse
 
 
 class Crawler:
@@ -73,15 +72,22 @@ class Crawler:
         data = df[df['score'] != 'v'].copy()
         data['home-goals'] = data.score.apply(lambda x: x.split('-')[0]).astype(int)
         data['away-goals'] = data.score.apply(lambda x: x.split('-')[1]).astype(int)
-        data['formatted-date'] = data['date'].apply(lambda d: parse(d.split()[1]).date())
+        dates = []
+        for d in data['date']:
+            formatted_date = ''.join(d.split()[1:])
+            dates.append(pd.to_datetime(formatted_date, format='%d%b%Y'))
+        data['formatted-date'] = dates
+        data['home-won'] = np.where(data['home-goals'] > data['away-goals'], 1, 0)
+        data['away-won'] = np.where(data['home-goals'] < data['away-goals'], 1, 0)
+        data['draw'] = np.where(data['home-goals'] == data['away-goals'], 1, 0)
         clean_data = data.drop(['date', 'score'], axis=1)
         clean_data.to_csv(f'SoccerBase-{start}-{end}.csv', index=False)
 
 
 def main():
-    # to run main just set start and end date and filename -> the results are in Data folder
-    start = '2020-01-01'
-    end = '2020-03-31'
+    # to run main just set start and end date and filename -> the results are in CsvData folder
+    start = '2019-10-01'
+    end = '2019-12-31'
     c = Crawler()
     c.concurrent_crawl(start, end)
 

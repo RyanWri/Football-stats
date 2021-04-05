@@ -12,23 +12,22 @@ def index():
 
 @app.route('/tables', methods=("POST", "GET"))
 def show_tables():
-    df = pd.read_csv('Data/combined_csv.csv')
+    df = pd.read_csv('CsvData/combined_csv.csv')
     df = df[df['home-team'] == 'Arsenal']
     return render_template('simple.html', tables=[df.to_html(classes='data')])
 
 
 @app.route('/team', methods=("POST", "GET"))
 def show_team():
-    team_name = 'Arsenal'
-    team_stats = TeamStats(team_name)
-    df = team_stats.home
+    team_stats = TeamStats()
+    df = team_stats.calculate_fixture('Arsenal','Chelsea')
     return render_template('teamStats.html', tables=[df.to_html(classes='data')])
 
 
 @app.route('/dropdown', methods=['GET'])
 def dropdown():
-    df = pd.read_csv('Data/combined_csv.csv')
-    teams = list( df['home-team'].unique())
+    df = pd.read_csv('CsvData/clean-total-data.csv')
+    teams = list( df['home-team'].unique())[:5]
     return render_template('dropdown.html', teams=teams)
 
 
