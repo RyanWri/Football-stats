@@ -1,0 +1,3837 @@
+home-team,away-team,home-goals,away-goals,formatted-date,home-won,away-won,draw
+Liverpool,Sheff Utd,2,0,2020-01-02,1,0,0
+Swansea,Charlton,1,0,2020-01-02,1,0,0
+Derby,Barnsley,2,1,2020-01-02,1,0,0
+Arsenal,Leeds,1,0,2020-01-06,1,0,0
+Bologna,Fiorentina,1,1,2020-01-06,0,0,1
+Atalanta,Parma,5,0,2020-01-06,1,0,0
+Milan,Sampdoria,0,0,2020-01-06,0,0,1
+Juventus,Cagliari,4,0,2020-01-06,1,0,0
+Lecce,Udinese,0,1,2020-01-06,0,1,0
+Napoli,Inter,1,3,2020-01-06,0,1,0
+Bnei Yehuda,Sektzia Nes Tziona,1,2,2020-01-06,0,1,0
+M. Haifa,M. Tel Aviv,3,4,2020-01-06,0,1,0
+Rouen,Metz,3,0,2020-01-06,1,0,0
+Sweden,Moldova,1,0,2020-01-09,1,0,0
+Barcelona,Atl Madrid,2,3,2020-01-09,0,1,0
+Torino,Genoa,1,1,2020-01-09,0,0,1
+BSC Glasgow,Bonnyrigg Rose,2,3,2020-01-03,0,1,0
+Valladolid,Leganes,2,2,2020-01-03,0,0,1
+Sevilla,Ath Bilbao,1,1,2020-01-03,0,0,1
+Extremadura,Alcorcon,0,0,2020-01-03,0,0,1
+Melbourne C,Western United,3,2,2020-01-03,1,0,0
+Bordeaux,Le Mans,2,0,2020-01-03,1,0,0
+Barbados,Canada,1,4,2020-01-08,0,1,0
+Leicester,Aston Villa,1,1,2020-01-08,0,0,1
+Bristol R,Stevenage,0,1,2020-01-08,0,1,0
+Scunthorpe,Man City U21,3,1,2020-01-08,1,0,0
+Valencia,Real Madrid,1,3,2020-01-08,0,1,0
+Lyon,Stade Brest,3,1,2020-01-08,1,0,0
+Paris St-G.,St-Etienne,6,1,2020-01-08,1,0,0
+Lille,Amiens,2,0,2020-01-08,1,0,0
+Pontevedra,Ibiza,0,2,2020-01-08,0,1,0
+Merida AD,La Nucia,2,2,2020-01-08,0,0,1
+Darlington,Solihull M,1,0,2020-01-08,1,0,0
+Doncaster,Shrewsbury,2,0,2020-01-07,1,0,0
+Hartlepool,Eastleigh,2,1,2020-01-07,1,0,0
+Man Utd,Man City,1,3,2020-01-07,0,1,0
+Newport Co,MK Dons,3,0,2020-01-07,1,0,0
+Salford,Port Vale,3,0,2020-01-07,1,0,0
+Tranmere,Leicester U21,1,2,2020-01-07,0,1,0
+Walsall,Portsmouth,1,2,2020-01-07,0,1,0
+Fleetwood,Accrington,2,2,2020-01-07,0,0,1
+Zaragoza,Sp. Gijon,2,0,2020-01-07,1,0,0
+Reims,Strasbourg,0,0,2020-01-07,0,0,1
+Altrincham,Blyth Sptns,3,1,2020-01-07,1,0,0
+Boston Utd,Curzon A,0,0,2020-01-07,0,0,1
+Chippenham,Hemel,2,2,2020-01-07,0,0,1
+Billericay,Wealdstone,3,1,2020-01-07,1,0,0
+Merstham,Bowers & Pitsea,1,3,2020-01-07,0,1,0
+Wingate & F,Leatherhead,1,2,2020-01-07,0,1,0
+Weston S-M.,Hartley Wint.,2,1,2020-01-07,1,0,0
+Hayes & Y,Beaconsfield,1,1,2020-01-07,0,0,1
+Barrow,Atherton Colls,2,0,2020-01-07,1,0,0
+Salisbury FC,Eastbourne,1,0,2020-01-07,1,0,0
+Parma,Lecce,2,0,2020-01-13,1,0,0
+M. Tel Aviv,Beitar J'salem,0,0,2020-01-13,0,0,1
+Cliftonville,Linfield,1,2,2020-01-13,0,1,0
+Sheff Utd,West Ham,1,0,2020-01-10,1,0,0
+Rennes,Marseille,0,1,2020-01-10,0,1,0
+Benfica,Desp. Aves,2,1,2020-01-10,1,0,0
+Santa Clara,Rio Ave,0,1,2020-01-10,0,1,0
+Moreirense,Porto,2,4,2020-01-10,0,1,0
+Newcastle Jets,Sydney FC,1,2,2020-01-10,0,1,0
+Caernarfon,Aberystwyth,0,3,2020-01-10,0,1,0
+Newtown,The New Saints,0,2,2020-01-10,0,1,0
+Coleraine,Crusaders,0,1,2020-01-10,0,1,0
+Larne,Carrick Rangers,4,0,2020-01-10,1,0,0
+Pau,Lyon Duchere,1,1,2020-01-10,0,0,1
+Lincoln,Bolton,5,1,2020-01-14,1,0,0
+Burton,MK Dons,1,0,2020-01-14,1,0,0
+Oxford,Ipswich,0,0,2020-01-14,0,0,1
+Stevenage,Oldham,0,0,2020-01-14,0,0,1
+Morecambe,Port Vale,2,1,2020-01-14,1,0,0
+Shrewsbury,Bristol C,1,0,2020-01-14,1,0,0
+Newcastle,Rochdale,4,1,2020-01-14,1,0,0
+Blackpool,Reading,0,2,2020-01-14,0,1,0
+Coventry,Bristol R,3,0,2020-01-14,1,0,0
+Tottenham,Middlesbrough,2,1,2020-01-14,1,0,0
+Albacete,Fuenlabrada,1,1,2020-01-14,0,0,1
+Sp. Gijon,Elche,1,0,2020-01-14,1,0,0
+Malaga,Ponferradina,1,0,2020-01-14,1,0,0
+Las Palmas,Zaragoza,0,1,2020-01-14,0,1,0
+Napoli,Perugia,2,0,2020-01-14,1,0,0
+Lazio,Cremonese,4,0,2020-01-14,1,0,0
+Inter,Cagliari,4,1,2020-01-14,1,0,0
+Maidstone,Hemel,1,1,2020-01-14,0,0,1
+Leamington,Kingstonian,1,0,2020-01-14,1,0,0
+Stockport,Dorking W,0,4,2020-01-14,0,1,0
+Sweden,Kosovo,1,0,2020-01-12,1,0,0
+Bournemouth,Watford,0,3,2020-01-12,0,1,0
+Aston Villa,Man City,1,6,2020-01-12,0,1,0
+Cardiff,Swansea,0,0,2020-01-12,0,0,1
+Udinese,Sassuolo,3,0,2020-01-12,1,0,0
+Torino,Bologna,1,0,2020-01-12,1,0,0
+Sampdoria,Brescia,5,1,2020-01-12,1,0,0
+Fiorentina,Spal,1,0,2020-01-12,1,0,0
+Verona,Genoa,2,1,2020-01-12,1,0,0
+Roma,Juventus,1,2,2020-01-12,0,1,0
+St-Etienne,Nantes,0,2,2020-01-12,0,1,0
+Dijon,Lille,1,0,2020-01-12,1,0,0
+Paris St-G.,Monaco,3,3,2020-01-12,0,0,1
+Asteras T.,OFI Crete,2,0,2020-01-12,1,0,0
+Lamia,Olympiakos,0,4,2020-01-12,0,1,0
+Panathinaikos,Panionios,3,0,2020-01-12,1,0,0
+PAOK Salonika,AEK Athens,1,0,2020-01-12,1,0,0
+Gil Vicente,Belenenses,2,0,2020-01-12,1,0,0
+Maritimo,V Guimaraes,0,0,2020-01-12,0,0,1
+Braga,Tondela,2,1,2020-01-12,1,0,0
+Real Madrid,Atl Madrid,0,0,2020-01-12,0,0,1
+Central Coast M,Melbourne Vic,3,2,2020-01-12,1,0,0
+San Sebastian,Espanyol,0,2,2020-01-12,0,1,0
+Unionistas,Deportivo,1,1,2020-01-12,0,0,1
+Cacereno,Eibar,1,2,2020-01-12,0,1,0
+Escobedo,Sevilla,0,5,2020-01-12,0,1,0
+Jaen,Levante,1,1,2020-01-12,0,0,1
+AD Ceuta,Sociedad,0,4,2020-01-12,0,1,0
+Merida AD,Celta Vigo,1,4,2020-01-12,0,1,0
+Barakaldo,R. Vallecano,0,2,2020-01-12,0,1,0
+Sektzia Nes Tziona,H. Kfar Saba,0,1,2020-01-12,0,1,0
+Bnei Yehuda,H Tel Aviv,1,2,2020-01-12,0,1,0
+Charlton,West Brom,0,1,2020-01-05,0,1,0
+Chelsea,Nottm Forest,2,0,2020-01-05,1,0,0
+Sheff Utd,Fylde,2,1,2020-01-05,1,0,0
+QPR,Swansea,5,1,2020-01-05,1,0,0
+Crewe,Barnsley,1,3,2020-01-05,0,1,0
+Middlesbrough,Tottenham,1,1,2020-01-05,0,0,1
+Bristol R,Coventry,2,2,2020-01-05,0,0,1
+Crystal Palace,Derby,0,1,2020-01-05,0,1,0
+Burton,Northampton,2,4,2020-01-05,0,1,0
+Liverpool,Everton,1,0,2020-01-05,1,0,0
+Gillingham,West Ham,0,2,2020-01-05,0,1,0
+Brescia,Lazio,1,2,2020-01-05,0,1,0
+Spal,Verona,0,2,2020-01-05,0,1,0
+Genoa,Sassuolo,2,1,2020-01-05,1,0,0
+Roma,Torino,0,2,2020-01-05,0,1,0
+Granada,Mallorca,1,0,2020-01-05,1,0,0
+Sociedad,Villarreal,1,2,2020-01-05,0,1,0
+Alaves,Real Betis,1,1,2020-01-05,0,0,1
+Celta Vigo,Osasuna,1,1,2020-01-05,0,0,1
+Numancia,Deportivo,0,1,2020-01-05,0,1,0
+R. Vallecano,Girona,1,0,2020-01-05,1,0,0
+Real Oviedo,Malaga,1,1,2020-01-05,0,0,1
+AEK Athens,Panetolikos,3,1,2020-01-05,1,0,0
+Xanthi,Larissa,2,1,2020-01-05,1,0,0
+Panionios,Lamia,0,1,2020-01-05,0,1,0
+Olympiakos,Panathinaikos,1,0,2020-01-05,1,0,0
+Rio Ave,Maritimo,0,1,2020-01-05,0,1,0
+Tondela,Gil Vicente,1,1,2020-01-05,0,0,1
+Pacos Ferreira,Moreirense,1,0,2020-01-05,1,0,0
+Sporting,Porto,1,2,2020-01-05,0,1,0
+Famalicao,Vitoria Setubal,3,0,2020-01-05,1,0,0
+Melbourne Vic,Newcastle Jets,4,0,2020-01-05,1,0,0
+Lorient,Stade Brest,2,1,2020-01-05,1,0,0
+Bastia-Borgo,St-Etienne,0,3,2020-01-05,0,1,0
+EF Reims Sainte-Anne,Montpellier,0,1,2020-01-05,0,1,0
+Raon L Etape,Lille,2,3,2020-01-05,0,1,0
+Trelissac,Marseille,1,1,2020-01-05,0,0,1
+Nice,Frejus Saint-Raphael,2,0,2020-01-05,1,0,0
+Valenciennes,Dijon,1,2,2020-01-05,0,1,0
+Dieppe,Angers,1,3,2020-01-05,0,1,0
+SSEP Hombourg-Haut,AS P-l-Mezieres,0,3,2020-01-05,0,1,0
+Grande Synthe,Nancy,0,1,2020-01-05,0,1,0
+Limonest,Le Puy Foot 43,1,1,2020-01-05,0,0,1
+Entente SSG,Epinal,0,1,2020-01-05,0,1,0
+ESA Linas Montlhery,Paris St-G.,0,6,2020-01-05,0,1,0
+MS Ashdod,Hapoel Ra'ana,3,0,2020-01-05,1,0,0
+H Tel Aviv,H Beer Sheva,1,0,2020-01-05,1,0,0
+Logrones,Real Sociedad II,0,0,2020-01-05,0,0,1
+Yeclano,Badajoz,3,0,2020-01-05,1,0,0
+Unionistas,Leioa,1,1,2020-01-05,0,0,1
+Llagostera,Badalona,0,0,2020-01-05,0,0,1
+Ibiza,Langreo,2,2,2020-01-05,0,0,1
+Ebro,La Nucia,2,1,2020-01-05,1,0,0
+Iceland,Canada,1,0,2020-01-16,1,0,0
+Deportivo,Racing,2,1,2020-01-16,1,0,0
+Girona,Extremadura,3,1,2020-01-16,1,0,0
+Almeria,Real Oviedo,2,0,2020-01-16,1,0,0
+Pau,Bordeaux,3,2,2020-01-16,1,0,0
+Parma,Roma,0,2,2020-01-16,0,1,0
+Carlisle,Cardiff,3,4,2020-01-15,0,1,0
+Man Utd,Wolves,1,0,2020-01-15,1,0,0
+Nimes,Rennes,0,1,2020-01-15,0,1,0
+Amiens,Reims,1,1,2020-01-15,0,0,1
+Monaco,Paris St-G.,1,4,2020-01-15,0,1,0
+Alcorcon,Numancia,2,2,2020-01-15,0,0,1
+Huesca,Tenerife,2,1,2020-01-15,1,0,0
+R. Vallecano,Lugo,1,0,2020-01-15,1,0,0
+Cadiz,Mirandes,3,3,2020-01-15,0,0,1
+Fiorentina,Atalanta,2,1,2020-01-15,1,0,0
+Milan,Spal,3,0,2020-01-15,1,0,0
+Juventus,Udinese,4,0,2020-01-15,1,0,0
+Cray W,Hornchurch,1,1,2020-01-15,0,0,1
+Worcester,Coventry United,2,1,2020-01-15,1,0,0
+Logrones,Deportivo B,0,0,2020-01-15,0,0,1
+Unionistas,Barakaldo,1,0,2020-01-15,1,0,0
+Amorebieta,C Leonesa,1,3,2020-01-15,0,1,0
+Badajoz,Cartagena,2,1,2020-01-15,1,0,0
+Barcelona B,Badalona,2,1,2020-01-15,1,0,0
+Recreativo,San Fernando,1,3,2020-01-15,0,1,0
+Ibiza,Las Palmas II,1,0,2020-01-15,1,0,0
+Ebro,Olot,1,2,2020-01-15,0,1,0
+Fulham,Middlesbrough,1,0,2020-01-17,1,0,0
+Rangers,Stranraer,2,0,2020-01-17,1,0,0
+Clachnacuddin,Fort William,0,1,2020-01-17,0,1,0
+Schalke,B M'gladbach,2,0,2020-01-17,1,0,0
+Leganes,Getafe,0,3,2020-01-17,0,1,0
+Ankaragucu,Konyaspor,0,1,2020-01-17,0,1,0
+PEC Zwolle,FC Utrecht,3,3,2020-01-17,0,0,1
+Porto,Braga,1,2,2020-01-17,0,1,0
+Sporting,Benfica,0,2,2020-01-17,0,1,0
+Mechelen,St Liege,2,3,2020-01-17,0,1,0
+Fuenlabrada,Malaga,0,0,2020-01-17,0,0,1
+Adelaide Utd,Melbourne Vic,1,0,2020-01-17,1,0,0
+US Granvillaise,Marseille,0,3,2020-01-17,0,1,0
+Iceland,El Salvador,1,0,2020-01-20,1,0,0
+West Brom,Stoke,0,1,2020-01-20,0,1,0
+Atalanta,Spal,1,2,2020-01-20,0,1,0
+Rizespor,Genclerbirligi,2,0,2020-01-20,1,0,0
+H. Kfar Saba,Bnei Yehuda,0,1,2020-01-20,0,1,0
+H Beer Sheva,H. Haifa,1,0,2020-01-20,1,0,0
+Beitar J'salem,M. Netanya,3,1,2020-01-20,1,0,0
+St Pryve-St Hilaire,Monaco,1,3,2020-01-20,0,1,0
+Valletta,Sliema W.,2,1,2020-01-20,1,0,0
+Wolves,Liverpool,1,2,2020-01-23,0,1,0
+Tranmere,Watford,2,1,2020-01-23,1,0,0
+Asteras T.,Panionios,2,0,2020-01-23,1,0,0
+Lamia,PAOK Salonika,0,1,2020-01-23,0,1,0
+Aris Salonika,Xanthi,1,0,2020-01-23,1,0,0
+Mirandes,Celta Vigo,2,1,2020-01-23,1,0,0
+Ebro,Leganes,0,1,2020-01-23,0,1,0
+C Leonesa,Atl Madrid,2,1,2020-01-23,1,0,0
+Badajoz,Eibar,3,1,2020-01-23,1,0,0
+R. Vallecano,Real Betis,2,2,2020-01-23,0,0,1
+Tottenham,Norwich,2,1,2020-01-22,1,0,0
+Leicester,West Ham,4,1,2020-01-22,1,0,0
+Man Utd,Burnley,0,2,2020-01-22,0,1,0
+Charlton,Fulham,0,0,2020-01-22,0,0,1
+Nottm Forest,Reading,1,1,2020-01-22,0,0,1
+Aberdeen,Motherwell,0,1,2020-01-22,0,1,0
+Rangers,St Mirren,1,0,2020-01-22,1,0,0
+Ross County,Hearts,0,0,2020-01-22,0,0,1
+Livingston,St Johnstone,1,0,2020-01-22,1,0,0
+Kilmarnock,Celtic,1,3,2020-01-22,0,1,0
+Hibernian,Hamilton,2,1,2020-01-22,1,0,0
+Larissa,Panetolikos,2,2,2020-01-22,0,0,1
+Volos NFC,AEK Athens,1,3,2020-01-22,0,1,0
+OFI Crete,Olympiakos,0,1,2020-01-22,0,1,0
+Panathinaikos,Atromitos,3,0,2020-01-22,1,0,0
+Elche,Ath Bilbao,1,1,2020-01-22,0,0,1
+Ibiza,Barcelona,1,2,2020-01-22,0,1,0
+Logrones,Valencia,0,1,2020-01-22,0,1,0
+Tenerife,Valladolid,2,1,2020-01-22,1,0,0
+Unionistas,Real Madrid,1,3,2020-01-22,0,1,0
+Sociedad,Espanyol,2,0,2020-01-22,1,0,0
+Badalona,Granada,1,3,2020-01-22,0,1,0
+Girona,Villarreal,0,3,2020-01-22,0,1,0
+Juventus,Roma,3,1,2020-01-22,1,0,0
+Reims,Paris St-G.,0,3,2020-01-22,0,1,0
+Ap Limassol,Apoel Nicosia,1,0,2020-01-22,1,0,0
+Ajax,Spakenburg,7,0,2020-01-22,1,0,0
+Club Brugge,Waregem,1,1,2020-01-22,0,0,1
+Brighton,Chelsea,1,1,2020-01-01,0,0,1
+Burnley,Aston Villa,1,2,2020-01-01,0,1,0
+Newcastle,Leicester,0,3,2020-01-01,0,1,0
+Southampton,Tottenham,1,0,2020-01-01,1,0,0
+Watford,Wolves,2,1,2020-01-01,1,0,0
+Norwich,Crystal Palace,1,1,2020-01-01,0,0,1
+Man City,Everton,2,1,2020-01-01,1,0,0
+West Ham,Bournemouth,4,0,2020-01-01,1,0,0
+Arsenal,Man Utd,2,0,2020-01-01,1,0,0
+Millwall,Luton,3,1,2020-01-01,1,0,0
+Preston,Middlesbrough,0,2,2020-01-01,0,1,0
+Sheff Wed,Hull,0,1,2020-01-01,0,1,0
+Huddersfield,Stoke,2,5,2020-01-01,0,1,0
+Fulham,Reading,1,2,2020-01-01,0,1,0
+Birmingham,Wigan,2,3,2020-01-01,0,1,0
+QPR,Cardiff,6,1,2020-01-01,1,0,0
+Nottm Forest,Blackburn,3,2,2020-01-01,1,0,0
+Bristol C,Brentford,0,4,2020-01-01,0,1,0
+West Brom,Leeds,1,1,2020-01-01,0,0,1
+Lincoln,Peterborough,2,1,2020-01-01,1,0,0
+Doncaster,Oxford,1,0,2020-01-01,1,0,0
+Tranmere,Coventry,1,4,2020-01-01,0,1,0
+Accrington,Rochdale,1,2,2020-01-01,0,1,0
+Gillingham,Portsmouth,1,1,2020-01-01,0,0,1
+Wycombe,Ipswich,1,1,2020-01-01,0,0,1
+Bolton,Burton,3,4,2020-01-01,0,1,0
+AFC W'bledon,Southend,1,1,2020-01-01,0,0,1
+Rotherham,Blackpool,2,1,2020-01-01,1,0,0
+Fleetwood,Sunderland,1,1,2020-01-01,0,0,1
+MK Dons,Bristol R,3,0,2020-01-01,1,0,0
+Forest Green,Exeter,0,1,2020-01-01,0,1,0
+Newport Co,Cheltenham,1,1,2020-01-01,0,0,1
+Port Vale,Macclesfield,2,2,2020-01-01,0,0,1
+Northampton,Stevenage,1,0,2020-01-01,1,0,0
+Colchester,Crawley,1,1,2020-01-01,0,0,1
+Grimsby,Salford,1,0,2020-01-01,1,0,0
+Oldham,Scunthorpe,0,2,2020-01-01,0,1,0
+Crewe,Carlisle,4,1,2020-01-01,1,0,0
+Walsall,Leyton Orient,1,0,2020-01-01,1,0,0
+Cambridge U,Mansfield,2,3,2020-01-01,0,1,0
+Bradford,Morecambe,1,0,2020-01-01,1,0,0
+Plymouth,Swindon,1,2,2020-01-01,0,1,0
+Chorley,Wrexham,0,2,2020-01-01,0,1,0
+Torquay,Yeovil,0,2,2020-01-01,0,1,0
+Bromley,Dover,3,0,2020-01-01,1,0,0
+Aldershot,Eastleigh,3,1,2020-01-01,1,0,0
+Boreham W,Barnet,0,0,2020-01-01,0,0,1
+Ebbsfleet,Dag & Red,1,1,2020-01-01,0,0,1
+Maidenhead,Notts Co,0,0,2020-01-01,0,0,1
+Halifax,Stockport,0,0,2020-01-01,0,0,1
+Hartlepool,Harrogate,0,1,2020-01-01,0,1,0
+Sutton Utd,Woking,6,2,2020-01-01,1,0,0
+Fylde,Barrow,0,1,2020-01-01,0,1,0
+Solihull M,Chesterfield,3,0,2020-01-01,1,0,0
+Western Sydney,Brisbane Roar,1,2,2020-01-01,0,1,0
+Penybont,Carmarthen,1,1,2020-01-01,0,0,1
+Carrick Rangers,Coleraine,0,2,2020-01-01,0,1,0
+Linfield,Institute FC,3,0,2020-01-01,1,0,0
+Cliftonville,Glenavon,1,0,2020-01-01,1,0,0
+Ballymena,Larne,2,3,2020-01-01,0,1,0
+Warrenpoint T,Crusaders,0,4,2020-01-01,0,1,0
+Dungannon Sw,Glentoran,0,2,2020-01-01,0,1,0
+Blyth Sptns,Gateshead,3,3,2020-01-01,0,0,1
+Alfreton,Telford,1,1,2020-01-01,0,0,1
+York,Bradford PA,2,1,2020-01-01,1,0,0
+Gloucester,Leamington,2,1,2020-01-01,1,0,0
+Altrincham,Curzon A,2,1,2020-01-01,1,0,0
+Boston Utd,King's Lynn,0,3,2020-01-01,0,1,0
+Farsley AFC,Guiseley,0,1,2020-01-01,0,1,0
+Chester,Southport,4,0,2020-01-01,1,0,0
+Brackley,Kettering,1,1,2020-01-01,0,0,1
+Spennymoor,Darlington,3,1,2020-01-01,1,0,0
+Hereford,Kidderminster,2,1,2020-01-01,1,0,0
+Wealdstone,Slough,2,1,2020-01-01,1,0,0
+Chippenham,Bath City,1,3,2020-01-01,0,1,0
+Hungerford,Oxford C,1,2,2020-01-01,0,1,0
+Maidstone,Tonbridge,2,2,2020-01-01,0,0,1
+Eastbourne,Dorking W,3,2,2020-01-01,1,0,0
+Braintree,Chelmsford,1,2,2020-01-01,0,1,0
+Hemel,St Albans,1,0,2020-01-01,1,0,0
+Dartford,Welling,4,0,2020-01-01,1,0,0
+Weymouth,Havant & W,0,1,2020-01-01,0,1,0
+Hampton & R,Dulwich H,0,3,2020-01-01,0,1,0
+Merstham,Folkestone,0,4,2020-01-01,0,1,0
+Bognor Regis,Worthing,0,3,2020-01-01,0,1,0
+Bowers & Pitsea,E Thurrock,1,2,2020-01-01,0,1,0
+Bishop's St.,Kingstonian,1,2,2020-01-01,0,1,0
+Margate,Cray W,3,4,2020-01-01,0,1,0
+Haringey B,Wingate & F,2,1,2020-01-01,1,0,0
+Potters Bar,Enfield T,1,2,2020-01-01,0,1,0
+Leatherhead,Carshalton,2,1,2020-01-01,1,0,0
+Horsham,Lewes,3,0,2020-01-01,1,0,0
+Tiverton,Taunton Town,3,2,2020-01-01,1,0,0
+Chesham,Hendon,2,1,2020-01-01,1,0,0
+Dorchester,Blackfield & L,2,2,2020-01-01,0,0,1
+Weston S-M.,Truro City,3,2,2020-01-01,1,0,0
+Swindon Sup.,Merthyr,2,2,2020-01-01,0,0,1
+Yate,Salisbury FC,2,4,2020-01-01,0,1,0
+Gosport Bor,Hartley Wint.,0,1,2020-01-01,0,1,0
+Farnborough,Hayes & Y,0,1,2020-01-01,0,1,0
+Wimborne T,Poole Town,2,1,2020-01-01,1,0,0
+Harrow Boro,Walton Casuals,2,0,2020-01-01,1,0,0
+Gainsborough,Matlock,2,1,2020-01-01,1,0,0
+FC Utd,Radcliffe Boro,3,2,2020-01-01,1,0,0
+Bamber Br.,Warrington,3,3,2020-01-01,0,0,1
+Atherton Colls,Lancaster,2,1,2020-01-01,1,0,0
+South Shields,Scarborough A,2,1,2020-01-01,1,0,0
+Stalybridge,Ashton Utd,0,0,2020-01-01,0,0,1
+Stafford,Mickleover S,0,1,2020-01-01,0,1,0
+Buxton,Hyde,1,2,2020-01-01,0,1,0
+Basford United,Grantham,0,0,2020-01-01,0,0,1
+Witton,Nantwich,1,2,2020-01-01,0,1,0
+Sheff Utd,Man City,0,1,2020-01-21,0,1,0
+Bournemouth,Brighton,3,1,2020-01-21,1,0,0
+Crystal Palace,Southampton,0,2,2020-01-21,0,1,0
+Aston Villa,Watford,2,1,2020-01-21,1,0,0
+Everton,Newcastle,2,2,2020-01-21,0,0,1
+Chelsea,Arsenal,2,2,2020-01-21,0,0,1
+Middlesbrough,Birmingham,1,1,2020-01-21,0,0,1
+Barnsley,Preston,0,3,2020-01-21,0,1,0
+Peterborough,Wycombe,4,0,2020-01-21,1,0,0
+Leyton Orient,Northampton,1,1,2020-01-21,0,0,1
+Colchester,Bradford,0,0,2020-01-21,0,0,1
+Macclesfield,Crewe,1,1,2020-01-21,0,0,1
+Exeter,Stevenage,3,0,2020-01-21,1,0,0
+Portsmouth,Scunthorpe,2,1,2020-01-21,1,0,0
+Salford,Accrington,2,1,2020-01-21,1,0,0
+Alloa,Arbroath,2,0,2020-01-21,1,0,0
+Zaragoza,Mallorca,3,1,2020-01-21,1,0,0
+Recreativo,Osasuna,2,3,2020-01-21,0,1,0
+Sevilla,Levante,3,1,2020-01-21,1,0,0
+Napoli,Lazio,1,0,2020-01-21,1,0,0
+Lyon,Lille,2,2,2020-01-21,0,0,1
+Boston Utd,Brackley,1,0,2020-01-21,1,0,0
+Leamington,Gateshead,0,0,2020-01-21,0,0,1
+Guiseley,Darlington,1,2,2020-01-21,0,1,0
+Dulwich H,Havant & W,1,3,2020-01-21,0,1,0
+Bowers & Pitsea,Corinthian Cas,0,2,2020-01-21,0,1,0
+Swindon Sup.,Dorchester,1,0,2020-01-21,1,0,0
+Yate,Chesham,4,1,2020-01-21,1,0,0
+Hayes & Y,Poole Town,1,2,2020-01-21,0,1,0
+Radcliffe Boro,Ashton Utd,1,1,2020-01-21,0,0,1
+Maidenhead,Halesowen,1,3,2020-01-21,0,1,0
+Braga,Sporting,2,1,2020-01-21,1,0,0
+Top Oss,AZ Alkmaar,0,2,2020-01-21,0,1,0
+Kirklarelispor,Basaksehir,0,0,2020-01-21,0,0,1
+Burnley,Leicester,2,1,2020-01-19,1,0,0
+Liverpool,Man Utd,2,0,2020-01-19,1,0,0
+Nottm Forest,Luton,3,1,2020-01-19,1,0,0
+Dundee Utd,Hibernian,2,2,2020-01-19,0,0,1
+Milan,Udinese,3,2,2020-01-19,1,0,0
+Bologna,Verona,1,1,2020-01-19,0,0,1
+Brescia,Cagliari,2,2,2020-01-19,0,0,1
+Lecce,Inter,1,1,2020-01-19,0,0,1
+Genoa,Roma,1,3,2020-01-19,0,1,0
+Juventus,Parma,2,1,2020-01-19,1,0,0
+Hertha Berlin,B Munich,0,4,2020-01-19,0,1,0
+SC Paderborn,B Leverkusen,1,4,2020-01-19,0,1,0
+Mallorca,Valencia,4,1,2020-01-19,1,0,0
+Real Betis,Sociedad,3,0,2020-01-19,1,0,0
+Villarreal,Espanyol,1,2,2020-01-19,0,1,0
+Ath Bilbao,Celta Vigo,1,1,2020-01-19,0,0,1
+Barcelona,Granada,1,0,2020-01-19,1,0,0
+Antalyaspor,Goztepe,0,3,2020-01-19,0,1,0
+Trabzonspor,Kasimpasa,6,0,2020-01-19,1,0,0
+Galatasaray,Denizlispor,2,1,2020-01-19,1,0,0
+Besiktas,Sivasspor,1,2,2020-01-19,0,1,0
+Elche,Alcorcon,1,1,2020-01-19,0,0,1
+Deportivo,Cadiz,1,0,2020-01-19,1,0,0
+Real Oviedo,Huesca,1,1,2020-01-19,0,0,1
+Racing,Las Palmas,1,1,2020-01-19,0,0,1
+Tenerife,Girona,1,0,2020-01-19,1,0,0
+Extremadura,Almeria,1,2,2020-01-19,0,1,0
+VVV Venlo,PSV Eindhoven,1,1,2020-01-19,0,0,1
+Ajax,Sp. Rotterdam,2,1,2020-01-19,1,0,0
+FC Emmen,Heracles,1,0,2020-01-19,1,0,0
+Den Haag,RKC Waalwijk,2,0,2020-01-19,1,0,0
+Xanthi,Panathinaikos,0,1,2020-01-19,0,1,0
+AEK Athens,Larissa,3,0,2020-01-19,1,0,0
+Atromitos,Volos NFC,0,0,2020-01-19,0,0,1
+PAOK Salonika,Asteras T.,3,1,2020-01-19,1,0,0
+Olympiakos,Aris Salonika,4,2,2020-01-19,1,0,0
+Cercle Bruges,Royal Antwerp,1,2,2020-01-19,0,1,0
+Anderlecht,Club Brugge,1,2,2020-01-19,0,1,0
+Waregem,Genk,0,3,2020-01-19,0,1,0
+Pacos Ferreira,Gil Vicente,0,0,2020-01-19,0,0,1
+Famalicao,Maritimo,1,1,2020-01-19,0,0,1
+Rio Ave,Boavista,2,0,2020-01-19,1,0,0
+Western United,Central Coast M,3,0,2020-01-19,1,0,0
+Western Sydney,Perth Glory,0,1,2020-01-19,0,1,0
+GS Consolat,Rennes,0,2,2020-01-19,0,1,0
+Dijon,Nimes,5,0,2020-01-19,1,0,0
+Rouen,Angers,1,4,2020-01-19,0,1,0
+Montpellier,Caen,5,0,2020-01-19,1,0,0
+Lorient,Paris St-G.,0,1,2020-01-19,0,1,0
+H Tel Aviv,Hapoel Ra'ana,3,1,2020-01-19,1,0,0
+C Leonesa,Real Union,0,0,2020-01-19,0,0,1
+Seville II,Badajoz,1,1,2020-01-19,0,0,1
+Haro Deportivo,Logrones,1,2,2020-01-19,0,1,0
+Talavera CF,Recreativo,0,1,2020-01-19,0,1,0
+R Majadahonda,Ibiza,0,1,2020-01-19,0,1,0
+Badalona,FC Andorra,0,0,2020-01-19,0,0,1
+Espanyol B,Ebro,2,2,2020-01-19,0,0,1
+Sunderland,Doncaster,0,0,2020-01-24,0,0,1
+QPR,Sheff Wed,1,2,2020-01-24,0,1,0
+Northampton,Derby,0,0,2020-01-24,0,0,1
+Dunfermline,Dundee,2,0,2020-01-24,1,0,0
+Brescia,Milan,0,1,2020-01-24,0,1,0
+B Dortmund,Cologne,5,1,2020-01-24,1,0,0
+Osasuna,Levante,2,0,2020-01-24,1,0,0
+Nice,Rennes,1,1,2020-01-24,0,0,1
+Genclerbirligi,Gazisehir,1,0,2020-01-24,1,0,0
+FC Utrecht,Den Haag,4,0,2020-01-24,1,0,0
+St Liege,Oostende,2,1,2020-01-24,1,0,0
+Cadiz,Racing,1,0,2020-01-24,1,0,0
+Wellington,Newcastle Jets,2,1,2020-01-24,1,0,0
+Melbourne Vic,Sydney FC,0,3,2020-01-24,0,1,0
+Quevilly,Pau,0,0,2020-01-24,0,0,1
+Bournemouth,Arsenal,1,2,2020-01-27,0,1,0
+PAOK Salonika,Volos NFC,1,0,2020-01-27,1,0,0
+Lamia,Asteras T.,1,1,2020-01-27,0,0,1
+Sivasspor,Rizespor,1,1,2020-01-27,0,0,1
+V Guimaraes,Rio Ave,1,2,2020-01-27,0,1,0
+Sporting,Maritimo,1,0,2020-01-27,1,0,0
+Bnei Yehuda,M. Haifa,1,3,2020-01-27,0,1,0
+Coleraine,Cliftonville,1,0,2020-01-27,1,0,0
+Haringey B,Carshalton,2,2,2020-01-27,0,0,1
+Basford United,Witton,1,0,2020-01-27,1,0,0
+Kaiserslautern,Sonnenhof G,0,0,2020-01-27,0,0,1
+West Ham,Liverpool,0,2,2020-01-29,0,1,0
+Tranmere,Sunderland,0,1,2020-01-29,0,1,0
+Gillingham,Shrewsbury,2,0,2020-01-29,1,0,0
+Man City,Man Utd,0,1,2020-01-29,0,1,0
+Rangers,Ross County,2,0,2020-01-29,1,0,0
+St Johnstone,Celtic,0,3,2020-01-29,0,1,0
+Formartine Utd,Keith,1,2,2020-01-29,0,1,0
+Stuttgart,Heidenheim,3,0,2020-01-29,1,0,0
+Holstein Kiel,SV Darmstadt,1,1,2020-01-29,0,0,1
+Dyn Dresden,Karlsruhe,1,0,2020-01-29,1,0,0
+Osnabruck,SV Sandhausen,1,3,2020-01-29,0,1,0
+Charleroi,Club Brugge,0,0,2020-01-29,0,0,1
+Moreirense,Braga,1,2,2020-01-29,0,1,0
+Hapoel Ra'ana,Ironi Kiryat S,1,1,2020-01-29,0,0,1
+H Beer Sheva,M. Tel Aviv,1,1,2020-01-29,0,0,1
+Epinal,Lille,2,1,2020-01-29,1,0,0
+Pau,Paris St-G.,0,2,2020-01-29,0,1,0
+Marseille,Strasbourg,3,1,2020-01-29,1,0,0
+C Leonesa,Valencia,0,0,2020-01-29,0,0,1
+R. Vallecano,Villarreal,0,2,2020-01-29,0,1,0
+Badajoz,Granada,2,3,2020-01-29,0,1,0
+Zaragoza,Real Madrid,0,4,2020-01-29,0,1,0
+Sociedad,Osasuna,3,1,2020-01-29,1,0,0
+Inter,Fiorentina,2,1,2020-01-29,1,0,0
+Kingstonian,E Thurrock,0,0,2020-01-29,0,0,1
+Apoel Nicosia,Ap Limassol,1,2,2020-01-29,0,1,0
+Hamburg,Nuremberg,4,1,2020-01-30,1,0,0
+Barcelona,Leganes,5,0,2020-01-30,1,0,0
+Mirandes,Sevilla,3,1,2020-01-30,1,0,0
+Nice,Lyon,1,2,2020-01-30,0,1,0
+Man City,Fulham,4,0,2020-01-26,1,0,0
+Tranmere,Man Utd,1,6,2020-01-26,0,1,0
+Shrewsbury,Liverpool,2,2,2020-01-26,0,0,1
+St Mirren,Aberdeen,0,0,2020-01-26,0,0,1
+Hearts,Rangers,2,1,2020-01-26,1,0,0
+Inter,Cagliari,1,1,2020-01-26,0,0,1
+Sampdoria,Sassuolo,0,0,2020-01-26,0,0,1
+Verona,Lecce,3,0,2020-01-26,1,0,0
+Parma,Udinese,2,0,2020-01-26,1,0,0
+Roma,Lazio,1,1,2020-01-26,0,0,1
+Napoli,Juventus,2,1,2020-01-26,1,0,0
+W Bremen,Hoffenheim,0,3,2020-01-26,0,1,0
+B Leverkusen,F Dusseldorf,3,0,2020-01-26,1,0,0
+Atl Madrid,Leganes,0,0,2020-01-26,0,0,1
+Celta Vigo,Eibar,0,0,2020-01-26,0,0,1
+Getafe,Real Betis,1,0,2020-01-26,1,0,0
+Sociedad,Mallorca,3,0,2020-01-26,1,0,0
+Valladolid,Real Madrid,0,1,2020-01-26,0,1,0
+Lyon,Toulouse,3,0,2020-01-26,1,0,0
+Nantes,Bordeaux,0,1,2020-01-26,0,1,0
+Lille,Paris St-G.,0,2,2020-01-26,0,1,0
+Denizlispor,Antalyaspor,0,3,2020-01-26,0,1,0
+Goztepe,Besiktas,2,1,2020-01-26,1,0,0
+Konyaspor,Galatasaray,0,3,2020-01-26,0,1,0
+Malaga,Mirandes,2,2,2020-01-26,0,0,1
+Almeria,Elche,0,2,2020-01-26,0,1,0
+Albacete,Deportivo,0,1,2020-01-26,0,1,0
+Alcorcon,Ponferradina,3,1,2020-01-26,1,0,0
+R. Vallecano,Extremadura,1,1,2020-01-26,0,0,1
+Girona,Real Oviedo,1,1,2020-01-26,0,0,1
+Vitesse Arn.,FC Emmen,1,1,2020-01-26,0,0,1
+Willem II,PEC Zwolle,0,0,2020-01-26,0,0,1
+FC Groningen,Ajax,2,1,2020-01-26,1,0,0
+PSV Eindhoven,FC Twente,1,1,2020-01-26,0,0,1
+Xanthi,OFI Crete,2,2,2020-01-26,0,0,1
+Panionios,Atromitos,1,0,2020-01-26,1,0,0
+Panetolikos,Aris Salonika,2,0,2020-01-26,1,0,0
+AEK Athens,Olympiakos,0,0,2020-01-26,0,0,1
+Cercle Bruges,Anderlecht,1,2,2020-01-26,0,1,0
+Kortrijk,Club Brugge,2,2,2020-01-26,0,0,1
+Royal Antwerp,Waregem,2,1,2020-01-26,1,0,0
+Thun,FC Sion,2,1,2020-01-26,1,0,0
+Young Boys,Basel,2,0,2020-01-26,1,0,0
+St Gallen,Lugano,3,1,2020-01-26,1,0,0
+Famalicao,Santa Clara,0,1,2020-01-26,0,1,0
+Belenenses,Portimonense,2,1,2020-01-26,1,0,0
+Tondela,Vitoria Setubal,0,3,2020-01-26,0,1,0
+Pacos Ferreira,Benfica,0,2,2020-01-26,0,1,0
+Desp. Aves,Boavista,0,1,2020-01-26,0,1,0
+Western United,Adelaide Utd,3,4,2020-01-26,0,1,0
+M. Netanya,Hapoel Hadera,1,0,2020-01-26,1,0,0
+Beitar J'salem,Sektzia Nes Tziona,1,0,2020-01-26,1,0,0
+Badajoz,Cadiz II,0,0,2020-01-26,0,0,1
+Ath Bilbao II,C Leonesa,1,0,2020-01-26,1,0,0
+Cardiff,Reading,1,1,2020-01-31,0,0,1
+Derby,Stoke,4,0,2020-01-31,1,0,0
+Partick,Ayr,1,1,2020-01-31,0,0,1
+Clachnacuddin,Forres Mech,2,3,2020-01-31,0,1,0
+Hertha Berlin,Schalke,0,0,2020-01-31,0,0,1
+Rennes,Nantes,3,2,2020-01-31,1,0,0
+Basaksehir,Genclerbirligi,3,1,2020-01-31,1,0,0
+NK Inter,NK Istra 1961,2,0,2020-01-31,1,0,0
+Erzegbirge A,Arminia,0,0,2020-01-31,0,0,1
+Regensburg,Greuther Furth,0,2,2020-01-31,0,1,0
+Uni Craiova,Metan Medias,3,1,2020-01-31,1,0,0
+AZ Alkmaar,RKC Waalwijk,4,0,2020-01-31,1,0,0
+Benfica,Belenenses,3,2,2020-01-31,1,0,0
+Rio Ave,Famalicao,2,2,2020-01-31,0,0,1
+Kortrijk,St Liege,3,1,2020-01-31,1,0,0
+Tenerife,Sp. Gijon,2,1,2020-01-31,1,0,0
+Sydney FC,Brisbane Roar,1,0,2020-01-31,1,0,0
+SC Verl,SV Lippstadt,1,0,2020-01-31,1,0,0
+Hull,Huddersfield,1,2,2020-01-28,0,1,0
+Blackburn,QPR,2,1,2020-01-28,1,0,0
+Luton,Derby,3,2,2020-01-28,1,0,0
+Brentford,Nottm Forest,0,1,2020-01-28,0,1,0
+Wigan,Sheff Wed,2,1,2020-01-28,1,0,0
+Cardiff,West Brom,2,1,2020-01-28,1,0,0
+Leeds,Millwall,3,2,2020-01-28,1,0,0
+Reading,Bristol C,0,1,2020-01-28,0,1,0
+Lincoln,Portsmouth,0,2,2020-01-28,0,1,0
+Doncaster,Southend,3,1,2020-01-28,1,0,0
+Accrington,Peterborough,0,2,2020-01-28,0,1,0
+AFC W'bledon,Burton,2,2,2020-01-28,0,0,1
+Rotherham,Ipswich,1,0,2020-01-28,1,0,0
+Fleetwood,Coventry,0,0,2020-01-28,0,0,1
+MK Dons,Rochdale,2,1,2020-01-28,1,0,0
+Bolton,Bristol R,1,1,2020-01-28,0,0,1
+Wycombe,Blackpool,2,1,2020-01-28,1,0,0
+Forest Green,Carlisle,1,4,2020-01-28,0,1,0
+Newport Co,Macclesfield,1,0,2020-01-28,1,0,0
+Port Vale,Exeter,3,1,2020-01-28,1,0,0
+Northampton,Scunthorpe,3,0,2020-01-28,1,0,0
+Colchester,Swindon,3,1,2020-01-28,1,0,0
+Grimsby,Stevenage,3,1,2020-01-28,1,0,0
+Oldham,Mansfield,3,1,2020-01-28,1,0,0
+Crewe,Leyton Orient,2,0,2020-01-28,1,0,0
+Walsall,Morecambe,0,2,2020-01-28,0,1,0
+Cambridge U,Salford,0,4,2020-01-28,0,1,0
+Bradford,Cheltenham,1,1,2020-01-28,0,0,1
+Plymouth,Crawley,2,2,2020-01-28,0,0,1
+Ebbsfleet,Woking,2,1,2020-01-28,1,0,0
+Eastleigh,Aldershot,0,0,2020-01-28,0,0,1
+Halifax,Dover,4,2,2020-01-28,1,0,0
+Solihull M,Barrow,0,0,2020-01-28,0,0,1
+Aston Villa,Leicester,2,1,2020-01-28,1,0,0
+Falkirk,Arbroath,2,0,2020-01-28,1,0,0
+Hibernian,Dundee Utd,4,2,2020-01-28,1,0,0
+Arminia,Bochum,2,0,2020-01-28,1,0,0
+Greuther Furth,St Pauli,3,0,2020-01-28,1,0,0
+Regensburg,Hannover,1,0,2020-01-28,1,0,0
+Wehen-Wiesb.,Erzegbirge A,1,0,2020-01-28,1,0,0
+Porto,Gil Vicente,2,1,2020-01-28,1,0,0
+Belfort,Montpellier,0,0,2020-01-28,0,0,1
+Angers,Rennes,4,5,2020-01-28,0,1,0
+Limonest,Dijon,1,2,2020-01-28,0,1,0
+Monaco,St-Etienne,0,1,2020-01-28,0,1,0
+Milan,Torino,4,2,2020-01-28,1,0,0
+Larne,Linfield,3,1,2020-01-28,1,0,0
+Glentoran,Glenavon,4,0,2020-01-28,1,0,0
+Tenerife,Ath Bilbao,3,3,2020-01-28,0,0,1
+Gateshead,Chester,2,0,2020-01-28,1,0,0
+Alfreton,Gloucester,6,1,2020-01-28,1,0,0
+Kettering,Altrincham,0,2,2020-01-28,0,1,0
+Telford,Blyth Sptns,4,3,2020-01-28,1,0,0
+Hemel,Weymouth,0,1,2020-01-28,0,1,0
+Hampton & R,Slough,1,2,2020-01-28,0,1,0
+Cheshunt,Bowers & Pitsea,1,1,2020-01-28,0,0,1
+Brightlingsea R,Bishop's St.,1,0,2020-01-28,1,0,0
+Corinthian Cas,Bognor Regis,1,1,2020-01-28,0,0,1
+Folkestone,Hornchurch,2,1,2020-01-28,1,0,0
+Margate,Enfield T,0,3,2020-01-28,0,1,0
+Merthyr,Hayes & Y,1,2,2020-01-28,0,1,0
+Gosport Bor,Weston S-M.,1,0,2020-01-28,1,0,0
+Barnet,Farsley AFC,2,0,2020-01-28,1,0,0
+Bath City,Concord R,1,2,2020-01-28,0,1,0
+Sampdoria,Napoli,2,4,2020-02-03,0,1,0
+Denizlispor,Goztepe,1,1,2020-02-03,0,0,1
+CSMS Iasi,Viitorul C,1,2,2020-02-03,0,1,0
+Bochum,Hamburg,1,3,2020-02-03,0,1,0
+M. Tel Aviv,Hapoel Ra'ana,2,1,2020-02-03,1,0,0
+Sunderland,Lincoln,3,1,2020-01-04,1,0,0
+Salford,Walsall,1,2,2020-01-04,0,1,0
+Cheltenham,Oldham,3,0,2020-01-04,1,0,0
+Macclesfield,Cambridge U,1,0,2020-01-04,1,0,0
+Crawley,Forest Green,1,1,2020-01-04,0,0,1
+Mansfield,Grimsby,0,1,2020-01-04,0,1,0
+Stevenage,Colchester,0,0,2020-01-04,0,0,1
+Scunthorpe,Plymouth,1,3,2020-01-04,0,1,0
+Swindon,Bradford,1,1,2020-01-04,0,0,1
+Woking,Chorley,1,0,2020-01-04,1,0,0
+Wrexham,Aldershot,1,2,2020-01-04,0,1,0
+Notts Co,Bromley,2,1,2020-01-04,1,0,0
+Barnet,Halifax,1,1,2020-01-04,0,0,1
+Yeovil,Solihull M,0,0,2020-01-04,0,0,1
+Barrow,Ebbsfleet,7,0,2020-01-04,1,0,0
+Chesterfield,Sutton Utd,1,0,2020-01-04,1,0,0
+Stockport,Boreham W,1,3,2020-01-04,0,1,0
+Harrogate,Maidenhead,1,0,2020-01-04,1,0,0
+Dag & Red,Torquay,0,0,2020-01-04,0,0,1
+Bristol C,Shrewsbury,1,1,2020-01-04,0,0,1
+Rochdale,Newcastle,1,1,2020-01-04,0,0,1
+Rotherham,Hull,2,3,2020-01-04,0,1,0
+Millwall,Newport Co,3,0,2020-01-04,1,0,0
+Birmingham,Blackburn,2,1,2020-01-04,1,0,0
+Burnley,Peterborough,4,2,2020-01-04,1,0,0
+Fulham,Aston Villa,2,1,2020-01-04,1,0,0
+Brighton,Sheff Wed,0,1,2020-01-04,0,1,0
+Southampton,Huddersfield,2,0,2020-01-04,1,0,0
+Oxford,Hartlepool,4,1,2020-01-04,1,0,0
+Cardiff,Carlisle,2,2,2020-01-04,0,0,1
+Preston,Norwich,2,4,2020-01-04,0,1,0
+Reading,Blackpool,2,2,2020-01-04,0,0,1
+Brentford,Stoke,1,0,2020-01-04,1,0,0
+Watford,Tranmere,3,3,2020-01-04,0,0,1
+Wolves,Man Utd,0,0,2020-01-04,0,0,1
+Bournemouth,Luton,4,0,2020-01-04,1,0,0
+Leicester,Wigan,2,0,2020-01-04,1,0,0
+Man City,Port Vale,4,1,2020-01-04,1,0,0
+Fleetwood,Portsmouth,1,2,2020-01-04,0,1,0
+Exeter,Ipswich,2,1,2020-01-04,1,0,0
+Queen of Sth,Dundee Utd,0,1,2020-01-04,0,1,0
+Alloa,Partick,1,1,2020-01-04,0,0,1
+Arbroath,Morton,1,2,2020-01-04,0,1,0
+Dundee,Inverness CT,0,2,2020-01-04,0,1,0
+Dunfermline,Ayr,0,1,2020-01-04,0,1,0
+Airdrieonians,Forfar,1,0,2020-01-04,1,0,0
+Raith,Peterhead,2,1,2020-01-04,1,0,0
+Clyde,Stranraer,3,3,2020-01-04,0,0,1
+Falkirk,Dumbarton,3,0,2020-01-04,1,0,0
+Montrose,East Fife,1,0,2020-01-04,1,0,0
+Queen's Park,Stenh'semuir,2,1,2020-01-04,1,0,0
+Albion,Stirling,0,3,2020-01-04,0,1,0
+Cowdenbeath,Annan,3,1,2020-01-04,1,0,0
+Elgin City,Edinburgh C,0,1,2020-01-04,0,1,0
+Brechin,Cove Rangers,1,5,2020-01-04,0,1,0
+Nairn County,Inverurie Locos,3,2,2020-01-04,1,0,0
+Fraserburgh,Turriff U,4,0,2020-01-04,1,0,0
+Huntly,Brora Rangers,0,4,2020-01-04,0,1,0
+Lossiemouth,Strathspey T,0,2,2020-01-04,0,1,0
+Formartine Utd,Buckie Thistle,2,1,2020-01-04,1,0,0
+Keith,Forres Mech,4,1,2020-01-04,1,0,0
+Deveronvale,Clachnacuddin,1,1,2020-01-04,0,0,1
+Wick Academy,Fort William,4,1,2020-01-04,1,0,0
+Berwick,Gala Fairydean,2,2,2020-01-04,0,0,1
+Dalbeattie Star,Gretna 2008,1,1,2020-01-04,0,0,1
+Spartans,Civil Serv Strol,0,1,2020-01-04,0,1,0
+Stirling Univ,Edinburgh Uni,1,1,2020-01-04,0,0,1
+East Kilbride,Cumbernauld C,7,0,2020-01-04,1,0,0
+Edusport Acad,Vale of Leithen,4,1,2020-01-04,1,0,0
+Kelty Hearts,E Stirling,2,2,2020-01-04,0,0,1
+Valencia,Eibar,1,0,2020-01-04,1,0,0
+Getafe,Real Madrid,0,3,2020-01-04,0,1,0
+Atl Madrid,Levante,2,1,2020-01-04,1,0,0
+Espanyol,Barcelona,2,2,2020-01-04,0,0,1
+Fuenlabrada,Las Palmas,0,0,2020-01-04,0,0,1
+Ponferradina,Cadiz,0,0,2020-01-04,0,0,1
+Lugo,Almeria,0,4,2020-01-04,0,1,0
+Tenerife,Albacete,4,2,2020-01-04,1,0,0
+Mirandes,Racing,0,0,2020-01-04,0,0,1
+Elche,Huesca,1,1,2020-01-04,0,0,1
+OFI Crete,Volos NFC,1,2,2020-01-04,0,1,0
+Aris Salonika,PAOK Salonika,4,2,2020-01-04,1,0,0
+Atromitos,Asteras T.,2,1,2020-01-04,1,0,0
+Boavista,Portimonense,1,1,2020-01-04,0,0,1
+Desp. Aves,Santa Clara,0,1,2020-01-04,0,1,0
+Belenenses,Braga,1,7,2020-01-04,0,1,0
+V Guimaraes,Benfica,0,1,2020-01-04,0,1,0
+Wellington,Central Coast M,2,1,2020-01-04,1,0,0
+Sydney FC,Adelaide Utd,2,1,2020-01-04,1,0,0
+Fabregues,Paris,0,2,2020-01-04,0,1,0
+Niort,JS Saint-Pierroise,1,2,2020-01-04,0,1,0
+Bayonne,Nantes,0,2,2020-01-04,0,1,0
+Versailles,US Granvillaise,1,2,2020-01-04,0,1,0
+Guichen,Caen,1,2,2020-01-04,0,1,0
+Stade Briochin,ESM Gonfreville,1,1,2020-01-04,0,0,1
+Tours,Nimes,2,2,2020-01-04,0,0,1
+Monaco,Reims,2,1,2020-01-04,1,0,0
+Le Portel,Strasbourg,1,4,2020-01-04,0,1,0
+Sable,Pau,2,2,2020-01-04,0,0,1
+Belfort,Montceau,3,0,2020-01-04,1,0,0
+Angouleme,Challans,3,1,2020-01-04,1,0,0
+GS Consolat,Rodez,2,1,2020-01-04,1,0,0
+Rennes,Amiens,0,0,2020-01-04,0,0,1
+St Pryve-St Hilaire,Toulouse,1,0,2020-01-04,1,0,0
+Red Star Paris,Chambly,2,1,2020-01-04,1,0,0
+Bourg-Peronnas,Lyon,0,7,2020-01-04,0,1,0
+Penybont,Caernarfon,0,0,2020-01-04,0,0,1
+H. Kfar Saba,M. Netanya,1,2,2020-01-04,0,1,0
+Hapoel Hadera,H. Haifa,2,0,2020-01-04,1,0,0
+Beitar J'salem,Ironi Kiryat S,2,2,2020-01-04,0,0,1
+Darlington,Gloucester,2,1,2020-01-04,1,0,0
+Gateshead,Hereford,2,0,2020-01-04,1,0,0
+Leamington,Altrincham,0,1,2020-01-04,0,1,0
+Southport,York,0,2,2020-01-04,0,1,0
+Curzon A,Alfreton,0,2,2020-01-04,0,1,0
+Guiseley,Chester,0,1,2020-01-04,0,1,0
+Kettering,Farsley AFC,1,0,2020-01-04,1,0,0
+Kidderminster,Blyth Sptns,0,1,2020-01-04,0,1,0
+King's Lynn,Spennymoor,3,0,2020-01-04,1,0,0
+Bradford PA,Boston Utd,1,2,2020-01-04,0,1,0
+Telford,Brackley,0,1,2020-01-04,0,1,0
+Chelmsford,Hemel,2,1,2020-01-04,1,0,0
+Tonbridge,Chippenham,3,2,2020-01-04,1,0,0
+Dulwich H,Braintree,6,0,2020-01-04,1,0,0
+Slough,Eastbourne,1,1,2020-01-04,0,0,1
+Oxford C,Wealdstone,3,2,2020-01-04,1,0,0
+St Albans,Hungerford,2,2,2020-01-04,0,0,1
+Dorking W,Dartford,2,4,2020-01-04,0,1,0
+Bath City,Billericay,2,1,2020-01-04,1,0,0
+Welling,Weymouth,1,3,2020-01-04,0,1,0
+Havant & W,Maidstone,1,2,2020-01-04,0,1,0
+Concord R,Hampton & R,0,2,2020-01-04,0,1,0
+Merstham,Potters Bar,2,3,2020-01-04,0,1,0
+Bognor Regis,Margate,1,2,2020-01-04,0,1,0
+Cheshunt,Kingstonian,3,1,2020-01-04,1,0,0
+Brightlingsea R,Folkestone,0,0,2020-01-04,0,0,1
+Cray W,Wingate & F,0,0,2020-01-04,0,0,1
+Corinthian Cas,Leatherhead,3,0,2020-01-04,1,0,0
+Carshalton,Enfield T,2,0,2020-01-04,1,0,0
+Bishop's St.,Bowers & Pitsea,2,2,2020-01-04,0,0,1
+Haringey B,Lewes,0,1,2020-01-04,0,1,0
+E Thurrock,Worthing,0,0,2020-01-04,0,0,1
+Hornchurch,Horsham,2,1,2020-01-04,1,0,0
+Merthyr,Harrow Boro,2,2,2020-01-04,0,0,1
+Poole Town,Farnborough,3,1,2020-01-04,1,0,0
+Blackfield & L,Yate,2,0,2020-01-04,1,0,0
+Truro City,Met. Police,4,0,2020-01-04,1,0,0
+Beaconsfield,Dorchester,3,1,2020-01-04,1,0,0
+Walton Casuals,Swindon Sup.,2,4,2020-01-04,0,1,0
+Salisbury FC,Chesham,3,2,2020-01-04,1,0,0
+Hendon,Weston S-M.,4,0,2020-01-04,1,0,0
+Hayes & Y,Tiverton,0,0,2020-01-04,0,0,1
+Taunton Town,Gosport Bor,3,2,2020-01-04,1,0,0
+Hartley Wint.,Wimborne T,2,2,2020-01-04,0,0,1
+Warrington,Atherton Colls,1,1,2020-01-04,0,0,1
+Hyde,FC Utd,1,5,2020-01-04,0,1,0
+Radcliffe Boro,Bamber Br.,0,4,2020-01-04,0,1,0
+Mickleover S,Nantwich,2,1,2020-01-04,1,0,0
+Grantham,Stafford,2,0,2020-01-04,1,0,0
+Ashton Utd,South Shields,0,2,2020-01-04,0,1,0
+Scarborough A,Stalybridge,1,1,2020-01-04,0,0,1
+Matlock,Basford United,0,1,2020-01-04,0,1,0
+Lancaster,Morpeth Town,4,1,2020-01-04,1,0,0
+Whitby,Gainsborough,2,2,2020-01-04,0,0,1
+Witton,Buxton,0,2,2020-01-04,0,1,0
+Recreativo,Cordoba,2,2,2020-01-04,0,0,1
+Arenas Club,C Leonesa,1,2,2020-01-04,0,1,0
+Broxburn Ath,Blackburn Utd,3,1,2020-01-04,1,0,0
+Burnley,Arsenal,0,0,2020-02-02,0,0,1
+Tottenham,Man City,2,0,2020-02-02,1,0,0
+Hamilton,Celtic,1,4,2020-02-02,0,1,0
+Juventus,Fiorentina,3,0,2020-02-02,1,0,0
+Atalanta,Genoa,2,2,2020-02-02,0,0,1
+Milan,Verona,1,1,2020-02-02,0,0,1
+Lazio,Spal,5,1,2020-02-02,1,0,0
+Lecce,Torino,4,0,2020-02-02,1,0,0
+Udinese,Inter,0,2,2020-02-02,0,1,0
+Cologne,Freiburg,4,0,2020-02-02,1,0,0
+SC Paderborn,Wolfsburg,2,4,2020-02-02,0,1,0
+Leganes,Sociedad,2,1,2020-02-02,1,0,0
+Eibar,Real Betis,1,1,2020-02-02,0,0,1
+Ath Bilbao,Getafe,0,2,2020-02-02,0,1,0
+Villarreal,Osasuna,3,1,2020-02-02,1,0,0
+Sevilla,Alaves,1,1,2020-02-02,0,0,1
+Barcelona,Levante,2,1,2020-02-02,1,0,0
+Nice,Lyon,2,1,2020-02-02,1,0,0
+Metz,St-Etienne,3,1,2020-02-02,1,0,0
+Bordeaux,Marseille,0,0,2020-02-02,0,0,1
+Ankaragucu,Kasimpasa,1,1,2020-02-02,0,0,1
+Alanyaspor,Malatyaspor,2,1,2020-02-02,1,0,0
+Gazisehir,Sivasspor,5,1,2020-02-02,1,0,0
+Galatasaray,Kayserispor,4,1,2020-02-02,1,0,0
+Fuenlabrada,Girona,0,1,2020-02-02,0,1,0
+Cadiz,Zaragoza,1,1,2020-02-02,0,0,1
+Mirandes,R. Vallecano,0,0,2020-02-02,0,0,1
+Numancia,Almeria,1,1,2020-02-02,0,0,1
+Real Oviedo,Albacete,3,1,2020-02-02,1,0,0
+Racing,Alcorcon,1,1,2020-02-02,0,0,1
+Willem II,Heracles,1,0,2020-02-02,1,0,0
+F. Sittard,Heerenveen,2,1,2020-02-02,1,0,0
+VVV Venlo,FC Utrecht,1,1,2020-02-02,0,0,1
+Ajax,PSV Eindhoven,1,0,2020-02-02,1,0,0
+Nuremberg,SV Sandhausen,2,0,2020-02-02,1,0,0
+Heidenheim,Dyn Dresden,0,0,2020-02-02,0,0,1
+SV Darmstadt,Osnabruck,2,2,2020-02-02,0,0,1
+Aris Salonika,Panionios,2,0,2020-02-02,1,0,0
+Asteras T.,Panetolikos,2,1,2020-02-02,1,0,0
+Atromitos,AEK Athens,0,1,2020-02-02,0,1,0
+Panathinaikos,PAOK Salonika,2,0,2020-02-02,1,0,0
+Club Brugge,Royal Antwerp,1,0,2020-02-02,1,0,0
+Anderlecht,Mouscron-P,1,0,2020-02-02,1,0,0
+Waregem,W Beveren,5,0,2020-02-02,1,0,0
+NK Varazdin,Hajduk Split,0,3,2020-02-02,0,1,0
+HNK Gorica,Osijek,0,0,2020-02-02,0,0,1
+FC Sion,FC Zurich,1,1,2020-02-02,0,0,1
+Servette,Thun,2,0,2020-02-02,1,0,0
+Basel,St Gallen,1,2,2020-02-02,0,1,0
+Chindia Targoviste,Botosani,0,1,2020-02-02,0,1,0
+CFR Cluj,Steaua,1,0,2020-02-02,1,0,0
+Gil Vicente,Moreirense,1,5,2020-02-02,0,1,0
+Maritimo,Desp. Aves,1,2,2020-02-02,0,1,0
+Santa Clara,Pacos Ferreira,2,1,2020-02-02,1,0,0
+Braga,Sporting,1,0,2020-02-02,1,0,0
+Boavista,V Guimaraes,2,0,2020-02-02,1,0,0
+Central Coast M,Western Sydney,1,3,2020-02-02,0,1,0
+Beitar J'salem,Bnei Yehuda,1,3,2020-02-02,0,1,0
+Apoel Nicosia,Nea Salamis,2,1,2020-02-02,1,0,0
+Floriana FC,Valletta,0,1,2020-02-02,0,1,0
+Voluntari,Steaua,1,2,2020-02-06,0,1,0
+Real Madrid,Sociedad,3,4,2020-02-06,0,1,0
+Ath Bilbao,Barcelona,1,0,2020-02-06,1,0,0
+Tranmere,Doncaster,0,3,2020-02-04,0,1,0
+Dover,Barrow,2,1,2020-02-04,1,0,0
+Liverpool,Shrewsbury,1,0,2020-02-04,1,0,0
+Birmingham,Coventry,2,2,2020-02-04,0,0,1
+Cardiff,Reading,3,3,2020-02-04,0,0,1
+Derby,Northampton,4,2,2020-02-04,1,0,0
+Oxford,Newcastle,2,3,2020-02-04,0,1,0
+Newport Co,Leicester U21,1,0,2020-02-04,1,0,0
+Lille,Rennes,1,0,2020-02-04,1,0,0
+Monaco,Angers,1,0,2020-02-04,1,0,0
+Nantes,Paris St-G.,1,2,2020-02-04,0,1,0
+Sektzia Nes Tziona,MS Ashdod,0,2,2020-02-04,0,1,0
+Ironi Kiryat S,H. Haifa,1,2,2020-02-04,0,1,0
+M. Haifa,H Tel Aviv,5,0,2020-02-04,1,0,0
+E Frankfurt,RB Leipzig,3,1,2020-02-04,1,0,0
+Kaiserslautern,F Dusseldorf,2,5,2020-02-04,0,1,0
+W Bremen,B Dortmund,3,2,2020-02-04,1,0,0
+Schalke,Hertha Berlin,3,2,2020-02-04,1,0,0
+Mezokovesd SE,Ujpest Dozsa,2,2,2020-02-04,0,0,1
+Linfield,Dungannon Sw,2,1,2020-02-04,1,0,0
+Cliftonville,Carrick Rangers,3,1,2020-02-04,1,0,0
+Granada,Valencia,2,1,2020-02-04,1,0,0
+Altrincham,Telford,5,2,2020-02-04,1,0,0
+Hungerford,Dorking W,0,1,2020-02-04,0,1,0
+Bognor Regis,Brightlingsea R,3,2,2020-02-04,1,0,0
+Bowers & Pitsea,Carshalton,0,1,2020-02-04,0,1,0
+Bishop's St.,Worthing,0,1,2020-02-04,0,1,0
+Hornchurch,Cheshunt,3,0,2020-02-04,1,0,0
+Poole Town,Merthyr,1,1,2020-02-04,0,0,1
+Met. Police,Beaconsfield,3,1,2020-02-04,1,0,0
+Morpeth Town,South Shields,1,1,2020-02-04,0,0,1
+Stalybridge,Gainsborough,1,2,2020-02-04,0,1,0
+Stafford,Buxton,0,0,2020-02-04,0,0,1
+Matlock,Radcliffe Boro,4,0,2020-02-04,1,0,0
+Kettering,Brackley,3,0,2020-02-04,1,0,0
+Lens,Troyes,1,0,2020-02-04,1,0,0
+Lorient,Le Mans,4,2,2020-02-04,1,0,0
+Benfica,Famalicao,3,2,2020-02-04,1,0,0
+Academico Viseu,Porto,1,1,2020-02-04,0,0,1
+Lamia,Olympiakos,0,0,2020-02-04,0,0,1
+Barbados,Canada,1,4,2020-01-11,0,1,0
+Crystal Palace,Arsenal,1,1,2020-01-11,0,0,1
+Chelsea,Burnley,3,0,2020-01-11,1,0,0
+Wolves,Newcastle,1,1,2020-01-11,0,0,1
+Everton,Brighton,1,0,2020-01-11,1,0,0
+Man Utd,Norwich,4,0,2020-01-11,1,0,0
+Leicester,Southampton,1,2,2020-01-11,0,1,0
+Tottenham,Liverpool,0,1,2020-01-11,0,1,0
+Brentford,QPR,3,1,2020-01-11,1,0,0
+Charlton,West Brom,2,2,2020-01-11,0,0,1
+Hull,Fulham,0,1,2020-01-11,0,1,0
+Blackburn,Preston,1,1,2020-01-11,0,0,1
+Reading,Nottm Forest,1,1,2020-01-11,0,0,1
+Luton,Birmingham,1,2,2020-01-11,0,1,0
+Middlesbrough,Derby,2,2,2020-01-11,0,0,1
+Stoke,Millwall,0,0,2020-01-11,0,0,1
+Barnsley,Huddersfield,2,1,2020-01-11,1,0,0
+Wigan,Bristol C,0,2,2020-01-11,0,1,0
+Leeds,Sheff Wed,0,2,2020-01-11,0,1,0
+Portsmouth,AFC W'bledon,2,1,2020-01-11,1,0,0
+Shrewsbury,Lincoln,1,1,2020-01-11,0,0,1
+Southend,Tranmere,0,0,2020-01-11,0,0,1
+Ipswich,Accrington,4,1,2020-01-11,1,0,0
+Coventry,MK Dons,1,1,2020-01-11,0,0,1
+Rochdale,Bolton,2,0,2020-01-11,1,0,0
+Bristol R,Doncaster,0,2,2020-01-11,0,1,0
+Burton,Fleetwood,1,0,2020-01-11,1,0,0
+Oxford,Rotherham,1,3,2020-01-11,0,1,0
+Sunderland,Wycombe,4,0,2020-01-11,1,0,0
+Peterborough,Gillingham,0,0,2020-01-11,0,0,1
+Leyton Orient,Grimsby,1,1,2020-01-11,0,0,1
+Salford,Northampton,1,2,2020-01-11,0,1,0
+Cheltenham,Walsall,3,1,2020-01-11,1,0,0
+Macclesfield,Oldham,1,1,2020-01-11,0,0,1
+Carlisle,Plymouth,0,3,2020-01-11,0,1,0
+Crawley,Bradford,2,1,2020-01-11,1,0,0
+Exeter,Cambridge U,2,0,2020-01-11,1,0,0
+Mansfield,Forest Green,3,4,2020-01-11,0,1,0
+Stevenage,Port Vale,0,1,2020-01-11,0,1,0
+Morecambe,Colchester,1,1,2020-01-11,0,0,1
+Scunthorpe,Newport Co,1,2,2020-01-11,0,1,0
+Swindon,Crewe,3,1,2020-01-11,1,0,0
+Dover,Hartlepool,1,1,2020-01-11,0,0,1
+Partick,Dundee Utd,1,4,2020-01-11,0,1,0
+Morton,Dunfermline,3,2,2020-01-11,1,0,0
+Forfar,Raith,1,1,2020-01-11,0,0,1
+East Fife,Airdrieonians,2,2,2020-01-11,0,0,1
+Peterhead,Falkirk,1,3,2020-01-11,0,1,0
+Edinburgh C,Queen's Park,1,2,2020-01-11,0,1,0
+Annan,Elgin City,0,4,2020-01-11,0,1,0
+Stenh'semuir,Brechin,2,2,2020-01-11,0,0,1
+Strathspey T,Nairn County,0,2,2020-01-11,0,1,0
+Turriff U,Wick Academy,2,3,2020-01-11,0,1,0
+Formartine Utd,Fort William,5,2,2020-01-11,1,0,0
+Inverurie Locos,Huntly,1,1,2020-01-11,0,0,1
+Buckie Thistle,Clachnacuddin,2,1,2020-01-11,1,0,0
+Deveronvale,Rothes,1,2,2020-01-11,0,1,0
+Gala Fairydean,Edusport Acad,3,1,2020-01-11,1,0,0
+E Stirling,Stirling Univ,1,2,2020-01-11,0,1,0
+Cumbernauld C,Dalbeattie Star,3,0,2020-01-11,1,0,0
+Cagliari,Milan,0,2,2020-01-11,0,1,0
+Lazio,Napoli,1,0,2020-01-11,1,0,0
+Inter,Atalanta,1,1,2020-01-11,0,0,1
+Bordeaux,Lyon,1,2,2020-01-11,0,1,0
+Toulouse,Stade Brest,2,5,2020-01-11,0,1,0
+Nimes,Reims,2,0,2020-01-11,1,0,0
+Angers,Nice,1,1,2020-01-11,0,0,1
+Amiens,Montpellier,1,2,2020-01-11,0,1,0
+Metz,Strasbourg,1,0,2020-01-11,1,0,0
+Volos NFC,Xanthi,1,3,2020-01-11,0,1,0
+Larissa,Aris Salonika,0,0,2020-01-11,0,0,1
+Panetolikos,Atromitos,0,1,2020-01-11,0,1,0
+Portimonense,Pacos Ferreira,0,0,2020-01-11,0,0,1
+Boavista,Famalicao,0,1,2020-01-11,0,1,0
+Vitoria Setubal,Sporting,1,3,2020-01-11,0,1,0
+Wellington,Western Sydney,2,0,2020-01-11,1,0,0
+Brisbane Roar,Melbourne C,2,2,2020-01-11,0,0,1
+Perth Glory,Adelaide Utd,3,0,2020-01-11,1,0,0
+Zamora,Mallorca,0,1,2020-01-11,0,1,0
+Gimnastic,Zaragoza,1,3,2020-01-11,0,1,0
+Haro Deportivo,Osasuna,1,2,2020-01-11,0,1,0
+UCAM Murcia,Mirandes,2,3,2020-01-11,0,1,0
+Murcia,Leganes,0,4,2020-01-11,0,1,0
+Portugalete,Real Betis,0,3,2020-01-11,0,1,0
+Ebro,Ponferradina,1,0,2020-01-11,1,0,0
+Ibiza,Albacete,1,1,2020-01-11,0,0,1
+R Majadahonda,Tenerife,1,1,2020-01-11,0,0,1
+Yeclano,Elche,1,2,2020-01-11,0,1,0
+Badajoz,Las Palmas,2,1,2020-01-11,1,0,0
+Cartagena,Girona,2,4,2020-01-11,0,1,0
+C Leonesa,Huesca,2,1,2020-01-11,1,0,0
+Recreativo,Fuenlabrada,0,0,2020-01-11,0,0,1
+Badalona,Getafe,2,0,2020-01-11,1,0,0
+Sestao,Ath Bilbao,0,4,2020-01-11,0,1,0
+Logrones,Cadiz,1,1,2020-01-11,0,0,1
+Tamaraceite,Granada,0,1,2020-01-11,0,1,0
+Orihuela,Villarreal,1,2,2020-01-11,0,1,0
+Marbella,Valladolid,1,1,2020-01-11,0,0,1
+H. Haifa,MS Ashdod,1,0,2020-01-11,1,0,0
+Hapoel Ra'ana,H Beer Sheva,2,1,2020-01-11,1,0,0
+Ironi Kiryat S,Hapoel Hadera,0,1,2020-01-11,0,1,0
+M. Netanya,M. Haifa,0,2,2020-01-11,0,1,0
+Connah's Q,Barry Town,2,0,2020-01-11,1,0,0
+Cardiff MU,Bala Town,1,0,2020-01-11,1,0,0
+Carmarthen,Airbus UK,2,2,2020-01-11,0,0,1
+Newi CD,Penybont,2,3,2020-01-11,0,1,0
+Glentoran,Warrenpoint T,2,1,2020-01-11,1,0,0
+Glenavon,Institute FC,2,2,2020-01-11,0,0,1
+Blyth Sptns,Curzon A,2,1,2020-01-11,1,0,0
+York,Telford,2,0,2020-01-11,1,0,0
+Altrincham,Guiseley,1,1,2020-01-11,0,0,1
+Spennymoor,Kettering,1,2,2020-01-11,0,1,0
+Hereford,Bradford PA,1,1,2020-01-11,0,0,1
+Eastbourne,St Albans,3,3,2020-01-11,0,0,1
+Braintree,Tonbridge,0,1,2020-01-11,0,1,0
+Hemel,Havant & W,1,2,2020-01-11,0,1,0
+Dartford,Oxford C,3,0,2020-01-11,1,0,0
+Wealdstone,Welling,1,0,2020-01-11,1,0,0
+Weymouth,Dulwich H,1,1,2020-01-11,0,0,1
+Billericay,Slough,2,2,2020-01-11,0,0,1
+Bowers & Pitsea,Cray W,1,2,2020-01-11,0,1,0
+Worthing,Merstham,6,1,2020-01-11,1,0,0
+Wingate & F,Cheshunt,1,2,2020-01-11,0,1,0
+Folkestone,Haringey B,1,1,2020-01-11,0,0,1
+Enfield T,Brightlingsea R,2,2,2020-01-11,0,0,1
+Margate,E Thurrock,0,1,2020-01-11,0,1,0
+Potters Bar,Bishop's St.,1,0,2020-01-11,1,0,0
+Leatherhead,Bognor Regis,1,2,2020-01-11,0,1,0
+Horsham,Corinthian Cas,1,0,2020-01-11,1,0,0
+Lewes,Carshalton,0,1,2020-01-11,0,1,0
+Tiverton,Poole Town,0,1,2020-01-11,0,1,0
+Chesham,Beaconsfield,3,0,2020-01-11,1,0,0
+Dorchester,Truro City,2,3,2020-01-11,0,1,0
+Swindon Sup.,Hartley Wint.,3,2,2020-01-11,1,0,0
+Yate,Taunton Town,4,1,2020-01-11,1,0,0
+Met. Police,Hendon,0,3,2020-01-11,0,1,0
+Farnborough,Walton Casuals,2,1,2020-01-11,1,0,0
+Wimborne T,Blackfield & L,2,0,2020-01-11,1,0,0
+Harrow Boro,Hayes & Y,3,2,2020-01-11,1,0,0
+Warrington,Radcliffe Boro,1,0,2020-01-11,1,0,0
+Gainsborough,Witton,3,1,2020-01-11,1,0,0
+Hyde,Whitby,0,2,2020-01-11,0,1,0
+Atherton Colls,Stalybridge,3,0,2020-01-11,1,0,0
+Grantham,Lancaster,0,3,2020-01-11,0,1,0
+Ashton Utd,Stafford,2,1,2020-01-11,1,0,0
+South Shields,Mickleover S,5,2,2020-01-11,1,0,0
+Scarborough A,Nantwich,1,1,2020-01-11,0,0,1
+Buxton,Morpeth Town,2,3,2020-01-11,0,1,0
+Basford United,Bamber Br.,3,0,2020-01-11,1,0,0
+Stowmarket,Glebe,3,0,2020-01-11,1,0,0
+Eynesbury Rovers,Leighton,3,4,2020-01-11,0,1,0
+Christchurch,Sutton Common Rovers,1,2,2020-01-11,0,1,0
+Deal Town,Binfield,1,1,2020-01-11,0,0,1
+Woodbridge T,Plymouth P,0,1,2020-01-11,0,1,0
+Longridge Town,Newark Flowserve,5,1,2020-01-11,1,0,0
+Bitton,Warminster Town,3,1,2020-01-11,1,0,0
+Buckland Ath,Bradford Town,1,2,2020-01-11,0,1,0
+Chatham Town,Corinthian,1,3,2020-01-11,0,1,0
+Vauxhall M,Hebburn Town,0,1,2020-01-11,0,1,0
+West Auck T,Walsall Wood,1,0,2020-01-11,1,0,0
+S Normanton A,Wroxham,1,3,2020-01-11,0,1,0
+Sporting Khalsa,Kirkley & P,4,0,2020-01-11,1,0,0
+Stockton T,Atherstone T,0,1,2020-01-11,0,1,0
+Consett,Lutterworth T,3,1,2020-01-11,1,0,0
+Darlington,Harrogate,0,2,2020-01-11,0,1,0
+Chelmsford,Salisbury FC,4,0,2020-01-11,1,0,0
+Halesowen,Maidenhead,2,2,2020-01-11,0,0,1
+Torquay,Halifax,1,2,2020-01-11,0,1,0
+Notts Co,Dag & Red,2,1,2020-01-11,1,0,0
+Yeovil,Hampton & R,4,0,2020-01-11,1,0,0
+Farsley AFC,Barnet,1,1,2020-01-11,0,0,1
+Ebbsfleet,King's Lynn,1,0,2020-01-11,1,0,0
+Barrow,FC Utd,7,0,2020-01-11,1,0,0
+Eastleigh,Matlock,2,1,2020-01-11,1,0,0
+Royston,Chester,3,0,2020-01-11,1,0,0
+Dorking W,Stockport,1,1,2020-01-11,0,0,1
+Kingstonian,Leamington,1,1,2020-01-11,0,0,1
+Fylde,Southport,4,1,2020-01-11,1,0,0
+Hornchurch,Aveley,1,2,2020-01-11,0,1,0
+Concord R,Bath City,1,1,2020-01-11,0,0,1
+Belfort,Lille II,0,0,2020-01-11,0,0,1
+Epinal,Saint-Quentin,0,0,2020-01-11,0,0,1
+Tottenham,Southampton,3,2,2020-02-05,1,0,0
+Hearts,Kilmarnock,2,3,2020-02-05,0,1,0
+Aberdeen,St Johnstone,0,1,2020-02-05,0,1,0
+Rangers,Hibernian,2,1,2020-02-05,1,0,0
+Ross County,Livingston,2,0,2020-02-05,1,0,0
+St Mirren,Hamilton,1,1,2020-02-05,0,0,1
+Motherwell,Celtic,0,4,2020-02-05,0,1,0
+Lazio,Verona,0,0,2020-02-05,0,0,1
+Toulouse,Strasbourg,0,1,2020-02-05,0,1,0
+Nimes,Dijon,2,0,2020-02-05,1,0,0
+Reims,Nice,1,1,2020-02-05,0,0,1
+Lyon,Amiens,0,0,2020-02-05,0,0,1
+Stade Brest,Bordeaux,1,1,2020-02-05,0,0,1
+Montpellier,Metz,1,1,2020-02-05,0,0,1
+St-Etienne,Marseille,0,2,2020-02-05,0,1,0
+Bnei Yehuda,Hapoel Hadera,0,1,2020-02-05,0,1,0
+M. Netanya,H Beer Sheva,1,1,2020-02-05,0,0,1
+H. Kfar Saba,Beitar J'salem,2,1,2020-02-05,1,0,0
+Zalaegerszeg,Kisvarda,1,1,2020-02-05,0,0,1
+Debrecen,MOL Vidi,1,1,2020-02-05,0,0,1
+Kaposvar,Paksi SE,0,3,2020-02-05,0,1,0
+Puskas FA FC,Diosgyor,2,2,2020-02-05,0,0,1
+Ferencvaros,Honved,0,0,2020-02-05,0,0,1
+SC Verl,Union Berlin,0,1,2020-02-05,0,1,0
+B Leverkusen,Stuttgart,2,1,2020-02-05,1,0,0
+Saarbrucken,Karlsruhe,0,0,2020-02-05,0,0,1
+B Munich,Hoffenheim,4,3,2020-02-05,1,0,0
+Mirandes,Villarreal,4,2,2020-02-05,1,0,0
+Havant & W,Weymouth,3,2,2020-02-05,1,0,0
+Kingstonian,Horsham,1,1,2020-02-05,0,0,1
+Waregem,Club Brugge,1,2,2020-02-05,0,1,0
+Apoel Nicosia,Anorthosis Fam.,0,0,2020-02-05,0,0,1
+Bristol C,Birmingham,1,3,2020-02-07,0,1,0
+Lincoln,Rotherham,0,1,2020-02-07,0,1,0
+Cumbernauld C,Spartans,0,1,2020-02-07,0,1,0
+Roma,Bologna,2,3,2020-02-07,0,1,0
+E Frankfurt,Augsburg,5,0,2020-02-07,1,0,0
+Alaves,Eibar,2,1,2020-02-07,1,0,0
+Angers,Lille,0,2,2020-02-07,0,1,0
+Malatyaspor,Ankaragucu,0,1,2020-02-07,0,1,0
+Arka Gdynia,Cracovia,0,1,2020-02-07,0,1,0
+Slask Wroclaw,Lechia Gdansk,2,2,2020-02-07,0,0,1
+NK Istra 1961,NK Varazdin,1,0,2020-02-07,1,0,0
+Dyn Dresden,SV Darmstadt,2,3,2020-02-07,0,1,0
+SV Sandhausen,Heidenheim,0,1,2020-02-07,0,1,0
+Astra Giurgiu,Chindia Targoviste,1,2,2020-02-07,0,1,0
+Heracles,F. Sittard,2,0,2020-02-07,1,0,0
+Gent,Anderlecht,1,1,2020-02-07,0,0,1
+Almeria,Racing,0,1,2020-02-07,0,1,0
+Pacos Ferreira,Boavista,0,1,2020-02-07,0,1,0
+Melbourne C,Melbourne Vic,2,1,2020-02-07,1,0,0
+Perth Glory,Wellington,4,2,2020-02-07,1,0,0
+The New Saints,Newtown,1,2,2020-02-07,0,1,0
+Penybont,Carmarthen,1,2,2020-02-07,0,1,0
+Airbus UK,Newi CD,2,3,2020-02-07,0,1,0
+Caernarfon,Bala Town,1,2,2020-02-07,0,1,0
+Belfort,Sedan,0,2,2020-02-07,0,1,0
+Watford,Tottenham,0,0,2020-01-18,0,0,1
+Norwich,Bournemouth,1,0,2020-01-18,1,0,0
+Brighton,Aston Villa,1,1,2020-01-18,0,0,1
+Arsenal,Sheff Utd,1,1,2020-01-18,0,0,1
+Southampton,Wolves,2,3,2020-01-18,0,1,0
+Man City,Crystal Palace,2,2,2020-01-18,0,0,1
+West Ham,Everton,1,1,2020-01-18,0,0,1
+Newcastle,Chelsea,1,0,2020-01-18,1,0,0
+QPR,Leeds,1,0,2020-01-18,1,0,0
+Preston,Charlton,2,1,2020-01-18,1,0,0
+Sheff Wed,Blackburn,0,5,2020-01-18,0,1,0
+Huddersfield,Brentford,0,0,2020-01-18,0,0,1
+Birmingham,Cardiff,1,1,2020-01-18,0,0,1
+Bristol C,Barnsley,1,0,2020-01-18,1,0,0
+Millwall,Reading,2,0,2020-01-18,1,0,0
+Swansea,Wigan,2,1,2020-01-18,1,0,0
+Derby,Hull,1,0,2020-01-18,1,0,0
+Lincoln,Blackpool,1,0,2020-01-18,1,0,0
+Doncaster,Coventry,0,1,2020-01-18,0,1,0
+Tranmere,Ipswich,1,2,2020-01-18,0,1,0
+Accrington,Southend,1,2,2020-01-18,0,1,0
+Gillingham,Oxford,1,1,2020-01-18,0,0,1
+Wycombe,Rochdale,2,1,2020-01-18,1,0,0
+Bolton,Portsmouth,0,1,2020-01-18,0,1,0
+AFC W'bledon,Peterborough,1,0,2020-01-18,1,0,0
+Rotherham,Bristol R,3,0,2020-01-18,1,0,0
+Fleetwood,Shrewsbury,2,2,2020-01-18,0,0,1
+MK Dons,Sunderland,0,1,2020-01-18,0,1,0
+Forest Green,Salford,1,2,2020-01-18,0,1,0
+Newport Co,Swindon,2,0,2020-01-18,1,0,0
+Port Vale,Leyton Orient,1,0,2020-01-18,1,0,0
+Northampton,Morecambe,4,1,2020-01-18,1,0,0
+Colchester,Macclesfield,2,1,2020-01-18,1,0,0
+Grimsby,Exeter,0,1,2020-01-18,0,1,0
+Oldham,Carlisle,1,1,2020-01-18,0,0,1
+Crewe,Cheltenham,1,0,2020-01-18,1,0,0
+Walsall,Crawley,2,1,2020-01-18,1,0,0
+Cambridge U,Stevenage,0,4,2020-01-18,0,1,0
+Bradford,Scunthorpe,2,2,2020-01-18,0,0,1
+Plymouth,Mansfield,3,1,2020-01-18,1,0,0
+Wrexham,Woking,3,0,2020-01-18,1,0,0
+Notts Co,Dover,0,0,2020-01-18,0,0,1
+Yeovil,Hartlepool,2,2,2020-01-18,0,0,1
+Aldershot,Chorley,3,3,2020-01-18,0,0,1
+Ebbsfleet,Harrogate,0,2,2020-01-18,0,1,0
+Eastleigh,Chesterfield,0,2,2020-01-18,0,1,0
+Halifax,Maidenhead,5,2,2020-01-18,1,0,0
+Stockport,Sutton Utd,0,0,2020-01-18,0,0,1
+Fylde,Torquay,2,3,2020-01-18,0,1,0
+Solihull M,Boreham W,0,2,2020-01-18,0,1,0
+Barrow,Bromley,2,0,2020-01-18,1,0,0
+Annan,Stirling,2,3,2020-01-18,0,1,0
+Elgin City,Stenh'semuir,2,3,2020-01-18,0,1,0
+Cove Rangers,Cowdenbeath,3,1,2020-01-18,1,0,0
+Hearts,Airdrieonians,5,0,2020-01-18,1,0,0
+Bonnyrigg Rose,Clyde,0,1,2020-01-18,0,1,0
+Aberdeen,Dumbarton,1,0,2020-01-18,1,0,0
+Alloa,Inverness CT,2,3,2020-01-18,0,1,0
+Livingston,Raith,3,1,2020-01-18,1,0,0
+East Kilbride,BSC Glasgow,1,3,2020-01-18,0,1,0
+Arbroath,Falkirk,0,0,2020-01-18,0,0,1
+Hamilton,Edinburgh C,5,0,2020-01-18,1,0,0
+St Johnstone,Morton,3,0,2020-01-18,1,0,0
+St Mirren,Broxburn Ath,3,0,2020-01-18,1,0,0
+Ayr,Ross County,1,0,2020-01-18,1,0,0
+Kilmarnock,Queen's Park,6,0,2020-01-18,1,0,0
+Partick,Celtic,1,2,2020-01-18,0,1,0
+Dundee,Motherwell,0,3,2020-01-18,0,1,0
+Nairn County,Keith,2,1,2020-01-18,1,0,0
+Fraserburgh,Lossiemouth,6,0,2020-01-18,1,0,0
+Rothes,Brora Rangers,0,1,2020-01-18,0,1,0
+Formartine Utd,Turriff U,5,0,2020-01-18,1,0,0
+Buckie Thistle,Deveronvale,5,2,2020-01-18,1,0,0
+Wick Academy,Forres Mech,0,2,2020-01-18,0,1,0
+Gretna 2008,Berwick,1,1,2020-01-18,0,0,1
+Gala Fairydean,Kelty Hearts,1,2,2020-01-18,0,1,0
+Stirling Univ,Spartans,0,0,2020-01-18,0,0,1
+Lazio,Sampdoria,5,1,2020-01-18,1,0,0
+Sassuolo,Torino,2,1,2020-01-18,1,0,0
+Napoli,Fiorentina,0,2,2020-01-18,0,1,0
+F Dusseldorf,W Bremen,0,1,2020-01-18,0,1,0
+Hoffenheim,E Frankfurt,1,2,2020-01-18,0,1,0
+Augsburg,B Dortmund,3,5,2020-01-18,0,1,0
+Cologne,Wolfsburg,3,1,2020-01-18,1,0,0
+Mainz,Freiburg,1,2,2020-01-18,0,1,0
+RB Leipzig,Union Berlin,3,1,2020-01-18,1,0,0
+Levante,Alaves,0,1,2020-01-18,0,1,0
+Real Madrid,Sevilla,2,1,2020-01-18,1,0,0
+Osasuna,Valladolid,0,0,2020-01-18,0,0,1
+Eibar,Atl Madrid,2,0,2020-01-18,1,0,0
+Alanyaspor,Kayserispor,5,1,2020-01-18,1,0,0
+Basaksehir,Malatyaspor,4,1,2020-01-18,1,0,0
+Gazisehir,Fenerbahce,0,2,2020-01-18,0,1,0
+Numancia,Sp. Gijon,2,0,2020-01-18,1,0,0
+Lugo,Albacete,1,0,2020-01-18,1,0,0
+Ponferradina,R. Vallecano,1,1,2020-01-18,0,0,1
+Desp. Aves,Portimonense,3,0,2020-01-18,1,0,0
+V Guimaraes,Santa Clara,1,0,2020-01-18,1,0,0
+Tondela,Moreirense,1,1,2020-01-18,0,0,1
+Belenenses,Vitoria Setubal,0,1,2020-01-18,0,1,0
+KAS Eupen,Charleroi,1,1,2020-01-18,0,0,1
+Oostende,W Beveren,0,1,2020-01-18,0,1,0
+St. Truiden,Kortrijk,2,0,2020-01-18,1,0,0
+Gent,Mouscron-P,3,1,2020-01-18,1,0,0
+Panionios,OFI Crete,1,2,2020-01-18,0,1,0
+Panetolikos,Lamia,1,1,2020-01-18,0,0,1
+F. Sittard,Vitesse Arn.,1,3,2020-01-18,0,1,0
+FC Twente,FC Groningen,0,0,2020-01-18,0,0,1
+Feyenoord,Heerenveen,3,1,2020-01-18,1,0,0
+AZ Alkmaar,Willem II,1,3,2020-01-18,0,1,0
+Brisbane Roar,Wellington,1,0,2020-01-18,1,0,0
+Melbourne C,Newcastle Jets,2,0,2020-01-18,1,0,0
+Epinal,JS Saint-Pierroise,1,0,2020-01-18,1,0,0
+AS P-l-Mezieres,Limonest,0,1,2020-01-18,0,1,0
+Nice,Red Star Paris,2,1,2020-01-18,1,0,0
+Belfort,Nancy,3,1,2020-01-18,1,0,0
+ESM Gonfreville,Lille,0,2,2020-01-18,0,1,0
+Paris,St-Etienne,2,3,2020-01-18,0,1,0
+Angouleme,Strasbourg,1,5,2020-01-18,0,1,0
+Nantes,Lyon,3,4,2020-01-18,0,1,0
+MS Ashdod,Ironi Kiryat S,1,0,2020-01-18,1,0,0
+M. Haifa,Sektzia Nes Tziona,4,0,2020-01-18,1,0,0
+Hapoel Hadera,M. Tel Aviv,0,3,2020-01-18,0,1,0
+Carrick Rangers,Cliftonville,1,0,2020-01-18,1,0,0
+Linfield,Dungannon Sw,0,0,2020-01-18,0,0,1
+Ballymena,Glenavon,0,3,2020-01-18,0,1,0
+Crusaders,Larne,3,0,2020-01-18,1,0,0
+Warrenpoint T,Coleraine,0,4,2020-01-18,0,1,0
+Institute FC,Glentoran,0,2,2020-01-18,0,1,0
+The New Saints,Connah's Q,2,1,2020-01-18,1,0,0
+Aberystwyth,Penybont,1,0,2020-01-18,1,0,0
+Bala Town,Newi CD,1,3,2020-01-18,0,1,0
+Newtown,Airbus UK,0,0,2020-01-18,0,0,1
+Cardiff MU,Caernarfon,2,0,2020-01-18,1,0,0
+Barry Town,Carmarthen,8,1,2020-01-18,1,0,0
+Darlington,Alfreton,3,0,2020-01-18,1,0,0
+Gateshead,Altrincham,2,0,2020-01-18,1,0,0
+Leamington,Chester,0,0,2020-01-18,0,0,1
+Southport,Boston Utd,1,3,2020-01-18,0,1,0
+Curzon A,Farsley AFC,4,0,2020-01-18,1,0,0
+Guiseley,Gloucester,2,1,2020-01-18,1,0,0
+Kidderminster,Spennymoor,1,1,2020-01-18,0,0,1
+King's Lynn,York,1,0,2020-01-18,1,0,0
+Bradford PA,Brackley,1,2,2020-01-18,0,1,0
+Chelmsford,Eastbourne,1,1,2020-01-18,0,0,1
+Dulwich H,Chippenham,1,1,2020-01-18,0,0,1
+Slough,Dartford,1,0,2020-01-18,1,0,0
+Oxford C,Braintree,1,4,2020-01-18,0,1,0
+St Albans,Maidstone,1,0,2020-01-18,1,0,0
+Dorking W,Billericay,4,4,2020-01-18,0,0,1
+Bath City,Hemel,2,0,2020-01-18,1,0,0
+Welling,Hungerford,3,2,2020-01-18,1,0,0
+Havant & W,Wealdstone,2,4,2020-01-18,0,1,0
+Concord R,Weymouth,1,2,2020-01-18,0,1,0
+Merstham,Horsham,1,0,2020-01-18,1,0,0
+Bognor Regis,Folkestone,4,3,2020-01-18,1,0,0
+Cheshunt,Enfield T,2,3,2020-01-18,0,1,0
+Brightlingsea R,Worthing,0,3,2020-01-18,0,1,0
+Cray W,Lewes,2,1,2020-01-18,1,0,0
+Corinthian Cas,Bowers & Pitsea,0,1,2020-01-18,0,1,0
+Carshalton,Wingate & F,3,2,2020-01-18,1,0,0
+Bishop's St.,Margate,2,2,2020-01-18,0,0,1
+Haringey B,Potters Bar,3,2,2020-01-18,1,0,0
+E Thurrock,Kingstonian,3,3,2020-01-18,0,0,1
+Hornchurch,Leatherhead,1,1,2020-01-18,0,0,1
+Merthyr,Farnborough,2,0,2020-01-18,1,0,0
+Blackfield & L,Harrow Boro,2,0,2020-01-18,1,0,0
+Truro City,Chesham,0,1,2020-01-18,0,1,0
+Walton Casuals,Yate,1,1,2020-01-18,0,0,1
+Salisbury FC,Swindon Sup.,0,2,2020-01-18,0,1,0
+Hendon,Gosport Bor,2,1,2020-01-18,1,0,0
+Hayes & Y,Dorchester,5,0,2020-01-18,1,0,0
+Taunton Town,Wimborne T,3,0,2020-01-18,1,0,0
+Radcliffe Boro,Gainsborough,0,2,2020-01-18,0,1,0
+Bamber Br.,Buxton,2,1,2020-01-18,1,0,0
+Mickleover S,Grantham,4,1,2020-01-18,1,0,0
+Nantwich,Hyde,4,0,2020-01-18,1,0,0
+Morpeth Town,Ashton Utd,1,4,2020-01-18,0,1,0
+Stalybridge,Basford United,2,3,2020-01-18,0,1,0
+Scarborough A,Matlock,2,1,2020-01-18,1,0,0
+Stafford,Warrington,2,2,2020-01-18,0,0,1
+Lancaster,South Shields,1,2,2020-01-18,0,1,0
+Whitby,FC Utd,1,2,2020-01-18,0,1,0
+Witton,Atherton Colls,2,1,2020-01-18,1,0,0
+Binfield,Deal Town,4,4,2020-01-18,0,0,1
+Real Sociedad II,Unionistas,0,0,2020-01-18,0,0,1
+Botosani,Hermannstadt,2,1,2020-02-10,1,0,0
+Steaua,Academica Clinceni,0,0,2020-02-10,0,0,1
+Panetolikos,Volos NFC,1,1,2020-02-10,0,0,1
+Holstein Kiel,St Pauli,2,1,2020-02-10,1,0,0
+Beitar J'salem,M. Haifa,2,0,2020-02-10,1,0,0
+Lens,Grenoble,0,0,2020-02-10,0,0,1
+Royal Antwerp,Genk,1,1,2020-02-13,0,0,1
+Milan,Juventus,1,1,2020-02-13,0,0,1
+Sociedad,Mirandes,2,1,2020-02-13,1,0,0
+Epinal,St-Etienne,1,2,2020-02-13,0,1,0
+Sivasspor,Antalyaspor,1,1,2020-02-13,0,0,1
+Huddersfield,Cardiff,0,3,2020-02-12,0,1,0
+Luton,Sheff Wed,1,0,2020-02-12,1,0,0
+Bristol C,Derby,3,2,2020-02-12,1,0,0
+Millwall,Fulham,1,1,2020-02-12,0,0,1
+Reading,West Brom,1,2,2020-02-12,0,1,0
+Stoke,Preston,0,2,2020-02-12,0,1,0
+Celtic,Hearts,5,0,2020-02-12,1,0,0
+Livingston,St Mirren,2,1,2020-02-12,1,0,0
+St Johnstone,Motherwell,2,1,2020-02-12,1,0,0
+Kilmarnock,Rangers,2,1,2020-02-12,1,0,0
+Hibernian,Ross County,3,0,2020-02-12,1,0,0
+W Beveren,Kortrijk,1,2,2020-02-12,0,1,0
+St Liege,Club Brugge,0,0,2020-02-12,0,0,1
+Dijon,Paris St-G.,1,6,2020-02-12,0,1,0
+Lyon,Marseille,1,0,2020-02-12,1,0,0
+Inter,Napoli,0,1,2020-02-12,0,1,0
+Ath Bilbao,Granada,1,0,2020-02-12,1,0,0
+Lewes,Hornchurch,0,0,2020-02-12,0,0,1
+Worcester,Atherstone T,1,1,2020-02-12,0,0,1
+Leamington,Wolverhampton C,0,2,2020-02-12,0,1,0
+Galatasaray,Alanyaspor,3,1,2020-02-12,1,0,0
+Olympiakos,Lamia,3,2,2020-02-12,1,0,0
+AZ Alkmaar,NAC Breda,1,0,2020-02-12,1,0,0
+Vitesse Arn.,Ajax,0,3,2020-02-12,0,1,0
+Porto,Academico Viseu,3,0,2020-02-12,1,0,0
+Blackburn,Hull,3,0,2020-02-11,1,0,0
+Nottm Forest,Charlton,0,1,2020-02-11,0,1,0
+Brentford,Leeds,1,1,2020-02-11,0,0,1
+Barnsley,Birmingham,0,1,2020-02-11,0,1,0
+Swansea,QPR,0,0,2020-02-11,0,0,1
+Wigan,Middlesbrough,2,2,2020-02-11,0,0,1
+Shrewsbury,Accrington,0,2,2020-02-11,0,1,0
+Lincoln,MK Dons,1,1,2020-02-11,0,0,1
+Doncaster,Bolton,2,1,2020-02-11,1,0,0
+Tranmere,Bristol R,0,0,2020-02-11,0,0,1
+Blackpool,Gillingham,2,3,2020-02-11,0,1,0
+Wycombe,Fleetwood,0,1,2020-02-11,0,1,0
+AFC W'bledon,Ipswich,0,0,2020-02-11,0,0,1
+Coventry,Portsmouth,1,0,2020-02-11,1,0,0
+Burton,Oxford,2,2,2020-02-11,0,0,1
+Sunderland,Rochdale,3,0,2020-02-11,1,0,0
+Peterborough,Southend,4,0,2020-02-11,1,0,0
+Leyton Orient,Mansfield,2,1,2020-02-11,1,0,0
+Salford,Plymouth,2,3,2020-02-11,0,1,0
+Forest Green,Port Vale,2,3,2020-02-11,0,1,0
+Newport Co,Walsall,0,0,2020-02-11,0,0,1
+Northampton,Swindon,0,1,2020-02-11,0,1,0
+Colchester,Grimsby,2,3,2020-02-11,0,1,0
+Carlisle,Cheltenham,0,1,2020-02-11,0,1,0
+Crewe,Crawley,2,1,2020-02-11,1,0,0
+Exeter,Oldham,5,1,2020-02-11,1,0,0
+Morecambe,Macclesfield,2,0,2020-02-11,1,0,0
+Scunthorpe,Cambridge U,0,2,2020-02-11,0,1,0
+Bradford,Stevenage,3,1,2020-02-11,1,0,0
+Eastleigh,Fylde,2,2,2020-02-11,0,0,1
+Harrogate,Yeovil,3,0,2020-02-11,1,0,0
+Solihull M,Barnet,1,0,2020-02-11,1,0,0
+Hamilton,Aberdeen,1,3,2020-02-11,0,1,0
+FC Emmen,FC Twente,2,0,2020-02-11,1,0,0
+Sp. Rotterdam,Den Haag,4,2,2020-02-11,1,0,0
+Charleroi,Mechelen,2,1,2020-02-11,1,0,0
+Belfort,Rennes,0,3,2020-02-11,0,1,0
+Farsley AFC,Kidderminster,0,1,2020-02-11,0,1,0
+Spennymoor,Altrincham,3,2,2020-02-11,1,0,0
+Hampton & R,Welling,1,1,2020-02-11,0,0,1
+Bowers & Pitsea,Haringey B,3,2,2020-02-11,1,0,0
+Leatherhead,Kingstonian,1,1,2020-02-11,0,0,1
+Merthyr,Taunton Town,4,2,2020-02-11,1,0,0
+Chesham,Swindon Sup.,1,2,2020-02-11,0,1,0
+Weston S-M.,Wimborne T,5,0,2020-02-11,1,0,0
+Folkestone,Tonbridge,3,1,2020-02-11,1,0,0
+Famalicao,Benfica,1,1,2020-02-11,0,0,1
+Sheff Utd,Bournemouth,2,1,2020-02-09,1,0,0
+Millwall,West Brom,0,2,2020-02-09,0,1,0
+BSC Glasgow,Hibernian,1,4,2020-02-09,0,1,0
+Clyde,Celtic,0,3,2020-02-09,0,1,0
+Spal,Sassuolo,1,2,2020-02-09,0,1,0
+Napoli,Lecce,2,3,2020-02-09,0,1,0
+Genoa,Cagliari,1,0,2020-02-09,1,0,0
+Brescia,Udinese,1,1,2020-02-09,0,0,1
+Parma,Lazio,0,1,2020-02-09,0,1,0
+Inter,Milan,4,2,2020-02-09,1,0,0
+B Munich,RB Leipzig,0,0,2020-02-09,0,0,1
+Espanyol,Mallorca,1,0,2020-02-09,1,0,0
+Sociedad,Ath Bilbao,2,1,2020-02-09,1,0,0
+Osasuna,Real Madrid,1,4,2020-02-09,0,1,0
+Celta Vigo,Sevilla,2,1,2020-02-09,1,0,0
+Real Betis,Barcelona,2,3,2020-02-09,0,1,0
+Montpellier,St-Etienne,1,0,2020-02-09,1,0,0
+Strasbourg,Reims,3,0,2020-02-09,1,0,0
+Paris St-G.,Lyon,4,2,2020-02-09,1,0,0
+Kayserispor,Antalyaspor,2,2,2020-02-09,0,0,1
+Sivasspor,Basaksehir,1,1,2020-02-09,0,0,1
+Kasimpasa,Galatasaray,0,3,2020-02-09,0,1,0
+Alcorcon,Deportivo,0,1,2020-02-09,0,1,0
+Albacete,Ponferradina,1,1,2020-02-09,0,0,1
+Sp. Gijon,Mirandes,2,2,2020-02-09,0,0,1
+Lugo,Elche,2,2,2020-02-09,0,0,1
+R. Vallecano,Real Oviedo,1,1,2020-02-09,0,0,1
+Malaga,Numancia,2,1,2020-02-09,1,0,0
+Wisla Plock,Pogon Szczecin,2,3,2020-02-09,0,1,0
+Piast Gliwice,Zaglebie Lubin,2,0,2020-02-09,1,0,0
+Legia Warsaw,LKS Lodz,3,1,2020-02-09,1,0,0
+Sepsi Sfantu G,CSMS Iasi,1,0,2020-02-09,1,0,0
+Voluntari,Din. Bucharest,2,1,2020-02-09,1,0,0
+Viitorul C,Uni Craiova,1,2,2020-02-09,0,1,0
+Arminia,Regensburg,6,0,2020-02-09,1,0,0
+Greuther Furth,Hannover,1,3,2020-02-09,0,1,0
+Wehen-Wiesb.,Bochum,0,1,2020-02-09,0,1,0
+Asteras T.,Aris Salonika,1,1,2020-02-09,0,0,1
+Atromitos,Olympiakos,0,1,2020-02-09,0,1,0
+PAOK Salonika,OFI Crete,4,0,2020-02-09,1,0,0
+AEK Athens,Panathinaikos,1,0,2020-02-09,1,0,0
+Rijeka,Slaven,1,0,2020-02-09,1,0,0
+Din Zagreb,HNK Gorica,2,0,2020-02-09,1,0,0
+Thun,Lugano,3,2,2020-02-09,1,0,0
+Neuc. Xamax,Lucerne,0,1,2020-02-09,0,1,0
+St Gallen,Servette,1,0,2020-02-09,1,0,0
+Moreirense,Vitoria Setubal,1,1,2020-02-09,0,0,1
+Tondela,Maritimo,0,0,2020-02-09,0,0,1
+Sporting,Portimonense,2,1,2020-02-09,1,0,0
+Desp. Aves,Rio Ave,0,4,2020-02-09,0,1,0
+Newcastle Jets,Central Coast M,4,3,2020-02-09,1,0,0
+MS Ashdod,Bnei Yehuda,0,1,2020-02-09,0,1,0
+H Beer Sheva,Sektzia Nes Tziona,3,0,2020-02-09,1,0,0
+Amstetten,RB Salzburg,0,3,2020-02-09,0,1,0
+Wolves,Leicester,0,0,2020-02-14,0,0,1
+Hull,Swansea,4,4,2020-02-14,0,0,1
+Alloa,Dundee Utd,0,0,2020-02-14,0,0,1
+Partick,Raith,1,2,2020-02-14,0,1,0
+B Dortmund,E Frankfurt,4,0,2020-02-14,1,0,0
+Valencia,Atl Madrid,2,2,2020-02-14,0,0,1
+Monaco,Montpellier,1,0,2020-02-14,1,0,0
+Chindia Targoviste,Voluntari,1,2,2020-02-14,0,1,0
+CFR Cluj,Viitorul C,0,0,2020-02-14,0,0,1
+Basaksehir,Besiktas,1,0,2020-02-14,1,0,0
+C. Budejovice,Mlada Boleslav,3,0,2020-02-14,1,0,0
+Gornik Zabrze,Arka Gdynia,2,0,2020-02-14,1,0,0
+Lechia Gdansk,Piast Gliwice,1,0,2020-02-14,1,0,0
+Loko. Zagreb,NK Istra 1961,2,0,2020-02-14,1,0,0
+Heidenheim,Nuremberg,2,2,2020-02-14,0,0,1
+St Pauli,Dyn Dresden,0,0,2020-02-14,0,0,1
+Esbjerg,FC Copenhagen,1,0,2020-02-14,1,0,0
+RB Salzburg,LASK Linz,2,3,2020-02-14,0,1,0
+VVV Venlo,Heracles,1,0,2020-02-14,1,0,0
+KAS Eupen,Gent,2,3,2020-02-14,0,1,0
+Deportivo,Girona,2,2,2020-02-14,0,0,1
+Vitoria Setubal,Gil Vicente,1,2,2020-02-14,0,1,0
+Adelaide Utd,Central Coast M,2,0,2020-02-14,1,0,0
+Tsarsko Selo,Vitosha Bistritsa,1,0,2020-02-14,1,0,0
+Aberystwyth,Airbus UK,5,4,2020-02-14,1,0,0
+Connah's Q,Caernarfon,4,0,2020-02-14,1,0,0
+Bala Town,The New Saints,1,1,2020-02-14,0,0,1
+Ballymena,Linfield,1,4,2020-02-14,0,1,0
+Glentoran,Carrick Rangers,0,0,2020-02-14,0,0,1
+Warrenpoint T,Institute FC,2,2,2020-02-14,0,0,1
+Dungannon Sw,Larne,0,2,2020-02-14,0,1,0
+Dundalk,Derry City,1,0,2020-02-14,1,0,0
+St Patrick's,Waterford,0,1,2020-02-14,0,1,0
+Cork City,Shelbourne,0,1,2020-02-14,0,1,0
+Finn Harps,Sligo Rovers,1,0,2020-02-14,1,0,0
+Stoke,Swansea,2,0,2020-01-25,1,0,0
+Ipswich,Lincoln,1,0,2020-01-25,1,0,0
+Rochdale,Gillingham,2,2,2020-01-25,0,0,1
+Bristol R,Fleetwood,0,0,2020-01-25,0,0,1
+Burton,Accrington,1,1,2020-01-25,0,0,1
+Peterborough,Rotherham,2,1,2020-01-25,1,0,0
+Leyton Orient,Newport Co,2,1,2020-01-25,1,0,0
+Salford,Oldham,1,1,2020-01-25,0,0,1
+Macclesfield,Forest Green,2,1,2020-01-25,1,0,0
+Carlisle,Walsall,2,1,2020-01-25,1,0,0
+Crawley,Grimsby,3,2,2020-01-25,1,0,0
+Exeter,Colchester,0,0,2020-01-25,0,0,1
+Mansfield,Bradford,3,0,2020-01-25,1,0,0
+Stevenage,Plymouth,1,2,2020-01-25,0,1,0
+Morecambe,Cambridge U,1,1,2020-01-25,0,0,1
+Scunthorpe,Crewe,2,2,2020-01-25,0,0,1
+Swindon,Port Vale,3,0,2020-01-25,1,0,0
+Chorley,Halifax,0,1,2020-01-25,0,1,0
+Torquay,Ebbsfleet,0,0,2020-01-25,0,0,1
+Woking,Yeovil,1,0,2020-01-25,1,0,0
+Dover,Aldershot,2,0,2020-01-25,1,0,0
+Bromley,Barnet,1,2,2020-01-25,0,1,0
+Boreham W,Barrow,1,1,2020-01-25,0,0,1
+Maidenhead,Eastleigh,2,0,2020-01-25,1,0,0
+Chesterfield,Fylde,1,1,2020-01-25,0,0,1
+Hartlepool,Stockport,2,0,2020-01-25,1,0,0
+Sutton Utd,Solihull M,0,0,2020-01-25,0,0,1
+Harrogate,Wrexham,0,2,2020-01-25,0,1,0
+Dag & Red,Notts Co,2,0,2020-01-25,1,0,0
+Brentford,Leicester,0,1,2020-01-25,0,1,0
+Portsmouth,Barnsley,4,2,2020-01-25,1,0,0
+Newcastle,Oxford,0,0,2020-01-25,0,0,1
+Reading,Cardiff,1,1,2020-01-25,0,0,1
+Coventry,Birmingham,0,0,2020-01-25,0,0,1
+Millwall,Sheff Utd,0,2,2020-01-25,0,1,0
+Southampton,Tottenham,1,1,2020-01-25,0,0,1
+Burnley,Norwich,1,2,2020-01-25,0,1,0
+West Ham,West Brom,0,1,2020-01-25,0,1,0
+Hull,Chelsea,1,2,2020-01-25,0,1,0
+Celtic,Ross County,3,0,2020-01-25,1,0,0
+Hamilton,Livingston,2,4,2020-01-25,0,1,0
+St Johnstone,Kilmarnock,2,1,2020-01-25,1,0,0
+Motherwell,Hibernian,0,0,2020-01-25,0,0,1
+Queen of Sth,Alloa,2,3,2020-01-25,0,1,0
+Arbroath,Partick,2,1,2020-01-25,1,0,0
+Ayr,Inverness CT,1,0,2020-01-25,1,0,0
+Dundee Utd,Morton,1,1,2020-01-25,0,0,1
+Airdrieonians,Stranraer,0,0,2020-01-25,0,0,1
+Raith,Montrose,4,3,2020-01-25,1,0,0
+Clyde,East Fife,2,1,2020-01-25,1,0,0
+Falkirk,Forfar,6,0,2020-01-25,1,0,0
+Peterhead,Dumbarton,1,0,2020-01-25,1,0,0
+Queen's Park,Albion,2,2,2020-01-25,0,0,1
+Cowdenbeath,Brechin,3,2,2020-01-25,1,0,0
+Stenh'semuir,Edinburgh C,1,2,2020-01-25,0,1,0
+Cove Rangers,Annan,2,0,2020-01-25,1,0,0
+Stirling,Elgin City,1,2,2020-01-25,0,1,0
+Fraserburgh,Nairn County,3,1,2020-01-25,1,0,0
+Turriff U,Clachnacuddin,2,0,2020-01-25,1,0,0
+Lossiemouth,Wick Academy,0,2,2020-01-25,0,1,0
+Brora Rangers,Deveronvale,4,2,2020-01-25,1,0,0
+Keith,Huntly,0,1,2020-01-25,0,1,0
+Inverurie Locos,Rothes,5,0,2020-01-25,1,0,0
+Vale of Leithen,E Stirling,0,3,2020-01-25,0,1,0
+Civil Serv Strol,Kelty Hearts,2,3,2020-01-25,0,1,0
+Berwick,East Kilbride,0,2,2020-01-25,0,1,0
+Dalbeattie Star,Bonnyrigg Rose,0,1,2020-01-25,0,1,0
+Gala Fairydean,Gretna 2008,4,1,2020-01-25,1,0,0
+Edinburgh Uni,Cumbernauld C,1,0,2020-01-25,1,0,0
+Spartans,Stirling Univ,3,2,2020-01-25,1,0,0
+Edusport Acad,BSC Glasgow,1,4,2020-01-25,0,1,0
+Spal,Bologna,1,3,2020-01-25,0,1,0
+Fiorentina,Genoa,0,0,2020-01-25,0,0,1
+Torino,Atalanta,0,7,2020-01-25,0,1,0
+Freiburg,SC Paderborn,0,2,2020-01-25,0,1,0
+Union Berlin,Augsburg,2,0,2020-01-25,1,0,0
+E Frankfurt,RB Leipzig,2,0,2020-01-25,1,0,0
+B M'gladbach,Mainz,3,1,2020-01-25,1,0,0
+Wolfsburg,Hertha Berlin,1,2,2020-01-25,0,1,0
+B Munich,Schalke,5,0,2020-01-25,1,0,0
+Espanyol,Ath Bilbao,1,1,2020-01-25,0,0,1
+Valencia,Barcelona,2,0,2020-01-25,1,0,0
+Alaves,Villarreal,1,2,2020-01-25,0,1,0
+Sevilla,Granada,2,0,2020-01-25,1,0,0
+Marseille,Angers,0,0,2020-01-25,0,0,1
+Reims,Metz,0,1,2020-01-25,0,1,0
+Stade Brest,Amiens,2,1,2020-01-25,1,0,0
+Monaco,Strasbourg,1,3,2020-01-25,0,1,0
+St-Etienne,Nimes,2,1,2020-01-25,1,0,0
+Montpellier,Dijon,2,1,2020-01-25,1,0,0
+Kayserispor,Ankaragucu,1,1,2020-01-25,0,0,1
+Kasimpasa,Alanyaspor,1,2,2020-01-25,0,1,0
+Fenerbahce,Basaksehir,2,0,2020-01-25,1,0,0
+Huesca,Lugo,2,1,2020-01-25,1,0,0
+Sp. Gijon,Fuenlabrada,1,0,2020-01-25,1,0,0
+Las Palmas,Tenerife,0,0,2020-01-25,0,0,1
+Zaragoza,Numancia,1,0,2020-01-25,1,0,0
+Larissa,Panathinaikos,0,2,2020-01-25,0,1,0
+Heerenveen,AZ Alkmaar,1,2,2020-01-25,0,1,0
+Heracles,Feyenoord,2,3,2020-01-25,0,1,0
+RKC Waalwijk,VVV Venlo,1,2,2020-01-25,0,1,0
+Sp. Rotterdam,F. Sittard,1,1,2020-01-25,0,0,1
+Neuc. Xamax,Servette,1,2,2020-01-25,0,1,0
+FC Zurich,Lucerne,2,3,2020-01-25,0,1,0
+W Beveren,KAS Eupen,0,1,2020-01-25,0,1,0
+Mouscron-P,St. Truiden,1,3,2020-01-25,0,1,0
+Gent,Genk,4,1,2020-01-25,1,0,0
+Central Coast M,Brisbane Roar,0,1,2020-01-25,0,1,0
+Melbourne C,Perth Glory,0,0,2020-01-25,0,0,1
+H. Kfar Saba,H Tel Aviv,1,2,2020-01-25,0,1,0
+Ironi Kiryat S,H Beer Sheva,0,0,2020-01-25,0,0,1
+H. Haifa,Hapoel Ra'ana,2,2,2020-01-25,0,0,1
+M. Tel Aviv,MS Ashdod,2,0,2020-01-25,1,0,0
+Ferencvaros,Paksi SE,4,0,2020-01-25,1,0,0
+Zalaegerszeg,Diosgyor,1,3,2020-01-25,0,1,0
+Mezokovesd SE,Kisvarda,1,0,2020-01-25,1,0,0
+MOL Vidi,Honved,0,0,2020-01-25,0,0,1
+Kaposvar,Puskas FA FC,1,1,2020-01-25,0,0,1
+Debrecen,Ujpest Dozsa,4,0,2020-01-25,1,0,0
+Carrick Rangers,Warrenpoint T,1,2,2020-01-25,0,1,0
+Linfield,Glenavon,8,1,2020-01-25,1,0,0
+Crusaders,Ballymena,2,0,2020-01-25,1,0,0
+Dungannon Sw,Institute FC,2,0,2020-01-25,1,0,0
+Larne,Glentoran,2,1,2020-01-25,1,0,0
+Blyth Sptns,King's Lynn,0,4,2020-01-25,0,1,0
+York,Kettering,1,0,2020-01-25,1,0,0
+Gloucester,Southport,0,1,2020-01-25,0,1,0
+Altrincham,Bradford PA,2,0,2020-01-25,1,0,0
+Boston Utd,Kidderminster,2,0,2020-01-25,1,0,0
+Farsley AFC,Telford,1,1,2020-01-25,0,0,1
+Chester,Darlington,3,0,2020-01-25,1,0,0
+Brackley,Guiseley,0,0,2020-01-25,0,0,1
+Spennymoor,Leamington,2,0,2020-01-25,1,0,0
+Hereford,Curzon A,1,1,2020-01-25,0,0,1
+Chippenham,Havant & W,0,0,2020-01-25,0,0,1
+Hungerford,Chelmsford,1,0,2020-01-25,1,0,0
+Maidstone,Oxford C,1,0,2020-01-25,1,0,0
+Eastbourne,Concord R,2,2,2020-01-25,0,0,1
+Braintree,Slough,0,1,2020-01-25,0,1,0
+Hemel,Welling,0,2,2020-01-25,0,1,0
+Dartford,Dulwich H,1,0,2020-01-25,1,0,0
+Wealdstone,Bath City,7,0,2020-01-25,1,0,0
+Weymouth,Dorking W,2,1,2020-01-25,1,0,0
+Billericay,Tonbridge,3,3,2020-01-25,0,0,1
+Hampton & R,St Albans,2,1,2020-01-25,1,0,0
+Worthing,Cheshunt,2,0,2020-01-25,1,0,0
+Wingate & F,Brightlingsea R,0,0,2020-01-25,0,0,1
+Folkestone,Corinthian Cas,3,1,2020-01-25,1,0,0
+Enfield T,Cray W,2,3,2020-01-25,0,1,0
+Margate,Haringey B,4,2,2020-01-25,1,0,0
+Potters Bar,Bognor Regis,0,1,2020-01-25,0,1,0
+Kingstonian,Carshalton,3,1,2020-01-25,1,0,0
+Leatherhead,Merstham,0,0,2020-01-25,0,0,1
+Horsham,Bishop's St.,3,3,2020-01-25,0,0,1
+Lewes,E Thurrock,0,3,2020-01-25,0,1,0
+Bowers & Pitsea,Hornchurch,0,1,2020-01-25,0,1,0
+Tiverton,Walton Casuals,2,2,2020-01-25,0,0,1
+Chesham,Taunton Town,1,1,2020-01-25,0,0,1
+Dorchester,Salisbury FC,0,5,2020-01-25,0,1,0
+Weston S-M.,Hayes & Y,1,5,2020-01-25,0,1,0
+Swindon Sup.,Truro City,1,3,2020-01-25,0,1,0
+Yate,Poole Town,1,1,2020-01-25,0,0,1
+Gosport Bor,Merthyr,2,2,2020-01-25,0,0,1
+Met. Police,Blackfield & L,2,0,2020-01-25,1,0,0
+Farnborough,Beaconsfield,2,0,2020-01-25,1,0,0
+Wimborne T,Hendon,0,2,2020-01-25,0,1,0
+Harrow Boro,Hartley Wint.,1,4,2020-01-25,0,1,0
+Warrington,Whitby,2,1,2020-01-25,1,0,0
+Hyde,Grantham,3,0,2020-01-25,1,0,0
+Bamber Br.,Radcliffe Boro,2,1,2020-01-25,1,0,0
+Atherton Colls,Gainsborough,1,3,2020-01-25,0,1,0
+Ashton Utd,Lancaster,1,0,2020-01-25,1,0,0
+South Shields,Witton,1,2,2020-01-25,0,1,0
+Stalybridge,Nantwich,0,2,2020-01-25,0,1,0
+Stafford,Scarborough A,1,0,2020-01-25,1,0,0
+Buxton,FC Utd,2,2,2020-01-25,0,0,1
+Basford United,Morpeth Town,1,0,2020-01-25,1,0,0
+Montlucon,Limonest,1,1,2020-01-25,0,0,1
+Braga,Porto,1,0,2020-01-25,1,0,0
+IC Croix Football,Epinal,2,1,2020-01-25,1,0,0
+Doxa,Apoel Nicosia,0,3,2020-01-25,0,1,0
+Chelsea,Man Utd,0,2,2020-02-17,0,1,0
+Milan,Torino,1,0,2020-02-17,1,0,0
+Antalyaspor,Kasimpasa,3,1,2020-02-17,1,0,0
+Gazisehir,Rizespor,2,0,2020-02-17,1,0,0
+Jablonec,Dukla Pribram,4,0,2020-02-17,1,0,0
+OFI Crete,Atromitos,1,0,2020-02-17,1,0,0
+Midtjylland,Lyngby,2,0,2020-02-17,1,0,0
+Hermannstadt,Astra Giurgiu,2,2,2020-02-17,0,0,1
+Bochum,Stuttgart,0,1,2020-02-17,0,1,0
+Arda,Slavia Sofia,0,1,2020-02-17,0,1,0
+Beitar J'salem,H Tel Aviv,0,1,2020-02-17,0,1,0
+Chelmsford,Tonbridge,3,1,2020-02-17,1,0,0
+Chateauroux,Lens,3,2,2020-02-17,1,0,0
+Atalanta,Valencia,4,1,2020-02-19,1,0,0
+Tottenham,RB Leipzig,0,1,2020-02-19,0,1,0
+Man City,West Ham,2,0,2020-02-19,1,0,0
+Newport Co,Salford,0,0,2020-02-19,0,0,1
+Kilmarnock,Aberdeen,3,4,2020-02-19,0,1,0
+Nordsjaelland,AC Horsens,6,0,2020-02-19,1,0,0
+Mirandes,Zaragoza,1,1,2020-02-19,0,0,1
+Lewes,Worthing,1,3,2020-02-19,0,1,0
+Doxa,Omonia Nicosia,1,1,2020-02-19,0,0,1
+Portmore United,Cruz Azul,1,2,2020-02-19,0,1,0
+Leon,Los Angeles FC,2,0,2020-02-19,1,0,0
+Motagua,Atlanta U,1,1,2020-02-19,0,0,1
+Shakhtar,Benfica,2,1,2020-02-20,1,0,0
+Club Brugge,Man Utd,1,1,2020-02-20,0,0,1
+CFR Cluj,Sevilla,1,1,2020-02-20,0,0,1
+FC Copenhagen,Celtic,1,1,2020-02-20,0,0,1
+E Frankfurt,RB Salzburg,4,1,2020-02-20,1,0,0
+Sporting,Basaksehir,3,1,2020-02-20,1,0,0
+Getafe,Ajax,2,0,2020-02-20,1,0,0
+Ludogorets,Inter,0,2,2020-02-20,0,1,0
+Wolves,Espanyol,4,0,2020-02-20,1,0,0
+Rangers,Braga,3,2,2020-02-20,1,0,0
+Roma,Gent,1,0,2020-02-20,1,0,0
+Olympiakos,Arsenal,0,1,2020-02-20,0,1,0
+Wolfsburg,Malmo,2,1,2020-02-20,1,0,0
+AZ Alkmaar,LASK Linz,1,1,2020-02-20,0,0,1
+B Leverkusen,Porto,2,1,2020-02-20,1,0,0
+Apoel Nicosia,Basel,0,3,2020-02-20,0,1,0
+Congo,Cameroon,1,1,2020-02-20,0,0,1
+Saprissa,Montreal Imp,2,2,2020-02-20,0,0,1
+Alianza,Tigres,2,1,2020-02-20,1,0,0
+Comunicaciones,Club America,1,1,2020-02-20,0,0,1
+B Dortmund,Paris St-G.,2,1,2020-02-18,1,0,0
+Atl Madrid,Liverpool,1,0,2020-02-18,1,0,0
+Southend,Gillingham,0,1,2020-02-18,0,1,0
+Oxford,AFC W'bledon,5,0,2020-02-18,1,0,0
+Macclesfield,Plymouth,1,1,2020-02-18,0,0,1
+Barrow,Dover,1,0,2020-02-18,1,0,0
+Portsmouth,Exeter,3,2,2020-02-18,1,0,0
+Falkirk,East Fife,2,0,2020-02-18,1,0,0
+Motherwell,St Mirren,4,4,2020-02-18,0,0,1
+Chester,King's Lynn,3,2,2020-02-18,1,0,0
+Brackley,Southport,1,1,2020-02-18,0,0,1
+Alfreton,Leamington,1,0,2020-02-18,1,0,0
+Maidstone,Bath City,0,2,2020-02-18,0,1,0
+Oxford C,Dorking W,2,1,2020-02-18,1,0,0
+Bowers & Pitsea,Brightlingsea R,7,0,2020-02-18,1,0,0
+Margate,Hornchurch,2,2,2020-02-18,0,0,1
+E Thurrock,Carshalton,2,0,2020-02-18,1,0,0
+Yate,Swindon Sup.,2,0,2020-02-18,1,0,0
+Salisbury FC,Truro City,0,3,2020-02-18,0,1,0
+Hayes & Y,Blackfield & L,6,0,2020-02-18,1,0,0
+Warrington,Grantham,3,3,2020-02-18,0,0,1
+FC Utd,Stafford,2,1,2020-02-18,1,0,0
+Dagenh'm,Concord R,1,1,2020-02-18,0,0,1
+Goole,Guiseley,2,5,2020-02-18,0,1,0
+DR Congo,Cameroon,0,1,2020-02-16,0,1,0
+Aston Villa,Tottenham,2,3,2020-02-16,0,1,0
+Arsenal,Newcastle,4,0,2020-02-16,1,0,0
+Aberdeen,Celtic,1,2,2020-02-16,0,1,0
+Rangers,Livingston,1,0,2020-02-16,1,0,0
+Kilmarnock,Hibernian,1,2,2020-02-16,0,1,0
+Inverness CT,Rangers U20,2,1,2020-02-16,1,0,0
+Udinese,Verona,0,0,2020-02-16,0,0,1
+Sampdoria,Fiorentina,1,5,2020-02-16,0,1,0
+Sassuolo,Parma,0,1,2020-02-16,0,1,0
+Juventus,Brescia,2,0,2020-02-16,1,0,0
+Cagliari,Napoli,0,1,2020-02-16,0,1,0
+Lazio,Inter,2,1,2020-02-16,1,0,0
+Cologne,B Munich,1,4,2020-02-16,0,1,0
+Mainz,Schalke,0,0,2020-02-16,0,0,1
+Sevilla,Espanyol,2,2,2020-02-16,0,0,1
+Leganes,Real Betis,0,0,2020-02-16,0,0,1
+Ath Bilbao,Osasuna,0,1,2020-02-16,0,1,0
+Real Madrid,Celta Vigo,2,2,2020-02-16,0,0,1
+Lyon,Strasbourg,1,1,2020-02-16,0,0,1
+Reims,Rennes,1,0,2020-02-16,1,0,0
+Stade Brest,St-Etienne,3,2,2020-02-16,1,0,0
+Lille,Marseille,1,2,2020-02-16,0,1,0
+Alanyaspor,Genclerbirligi,0,1,2020-02-16,0,1,0
+Trabzonspor,Sivasspor,2,1,2020-02-16,1,0,0
+Galatasaray,Malatyaspor,1,0,2020-02-16,1,0,0
+SonderjyskE,Hobro IK,3,1,2020-02-16,1,0,0
+Silkeborg,Aalborg,0,2,2020-02-16,0,1,0
+OB Odense,Brondby,0,2,2020-02-16,0,1,0
+Mirandes,Albacete,1,1,2020-02-16,0,0,1
+Fuenlabrada,Lugo,0,1,2020-02-16,0,1,0
+Cadiz,Malaga,0,1,2020-02-16,0,1,0
+Racing,Sp. Gijon,0,2,2020-02-16,0,1,0
+Ponferradina,Extremadura,0,0,2020-02-16,0,0,1
+Tenerife,R. Vallecano,0,0,2020-02-16,0,0,1
+Vitesse Arn.,Heerenveen,4,2,2020-02-16,1,0,0
+Ajax,RKC Waalwijk,3,0,2020-02-16,1,0,0
+Sp. Rotterdam,FC Groningen,1,2,2020-02-16,0,1,0
+Willem II,FC Utrecht,1,1,2020-02-16,0,0,1
+PEC Zwolle,Feyenoord,3,4,2020-02-16,0,1,0
+Jagiellonia,Korona Kielce,0,0,2020-02-16,0,0,1
+Zaglebie Lubin,Wisla Krakow,0,1,2020-02-16,0,1,0
+Cracovia,Lech Poznan,2,1,2020-02-16,1,0,0
+Erzegbirge A,Holstein Kiel,1,2,2020-02-16,0,1,0
+Karlsruhe,Osnabruck,1,1,2020-02-16,0,0,1
+SV Darmstadt,SV Sandhausen,1,0,2020-02-16,1,0,0
+Panathinaikos,Panetolikos,3,1,2020-02-16,1,0,0
+Volos NFC,Asteras T.,0,1,2020-02-16,0,1,0
+Xanthi,Lamia,0,0,2020-02-16,0,0,1
+Aris Salonika,AEK Athens,0,1,2020-02-16,0,1,0
+Royal Antwerp,Charleroi,1,1,2020-02-16,0,0,1
+Genk,St Liege,1,3,2020-02-16,0,1,0
+Waregem,Mouscron-P,1,2,2020-02-16,0,1,0
+Sturm Graz,Mattersburg,1,2,2020-02-16,0,1,0
+St Polten,Admira Wacker,2,2,2020-02-16,0,0,1
+Rapid Vienna,Swarovski Wattens,2,0,2020-02-16,1,0,0
+Opava,Viktoria Plzen,0,3,2020-02-16,0,1,0
+B. 1905,Slavia Prague,1,0,2020-02-16,1,0,0
+Osijek,Din Zagreb,1,0,2020-02-16,1,0,0
+HNK Gorica,Rijeka,0,0,2020-02-16,0,0,1
+Lucerne,St Gallen,1,0,2020-02-16,1,0,0
+Lugano,Young Boys,2,1,2020-02-16,1,0,0
+Servette,FC Zurich,4,1,2020-02-16,1,0,0
+Sepsi Sfantu G,Botosani,0,1,2020-02-16,0,1,0
+Din. Bucharest,Steaua,2,1,2020-02-16,1,0,0
+Boavista,Belenenses,1,2,2020-02-16,0,1,0
+Maritimo,Pacos Ferreira,3,0,2020-02-16,1,0,0
+V Guimaraes,Porto,1,2,2020-02-16,0,1,0
+Famalicao,Desp. Aves,1,1,2020-02-16,0,0,1
+Western United,Brisbane Roar,0,1,2020-02-16,0,1,0
+Beroe Stara,Etar Veliko Tarnovo,2,0,2020-02-16,1,0,0
+Botev Plovdiv,Loko. Plovdiv,0,0,2020-02-16,0,0,1
+Dunav Ruse,Cherno More,0,2,2020-02-16,0,1,0
+Partizan,Radnik Surdulica,3,0,2020-02-16,1,0,0
+Sp Subotica,Radnicki Nis,1,1,2020-02-16,0,0,1
+Sektzia Nes Tziona,Hapoel Ra'ana,3,0,2020-02-16,1,0,0
+M. Tel Aviv,Ironi Kiryat S,3,0,2020-02-16,1,0,0
+Valletta,Birkirkara,1,4,2020-02-16,0,1,0
+Derby,Fulham,1,1,2020-02-21,0,0,1
+Dundee Utd,Inverness CT,2,1,2020-02-21,1,0,0
+Brescia,Napoli,1,2,2020-02-21,0,1,0
+B Munich,SC Paderborn,3,2,2020-02-21,1,0,0
+Real Betis,Mallorca,3,3,2020-02-21,0,0,1
+Nice,Stade Brest,2,2,2020-02-21,0,0,1
+Metz,Lyon,0,2,2020-02-21,0,1,0
+Sivasspor,Alanyaspor,1,0,2020-02-21,1,0,0
+LKS Lodz,Pogon Szczecin,0,0,2020-02-21,0,0,1
+Slask Wroclaw,Gornik Zabrze,2,1,2020-02-21,1,0,0
+NK Varazdin,Loko. Zagreb,0,2,2020-02-21,0,1,0
+Osnabruck,Erzegbirge A,0,0,2020-02-21,0,0,1
+Wehen-Wiesb.,Greuther Furth,1,1,2020-02-21,0,0,1
+Hobro IK,Midtjylland,0,2,2020-02-21,0,1,0
+RKC Waalwijk,Sp. Rotterdam,0,1,2020-02-21,0,1,0
+Kortrijk,Genk,0,1,2020-02-21,0,1,0
+Sp. Gijon,Cadiz,1,0,2020-02-21,1,0,0
+Desp. Aves,V Guimaraes,0,2,2020-02-21,0,1,0
+Wellington,Western United,2,0,2020-02-21,1,0,0
+Western Sydney,Adelaide Utd,5,2,2020-02-21,1,0,0
+Vozdovac,Sp Subotica,2,3,2020-02-21,0,1,0
+Javor,Mladost Lucani,1,2,2020-02-21,0,1,0
+Aberystwyth,Penybont,0,1,2020-02-21,0,1,0
+Connah's Q,The New Saints,1,0,2020-02-21,1,0,0
+Linfield,Crusaders,4,0,2020-02-21,1,0,0
+Wexford Yth,UCD,1,1,2020-02-21,0,0,1
+Cabinteely,Bray,4,2,2020-02-21,1,0,0
+Derry City,Finn Harps,1,1,2020-02-21,0,0,1
+Shelbourne,Dundalk,1,2,2020-02-21,0,1,0
+Sligo Rovers,St Patrick's,0,2,2020-02-21,0,1,0
+Waterford,Bohemians D.,0,2,2020-02-21,0,1,0
+Shamrock R,Cork City,6,0,2020-02-21,1,0,0
+San Carlos,New York City,3,5,2020-02-21,0,1,0
+Deportivo Olim,Seattle,2,2,2020-02-21,0,0,1
+Rodez,Lorient,0,1,2020-02-21,0,1,0
+Gzira United,Valletta,0,1,2020-02-21,0,1,0
+Cameroon,Rwanda,0,0,2020-02-24,0,0,1
+Liverpool,West Ham,3,2,2020-02-24,1,0,0
+E Frankfurt,Union Berlin,1,2,2020-02-24,0,1,0
+Rizespor,Basaksehir,1,2,2020-02-24,0,1,0
+Kasimpasa,Denizlispor,2,0,2020-02-24,1,0,0
+Banik Ostrava,Jablonec,1,1,2020-02-24,0,0,1
+AC Horsens,Aarhus,1,2,2020-02-24,0,1,0
+Botosani,CSMS Iasi,2,1,2020-02-24,1,0,0
+Gil Vicente,Benfica,0,1,2020-02-24,0,1,0
+Slavia Sofia,Dunav Ruse,3,1,2020-02-24,1,0,0
+M. Tel Aviv,H Tel Aviv,3,0,2020-02-24,1,0,0
+Waterford,Shamrock R,0,2,2020-02-24,0,1,0
+Dundalk,Cork City,3,0,2020-02-24,1,0,0
+Bohemians D.,Sligo Rovers,2,0,2020-02-24,1,0,0
+Hammarby,Varbergs Bois,5,1,2020-02-24,1,0,0
+Sundsvall,IF BP,2,2,2020-02-24,0,0,1
+USA,Costa Rica,1,0,2020-02-01,1,0,0
+Leicester,Chelsea,2,2,2020-02-01,0,0,1
+Liverpool,Southampton,4,0,2020-02-01,1,0,0
+Newcastle,Norwich,0,0,2020-02-01,0,0,1
+Bournemouth,Aston Villa,2,1,2020-02-01,1,0,0
+Crystal Palace,Sheff Utd,0,1,2020-02-01,0,1,0
+Watford,Everton,2,3,2020-02-01,0,1,0
+West Ham,Brighton,3,3,2020-02-01,0,0,1
+Man Utd,Wolves,0,0,2020-02-01,0,0,1
+Hull,Brentford,1,5,2020-02-01,0,1,0
+Preston,Swansea,1,1,2020-02-01,0,0,1
+Charlton,Barnsley,2,1,2020-02-01,1,0,0
+Sheff Wed,Millwall,0,0,2020-02-01,0,0,1
+Fulham,Huddersfield,3,2,2020-02-01,1,0,0
+Birmingham,Nottm Forest,2,1,2020-02-01,1,0,0
+QPR,Bristol C,0,1,2020-02-01,0,1,0
+Middlesbrough,Blackburn,1,1,2020-02-01,0,0,1
+West Brom,Luton,2,0,2020-02-01,1,0,0
+Leeds,Wigan,0,1,2020-02-01,0,1,0
+Portsmouth,Sunderland,2,0,2020-02-01,1,0,0
+Accrington,AFC W'bledon,2,1,2020-02-01,1,0,0
+Southend,Lincoln,2,1,2020-02-01,1,0,0
+Ipswich,Peterborough,1,4,2020-02-01,0,1,0
+Bolton,Tranmere,2,0,2020-02-01,1,0,0
+Rochdale,Shrewsbury,1,0,2020-02-01,1,0,0
+Bristol R,Coventry,1,2,2020-02-01,0,1,0
+Rotherham,Burton,3,2,2020-02-01,1,0,0
+Oxford,Blackpool,2,1,2020-02-01,1,0,0
+Fleetwood,Doncaster,2,1,2020-02-01,1,0,0
+MK Dons,Wycombe,2,0,2020-02-01,1,0,0
+Port Vale,Salford,1,1,2020-02-01,0,0,1
+Cheltenham,Morecambe,2,1,2020-02-01,1,0,0
+Grimsby,Forest Green,2,2,2020-02-01,0,0,1
+Macclesfield,Northampton,0,1,2020-02-01,0,1,0
+Crawley,Scunthorpe,3,1,2020-02-01,1,0,0
+Walsall,Crewe,1,2,2020-02-01,0,1,0
+Mansfield,Carlisle,2,2,2020-02-01,0,0,1
+Stevenage,Leyton Orient,0,3,2020-02-01,0,1,0
+Swindon,Exeter,2,1,2020-02-01,1,0,0
+Cambridge U,Colchester,2,1,2020-02-01,1,0,0
+Plymouth,Newport Co,1,0,2020-02-01,1,0,0
+Oldham,Bradford,3,0,2020-02-01,1,0,0
+Wrexham,Dag & Red,0,0,2020-02-01,0,0,1
+Barnet,Hartlepool,2,1,2020-02-01,1,0,0
+Yeovil,Chorley,1,1,2020-02-01,0,0,1
+Aldershot,Harrogate,1,1,2020-02-01,0,0,1
+Ebbsfleet,Sutton Utd,1,1,2020-02-01,0,0,1
+Barrow,Torquay,2,1,2020-02-01,1,0,0
+Eastleigh,Woking,2,0,2020-02-01,1,0,0
+Halifax,Bromley,2,1,2020-02-01,1,0,0
+Stockport,Dover,0,2,2020-02-01,0,1,0
+Fylde,Boreham W,1,2,2020-02-01,0,1,0
+Solihull M,Maidenhead,0,2,2020-02-01,0,1,0
+Notts Co,Chesterfield,3,0,2020-02-01,1,0,0
+Rangers,Aberdeen,0,0,2020-02-01,0,0,1
+Livingston,Motherwell,1,0,2020-02-01,1,0,0
+St Johnstone,Hearts,3,3,2020-02-01,0,0,1
+Kilmarnock,Ross County,3,1,2020-02-01,1,0,0
+Hibernian,St Mirren,2,2,2020-02-01,0,0,1
+Queen of Sth,Dunfermline,2,3,2020-02-01,0,1,0
+Inverness CT,Alloa,1,1,2020-02-01,0,0,1
+Dundee Utd,Arbroath,0,1,2020-02-01,0,1,0
+Morton,Dundee,1,1,2020-02-01,0,0,1
+Forfar,Clyde,2,1,2020-02-01,1,0,0
+Airdrieonians,Raith,0,1,2020-02-01,0,1,0
+East Fife,Dumbarton,4,2,2020-02-01,1,0,0
+Stranraer,Falkirk,1,1,2020-02-01,0,0,1
+Montrose,Peterhead,4,3,2020-02-01,1,0,0
+Queen's Park,Cowdenbeath,1,0,2020-02-01,1,0,0
+Albion,Cove Rangers,2,2,2020-02-01,0,0,1
+Edinburgh C,Stirling,0,1,2020-02-01,0,1,0
+Annan,Stenh'semuir,0,3,2020-02-01,0,1,0
+Brechin,Elgin City,1,2,2020-02-01,0,1,0
+Huntly,Fraserburgh,2,2,2020-02-01,0,0,1
+Rothes,Strathspey T,3,2,2020-02-01,1,0,0
+Formartine Utd,Lossiemouth,4,1,2020-02-01,1,0,0
+Brora Rangers,Inverurie Locos,4,0,2020-02-01,1,0,0
+Buckie Thistle,Turriff U,4,1,2020-02-01,1,0,0
+Deveronvale,Fort William,2,2,2020-02-01,0,0,1
+Civil Serv Strol,Gretna 2008,1,0,2020-02-01,1,0,0
+Edinburgh Uni,Spartans,2,5,2020-02-01,0,1,0
+Stirling Univ,Bonnyrigg Rose,0,3,2020-02-01,0,1,0
+East Kilbride,Gala Fairydean,2,2,2020-02-01,0,0,1
+BSC Glasgow,Berwick,4,1,2020-02-01,1,0,0
+E Stirling,Dalbeattie Star,6,1,2020-02-01,1,0,0
+Cumbernauld C,Vale of Leithen,7,1,2020-02-01,1,0,0
+Kelty Hearts,Edusport Acad,4,1,2020-02-01,1,0,0
+Bologna,Brescia,2,1,2020-02-01,1,0,0
+Cagliari,Parma,2,2,2020-02-01,0,0,1
+Sassuolo,Roma,4,2,2020-02-01,1,0,0
+F Dusseldorf,E Frankfurt,1,1,2020-02-01,0,0,1
+Hoffenheim,B Leverkusen,2,1,2020-02-01,1,0,0
+B Dortmund,Union Berlin,5,0,2020-02-01,1,0,0
+Augsburg,W Bremen,2,1,2020-02-01,1,0,0
+Mainz,B Munich,1,3,2020-02-01,0,1,0
+RB Leipzig,B M'gladbach,2,2,2020-02-01,0,0,1
+Granada,Espanyol,2,1,2020-02-01,1,0,0
+Real Madrid,Atl Madrid,1,0,2020-02-01,1,0,0
+Mallorca,Valladolid,0,1,2020-02-01,0,1,0
+Valencia,Celta Vigo,1,0,2020-02-01,1,0,0
+Paris St-G.,Montpellier,5,0,2020-02-01,1,0,0
+Nimes,Monaco,3,1,2020-02-01,1,0,0
+Angers,Reims,1,4,2020-02-01,0,1,0
+Amiens,Toulouse,0,0,2020-02-01,0,0,1
+Dijon,Stade Brest,3,0,2020-02-01,1,0,0
+Strasbourg,Lille,1,2,2020-02-01,0,1,0
+Antalyaspor,Konyaspor,0,0,2020-02-01,0,0,1
+Rizespor,Besiktas,1,2,2020-02-01,0,1,0
+Trabzonspor,Fenerbahce,2,1,2020-02-01,1,0,0
+Academica Clinceni,Voluntari,1,2,2020-02-01,0,1,0
+Hermannstadt,Sepsi Sfantu G,2,2,2020-02-01,0,0,1
+Din. Bucharest,Astra Giurgiu,2,0,2020-02-01,1,0,0
+Hannover,Wehen-Wiesb.,2,2,2020-02-01,0,0,1
+St Pauli,Stuttgart,1,1,2020-02-01,0,0,1
+Karlsruhe,Holstein Kiel,0,2,2020-02-01,0,1,0
+Loko. Zagreb,Rijeka,2,1,2020-02-01,1,0,0
+Slaven,Din Zagreb,0,2,2020-02-01,0,1,0
+Extremadura,Lugo,1,0,2020-02-01,1,0,0
+Deportivo,Las Palmas,2,1,2020-02-01,1,0,0
+Ponferradina,Huesca,3,1,2020-02-01,1,0,0
+Elche,Malaga,2,0,2020-02-01,1,0,0
+Volos NFC,Lamia,1,0,2020-02-01,1,0,0
+OFI Crete,Larissa,0,0,2020-02-01,0,0,1
+Olympiakos,Xanthi,3,1,2020-02-01,1,0,0
+Portimonense,Tondela,0,1,2020-02-01,0,1,0
+Vitoria Setubal,Porto,0,4,2020-02-01,0,1,0
+Genk,Charleroi,1,0,2020-02-01,1,0,0
+KAS Eupen,Cercle Bruges,1,0,2020-02-01,1,0,0
+Oostende,St. Truiden,1,0,2020-02-01,1,0,0
+Mechelen,Gent,0,3,2020-02-01,0,1,0
+Den Haag,Vitesse Arn.,0,0,2020-02-01,0,0,1
+FC Twente,Sp. Rotterdam,2,0,2020-02-01,1,0,0
+Feyenoord,FC Emmen,3,0,2020-02-01,1,0,0
+PEC Zwolle,FC Groningen,1,0,2020-02-01,1,0,0
+Lucerne,Young Boys,2,0,2020-02-01,1,0,0
+Lugano,Neuc. Xamax,1,1,2020-02-01,0,0,1
+Newcastle Jets,Western United,0,0,2020-02-01,0,0,1
+Adelaide Utd,Melbourne C,3,1,2020-02-01,1,0,0
+Perth Glory,Melbourne Vic,2,2,2020-02-01,0,0,1
+MS Ashdod,M. Netanya,0,0,2020-02-01,0,0,1
+M. Haifa,H. Kfar Saba,0,1,2020-02-01,0,1,0
+Hapoel Hadera,Sektzia Nes Tziona,1,0,2020-02-01,1,0,0
+H Tel Aviv,H. Haifa,0,1,2020-02-01,0,1,0
+Kisvarda,Ferencvaros,1,2,2020-02-01,0,1,0
+Honved,Mezokovesd SE,1,2,2020-02-01,0,1,0
+Puskas FA FC,Debrecen,0,0,2020-02-01,0,0,1
+Paksi SE,Zalaegerszeg,2,0,2020-02-01,1,0,0
+Diosgyor,Kaposvar,2,0,2020-02-01,1,0,0
+Ujpest Dozsa,MOL Vidi,0,1,2020-02-01,0,1,0
+Darlington,Guiseley,0,3,2020-02-01,0,1,0
+Gateshead,Leamington,4,2,2020-02-01,1,0,0
+Blyth Sptns,Boston Utd,0,1,2020-02-01,0,1,0
+Alfreton,Hereford,2,0,2020-02-01,1,0,0
+York,Chester,4,2,2020-02-01,1,0,0
+Gloucester,Spennymoor,1,2,2020-02-01,0,1,0
+Southport,Bradford PA,3,3,2020-02-01,0,0,1
+Kettering,Curzon A,0,0,2020-02-01,0,0,1
+Brackley,Farsley AFC,0,1,2020-02-01,0,1,0
+King's Lynn,Kidderminster,0,2,2020-02-01,0,1,0
+Telford,Altrincham,2,2,2020-02-01,0,0,1
+Chippenham,Dartford,1,5,2020-02-01,0,1,0
+Dulwich H,Chelmsford,5,3,2020-02-01,1,0,0
+Slough,Oxford C,0,1,2020-02-01,0,1,0
+Eastbourne,Hemel,1,1,2020-02-01,0,0,1
+Braintree,Weymouth,1,1,2020-02-01,0,0,1
+St Albans,Welling,1,2,2020-02-01,0,1,0
+Dorking W,Bath City,0,0,2020-02-01,0,0,1
+Hampton & R,Hungerford,7,1,2020-02-01,1,0,0
+Concord R,Havant & W,0,0,2020-02-01,0,0,1
+Merstham,Margate,1,0,2020-02-01,1,0,0
+Bognor Regis,Kingstonian,1,1,2020-02-01,0,0,1
+Cheshunt,Leatherhead,1,3,2020-02-01,0,1,0
+Brightlingsea R,Potters Bar,0,0,2020-02-01,0,0,1
+Cray W,Horsham,2,1,2020-02-01,1,0,0
+Corinthian Cas,Lewes,1,0,2020-02-01,1,0,0
+Carshalton,Worthing,1,2,2020-02-01,0,1,0
+Bishop's St.,Wingate & F,0,1,2020-02-01,0,1,0
+Haringey B,Bowers & Pitsea,1,1,2020-02-01,0,0,1
+E Thurrock,Folkestone,1,3,2020-02-01,0,1,0
+Hornchurch,Enfield T,4,0,2020-02-01,1,0,0
+Merthyr,Met. Police,1,2,2020-02-01,0,1,0
+Poole Town,Swindon Sup.,2,0,2020-02-01,1,0,0
+Blackfield & L,Chesham,0,2,2020-02-01,0,1,0
+Truro City,Farnborough,2,1,2020-02-01,1,0,0
+Beaconsfield,Weston S-M.,2,2,2020-02-01,0,0,1
+Walton Casuals,Wimborne T,0,2,2020-02-01,0,1,0
+Salisbury FC,Tiverton,2,2,2020-02-01,0,0,1
+Hendon,Yate,2,1,2020-02-01,1,0,0
+Hayes & Y,Gosport Bor,2,1,2020-02-01,1,0,0
+Taunton Town,Harrow Boro,3,2,2020-02-01,1,0,0
+Hartley Wint.,Dorchester,2,0,2020-02-01,1,0,0
+Gainsborough,Basford United,1,0,2020-02-01,1,0,0
+FC Utd,Mickleover S,3,3,2020-02-01,0,0,1
+Nantwich,Bamber Br.,3,2,2020-02-01,1,0,0
+Grantham,Buxton,1,3,2020-02-01,0,1,0
+Morpeth Town,Radcliffe Boro,3,1,2020-02-01,1,0,0
+Stalybridge,South Shields,2,2,2020-02-01,0,0,1
+Scarborough A,Ashton Utd,3,1,2020-02-01,1,0,0
+Matlock,Hyde,1,1,2020-02-01,0,0,1
+Lancaster,Warrington,2,1,2020-02-01,1,0,0
+Whitby,Atherton Colls,3,1,2020-02-01,1,0,0
+Witton,Stafford,2,2,2020-02-01,0,0,1
+Ingolstadt,Kaiserslautern,2,1,2020-02-01,1,0,0
+Epinal,AC Bobigny,0,2,2020-02-01,0,1,0
+Haguenau,Belfort,1,0,2020-02-01,1,0,0
+Napoli,Barcelona,1,1,2020-02-25,0,0,1
+Chelsea,B Munich,0,3,2020-02-25,0,1,0
+Huddersfield,Bristol C,2,1,2020-02-25,1,0,0
+QPR,Derby,2,1,2020-02-25,1,0,0
+Luton,Brentford,2,1,2020-02-25,1,0,0
+Cardiff,Nottm Forest,0,1,2020-02-25,0,1,0
+West Brom,Preston,2,0,2020-02-25,1,0,0
+Portsmouth,MK Dons,3,1,2020-02-25,1,0,0
+Shrewsbury,Tranmere,2,3,2020-02-25,0,1,0
+Blackpool,Bolton,2,1,2020-02-25,1,0,0
+Coventry,Rotherham,1,1,2020-02-25,0,0,1
+Oxford,Accrington,3,0,2020-02-25,1,0,0
+Sunderland,Fleetwood,1,1,2020-02-25,0,0,1
+Cheltenham,Northampton,2,1,2020-02-25,1,0,0
+Grimsby,Newport Co,4,2,2020-02-25,1,0,0
+Aldershot,Boreham W,3,2,2020-02-25,1,0,0
+Maidenhead,Ebbsfleet,1,3,2020-02-25,0,1,0
+Motherwell,St Mirren,1,2,2020-02-25,0,1,0
+Ayr,Morton,1,2,2020-02-25,0,1,0
+Dunfermline,Inverness CT,1,2,2020-02-25,0,1,0
+Dumbarton,Clyde,1,0,2020-02-25,1,0,0
+Peterhead,Forfar,1,1,2020-02-25,0,0,1
+O. Ljubljana,Triglav,0,2,2020-02-25,0,1,0
+NK Aluminij,Rudar Velenje,1,0,2020-02-25,1,0,0
+Boston Utd,Gateshead,0,3,2020-02-25,0,1,0
+Chippenham,Concord R,3,0,2020-02-25,1,0,0
+Wealdstone,Chelmsford,0,1,2020-02-25,0,1,0
+Billericay,Oxford C,1,1,2020-02-25,0,0,1
+Swindon Sup.,Hayes & Y,1,1,2020-02-25,0,0,1
+Gosport Bor,Salisbury FC,0,0,2020-02-25,0,0,1
+Wimborne T,Merthyr,0,0,2020-02-25,0,0,1
+Nantwich,FC Utd,0,1,2020-02-25,0,1,0
+Lancaster,Whitby,1,3,2020-02-25,0,1,0
+Hungerford,Wycombe W,0,3,2020-02-25,0,1,0
+LASK Linz,AZ Alkmaar,2,0,2020-02-27,1,0,0
+Gent,Roma,1,1,2020-02-27,0,0,1
+Espanyol,Wolves,3,2,2020-02-27,1,0,0
+Basaksehir,Sporting,4,1,2020-02-27,1,0,0
+Malmo,Wolfsburg,0,3,2020-02-27,0,1,0
+Basel,Apoel Nicosia,1,0,2020-02-27,1,0,0
+Porto,B Leverkusen,1,3,2020-02-27,0,1,0
+Celtic,FC Copenhagen,1,3,2020-02-27,0,1,0
+Benfica,Shakhtar,3,3,2020-02-27,0,0,1
+Ajax,Getafe,2,1,2020-02-27,1,0,0
+Inter,Ludogorets,2,1,2020-02-27,1,0,0
+Arsenal,Olympiakos,1,2,2020-02-27,0,1,0
+Man Utd,Club Brugge,5,0,2020-02-27,1,0,0
+Sevilla,CFR Cluj,0,0,2020-02-27,0,0,1
+NK Inter,Loko. Zagreb,0,2,2020-02-27,0,1,0
+Montreal Imp,Saprissa,0,0,2020-02-27,0,0,1
+Tigres,Alianza,4,2,2020-02-27,1,0,0
+Club America,Comunicaciones,1,1,2020-02-27,0,0,1
+Lyon,Juventus,1,0,2020-02-26,1,0,0
+Real Madrid,Man City,1,2,2020-02-26,0,1,0
+Braga,Rangers,0,1,2020-02-26,0,1,0
+Bulgaria,Belarus,0,1,2020-02-26,0,1,0
+Sheff Wed,Charlton,1,0,2020-02-26,1,0,0
+Hull,Barnsley,0,1,2020-02-26,0,1,0
+Fulham,Swansea,1,0,2020-02-26,1,0,0
+Blackburn,Stoke,0,0,2020-02-26,0,0,1
+Middlesbrough,Leeds,0,1,2020-02-26,0,1,0
+Millwall,Birmingham,0,0,2020-02-26,0,0,1
+Reading,Wigan,0,3,2020-02-26,0,1,0
+Brechin,Queen's Park,0,0,2020-02-26,0,0,1
+Tabor Sezana,Domzale,2,1,2020-02-26,1,0,0
+NS Mura,Maribor,1,2,2020-02-26,0,1,0
+NK Celje,Bravo Publikum,2,2,2020-02-26,0,0,1
+Sp Subotica,Mladost Lucani,3,1,2020-02-26,1,0,0
+FK Indija,Red Star,1,1,2020-02-26,0,0,1
+Partizan,Proleter Novi Sad,3,1,2020-02-26,1,0,0
+Napredak,Radnik Surdulica,0,1,2020-02-26,0,1,0
+Macva Sabac,Backa Topola,0,1,2020-02-26,0,1,0
+Rad Beograd,Javor,1,1,2020-02-26,0,0,1
+Vojvodina NS,Radnicki Nis,3,0,2020-02-26,1,0,0
+Cukaricki,Vozdovac,2,1,2020-02-26,1,0,0
+Havant & W,Slough,1,0,2020-02-26,1,0,0
+Kingstonian,Corinthian Cas,3,1,2020-02-26,1,0,0
+Lewes,Bognor Regis,0,1,2020-02-26,0,1,0
+Atlanta U,Motagua,3,0,2020-02-26,1,0,0
+Cruz Azul,Portmore United,4,0,2020-02-26,1,0,0
+New York City,San Carlos,1,0,2020-02-26,1,0,0
+Uzbekistan,Belarus,0,1,2020-02-23,0,1,0
+Wolves,Norwich,3,0,2020-02-23,1,0,0
+Man Utd,Watford,3,0,2020-02-23,1,0,0
+Arsenal,Everton,3,2,2020-02-23,1,0,0
+St Johnstone,Rangers,2,2,2020-02-23,0,0,1
+Celtic,Kilmarnock,3,1,2020-02-23,1,0,0
+Genoa,Lazio,2,3,2020-02-23,0,1,0
+Roma,Lecce,4,0,2020-02-23,1,0,0
+B Leverkusen,Augsburg,2,0,2020-02-23,1,0,0
+Wolfsburg,Mainz,4,0,2020-02-23,1,0,0
+Osasuna,Granada,0,3,2020-02-23,0,1,0
+Alaves,Ath Bilbao,2,1,2020-02-23,1,0,0
+Valladolid,Espanyol,2,1,2020-02-23,1,0,0
+Getafe,Sevilla,0,3,2020-02-23,0,1,0
+Atl Madrid,Villarreal,3,1,2020-02-23,1,0,0
+St-Etienne,Reims,1,1,2020-02-23,0,0,1
+Rennes,Nimes,2,1,2020-02-23,1,0,0
+Paris St-G.,Bordeaux,4,3,2020-02-23,1,0,0
+Malatyaspor,Antalyaspor,1,2,2020-02-23,0,1,0
+Genclerbirligi,Ankaragucu,1,0,2020-02-23,1,0,0
+Fenerbahce,Galatasaray,1,3,2020-02-23,0,1,0
+Nordsjaelland,SonderjyskE,2,1,2020-02-23,1,0,0
+Lyngby,Esbjerg,2,0,2020-02-23,1,0,0
+Randers Freja,OB Odense,0,0,2020-02-23,0,0,1
+Silkeborg,FC Copenhagen,1,1,2020-02-23,0,0,1
+Aalborg,Brondby,3,2,2020-02-23,1,0,0
+Lugo,Real Oviedo,1,0,2020-02-23,1,0,0
+Zaragoza,Deportivo,3,1,2020-02-23,1,0,0
+Extremadura,Mirandes,3,2,2020-02-23,1,0,0
+Malaga,Racing,2,0,2020-02-23,1,0,0
+R. Vallecano,Huesca,2,0,2020-02-23,1,0,0
+FC Utrecht,FC Twente,2,1,2020-02-23,1,0,0
+Vitesse Arn.,PSV Eindhoven,1,2,2020-02-23,0,1,0
+AZ Alkmaar,PEC Zwolle,2,0,2020-02-23,1,0,0
+Heracles,Ajax,1,0,2020-02-23,1,0,0
+Wisla Plock,Zaglebie Lubin,1,1,2020-02-23,0,0,1
+Wisla Krakow,Korona Kielce,2,0,2020-02-23,1,0,0
+Lech Poznan,Lechia Gdansk,2,0,2020-02-23,1,0,0
+SV Sandhausen,Karlsruhe,0,2,2020-02-23,0,1,0
+Nuremberg,SV Darmstadt,1,2,2020-02-23,0,1,0
+Arminia,Hannover,1,0,2020-02-23,1,0,0
+Panetolikos,Panionios,1,0,2020-02-23,1,0,0
+Volos NFC,Larissa,0,0,2020-02-23,0,0,1
+Atromitos,Xanthi,1,0,2020-02-23,1,0,0
+AEK Athens,OFI Crete,3,0,2020-02-23,1,0,0
+PAOK Salonika,Olympiakos,0,1,2020-02-23,0,1,0
+Bravo Publikum,Tabor Sezana,2,1,2020-02-23,1,0,0
+Domzale,NS Mura,1,2,2020-02-23,0,1,0
+Club Brugge,Charleroi,1,0,2020-02-23,1,0,0
+Anderlecht,KAS Eupen,6,1,2020-02-23,1,0,0
+Gent,St. Truiden,4,1,2020-02-23,1,0,0
+LASK Linz,St Polten,4,1,2020-02-23,1,0,0
+Hartberg,Rapid Vienna,2,2,2020-02-23,0,0,1
+Aus. Vienna,RB Salzburg,2,2,2020-02-23,0,0,1
+MFK Karvina,Teplice,3,0,2020-02-23,1,0,0
+Zlin,C. Budejovice,2,3,2020-02-23,0,1,0
+Sigma O.,Sparta Prague,1,0,2020-02-23,1,0,0
+Din Zagreb,NK Inter,3,2,2020-02-23,1,0,0
+NK Istra 1961,Slaven,1,1,2020-02-23,0,0,1
+Viitorul C,Academica Clinceni,0,0,2020-02-23,0,0,1
+Metan Medias,Din. Bucharest,1,0,2020-02-23,1,0,0
+Astra Giurgiu,Sepsi Sfantu G,2,2,2020-02-23,0,0,1
+Uni Craiova,CFR Cluj,0,2,2020-02-23,0,1,0
+Lugano,FC Sion,0,0,2020-02-23,0,0,1
+Basel,Servette,2,2,2020-02-23,0,0,1
+St Gallen,Young Boys,3,3,2020-02-23,0,0,1
+Moreirense,Santa Clara,2,1,2020-02-23,1,0,0
+Pacos Ferreira,Famalicao,2,1,2020-02-23,1,0,0
+Sporting,Boavista,2,0,2020-02-23,1,0,0
+Braga,Vitoria Setubal,3,1,2020-02-23,1,0,0
+Porto,Portimonense,1,0,2020-02-23,1,0,0
+Central Coast M,Sydney FC,0,3,2020-02-23,0,1,0
+Vitosha Bistritsa,Beroe Stara,1,2,2020-02-23,0,1,0
+Loko. Plovdiv,Tsarsko Selo,4,0,2020-02-23,1,0,0
+Etar Veliko Tarnovo,Ludogorets,1,1,2020-02-23,0,0,1
+Karpaty Lvov,Dnipro-1,1,1,2020-02-23,0,0,1
+Oleksandria,Kolos Kovalivka,1,2,2020-02-23,0,1,0
+Shakhtar,Desna,1,0,2020-02-23,1,0,0
+Olimpik Donetsk,Lviv,0,1,2020-02-23,0,1,0
+Hapoel Ra'ana,Bnei Yehuda,0,1,2020-02-23,0,1,0
+H Beer Sheva,H. Kfar Saba,3,1,2020-02-23,1,0,0
+Norrkoping,Halmstads,1,0,2020-02-23,1,0,0
+AIK Solna,Jonkopings Sodra,2,2,2020-02-23,0,0,1
+Kalmar,Orgryte,3,0,2020-02-23,1,0,0
+Tvaakers IF,Falkenbergs FF,1,3,2020-02-23,0,1,0
+Eskilsminne IF ,Ostersunds FK,0,5,2020-02-23,0,1,0
+Hacken,GAIS,3,0,2020-02-23,1,0,0
+FK Qarabag,Sumqayit,1,0,2020-02-23,1,0,0
+Pafos,Apoel Nicosia,2,0,2020-02-23,1,0,0
+RB Salzburg,E Frankfurt,2,2,2020-02-28,0,0,1
+Norwich,Leicester,1,0,2020-02-28,1,0,0
+Portsmouth,Rochdale,3,0,2020-02-28,1,0,0
+Hibernian,Inverness CT,5,2,2020-02-28,1,0,0
+Spartans,Vale of Leithen,2,1,2020-02-28,1,0,0
+BSC Glasgow,Cumbernauld C,3,1,2020-02-28,1,0,0
+F Dusseldorf,Hertha Berlin,3,3,2020-02-28,0,0,1
+Sociedad,Valladolid,1,0,2020-02-28,1,0,0
+Nimes,Marseille,2,3,2020-02-28,0,1,0
+Kryliya Sovetov,Gazovik Orenburg,1,1,2020-02-28,0,0,1
+Sepsi Sfantu G,CSMS Iasi,1,1,2020-02-28,0,0,1
+Din. Bucharest,Academica Clinceni,0,1,2020-02-28,0,1,0
+Slaven,NK Varazdin,0,0,2020-02-28,0,0,1
+HNK Gorica,NK Istra 1961,3,0,2020-02-28,1,0,0
+Alanyaspor,Besiktas,1,2,2020-02-28,0,1,0
+C. Budejovice,Banik Ostrava,0,2,2020-02-28,0,1,0
+Rakow Czestochowa,Piast Gliwice,2,0,2020-02-28,1,0,0
+Jagiellonia,Lech Poznan,1,1,2020-02-28,0,0,1
+Karlsruhe,Nuremberg,0,1,2020-02-28,0,1,0
+Regensburg,Dyn Dresden,1,2,2020-02-28,0,1,0
+Aarhus,Hobro IK,0,0,2020-02-28,0,0,1
+Willem II,FC Groningen,3,1,2020-02-28,1,0,0
+St. Truiden,Mechelen,0,3,2020-02-28,0,1,0
+Las Palmas,Malaga,1,1,2020-02-28,0,0,1
+Portimonense,Vitoria Setubal,0,0,2020-02-28,0,0,1
+Sydney FC,Western Sydney,0,1,2020-02-28,0,1,0
+Beroe Stara,Loko. Plovdiv,2,0,2020-02-28,1,0,0
+Dnipro-1,Dynamo Kiev,3,1,2020-02-28,1,0,0
+UCD,Cobh,1,0,2020-02-28,1,0,0
+Athlone Town,Cabinteely,1,3,2020-02-28,0,1,0
+Bray,Wexford Yth,2,0,2020-02-28,1,0,0
+Drogheda,Longford T,0,1,2020-02-28,0,1,0
+Derry City,Bohemians D.,2,0,2020-02-28,1,0,0
+Shelbourne,St Patrick's,1,0,2020-02-28,1,0,0
+Shamrock R,Dundalk,3,2,2020-02-28,1,0,0
+Cork City,Finn Harps,1,0,2020-02-28,1,0,0
+Saarbrucken,Balingen,4,0,2020-02-28,1,0,0
+Los Angeles FC,Leon,3,0,2020-02-28,1,0,0
+Seattle,Deportivo Olim,2,2,2020-02-28,0,0,1
+Southampton,Burnley,1,2,2020-02-15,0,1,0
+Norwich,Liverpool,0,1,2020-02-15,0,1,0
+West Brom,Nottm Forest,2,2,2020-02-15,0,0,1
+Preston,Millwall,0,1,2020-02-15,0,1,0
+Charlton,Blackburn,0,2,2020-02-15,0,1,0
+Sheff Wed,Reading,0,3,2020-02-15,0,1,0
+Fulham,Barnsley,0,3,2020-02-15,0,1,0
+Birmingham,Brentford,1,1,2020-02-15,0,0,1
+QPR,Stoke,4,2,2020-02-15,1,0,0
+Middlesbrough,Luton,0,1,2020-02-15,0,1,0
+Cardiff,Wigan,2,2,2020-02-15,0,0,1
+Derby,Huddersfield,1,1,2020-02-15,0,0,1
+Leeds,Bristol C,1,0,2020-02-15,1,0,0
+Portsmouth,Shrewsbury,2,0,2020-02-15,1,0,0
+Accrington,Lincoln,4,3,2020-02-15,1,0,0
+Gillingham,Doncaster,2,1,2020-02-15,1,0,0
+Southend,Coventry,0,2,2020-02-15,0,1,0
+Ipswich,Burton,4,1,2020-02-15,1,0,0
+Bolton,Wycombe,0,2,2020-02-15,0,1,0
+Bristol R,Blackpool,2,1,2020-02-15,1,0,0
+Rotherham,AFC W'bledon,2,2,2020-02-15,0,0,1
+Oxford,Sunderland,0,1,2020-02-15,0,1,0
+Fleetwood,Peterborough,2,1,2020-02-15,1,0,0
+Port Vale,Colchester,3,0,2020-02-15,1,0,0
+Cheltenham,Leyton Orient,2,1,2020-02-15,1,0,0
+Grimsby,Morecambe,2,1,2020-02-15,1,0,0
+Macclesfield,Exeter,2,3,2020-02-15,0,1,0
+Oldham,Forest Green,1,1,2020-02-15,0,0,1
+Crawley,Carlisle,0,0,2020-02-15,0,0,1
+Walsall,Northampton,3,2,2020-02-15,1,0,0
+Mansfield,Newport Co,1,0,2020-02-15,1,0,0
+Stevenage,Salford,0,1,2020-02-15,0,1,0
+Cambridge U,Bradford,2,1,2020-02-15,1,0,0
+Plymouth,Crewe,2,1,2020-02-15,1,0,0
+Notts Co,Woking,1,1,2020-02-15,0,0,1
+Ebbsfleet,Chorley,1,0,2020-02-15,1,0,0
+Stockport,Bromley,1,0,2020-02-15,1,0,0
+Hearts,Hamilton,2,2,2020-02-15,0,0,1
+Ross County,St Johnstone,1,1,2020-02-15,0,0,1
+Arbroath,Queen of Sth,2,0,2020-02-15,1,0,0
+Forfar,Stranraer,1,1,2020-02-15,0,0,1
+Airdrieonians,Clyde,2,0,2020-02-15,1,0,0
+East Fife,Peterhead,1,0,2020-02-15,1,0,0
+Montrose,Dumbarton,2,1,2020-02-15,1,0,0
+Queen's Park,Elgin City,2,0,2020-02-15,1,0,0
+Cowdenbeath,Stirling,1,4,2020-02-15,0,1,0
+Stenh'semuir,Albion,1,0,2020-02-15,1,0,0
+Cove Rangers,Edinburgh C,2,1,2020-02-15,1,0,0
+Inverurie Locos,Strathspey T,4,1,2020-02-15,1,0,0
+Formartine Utd,Huntly,5,0,2020-02-15,1,0,0
+Brora Rangers,Keith,3,1,2020-02-15,1,0,0
+Buckie Thistle,Lossiemouth,3,1,2020-02-15,1,0,0
+Deveronvale,Turriff U,1,0,2020-02-15,1,0,0
+Bonnyrigg Rose,Edinburgh Uni,4,0,2020-02-15,1,0,0
+Spartans,Kelty Hearts,0,1,2020-02-15,0,1,0
+E Stirling,Gala Fairydean,5,2,2020-02-15,1,0,0
+Cumbernauld C,Berwick,0,0,2020-02-15,0,0,1
+Lecce,Spal,2,1,2020-02-15,1,0,0
+Bologna,Genoa,0,3,2020-02-15,0,1,0
+Atalanta,Roma,2,1,2020-02-15,1,0,0
+Union Berlin,B Leverkusen,2,3,2020-02-15,0,1,0
+RB Leipzig,W Bremen,3,0,2020-02-15,1,0,0
+Hoffenheim,Wolfsburg,2,3,2020-02-15,0,1,0
+Augsburg,Freiburg,1,1,2020-02-15,0,0,1
+SC Paderborn,Hertha Berlin,1,2,2020-02-15,0,1,0
+F Dusseldorf,B M'gladbach,1,4,2020-02-15,0,1,0
+Mallorca,Alaves,1,0,2020-02-15,1,0,0
+Barcelona,Getafe,2,1,2020-02-15,1,0,0
+Villarreal,Levante,2,1,2020-02-15,1,0,0
+Granada,Valladolid,2,1,2020-02-15,1,0,0
+Amiens,Paris St-G.,4,4,2020-02-15,0,0,1
+Nantes,Metz,0,0,2020-02-15,0,0,1
+Toulouse,Nice,0,2,2020-02-15,0,1,0
+Nimes,Angers,1,0,2020-02-15,1,0,0
+Bordeaux,Dijon,2,2,2020-02-15,0,0,1
+Denizlispor,Kayserispor,0,1,2020-02-15,0,1,0
+Konyaspor,Goztepe,1,3,2020-02-15,0,1,0
+Ankaragucu,Fenerbahce,2,1,2020-02-15,1,0,0
+Greuther Furth,Arminia,2,4,2020-02-15,0,1,0
+Hannover,Hamburg,1,1,2020-02-15,0,0,1
+Regensburg,Wehen-Wiesb.,1,0,2020-02-15,1,0,0
+Academica Clinceni,Metan Medias,2,3,2020-02-15,0,1,0
+CSMS Iasi,Uni Craiova,2,5,2020-02-15,0,1,0
+MFK Karvina,Zlin,2,0,2020-02-15,1,0,0
+Teplice,Sigma O.,1,3,2020-02-15,0,1,0
+Synot,Banik Ostrava,0,1,2020-02-15,0,1,0
+Sparta Prague,Slovan Liberec,0,2,2020-02-15,0,1,0
+LKS Lodz,Wisla Plock,0,0,2020-02-15,0,0,1
+Pogon Szczecin,Slask Wroclaw,0,0,2020-02-15,0,0,1
+Rakow Czestochowa,Legia Warsaw,2,2,2020-02-15,0,0,1
+NK Inter,NK Varazdin,1,2,2020-02-15,0,1,0
+Slaven,Hajduk Split,2,1,2020-02-15,1,0,0
+Huesca,Almeria,3,2,2020-02-15,1,0,0
+Real Oviedo,Alcorcon,1,2,2020-02-15,0,1,0
+Numancia,Las Palmas,1,1,2020-02-15,0,0,1
+Elche,Zaragoza,1,2,2020-02-15,0,1,0
+Larissa,PAOK Salonika,1,2,2020-02-15,0,1,0
+Olympiakos,Panionios,4,0,2020-02-15,1,0,0
+Santa Clara,Tondela,1,0,2020-02-15,1,0,0
+Portimonense,Moreirense,1,1,2020-02-15,0,0,1
+Benfica,Braga,0,1,2020-02-15,0,1,0
+Rio Ave,Sporting,1,1,2020-02-15,0,0,1
+Wolfsberger,Hartberg,3,0,2020-02-15,1,0,0
+Altach,Aus. Vienna,2,2,2020-02-15,0,0,1
+Club Brugge,W Beveren,2,1,2020-02-15,1,0,0
+Oostende,Kortrijk,0,3,2020-02-15,0,1,0
+St. Truiden,Cercle Bruges,0,1,2020-02-15,0,1,0
+Mechelen,Anderlecht,2,0,2020-02-15,1,0,0
+FC Twente,AZ Alkmaar,2,0,2020-02-15,1,0,0
+Den Haag,PSV Eindhoven,0,3,2020-02-15,0,1,0
+F. Sittard,FC Emmen,0,0,2020-02-15,0,0,1
+FC Sion,Neuc. Xamax,1,2,2020-02-15,0,1,0
+Basel,Thun,0,1,2020-02-15,0,1,0
+Wellington,Melbourne C,1,0,2020-02-15,1,0,0
+Western Sydney,Newcastle Jets,1,1,2020-02-15,0,0,1
+FK Indija,Backa Topola,1,1,2020-02-15,0,0,1
+Cukaricki,Red Star,0,2,2020-02-15,0,1,0
+Napredak,Javor,1,1,2020-02-15,0,0,1
+Mladost Lucani,Vozdovac,2,1,2020-02-15,1,0,0
+Macva Sabac,Rad Beograd,1,0,2020-02-15,1,0,0
+Vojvodina NS,Proleter Novi Sad,1,0,2020-02-15,1,0,0
+Levski Sofia,CSKA Sofia,0,0,2020-02-15,0,0,1
+Ludogorets,Botev Vratsa,6,0,2020-02-15,1,0,0
+M. Netanya,H. Haifa,0,0,2020-02-15,0,0,1
+Sektzia Nes Tziona,H Beer Sheva,3,0,2020-02-15,1,0,0
+H. Kfar Saba,Hapoel Hadera,1,3,2020-02-15,0,1,0
+Bnei Yehuda,MS Ashdod,0,1,2020-02-15,0,1,0
+M. Netanya,Hapoel Ra'ana,0,0,2020-02-15,0,0,1
+Bnei Yehuda,H Beer Sheva,0,1,2020-02-15,0,1,0
+H. Kfar Saba,MS Ashdod,1,3,2020-02-15,0,1,0
+M. Haifa,Hapoel Hadera,1,0,2020-02-15,1,0,0
+Bohemians D.,Shamrock R,0,1,2020-02-15,0,1,0
+Zalaegerszeg,Ujpest Dozsa,2,1,2020-02-15,1,0,0
+Debrecen,Mezokovesd SE,1,3,2020-02-15,0,1,0
+Kaposvar,Honved,0,1,2020-02-15,0,1,0
+Puskas FA FC,Kisvarda,3,1,2020-02-15,1,0,0
+Diosgyor,Paksi SE,2,0,2020-02-15,1,0,0
+Ferencvaros,MOL Vidi,1,0,2020-02-15,1,0,0
+Gateshead,Kidderminster,0,0,2020-02-15,0,0,1
+Blyth Sptns,Altrincham,0,3,2020-02-15,0,1,0
+Chippenham,Maidstone,1,0,2020-02-15,1,0,0
+Tonbridge,Hungerford,1,1,2020-02-15,0,0,1
+Dulwich H,Welling,0,1,2020-02-15,0,1,0
+Slough,Havant & W,1,1,2020-02-15,0,0,1
+Braintree,Hemel,0,0,2020-02-15,0,0,1
+St Albans,Oxford C,0,0,2020-02-15,0,0,1
+Dorking W,Chelmsford,2,0,2020-02-15,1,0,0
+Hampton & R,Weymouth,2,3,2020-02-15,0,1,0
+Concord R,Bath City,0,1,2020-02-15,0,1,0
+Worthing,Folkestone,0,1,2020-02-15,0,1,0
+Wingate & F,Bowers & Pitsea,2,2,2020-02-15,0,0,1
+Brightlingsea R,Margate,1,1,2020-02-15,0,0,1
+Cray W,Kingstonian,0,0,2020-02-15,0,0,1
+Carshalton,Potters Bar,5,1,2020-02-15,1,0,0
+Hornchurch,Merstham,2,2,2020-02-15,0,0,1
+Gosport Bor,Walton Casuals,2,1,2020-02-15,1,0,0
+Harrow Boro,Chesham,2,2,2020-02-15,0,0,1
+Gainsborough,Stalybridge,1,3,2020-02-15,0,1,0
+Grantham,South Shields,1,3,2020-02-15,0,1,0
+Scarborough A,Bamber Br.,5,0,2020-02-15,1,0,0
+Whitby,Stafford,2,1,2020-02-15,1,0,0
+Karlskrona,AFC Eskilstuna,1,1,2020-02-15,0,0,1
+Malmo,Syrianska,8,0,2020-02-15,1,0,0
+Zira,FK Qarabag,0,6,2020-02-15,0,1,0
+Lorient,Clermont,0,1,2020-02-15,0,1,0
+Middlesbrough,Nottm Forest,2,2,2020-03-02,0,0,1
+Portsmouth,Arsenal,0,2,2020-03-02,0,1,0
+Hermannstadt,Chindia Targoviste,1,0,2020-03-02,1,0,0
+CFR Cluj,Astra Giurgiu,2,1,2020-03-02,1,0,0
+Kayserispor,Goztepe,1,0,2020-03-02,1,0,0
+Basaksehir,Gazisehir,3,1,2020-03-02,1,0,0
+Midtjylland,SonderjyskE,3,0,2020-03-02,1,0,0
+Altach,RB Salzburg,3,2,2020-03-02,1,0,0
+Hannover,Holstein Kiel,3,1,2020-03-02,1,0,0
+Santa Clara,Porto,0,2,2020-03-02,0,1,0
+Benfica,Moreirense,1,1,2020-03-02,0,0,1
+Vitosha Bistritsa,Etar Veliko Tarnovo,2,6,2020-03-02,0,1,0
+Portland Timb.,Minnesota U,1,3,2020-03-02,0,1,0
+Basford United,Nantwich,0,2,2020-03-02,0,1,0
+Sandvikens,Djurgaardens,2,2,2020-03-02,0,0,1
+Mjallby,Dalkurd FF,5,0,2020-03-02,1,0,0
+Apoel Nicosia,Omonia Nicosia,0,0,2020-03-02,0,0,1
+Paris,Lens,0,2,2020-03-02,0,1,0
+Derby,Man Utd,0,3,2020-03-05,0,1,0
+Tabor Sezana,Triglav,3,1,2020-03-05,1,0,0
+St-Etienne,Rennes,2,1,2020-03-05,1,0,0
+Granada,Ath Bilbao,2,1,2020-03-05,1,0,0
+RB Salzburg,LASK Linz,1,0,2020-03-05,1,0,0
+Khimki,Torpedo Mosc.,5,1,2020-03-05,1,0,0
+Levski Sofia,Ludogorets,0,0,2020-03-05,0,0,1
+Everton,Crystal Palace,3,1,2020-02-08,1,0,0
+Brighton,Watford,1,1,2020-02-08,0,0,1
+Wigan,Preston,1,2,2020-02-08,0,1,0
+Barnsley,Sheff Wed,1,1,2020-02-08,0,0,1
+Huddersfield,QPR,2,0,2020-02-08,1,0,0
+Blackburn,Fulham,0,1,2020-02-08,0,1,0
+Reading,Hull,1,1,2020-02-08,0,0,1
+Luton,Cardiff,0,1,2020-02-08,0,1,0
+Brentford,Middlesbrough,3,2,2020-02-08,1,0,0
+Stoke,Charlton,3,1,2020-02-08,1,0,0
+Swansea,Derby,2,3,2020-02-08,0,1,0
+Nottm Forest,Leeds,2,0,2020-02-08,1,0,0
+Shrewsbury,MK Dons,1,1,2020-02-08,0,0,1
+Doncaster,Rochdale,1,1,2020-02-08,0,0,1
+Tranmere,Portsmouth,0,2,2020-02-08,0,1,0
+Blackpool,Southend,2,1,2020-02-08,1,0,0
+Wycombe,Bristol R,3,1,2020-02-08,1,0,0
+AFC W'bledon,Fleetwood,1,2,2020-02-08,0,1,0
+Coventry,Bolton,2,1,2020-02-08,1,0,0
+Burton,Gillingham,0,0,2020-02-08,0,0,1
+Sunderland,Ipswich,1,0,2020-02-08,1,0,0
+Peterborough,Oxford,4,0,2020-02-08,1,0,0
+Leyton Orient,Macclesfield,1,1,2020-02-08,0,0,1
+Salford,Crawley,0,0,2020-02-08,0,0,1
+Forest Green,Walsall,1,2,2020-02-08,0,1,0
+Newport Co,Cambridge U,0,1,2020-02-08,0,1,0
+Northampton,Port Vale,0,1,2020-02-08,0,1,0
+Colchester,Plymouth,3,0,2020-02-08,1,0,0
+Carlisle,Swindon,1,1,2020-02-08,0,0,1
+Crewe,Oldham,2,1,2020-02-08,1,0,0
+Exeter,Stevenage,2,1,2020-02-08,1,0,0
+Morecambe,Mansfield,1,1,2020-02-08,0,0,1
+Scunthorpe,Cheltenham,1,0,2020-02-08,1,0,0
+Bradford,Grimsby,1,1,2020-02-08,0,0,1
+Chesterfield,Wrexham,3,2,2020-02-08,1,0,0
+Bromley,Solihull M,2,2,2020-02-08,0,0,1
+Hartlepool,Aldershot,2,0,2020-02-08,1,0,0
+Dag & Red,Stockport,1,1,2020-02-08,0,0,1
+Dundee,Partick,2,0,2020-02-08,1,0,0
+Morton,Queen of Sth,2,2,2020-02-08,0,0,1
+Dumbarton,Airdrieonians,0,0,2020-02-08,0,0,1
+Stranraer,Raith,1,1,2020-02-08,0,0,1
+Albion,Brechin,4,1,2020-02-08,1,0,0
+Edinburgh C,Annan,3,0,2020-02-08,1,0,0
+Elgin City,Cove Rangers,3,0,2020-02-08,1,0,0
+Stenh'semuir,Cowdenbeath,2,2,2020-02-08,0,0,1
+Stirling,Queen's Park,1,3,2020-02-08,0,1,0
+Hamilton,Rangers,1,4,2020-02-08,0,1,0
+Aberdeen,Kilmarnock,0,0,2020-02-08,0,0,1
+St Mirren,Motherwell,1,1,2020-02-08,0,0,1
+Ayr,St Johnstone,1,2,2020-02-08,0,1,0
+Inverness CT,Livingston,1,0,2020-02-08,1,0,0
+Falkirk,Hearts,0,1,2020-02-08,0,1,0
+Forres Mech,Buckie Thistle,2,2,2020-02-08,0,0,1
+Nairn County,Formartine Utd,0,6,2020-02-08,0,1,0
+Strathspey T,Brora Rangers,1,5,2020-02-08,0,1,0
+Turriff U,Fort William,1,2,2020-02-08,0,1,0
+Lossiemouth,Clachnacuddin,3,4,2020-02-08,0,1,0
+Keith,Rothes,2,3,2020-02-08,0,1,0
+Inverurie Locos,Deveronvale,3,1,2020-02-08,1,0,0
+Berwick,E Stirling,1,5,2020-02-08,0,1,0
+Dalbeattie Star,Kelty Hearts,0,4,2020-02-08,0,1,0
+Gretna 2008,Edinburgh Uni,0,0,2020-02-08,0,0,1
+Gala Fairydean,Bonnyrigg Rose,1,5,2020-02-08,0,1,0
+Edusport Acad,Civil Serv Strol,7,2,2020-02-08,1,0,0
+Fiorentina,Atalanta,1,2,2020-02-08,0,1,0
+Torino,Sampdoria,1,3,2020-02-08,0,1,0
+Verona,Juventus,2,1,2020-02-08,1,0,0
+Hertha Berlin,Mainz,1,3,2020-02-08,0,1,0
+Freiburg,Hoffenheim,1,0,2020-02-08,1,0,0
+W Bremen,Union Berlin,0,2,2020-02-08,0,1,0
+Wolfsburg,F Dusseldorf,1,1,2020-02-08,0,0,1
+Schalke,SC Paderborn,1,1,2020-02-08,0,0,1
+B Leverkusen,B Dortmund,4,3,2020-02-08,1,0,0
+Levante,Leganes,2,0,2020-02-08,1,0,0
+Getafe,Valencia,3,0,2020-02-08,1,0,0
+Valladolid,Villarreal,1,1,2020-02-08,0,0,1
+Atl Madrid,Granada,1,0,2020-02-08,1,0,0
+Marseille,Toulouse,1,0,2020-02-08,1,0,0
+Nice,Nimes,1,3,2020-02-08,0,1,0
+Amiens,Monaco,1,2,2020-02-08,0,1,0
+Dijon,Nantes,3,3,2020-02-08,0,0,1
+Rennes,Stade Brest,0,0,2020-02-08,0,0,1
+Metz,Bordeaux,1,2,2020-02-08,0,1,0
+Konyaspor,Denizlispor,0,0,2020-02-08,0,0,1
+Besiktas,Gazisehir,3,0,2020-02-08,1,0,0
+Genclerbirligi,Trabzonspor,0,2,2020-02-08,0,1,0
+Fenerbahce,Alanyaspor,1,1,2020-02-08,0,0,1
+Stuttgart,Erzegbirge A,3,0,2020-02-08,1,0,0
+Osnabruck,Nuremberg,0,1,2020-02-08,0,1,0
+Hamburg,Karlsruhe,2,0,2020-02-08,1,0,0
+Korona Kielce,Gornik Zabrze,0,0,2020-02-08,0,0,1
+Lech Poznan,Rakow Czestochowa,3,0,2020-02-08,1,0,0
+Wisla Krakow,Jagiellonia,3,0,2020-02-08,1,0,0
+Osijek,NK Inter,1,1,2020-02-08,0,0,1
+Hajduk Split,Loko. Zagreb,1,0,2020-02-08,1,0,0
+Extremadura,Tenerife,2,4,2020-02-08,0,1,0
+Girona,Huesca,1,0,2020-02-08,1,0,0
+Las Palmas,Cadiz,1,2,2020-02-08,0,1,0
+Zaragoza,Fuenlabrada,0,0,2020-02-08,0,0,1
+Famalicao,V Guimaraes,0,7,2020-02-08,0,1,0
+Belenenses,Santa Clara,0,2,2020-02-08,0,1,0
+Braga,Gil Vicente,2,2,2020-02-08,0,0,1
+Porto,Benfica,3,2,2020-02-08,1,0,0
+Charleroi,Waregem,4,0,2020-02-08,1,0,0
+St. Truiden,KAS Eupen,5,2,2020-02-08,1,0,0
+Cercle Bruges,Mechelen,3,2,2020-02-08,1,0,0
+Mouscron-P,Oostende,3,1,2020-02-08,1,0,0
+Panionios,Xanthi,0,0,2020-02-08,0,0,1
+Lamia,Larissa,0,0,2020-02-08,0,0,1
+FC Groningen,Vitesse Arn.,1,0,2020-02-08,1,0,0
+PSV Eindhoven,Willem II,3,0,2020-02-08,1,0,0
+Heerenveen,VVV Venlo,1,1,2020-02-08,0,0,1
+RKC Waalwijk,PEC Zwolle,0,0,2020-02-08,0,0,1
+Young Boys,FC Sion,1,0,2020-02-08,1,0,0
+FC Zurich,Basel,0,4,2020-02-08,0,1,0
+Metan Medias,CFR Cluj,0,0,2020-02-08,0,0,1
+Brisbane Roar,Adelaide Utd,2,1,2020-02-08,1,0,0
+H Tel Aviv,Ironi Kiryat S,2,0,2020-02-08,1,0,0
+Hapoel Ra'ana,M. Netanya,1,2,2020-02-08,0,1,0
+Hapoel Hadera,H. Kfar Saba,2,0,2020-02-08,1,0,0
+H. Haifa,M. Tel Aviv,1,1,2020-02-08,0,0,1
+Cardiff MU,Aberystwyth,3,1,2020-02-08,1,0,0
+Barry Town,Connah's Q,0,1,2020-02-08,0,1,0
+Cliftonville,Dungannon Sw,1,1,2020-02-08,0,0,1
+Ballymena,Carrick Rangers,0,2,2020-02-08,0,1,0
+Glentoran,Coleraine,0,1,2020-02-08,0,1,0
+Glenavon,Crusaders,2,1,2020-02-08,1,0,0
+Warrenpoint T,Linfield,1,2,2020-02-08,0,1,0
+Institute FC,Larne,0,4,2020-02-08,0,1,0
+Kisvarda,Kaposvar,5,3,2020-02-08,1,0,0
+MOL Vidi,Mezokovesd SE,2,1,2020-02-08,1,0,0
+Honved,Zalaegerszeg,2,0,2020-02-08,1,0,0
+Paksi SE,Puskas FA FC,0,2,2020-02-08,0,1,0
+Diosgyor,Debrecen,1,2,2020-02-08,0,1,0
+Altrincham,Kettering,1,1,2020-02-08,0,0,1
+Boston Utd,York,3,1,2020-02-08,1,0,0
+Farsley AFC,Alfreton,1,1,2020-02-08,0,0,1
+Curzon A,Gateshead,0,1,2020-02-08,0,1,0
+Guiseley,Telford,1,2,2020-02-08,0,1,0
+Chester,Blyth Sptns,2,1,2020-02-08,1,0,0
+Kidderminster,Darlington,1,1,2020-02-08,0,0,1
+Spennymoor,Brackley,0,0,2020-02-08,0,0,1
+Hereford,Southport,2,2,2020-02-08,0,0,1
+Bradford PA,Gloucester,1,2,2020-02-08,0,1,0
+Maidstone,Braintree,1,0,2020-02-08,1,0,0
+Hemel,Chippenham,0,1,2020-02-08,0,1,0
+Bath City,St Albans,0,3,2020-02-08,0,1,0
+Dartford,Hampton & R,1,2,2020-02-08,0,1,0
+Wealdstone,Billericay,3,0,2020-02-08,1,0,0
+Welling,Slough,1,2,2020-02-08,0,1,0
+Weymouth,Eastbourne,2,2,2020-02-08,0,0,1
+Havant & W,Dulwich H,0,0,2020-02-08,0,0,1
+Bowers & Pitsea,Merstham,1,1,2020-02-08,0,0,1
+Worthing,Cray W,1,2,2020-02-08,0,1,0
+Wingate & F,E Thurrock,2,1,2020-02-08,1,0,0
+Folkestone,Carshalton,1,3,2020-02-08,0,1,0
+Enfield T,Bognor Regis,2,0,2020-02-08,1,0,0
+Margate,Corinthian Cas,2,2,2020-02-08,0,0,1
+Potters Bar,Hornchurch,2,1,2020-02-08,1,0,0
+Kingstonian,Brightlingsea R,2,1,2020-02-08,1,0,0
+Leatherhead,Bishop's St.,3,1,2020-02-08,1,0,0
+Horsham,Haringey B,2,0,2020-02-08,1,0,0
+Lewes,Cheshunt,1,6,2020-02-08,0,1,0
+Tiverton,Hartley Wint.,2,0,2020-02-08,1,0,0
+Chesham,Merthyr,2,0,2020-02-08,1,0,0
+Dorchester,Hendon,0,3,2020-02-08,0,1,0
+Weston S-M.,Walton Casuals,1,0,2020-02-08,1,0,0
+Swindon Sup.,Taunton Town,1,2,2020-02-08,0,1,0
+Yate,Hayes & Y,0,2,2020-02-08,0,1,0
+Gosport Bor,Truro City,1,0,2020-02-08,1,0,0
+Met. Police,Salisbury FC,3,2,2020-02-08,1,0,0
+Farnborough,Blackfield & L,1,1,2020-02-08,0,0,1
+Wimborne T,Beaconsfield,2,0,2020-02-08,1,0,0
+Harrow Boro,Poole Town,0,0,2020-02-08,0,0,1
+Hyde,Scarborough A,0,1,2020-02-08,0,1,0
+Radcliffe Boro,Lancaster,0,3,2020-02-08,0,1,0
+Bamber Br.,Grantham,2,1,2020-02-08,1,0,0
+Mickleover S,Whitby,1,3,2020-02-08,0,1,0
+Atherton Colls,Morpeth Town,1,5,2020-02-08,0,1,0
+Ashton Utd,Witton,3,1,2020-02-08,1,0,0
+South Shields,Nantwich,1,4,2020-02-08,0,1,0
+Stafford,Stalybridge,1,1,2020-02-08,0,0,1
+Buxton,Gainsborough,3,3,2020-02-08,0,0,1
+Basford United,FC Utd,1,1,2020-02-08,0,0,1
+Corinthian,Sporting Khalsa,3,0,2020-02-08,1,0,0
+Plymouth P,West Auck T,2,1,2020-02-08,1,0,0
+Atherstone T,Worcester,1,1,2020-02-08,0,0,1
+Bradford Town,Leighton,1,3,2020-02-08,0,1,0
+Longridge Town,Hebburn Town,0,2,2020-02-08,0,1,0
+Bitton,Sutton Common Rovers,2,1,2020-02-08,1,0,0
+Consett,Deal Town,2,0,2020-02-08,1,0,0
+Wroxham,Stowmarket,2,0,2020-02-08,1,0,0
+Barnet,Barrow,3,0,2020-02-08,1,0,0
+Yeovil,Notts Co,1,2,2020-02-08,0,1,0
+Ebbsfleet,Royston,0,2,2020-02-08,0,1,0
+Halifax,Halesowen,0,1,2020-02-08,0,1,0
+Aveley,Chelmsford,3,1,2020-02-08,1,0,0
+Dorking W,Fylde,2,4,2020-02-08,0,1,0
+Harrogate,Eastleigh,2,0,2020-02-08,1,0,0
+Concord R,Leamington,2,2,2020-02-08,0,0,1
+Guingamp,Lorient,2,1,2020-02-08,1,0,0
+Epinal,Reims II,1,1,2020-02-08,0,0,1
+AEK Larnaca,Apoel Nicosia,1,0,2020-02-08,1,0,0
+LASK Linz,Sturm Graz,2,0,2020-02-08,1,0,0
+Valletta,Balzan,3,1,2020-02-08,1,0,0
+Nottm Forest,Millwall,0,3,2020-03-06,0,1,0
+Inverurie Locos,Fraserburgh,1,4,2020-03-06,0,1,0
+SC Paderborn,Cologne,1,2,2020-03-06,0,1,0
+Alaves,Valencia,1,1,2020-03-06,0,0,1
+Marseille,Amiens,2,2,2020-03-06,0,0,1
+Besiktas,Ankaragucu,2,1,2020-03-06,1,0,0
+Nuremberg,Hannover,0,3,2020-03-06,0,1,0
+Osnabruck,Wehen-Wiesb.,2,6,2020-03-06,0,1,0
+Astra Giurgiu,Botosani,1,0,2020-03-06,1,0,0
+F. Sittard,PEC Zwolle,1,1,2020-03-06,0,0,1
+Gornik Zabrze,Cracovia,3,2,2020-03-06,1,0,0
+Lugo,Cadiz,1,1,2020-03-06,0,0,1
+Braga,Portimonense,3,1,2020-03-06,1,0,0
+Brisbane Roar,Western Sydney,3,1,2020-03-06,1,0,0
+Cherno More,Tsarsko Selo,1,0,2020-03-06,1,0,0
+Cukaricki,Sp Subotica,4,1,2020-03-06,1,0,0
+Penybont,Cardiff MU,2,0,2020-03-06,1,0,0
+Bala Town,Connah's Q,2,2,2020-03-06,0,0,1
+Caernarfon,Newtown,3,1,2020-03-06,1,0,0
+Newi CD,Aberystwyth,2,2,2020-03-06,0,0,1
+The New Saints,Barry Town,2,2,2020-03-06,0,0,1
+Wexford Yth,Galway FC,0,0,2020-03-06,0,0,1
+Cabinteely,Shamrock R B,1,0,2020-03-06,1,0,0
+Drogheda,UCD,5,1,2020-03-06,1,0,0
+Waterford,Derry City,2,1,2020-03-06,1,0,0
+St Patrick's,Cork City,1,0,2020-03-06,1,0,0
+Finn Harps,Dundalk,0,4,2020-03-06,0,1,0
+Bohemians D.,Shelbourne,2,0,2020-03-06,1,0,0
+Ipswich,Fleetwood,0,1,2020-03-03,0,1,0
+Exeter,Crewe,1,1,2020-03-03,0,0,1
+Swindon,Scunthorpe,2,0,2020-03-03,1,0,0
+Plymouth,Grimsby,3,0,2020-03-03,1,0,0
+Chorley,Eastleigh,1,2,2020-03-03,0,1,0
+Barnet,Boreham W,2,2,2020-03-03,0,0,1
+Chesterfield,Harrogate,3,4,2020-03-03,0,1,0
+Halifax,Sutton Utd,1,0,2020-03-03,1,0,0
+Fylde,Notts Co,1,2,2020-03-03,0,1,0
+Solihull M,Hartlepool,0,1,2020-03-03,0,1,0
+Chelsea,Liverpool,2,0,2020-03-03,1,0,0
+Reading,Sheff Utd,1,2,2020-03-03,0,1,0
+West Brom,Newcastle,2,3,2020-03-03,0,1,0
+Hibernian,Hearts,1,3,2020-03-03,0,1,0
+Partick,Queen of Sth,0,0,2020-03-03,0,0,1
+Ayr,Dundee Utd,0,0,2020-03-03,0,0,1
+Dundee,Alloa,0,0,2020-03-03,0,0,1
+Inverness CT,Morton,3,2,2020-03-03,1,0,0
+Raith,Falkirk,1,1,2020-03-03,0,0,1
+Dumbarton,Forfar,2,0,2020-03-03,1,0,0
+Clyde,Montrose,2,1,2020-03-03,1,0,0
+Cowdenbeath,Albion,2,1,2020-03-03,1,0,0
+Stirling,Stenh'semuir,0,0,2020-03-03,0,0,1
+NK Aluminij,O. Ljubljana,1,2,2020-03-03,0,1,0
+Loko. Zagreb,Slaven,3,0,2020-03-03,1,0,0
+Rijeka,NK Inter,4,1,2020-03-03,1,0,0
+Wisla Plock,Rakow Czestochowa,0,2,2020-03-03,0,1,0
+Lech Poznan,Gornik Zabrze,4,1,2020-03-03,1,0,0
+Cracovia,Wisla Krakow,0,2,2020-03-03,0,1,0
+Pogon Szczecin,Jagiellonia,1,2,2020-03-03,0,1,0
+Famalicao,Sporting,3,1,2020-03-03,1,0,0
+Saarbrucken,F Dusseldorf,1,1,2020-03-03,0,0,1
+Schalke,B Munich,0,1,2020-03-03,0,1,0
+Dynamo Kiev,Kolos Kovalivka,2,0,2020-03-03,1,0,0
+Coleraine,Glenavon,2,1,2020-03-03,1,0,0
+Crusaders,Cliftonville,0,0,2020-03-03,0,0,1
+Dungannon Sw,Ballymena,1,0,2020-03-03,1,0,0
+York,Hereford,1,4,2020-03-03,0,1,0
+Leamington,King's Lynn,0,0,2020-03-03,0,0,1
+Brackley,Boston Utd,0,0,2020-03-03,0,0,1
+Billericay,Havant & W,0,1,2020-03-03,0,1,0
+Corinthian Cas,E Thurrock,2,1,2020-03-03,1,0,0
+Enfield T,Lewes,1,1,2020-03-03,0,0,1
+Leatherhead,Potters Bar,4,0,2020-03-03,1,0,0
+Beaconsfield,Tiverton,4,0,2020-03-03,1,0,0
+Gainsborough,Radcliffe Boro,4,1,2020-03-03,1,0,0
+Ashton Utd,Warrington,1,1,2020-03-03,0,0,1
+Matlock,Morpeth Town,1,1,2020-03-03,0,0,1
+Whitby,Mickleover S,1,1,2020-03-03,0,0,1
+Concord R,Royston,2,1,2020-03-03,1,0,0
+Trabzonspor,Fenerbahce,2,1,2020-03-03,1,0,0
+Sheff Wed,Man City,0,1,2020-03-04,0,1,0
+Tottenham,Norwich,1,1,2020-03-04,0,0,1
+Leicester,Birmingham,1,0,2020-03-04,1,0,0
+Rangers,Hamilton,0,1,2020-03-04,0,1,0
+Livingston,Celtic,2,2,2020-03-04,0,0,1
+St Mirren,St Johnstone,0,0,2020-03-04,0,0,1
+Kilmarnock,Aberdeen,2,2,2020-03-04,0,0,1
+Motherwell,Ross County,4,1,2020-03-04,1,0,0
+Arbroath,Dunfermline,0,0,2020-03-04,0,0,1
+Fort William,Strathspey T,0,1,2020-03-04,0,1,0
+Clachnacuddin,Formartine Utd,0,3,2020-03-04,0,1,0
+Bravo Publikum,Domzale,2,1,2020-03-04,1,0,0
+NK Celje,Maribor,2,0,2020-03-04,1,0,0
+NS Mura,Rudar Velenje,1,1,2020-03-04,0,0,1
+NK Istra 1961,Osijek,1,0,2020-03-04,1,0,0
+NK Varazdin,HNK Gorica,2,2,2020-03-04,0,0,1
+Hajduk Split,Din Zagreb,0,2,2020-03-04,0,1,0
+LKS Lodz,Zaglebie Lubin,3,2,2020-03-04,1,0,0
+Slask Wroclaw,Korona Kielce,2,1,2020-03-04,1,0,0
+Lechia Gdansk,Legia Warsaw,0,2,2020-03-04,0,1,0
+Piast Gliwice,Arka Gdynia,1,0,2020-03-04,1,0,0
+Mariupol,Vorskla Poltava,3,0,2020-03-04,1,0,0
+Zorya,Lviv,2,0,2020-03-04,1,0,0
+Olimpik Donetsk,Desna,1,2,2020-03-04,0,1,0
+Shakhtar,Dnipro-1,4,1,2020-03-04,1,0,0
+Karpaty Lvov,Oleksandria,0,4,2020-03-04,0,1,0
+B Leverkusen,Union Berlin,3,1,2020-03-04,1,0,0
+E Frankfurt,W Bremen,2,0,2020-03-04,1,0,0
+Mirandes,Sociedad,0,1,2020-03-04,0,1,0
+Lyon,Paris St-G.,1,5,2020-03-04,0,1,0
+Taunton Town,Hendon,3,3,2020-03-04,0,0,1
+Dinamo Brest,Shakhtyor,2,0,2020-03-04,1,0,0
+FC Utrecht,Ajax,2,0,2020-03-04,1,0,0
+Antalyaspor,Alanyaspor,0,1,2020-03-04,0,1,0
+PAOK Salonika,Olympiakos,3,2,2020-03-04,1,0,0
+Spartak Moscow,CSKA Mosc.,3,2,2020-03-04,1,0,0
+Terek Grozny,Zenit,1,2,2020-03-04,0,1,0
+Aalborg,FC Copenhagen,2,0,2020-03-04,1,0,0
+Tottenham,Wolves,2,3,2020-03-01,0,1,0
+Everton,Man Utd,1,1,2020-03-01,0,0,1
+Coventry,Sunderland,1,0,2020-03-01,1,0,0
+Aston Villa,Man City,1,2,2020-03-01,0,1,0
+St Johnstone,Celtic,0,1,2020-03-01,0,1,0
+Lecce,Atalanta,2,7,2020-03-01,0,1,0
+Cagliari,Roma,3,4,2020-03-01,0,1,0
+Union Berlin,Wolfsburg,2,2,2020-03-01,0,0,1
+RB Leipzig,B Leverkusen,1,1,2020-03-01,0,0,1
+Sevilla,Osasuna,3,2,2020-03-01,1,0,0
+Ath Bilbao,Villarreal,1,0,2020-03-01,1,0,0
+Espanyol,Atl Madrid,1,1,2020-03-01,0,0,1
+Mallorca,Getafe,0,1,2020-03-01,0,1,0
+Real Madrid,Barcelona,2,0,2020-03-01,1,0,0
+Nantes,Lille,0,1,2020-03-01,0,1,0
+Bordeaux,Nice,1,1,2020-03-01,0,0,1
+Lyon,St-Etienne,2,0,2020-03-01,1,0,0
+Denizlispor,Malatyaspor,2,0,2020-03-01,1,0,0
+Ankaragucu,Sivasspor,0,3,2020-03-01,0,1,0
+Galatasaray,Genclerbirligi,3,0,2020-03-01,1,0,0
+Tambov,Rubin,0,0,2020-03-01,0,0,1
+FK Krasnodar,FC Ufa,2,0,2020-03-01,1,0,0
+Sochi,Arsenal Tula,1,2,2020-03-01,0,1,0
+AC Horsens,Randers Freja,1,2,2020-03-01,0,1,0
+OB Odense,Silkeborg,1,1,2020-03-01,0,0,1
+Brondby,Lyngby,1,0,2020-03-01,1,0,0
+FC Copenhagen,Aalborg,3,2,2020-03-01,1,0,0
+Mirandes,Girona,1,1,2020-03-01,0,0,1
+Deportivo,Lugo,0,0,2020-03-01,0,0,1
+Elche,Numancia,2,0,2020-03-01,1,0,0
+Fuenlabrada,Alcorcon,3,4,2020-03-01,0,1,0
+Real Oviedo,Tenerife,1,0,2020-03-01,1,0,0
+RKC Waalwijk,FC Utrecht,2,1,2020-03-01,1,0,0
+PSV Eindhoven,Feyenoord,1,1,2020-03-01,0,0,1
+Sp. Rotterdam,FC Emmen,5,1,2020-03-01,1,0,0
+Ajax,AZ Alkmaar,0,2,2020-03-01,0,1,0
+Korona Kielce,Lechia Gdansk,1,2,2020-03-01,0,1,0
+Arka Gdynia,LKS Lodz,1,1,2020-03-01,0,0,1
+Zaglebie Lubin,Slask Wroclaw,3,1,2020-03-01,1,0,0
+Arminia,Wehen-Wiesb.,1,0,2020-03-01,1,0,0
+St Pauli,Osnabruck,3,1,2020-03-01,1,0,0
+Bochum,SV Sandhausen,4,4,2020-03-01,0,0,1
+Triglav,NS Mura,1,1,2020-03-01,0,0,1
+Domzale,NK Celje,1,1,2020-03-01,0,0,1
+Genk,Club Brugge,1,2,2020-03-01,0,1,0
+Charleroi,St Liege,2,0,2020-03-01,1,0,0
+Cercle Bruges,Gent,1,0,2020-03-01,1,0,0
+Synot,Slavia Prague,2,0,2020-03-01,1,0,0
+B. 1905,MFK Karvina,0,0,2020-03-01,0,0,1
+Desp. Aves,Pacos Ferreira,1,3,2020-03-01,0,1,0
+Maritimo,Braga,1,2,2020-03-01,0,1,0
+V Guimaraes,Tondela,2,0,2020-03-01,1,0,0
+Sturm Graz,Aus. Vienna,1,1,2020-03-01,0,0,1
+Swarovski Wattens,Admira Wacker,1,1,2020-03-01,0,0,1
+LASK Linz,Hartberg,5,1,2020-03-01,1,0,0
+Rapid Vienna,Mattersburg,3,1,2020-03-01,1,0,0
+St Polten,Wolfsberger,0,4,2020-03-01,0,1,0
+Larissa,Asteras T.,3,0,2020-03-01,1,0,0
+Xanthi,PAOK Salonika,1,1,2020-03-01,0,0,1
+OFI Crete,Lamia,3,0,2020-03-01,1,0,0
+Aris Salonika,Atromitos,1,2,2020-03-01,0,1,0
+Olympiakos,Panetolikos,2,0,2020-03-01,1,0,0
+Panathinaikos,Volos NFC,4,1,2020-03-01,1,0,0
+Panionios,AEK Athens,1,1,2020-03-01,0,0,1
+Uni Craiova,Metan Medias,2,1,2020-03-01,1,0,0
+Western United,Central Coast M,6,2,2020-03-01,1,0,0
+Melbourne C,Brisbane Roar,1,0,2020-03-01,1,0,0
+Zorya,Olimpik Donetsk,1,0,2020-03-01,1,0,0
+Vorskla Poltava,Shakhtar,1,0,2020-03-01,1,0,0
+Levski Sofia,Slavia Sofia,1,2,2020-03-01,0,1,0
+Vozdovac,Vojvodina NS,1,2,2020-03-01,0,1,0
+Proleter Novi Sad,Macva Sabac,1,1,2020-03-01,0,0,1
+Radnicki Nis,FK Indija,2,1,2020-03-01,1,0,0
+Radnik Surdulica,Rad Beograd,1,0,2020-03-01,1,0,0
+Backa Topola,Napredak,2,1,2020-03-01,1,0,0
+Mladost Lucani,Cukaricki,1,0,2020-03-01,1,0,0
+Javor,Sp Subotica,2,2,2020-03-01,0,0,1
+Red Star,Partizan,0,0,2020-03-01,0,0,1
+Sektzia Nes Tziona,Ironi Kiryat S,1,0,2020-03-01,1,0,0
+Beitar J'salem,MS Ashdod,2,1,2020-03-01,1,0,0
+M. Haifa,H Beer Sheva,4,0,2020-03-01,1,0,0
+Nashville MLS,Atlanta U,1,2,2020-03-01,0,1,0
+Vancouver W,Kansas City,1,3,2020-03-01,0,1,0
+Columbus Crew,New York City,1,0,2020-03-01,1,0,0
+NY Red Bulls,Cincinnati,3,2,2020-03-01,1,0,0
+Seattle,Chicago,2,1,2020-03-01,1,0,0
+Los Angeles FC,Inter Miami CF,1,0,2020-03-01,1,0,0
+Cray W,Merstham,3,1,2020-03-01,1,0,0
+AFC Eskilstuna,Syrianska,6,1,2020-03-01,1,0,0
+Falkenbergs FF,Halmstads,1,0,2020-03-01,1,0,0
+Kalmar,Jonkopings Sodra,5,0,2020-03-01,1,0,0
+Orgryte,AIK Solna,0,1,2020-03-01,0,1,0
+Karlskrona,Malmo,1,2,2020-03-01,0,1,0
+Tvaakers IF,Norrkoping,2,1,2020-03-01,1,0,0
+IF BP,Hammarby,0,2,2020-03-01,0,1,0
+Sundsvall,Varbergs Bois,1,4,2020-03-01,0,1,0
+Leicester,Aston Villa,4,0,2020-03-09,1,0,0
+Sassuolo,Brescia,3,0,2020-03-09,1,0,0
+R. Rostov,CSKA Mosc.,3,2,2020-03-09,1,0,0
+Spartak Moscow,FK Krasnodar,0,1,2020-03-09,0,1,0
+Zenit,FC Ufa,0,0,2020-03-09,0,0,1
+Voluntari,Hermannstadt,1,1,2020-03-09,0,0,1
+Metan Medias,CFR Cluj,0,0,2020-03-09,0,0,1
+Genclerbirligi,Antalyaspor,1,1,2020-03-09,0,0,1
+Banik Ostrava,Mlada Boleslav,2,3,2020-03-09,0,1,0
+Korona Kielce,LKS Lodz,1,0,2020-03-09,1,0,0
+HNK Gorica,Loko. Zagreb,1,3,2020-03-09,0,1,0
+Silkeborg,Aarhus,2,1,2020-03-09,1,0,0
+Stuttgart,Arminia,1,1,2020-03-09,0,0,1
+Los Angeles FC,Philadelphia U,3,3,2020-03-09,0,0,1
+Gloucester,Farsley AFC,2,1,2020-03-09,1,0,0
+Harrogate,Guiseley,1,2,2020-03-09,0,1,0
+Dinamo Minsk,Bate Borisov,1,2,2020-03-09,0,1,0
+Torpedo Zh,Shakhtyor,0,1,2020-03-09,0,1,0
+AIK Solna,Kalmar,3,1,2020-03-09,1,0,0
+Jonkopings Sodra,Orgryte,2,0,2020-03-09,1,0,0
+Lens,Orleans,1,0,2020-03-09,1,0,0
+Terek Grozny,Din. Moscow,2,3,2020-03-13,0,1,0
+Ankaragucu,Rizespor,2,1,2020-03-13,1,0,0
+Kasimpasa,Goztepe,2,0,2020-03-13,1,0,0
+Brisbane Roar,Central Coast M,1,0,2020-03-13,1,0,0
+Paris St-G.,B Dortmund,2,0,2020-03-11,1,0,0
+Liverpool,Atl Madrid,2,3,2020-03-11,0,1,0
+St Mirren,Hearts,1,0,2020-03-11,1,0,0
+Fraserburgh,Huntly,7,0,2020-03-11,1,0,0
+Fort William,Forres Mech,1,2,2020-03-11,0,1,0
+East Kilbride,Spartans,1,4,2020-03-11,0,1,0
+B M'gladbach,Cologne,2,1,2020-03-11,1,0,0
+Sochi,Gazovik Orenburg,5,1,2020-03-11,1,0,0
+Malatyaspor,Trabzonspor,1,3,2020-03-11,0,1,0
+Kingstonian,Cheshunt,2,4,2020-03-11,0,1,0
+Lewes,Haringey B,2,1,2020-03-11,1,0,0
+Farnborough,Taunton Town,4,0,2020-03-11,1,0,0
+Montreal Imp,Deportivo Olim,1,2,2020-03-11,0,1,0
+LASK Linz,Man Utd,0,5,2020-03-12,0,1,0
+E Frankfurt,Basel,0,3,2020-03-12,0,1,0
+Basaksehir,FC Copenhagen,1,0,2020-03-12,1,0,0
+Rangers,B Leverkusen,1,3,2020-03-12,0,1,0
+Olympiakos,Wolves,1,1,2020-03-12,0,0,1
+Wolfsburg,Shakhtar,1,2,2020-03-12,0,1,0
+New York City,Tigres,0,1,2020-03-12,0,1,0
+Club America,Atlanta U,3,0,2020-03-12,1,0,0
+Tambov,Kryliya Sovetov,3,0,2020-03-16,1,0,0
+Antalyaspor,Sivasspor,1,0,2020-03-16,1,0,0
+RB Leipzig,Tottenham,3,0,2020-03-10,1,0,0
+Valencia,Atalanta,3,4,2020-03-10,0,1,0
+Portsmouth,Fleetwood,2,2,2020-03-10,0,0,1
+Blackpool,Tranmere,1,2,2020-03-10,0,1,0
+Bristol R,Sunderland,2,0,2020-03-10,1,0,0
+Burton,Bolton,2,2,2020-03-10,0,0,1
+Carlisle,Newport Co,2,0,2020-03-10,1,0,0
+Woking,Barnet,1,3,2020-03-10,0,1,0
+Notts Co,Aldershot,3,1,2020-03-10,1,0,0
+Dag & Red,Fylde,1,2,2020-03-10,0,1,0
+Partick,Dunfermline,1,1,2020-03-10,0,0,1
+Dundee,Ayr,2,0,2020-03-10,1,0,0
+Inverness CT,Queen of Sth,3,1,2020-03-10,1,0,0
+Stranraer,Montrose,0,1,2020-03-10,0,1,0
+Elgin City,Cowdenbeath,3,2,2020-03-10,1,0,0
+Stirling,Cove Rangers,1,7,2020-03-10,0,1,0
+Kelty Hearts,BSC Glasgow,2,2,2020-03-10,0,0,1
+Eibar,Sociedad,1,2,2020-03-10,0,1,0
+Kettering,Hereford,0,0,2020-03-10,0,0,1
+King's Lynn,Bradford PA,0,1,2020-03-10,0,1,0
+Bishop's St.,Enfield T,0,1,2020-03-10,0,1,0
+Margate,Wingate & F,1,0,2020-03-10,1,0,0
+Horsham,Bognor Regis,0,2,2020-03-10,0,1,0
+Poole Town,Beaconsfield,3,1,2020-03-10,1,0,0
+Harrow Boro,Salisbury FC,2,2,2020-03-10,0,0,1
+Warrington,Matlock,3,2,2020-03-10,1,0,0
+Nantwich,South Shields,0,1,2020-03-10,0,1,0
+Ashton Utd,Mickleover S,3,1,2020-03-10,1,0,0
+Morpeth Town,Hyde,2,1,2020-03-10,1,0,0
+Stafford,Gainsborough,2,2,2020-03-10,0,0,1
+Whitby,Grantham,1,1,2020-03-10,0,0,1
+Dinamo Brest,Isloch Minsk,0,0,2020-03-10,0,0,1
+Cleethorpes T,Boston Utd,1,0,2020-03-10,1,0,0
+Chelsea,Everton,4,0,2020-03-08,1,0,0
+Man Utd,Man City,2,0,2020-03-08,1,0,0
+Derby,Blackburn,3,0,2020-03-08,1,0,0
+Ross County,Rangers,0,1,2020-03-08,0,1,0
+Parma,Spal,0,1,2020-03-08,0,1,0
+Milan,Genoa,1,2,2020-03-08,0,1,0
+Sampdoria,Verona,2,1,2020-03-08,1,0,0
+Udinese,Fiorentina,0,0,2020-03-08,0,0,1
+Juventus,Inter,2,0,2020-03-08,1,0,0
+B Munich,Augsburg,2,0,2020-03-08,1,0,0
+Mainz,F Dusseldorf,1,1,2020-03-08,0,0,1
+Osasuna,Espanyol,1,0,2020-03-08,1,0,0
+Valladolid,Ath Bilbao,1,4,2020-03-08,0,1,0
+Levante,Granada,1,1,2020-03-08,0,0,1
+Villarreal,Leganes,1,2,2020-03-08,0,1,0
+Real Betis,Real Madrid,2,1,2020-03-08,1,0,0
+St-Etienne,Bordeaux,1,1,2020-03-08,0,0,1
+Rennes,Montpellier,5,0,2020-03-08,1,0,0
+Lille,Lyon,1,0,2020-03-08,1,0,0
+Kasimpasa,Kayserispor,5,1,2020-03-08,1,0,0
+Rizespor,Alanyaspor,1,1,2020-03-08,0,0,1
+Sivasspor,Galatasaray,2,2,2020-03-08,0,0,1
+Rubin,Kryliya Sovetov,0,1,2020-03-08,0,1,0
+Sochi,Ural Sver. Oblast,2,0,2020-03-08,1,0,0
+Lok. Moscow,Terek Grozny,1,0,2020-03-08,1,0,0
+Hobro IK,Esbjerg,1,1,2020-03-08,0,0,1
+Aalborg,Lyngby,3,0,2020-03-08,1,0,0
+SonderjyskE,OB Odense,1,1,2020-03-08,0,0,1
+FC Copenhagen,AC Horsens,0,1,2020-03-08,0,1,0
+Nordsjaelland,Brondby,2,2,2020-03-08,0,0,1
+Randers Freja,Midtjylland,0,2,2020-03-08,0,1,0
+R. Vallecano,Elche,2,3,2020-03-08,0,1,0
+Malaga,Zaragoza,0,1,2020-03-08,0,1,0
+Alcorcon,Mirandes,1,2,2020-03-08,0,1,0
+Sp. Gijon,Las Palmas,4,0,2020-03-08,1,0,0
+Tenerife,Ponferradina,1,0,2020-03-08,1,0,0
+FC Utrecht,Sp. Rotterdam,5,1,2020-03-08,1,0,0
+Heracles,RKC Waalwijk,4,2,2020-03-08,1,0,0
+Feyenoord,Willem II,2,0,2020-03-08,1,0,0
+FC Groningen,PSV Eindhoven,0,1,2020-03-08,0,1,0
+Rakow Czestochowa,Pogon Szczecin,0,0,2020-03-08,0,0,1
+Wisla Krakow,Lech Poznan,1,1,2020-03-08,0,0,1
+Legia Warsaw,Piast Gliwice,1,2,2020-03-08,0,1,0
+Holstein Kiel,Greuther Furth,1,1,2020-03-08,0,0,1
+Dyn Dresden,Erzegbirge A,2,1,2020-03-08,1,0,0
+SV Sandhausen,St Pauli,2,2,2020-03-08,0,0,1
+RB Salzburg,Sturm Graz,2,0,2020-03-08,1,0,0
+Mattersburg,LASK Linz,0,1,2020-03-08,0,1,0
+MFK Karvina,Dukla Pribram,2,0,2020-03-08,1,0,0
+Slovan Liberec,Opava,4,0,2020-03-08,1,0,0
+Teplice,Synot,0,0,2020-03-08,0,0,1
+Slavia Prague,Sparta Prague,1,1,2020-03-08,0,0,1
+Triglav,NK Celje,0,5,2020-03-08,0,1,0
+Rudar Velenje,Tabor Sezana,0,1,2020-03-08,0,1,0
+O. Ljubljana,NS Mura,1,0,2020-03-08,1,0,0
+Din Zagreb,NK Istra 1961,2,0,2020-03-08,1,0,0
+Rijeka,Hajduk Split,2,0,2020-03-08,1,0,0
+Moreirense,Maritimo,2,0,2020-03-08,1,0,0
+Belenenses,Famalicao,0,0,2020-03-08,0,0,1
+Gil Vicente,Santa Clara,1,1,2020-03-08,0,0,1
+Sporting,Desp. Aves,2,0,2020-03-08,1,0,0
+Pacos Ferreira,V Guimaraes,1,2,2020-03-08,0,1,0
+Chindia Targoviste,Sepsi Sfantu G,1,1,2020-03-08,0,0,1
+Steaua,Uni Craiova,4,1,2020-03-08,1,0,0
+Central Coast M,Wellington,1,3,2020-03-08,0,1,0
+Perth Glory,Melbourne C,2,3,2020-03-08,0,1,0
+Slavia Sofia,Botev Plovdiv,2,1,2020-03-08,1,0,0
+Botev Vratsa,Levski Sofia,0,0,2020-03-08,0,0,1
+Ludogorets,Dunav Ruse,5,1,2020-03-08,1,0,0
+Lviv,Karpaty Lvov,0,0,2020-03-08,0,0,1
+Dnipro-1,Mariupol,3,0,2020-03-08,1,0,0
+Kolos Kovalivka,Shakhtar,3,4,2020-03-08,0,1,0
+FK Indija,Vozdovac,3,0,2020-03-08,1,0,0
+Atlanta U,Cincinnati,2,1,2020-03-08,1,0,0
+San Jose,Minnesota U,2,5,2020-03-08,0,1,0
+Kansas City,Houston,4,0,2020-03-08,1,0,0
+Colorado,Orlando City,2,1,2020-03-08,1,0,0
+Seattle,Columbus Crew,1,1,2020-03-08,0,0,1
+LA Galaxy,Vancouver W,0,1,2020-03-08,0,1,0
+Portland Timb.,Nashville MLS,1,0,2020-03-08,1,0,0
+Dnyapro,Slavia Mozyr,0,3,2020-03-08,0,1,0
+Syrianska,Karlskrona,5,1,2020-03-08,1,0,0
+GAIS,Eskilsminne IF ,4,1,2020-03-08,1,0,0
+IK Brage,Oskarshamns AIK ,3,1,2020-03-08,1,0,0
+Elfsborg,Orebro,1,0,2020-03-08,1,0,0
+Malmo,AFC Eskilstuna,3,0,2020-03-08,1,0,0
+Varbergs Bois,IF BP,1,1,2020-03-08,0,0,1
+Hammarby,Sundsvall,4,0,2020-03-08,1,0,0
+Hacken,Ostersunds FK,2,0,2020-03-08,1,0,0
+Ap Limassol,Apoel Nicosia,1,1,2020-03-08,0,0,1
+Kesla FC,FK Qarabag,0,2,2020-03-08,0,1,0
+Energetyk-BDU,Bate Borisov,3,1,2020-03-19,1,0,0
+Shakhtyor,Torpedo Zh,0,1,2020-03-19,0,1,0
+Kayserispor,Malatyaspor,2,1,2020-03-15,1,0,0
+Trabzonspor,Basaksehir,1,1,2020-03-15,0,0,1
+Galatasaray,Besiktas,0,0,2020-03-15,0,0,1
+Sochi,FK Krasnodar,2,0,2020-03-15,1,0,0
+CSKA Mosc.,FC Ufa,0,0,2020-03-15,0,0,1
+R. Rostov,Lok. Moscow,1,3,2020-03-15,0,1,0
+Wellington,Melbourne Vic,3,0,2020-03-15,1,0,0
+Adelaide Utd,Newcastle Jets,0,3,2020-03-15,0,1,0
+Zorya,Shakhtar,1,0,2020-03-15,1,0,0
+Dynamo Kiev,Desna,1,1,2020-03-15,0,0,1
+Olimpik Donetsk,Vorskla Poltava,1,1,2020-03-15,0,0,1
+Isloch Minsk,Dinamo Brest,0,0,2020-03-15,0,0,1
+Goztepe,Rizespor,2,0,2020-03-17,1,0,0
+Newcastle Jets,Melbourne C,2,1,2020-03-23,1,0,0
+Central Coast M,Melbourne C,2,4,2020-03-20,0,1,0
+Brisbane Roar,Newcastle Jets,1,0,2020-03-20,1,0,0
+Dinamo Brest,Smolevichi-STI,1,1,2020-03-20,0,0,1
+Dinamo Minsk,Rukh Brest,0,1,2020-03-20,0,1,0
+Chelsea,Tottenham,2,1,2020-02-22,1,0,0
+Sheff Utd,Brighton,1,1,2020-02-22,0,0,1
+Crystal Palace,Newcastle,1,0,2020-02-22,1,0,0
+Southampton,Aston Villa,2,0,2020-02-22,1,0,0
+Burnley,Bournemouth,3,0,2020-02-22,1,0,0
+Leicester,Man City,0,1,2020-02-22,0,1,0
+Brentford,Blackburn,2,2,2020-02-22,0,0,1
+Preston,Hull,2,1,2020-02-22,1,0,0
+Charlton,Luton,3,1,2020-02-22,1,0,0
+Birmingham,Sheff Wed,3,3,2020-02-22,0,0,1
+Nottm Forest,QPR,0,0,2020-02-22,0,0,1
+Bristol C,West Brom,0,3,2020-02-22,0,1,0
+Stoke,Cardiff,2,0,2020-02-22,1,0,0
+Barnsley,Middlesbrough,1,0,2020-02-22,1,0,0
+Swansea,Huddersfield,3,1,2020-02-22,1,0,0
+Wigan,Millwall,1,0,2020-02-22,1,0,0
+Leeds,Reading,1,0,2020-02-22,1,0,0
+Shrewsbury,Doncaster,1,0,2020-02-22,1,0,0
+Lincoln,Gillingham,0,0,2020-02-22,0,0,1
+Accrington,Rotherham,1,2,2020-02-22,0,1,0
+Wycombe,Tranmere,3,1,2020-02-22,1,0,0
+Southend,Burton,2,3,2020-02-22,0,1,0
+Ipswich,Oxford,0,1,2020-02-22,0,1,0
+AFC W'bledon,Blackpool,0,0,2020-02-22,0,0,1
+Rochdale,Coventry,1,2,2020-02-22,0,1,0
+Sunderland,Bristol R,3,0,2020-02-22,1,0,0
+Fleetwood,Portsmouth,1,0,2020-02-22,1,0,0
+MK Dons,Bolton,1,0,2020-02-22,1,0,0
+Leyton Orient,Oldham,2,2,2020-02-22,0,0,1
+Salford,Colchester,1,2,2020-02-22,0,1,0
+Newport Co,Bradford,2,1,2020-02-22,1,0,0
+Cheltenham,Mansfield,1,0,2020-02-22,1,0,0
+Northampton,Exeter,2,0,2020-02-22,1,0,0
+Carlisle,Morecambe,2,2,2020-02-22,0,0,1
+Crawley,Stevenage,2,0,2020-02-22,1,0,0
+Crewe,Macclesfield,2,0,2020-02-22,1,0,0
+Walsall,Port Vale,2,2,2020-02-22,0,0,1
+Scunthorpe,Forest Green,1,0,2020-02-22,1,0,0
+Swindon,Grimsby,3,1,2020-02-22,1,0,0
+Plymouth,Cambridge U,0,0,2020-02-22,0,0,1
+Chorley,Barnet,0,1,2020-02-22,0,1,0
+Torquay,Halifax,1,0,2020-02-22,1,0,0
+Woking,Stockport,1,1,2020-02-22,0,0,1
+Dover,Fylde,5,1,2020-02-22,1,0,0
+Bromley,Wrexham,0,2,2020-02-22,0,1,0
+Boreham W,Yeovil,1,0,2020-02-22,1,0,0
+Maidenhead,Aldershot,1,2,2020-02-22,0,1,0
+Chesterfield,Ebbsfleet,4,0,2020-02-22,1,0,0
+Hartlepool,Notts Co,2,0,2020-02-22,1,0,0
+Harrogate,Eastleigh,3,0,2020-02-22,1,0,0
+Dag & Red,Solihull M,2,0,2020-02-22,1,0,0
+Sutton Utd,Barrow,2,2,2020-02-22,0,0,1
+Aberdeen,Ross County,1,2,2020-02-22,0,1,0
+Hamilton,Motherwell,0,0,2020-02-22,0,0,1
+Hibernian,Livingston,1,1,2020-02-22,0,0,1
+Queen of Sth,Dundee,0,1,2020-02-22,0,1,0
+Morton,Alloa,4,4,2020-02-22,0,0,1
+Raith,Clyde,1,0,2020-02-22,1,0,0
+East Fife,Stranraer,4,2,2020-02-22,1,0,0
+Falkirk,Montrose,1,0,2020-02-22,1,0,0
+Peterhead,Airdrieonians,0,2,2020-02-22,0,1,0
+Edinburgh C,Brechin,0,0,2020-02-22,0,0,1
+Annan,Albion,2,1,2020-02-22,1,0,0
+Cove Rangers,Queen's Park,2,0,2020-02-22,1,0,0
+Fraserburgh,Brora Rangers,1,2,2020-02-22,0,1,0
+Huntly,Clachnacuddin,3,0,2020-02-22,1,0,0
+Fort William,Lossiemouth,0,2,2020-02-22,0,1,0
+Keith,Inverurie Locos,1,3,2020-02-22,0,1,0
+Berwick,Edinburgh Uni,2,0,2020-02-22,1,0,0
+East Kilbride,BSC Glasgow,4,0,2020-02-22,1,0,0
+Edusport Acad,Bonnyrigg Rose,2,3,2020-02-22,0,1,0
+Cumbernauld C,Stirling Univ,2,0,2020-02-22,1,0,0
+Bologna,Udinese,1,1,2020-02-22,0,0,1
+Spal,Juventus,1,2,2020-02-22,0,1,0
+Fiorentina,Milan,1,1,2020-02-22,0,0,1
+Hertha Berlin,Cologne,0,5,2020-02-22,0,1,0
+Freiburg,F Dusseldorf,0,2,2020-02-22,0,1,0
+W Bremen,B Dortmund,0,2,2020-02-22,0,1,0
+B M'gladbach,Hoffenheim,1,1,2020-02-22,0,0,1
+Schalke,RB Leipzig,0,5,2020-02-22,0,1,0
+Celta Vigo,Leganes,1,0,2020-02-22,1,0,0
+Barcelona,Eibar,5,0,2020-02-22,1,0,0
+Sociedad,Valencia,3,0,2020-02-22,1,0,0
+Levante,Real Madrid,1,0,2020-02-22,1,0,0
+Marseille,Nantes,1,3,2020-02-22,0,1,0
+Lille,Toulouse,3,0,2020-02-22,1,0,0
+Angers,Montpellier,1,0,2020-02-22,1,0,0
+Dijon,Monaco,1,1,2020-02-22,0,0,1
+Strasbourg,Amiens,0,0,2020-02-22,0,0,1
+Kayserispor,Konyaspor,2,2,2020-02-22,0,0,1
+Goztepe,Gazisehir,1,1,2020-02-22,0,0,1
+Besiktas,Trabzonspor,2,2,2020-02-22,0,0,1
+Holstein Kiel,Heidenheim,0,1,2020-02-22,0,1,0
+Dyn Dresden,Bochum,1,2,2020-02-22,0,1,0
+Stuttgart,Regensburg,2,0,2020-02-22,1,0,0
+Hamburg,St Pauli,0,2,2020-02-22,0,1,0
+Voluntari,Hermannstadt,2,0,2020-02-22,1,0,0
+Steaua,Chindia Targoviste,1,1,2020-02-22,0,0,1
+Triglav,Rudar Velenje,3,0,2020-02-22,1,0,0
+NK Celje,NK Aluminij,2,0,2020-02-22,1,0,0
+Maribor,O. Ljubljana,1,1,2020-02-22,0,0,1
+Slavia Prague,Opava,2,0,2020-02-22,1,0,0
+Mlada Boleslav,Synot,0,0,2020-02-22,0,0,1
+Slovan Liberec,B. 1905,3,1,2020-02-22,1,0,0
+Viktoria Plzen,Dukla Pribram,4,0,2020-02-22,1,0,0
+Arka Gdynia,Rakow Czestochowa,3,2,2020-02-22,1,0,0
+Legia Warsaw,Jagiellonia,4,0,2020-02-22,1,0,0
+Piast Gliwice,Cracovia,1,0,2020-02-22,1,0,0
+Hajduk Split,HNK Gorica,6,0,2020-02-22,1,0,0
+Rijeka,Osijek,1,0,2020-02-22,1,0,0
+Alcorcon,Las Palmas,1,1,2020-02-22,0,0,1
+Almeria,Fuenlabrada,0,0,2020-02-22,0,0,1
+Tenerife,Elche,1,0,2020-02-22,1,0,0
+Girona,Ponferradina,2,0,2020-02-22,1,0,0
+Albacete,Numancia,2,1,2020-02-22,1,0,0
+Swarovski Wattens,Wolfsberger,2,0,2020-02-22,1,0,0
+Admira Wacker,Sturm Graz,0,2,2020-02-22,0,1,0
+Mattersburg,Altach,0,0,2020-02-22,0,0,1
+St Liege,Royal Antwerp,1,0,2020-02-22,1,0,0
+Oostende,Waregem,1,1,2020-02-22,0,0,1
+Mouscron-P,Cercle Bruges,0,1,2020-02-22,0,1,0
+Mechelen,W Beveren,4,0,2020-02-22,1,0,0
+Asteras T.,Panathinaikos,1,1,2020-02-22,0,0,1
+Lamia,Aris Salonika,2,2,2020-02-22,0,0,1
+FC Emmen,Willem II,4,2,2020-02-22,1,0,0
+Heerenveen,Den Haag,2,2,2020-02-22,0,0,1
+Feyenoord,F. Sittard,2,1,2020-02-22,1,0,0
+FC Groningen,VVV Venlo,0,1,2020-02-22,0,1,0
+Thun,Lucerne,1,1,2020-02-22,0,0,1
+FC Zurich,Neuc. Xamax,1,1,2020-02-22,0,0,1
+Tondela,Rio Ave,1,2,2020-02-22,0,1,0
+Belenenses,Maritimo,1,0,2020-02-22,1,0,0
+Brisbane Roar,Perth Glory,1,1,2020-02-22,0,0,1
+Newcastle Jets,Melbourne Vic,1,1,2020-02-22,0,0,1
+Botev Vratsa,Arda,3,1,2020-02-22,1,0,0
+Cherno More,Levski Sofia,2,2,2020-02-22,0,0,1
+CSKA Sofia,Botev Plovdiv,1,0,2020-02-22,1,0,0
+Mariupol,Zorya,1,2,2020-02-22,0,1,0
+Dynamo Kiev,Vorskla Poltava,2,1,2020-02-22,1,0,0
+Institute FC,Coleraine,0,4,2020-02-22,0,1,0
+Carrick Rangers,Dungannon Sw,1,2,2020-02-22,0,1,0
+Cliftonville,Ballymena,1,1,2020-02-22,0,0,1
+Larne,Warrenpoint T,1,0,2020-02-22,1,0,0
+Glenavon,Glentoran,2,2,2020-02-22,0,0,1
+Ironi Kiryat S,M. Netanya,3,0,2020-02-22,1,0,0
+MS Ashdod,M. Haifa,1,2,2020-02-22,0,1,0
+H. Haifa,Sektzia Nes Tziona,2,0,2020-02-22,1,0,0
+Hapoel Hadera,Beitar J'salem,1,4,2020-02-22,0,1,0
+Newtown,Bala Town,1,2,2020-02-22,0,1,0
+Cardiff MU,Airbus UK,1,1,2020-02-22,0,0,1
+Carmarthen,Newi CD,1,0,2020-02-22,1,0,0
+Barry Town,Caernarfon,1,1,2020-02-22,0,0,1
+Proleter Novi Sad,FK Indija,1,0,2020-02-22,1,0,0
+Radnicki Nis,Cukaricki,2,0,2020-02-22,1,0,0
+Rad Beograd,Napredak,2,0,2020-02-22,1,0,0
+Radnik Surdulica,Macva Sabac,2,2,2020-02-22,0,0,1
+Backa Topola,Partizan,1,1,2020-02-22,0,0,1
+Red Star,Vojvodina NS,2,0,2020-02-22,1,0,0
+Kisvarda,Diosgyor,2,2,2020-02-22,0,0,1
+MOL Vidi,Zalaegerszeg,4,1,2020-02-22,1,0,0
+Kaposvar,Ujpest Dozsa,0,1,2020-02-22,0,1,0
+Honved,Puskas FA FC,1,1,2020-02-22,0,0,1
+Paksi SE,Debrecen,4,2,2020-02-22,1,0,0
+Mezokovesd SE,Ferencvaros,3,0,2020-02-22,1,0,0
+Cobh,Drogheda,0,2,2020-02-22,0,1,0
+Longford T,Shamrock R B,2,0,2020-02-22,1,0,0
+Boston Utd,Telford,1,0,2020-02-22,1,0,0
+Farsley AFC,Blyth Sptns,2,0,2020-02-22,1,0,0
+Leamington,Southport,1,0,2020-02-22,1,0,0
+Guiseley,Gateshead,2,2,2020-02-22,0,0,1
+Chester,Brackley,2,3,2020-02-22,0,1,0
+Kidderminster,York,0,1,2020-02-22,0,1,0
+Spennymoor,Alfreton,5,0,2020-02-22,1,0,0
+Hereford,Darlington,2,2,2020-02-22,0,0,1
+Chelmsford,Slough,1,1,2020-02-22,0,0,1
+Hungerford,Braintree,2,0,2020-02-22,1,0,0
+Maidstone,Hampton & R,1,2,2020-02-22,0,1,0
+Oxford C,Tonbridge,0,3,2020-02-22,0,1,0
+Hemel,Concord R,1,0,2020-02-22,1,0,0
+Bath City,Dulwich H,3,2,2020-02-22,1,0,0
+Dartford,Eastbourne,2,1,2020-02-22,1,0,0
+Wealdstone,Dorking W,3,1,2020-02-22,1,0,0
+Welling,Chippenham,1,0,2020-02-22,1,0,0
+Weymouth,Billericay,0,0,2020-02-22,0,0,1
+Havant & W,St Albans,1,2,2020-02-22,0,1,0
+Merstham,Enfield T,1,4,2020-02-22,0,1,0
+Bowers & Pitsea,Leatherhead,3,0,2020-02-22,1,0,0
+Folkestone,Wingate & F,0,1,2020-02-22,0,1,0
+Bishop's St.,Hornchurch,0,2,2020-02-22,0,1,0
+Margate,Carshalton,1,1,2020-02-22,0,0,1
+Haringey B,Bognor Regis,2,1,2020-02-22,1,0,0
+Potters Bar,Corinthian Cas,3,1,2020-02-22,1,0,0
+E Thurrock,Cray W,0,1,2020-02-22,0,1,0
+Kingstonian,Worthing,0,0,2020-02-22,0,0,1
+Horsham,Cheshunt,2,0,2020-02-22,1,0,0
+Lewes,Brightlingsea R,0,1,2020-02-22,0,1,0
+Tiverton,Wimborne T,2,2,2020-02-22,0,0,1
+Chesham,Gosport Bor,3,0,2020-02-22,1,0,0
+Dorchester,Weston S-M.,1,2,2020-02-22,0,1,0
+Blackfield & L,Merthyr,0,0,2020-02-22,0,0,1
+Truro City,Harrow Boro,4,1,2020-02-22,1,0,0
+Met. Police,Yate,2,0,2020-02-22,1,0,0
+Beaconsfield,Poole Town,2,1,2020-02-22,1,0,0
+Walton Casuals,Hartley Wint.,0,3,2020-02-22,0,1,0
+Salisbury FC,Hendon,2,0,2020-02-22,1,0,0
+Farnborough,Swindon Sup.,0,1,2020-02-22,0,1,0
+Hayes & Y,Taunton Town,2,2,2020-02-22,0,0,1
+Warrington,Scarborough A,2,0,2020-02-22,1,0,0
+Bamber Br.,FC Utd,3,0,2020-02-22,1,0,0
+South Shields,Buxton,1,1,2020-02-22,0,0,1
+Stafford,Morpeth Town,0,2,2020-02-22,0,1,0
+Matlock,Whitby,0,2,2020-02-22,0,1,0
+Basford United,Atherton Colls,2,1,2020-02-22,1,0,0
+Lancaster,Nantwich,0,0,2020-02-22,0,0,1
+Djurgaardens,Dalkurd FF,3,2,2020-02-22,1,0,0
+IFK Goth'burg,Vasteras,2,0,2020-02-22,1,0,0
+Elfsborg,IK Brage,3,0,2020-02-22,1,0,0
+Sandvikens,Mjallby,1,3,2020-02-22,0,1,0
+Sollentuna FK,IK Sirius,1,8,2020-02-22,0,1,0
+Oskarshamns AIK ,Orebro,1,4,2020-02-22,0,1,0
+FSV Frankfurt,Saarbrucken,0,1,2020-02-22,0,1,0
+Omonia Nicosia,Enosis,3,0,2020-02-22,1,0,0
+Lens,Caen,1,4,2020-02-22,0,1,0
+FC Slutsk,Slavia Mozyr,3,1,2020-03-22,1,0,0
+Belshina,FC Minsk,1,3,2020-03-22,0,1,0
+Torpedo Zh,Belshina,1,0,2020-03-27,1,0,0
+Rukh Brest,Energetyk-BDU,0,1,2020-03-27,0,1,0
+Western Sydney,Sydney FC,1,1,2020-03-21,0,0,1
+Vitebsk,Gorodeya,1,0,2020-03-21,1,0,0
+Isloch Minsk,Neman Grodno,1,0,2020-03-21,1,0,0
+Brighton,Crystal Palace,0,1,2020-02-29,0,1,0
+Newcastle,Burnley,0,0,2020-02-29,0,0,1
+Bournemouth,Chelsea,2,2,2020-02-29,0,0,1
+West Ham,Southampton,3,1,2020-02-29,1,0,0
+Watford,Liverpool,3,0,2020-02-29,1,0,0
+Hull,Leeds,0,4,2020-02-29,0,1,0
+Sheff Wed,Derby,1,3,2020-02-29,0,1,0
+Huddersfield,Charlton,4,0,2020-02-29,1,0,0
+Fulham,Preston,2,0,2020-02-29,1,0,0
+QPR,Birmingham,2,2,2020-02-29,0,0,1
+Blackburn,Swansea,2,2,2020-02-29,0,0,1
+Reading,Barnsley,2,0,2020-02-29,1,0,0
+Luton,Stoke,1,1,2020-02-29,0,0,1
+Millwall,Bristol C,1,1,2020-02-29,0,0,1
+West Brom,Wigan,0,1,2020-02-29,0,1,0
+Cardiff,Brentford,2,2,2020-02-29,0,0,1
+Doncaster,Wycombe,3,1,2020-02-29,1,0,0
+Blackpool,Ipswich,2,1,2020-02-29,1,0,0
+Gillingham,AFC W'bledon,1,2,2020-02-29,0,1,0
+Bolton,Accrington,0,0,2020-02-29,0,0,1
+Bristol R,Shrewsbury,0,1,2020-02-29,0,1,0
+Rotherham,MK Dons,1,1,2020-02-29,0,0,1
+Burton,Peterborough,1,1,2020-02-29,0,0,1
+Oxford,Southend,2,1,2020-02-29,1,0,0
+Port Vale,Scunthorpe,2,2,2020-02-29,0,0,1
+Colchester,Cheltenham,0,2,2020-02-29,0,1,0
+Grimsby,Northampton,0,3,2020-02-29,0,1,0
+Macclesfield,Salford,0,2,2020-02-29,0,1,0
+Oldham,Newport Co,5,0,2020-02-29,1,0,0
+Exeter,Crawley,1,1,2020-02-29,0,0,1
+Morecambe,Crewe,1,1,2020-02-29,0,0,1
+Cambridge U,Carlisle,1,2,2020-02-29,0,1,0
+Bradford,Plymouth,2,1,2020-02-29,1,0,0
+Torquay,Chorley,2,0,2020-02-29,1,0,0
+Woking,Maidenhead,2,0,2020-02-29,1,0,0
+Bromley,Sutton Utd,0,1,2020-02-29,0,1,0
+Yeovil,Wrexham,3,0,2020-02-29,1,0,0
+Boreham W,Hartlepool,1,1,2020-02-29,0,0,1
+Ebbsfleet,Stockport,0,1,2020-02-29,0,1,0
+Barrow,Dag & Red,2,1,2020-02-29,1,0,0
+Solihull M,Dover,3,0,2020-02-29,1,0,0
+Queen of Sth,Morton,0,4,2020-02-29,0,1,0
+Alloa,Ayr,0,2,2020-02-29,0,1,0
+Dunfermline,Dundee Utd,2,0,2020-02-29,1,0,0
+Forfar,East Fife,0,1,2020-02-29,0,1,0
+Dumbarton,Raith,1,0,2020-02-29,1,0,0
+Clyde,Falkirk,3,2,2020-02-29,1,0,0
+Montrose,Airdrieonians,1,0,2020-02-29,1,0,0
+Queen's Park,Annan,2,0,2020-02-29,1,0,0
+Albion,Elgin City,1,2,2020-02-29,0,1,0
+Cowdenbeath,Edinburgh C,1,1,2020-02-29,0,0,1
+Stenh'semuir,Cove Rangers,0,3,2020-02-29,0,1,0
+Brechin,Stirling,0,2,2020-02-29,0,1,0
+Hearts,Rangers,1,0,2020-02-29,1,0,0
+St Mirren,Aberdeen,0,2,2020-02-29,0,1,0
+Buckie Thistle,Inverurie Locos,0,0,2020-02-29,0,0,1
+Gala Fairydean,Civil Serv Strol,4,0,2020-02-29,1,0,0
+Stirling Univ,Gretna 2008,1,0,2020-02-29,1,0,0
+E Stirling,Edusport Acad,1,3,2020-02-29,0,1,0
+Kelty Hearts,Bonnyrigg Rose,3,2,2020-02-29,1,0,0
+Edinburgh Uni,East Kilbride,2,2,2020-02-29,0,0,1
+Lazio,Bologna,2,0,2020-02-29,1,0,0
+Napoli,Torino,2,1,2020-02-29,1,0,0
+Hoffenheim,B Munich,0,6,2020-02-29,0,1,0
+B Dortmund,Freiburg,1,0,2020-02-29,1,0,0
+Augsburg,B M'gladbach,2,3,2020-02-29,0,1,0
+Mainz,SC Paderborn,2,0,2020-02-29,1,0,0
+Cologne,Schalke,3,0,2020-02-29,1,0,0
+Eibar,Levante,3,0,2020-02-29,1,0,0
+Valencia,Real Betis,2,1,2020-02-29,1,0,0
+Leganes,Alaves,1,1,2020-02-29,0,0,1
+Granada,Celta Vigo,0,0,2020-02-29,0,0,1
+Paris St-G.,Dijon,4,0,2020-02-29,1,0,0
+Toulouse,Rennes,0,2,2020-02-29,0,1,0
+Amiens,Metz,0,1,2020-02-29,0,1,0
+Stade Brest,Angers,0,1,2020-02-29,0,1,0
+Monaco,Reims,1,1,2020-02-29,0,0,1
+Montpellier,Strasbourg,3,0,2020-02-29,1,0,0
+CSKA Mosc.,Ural Sver. Oblast,1,1,2020-02-29,0,0,1
+Din. Moscow,Spartak Moscow,0,2,2020-02-29,0,1,0
+Zenit,Lok. Moscow,0,0,2020-02-29,0,0,1
+Terek Grozny,R. Rostov,1,1,2020-02-29,0,0,1
+Konyaspor,Kasimpasa,0,0,2020-02-29,0,0,1
+Trabzonspor,Rizespor,5,2,2020-02-29,1,0,0
+Antalyaspor,Fenerbahce,2,2,2020-02-29,0,0,1
+Greuther Furth,Stuttgart,2,0,2020-02-29,1,0,0
+Erzegbirge A,Hamburg,3,0,2020-02-29,1,0,0
+SV Darmstadt,Heidenheim,2,0,2020-02-29,1,0,0
+Rudar Velenje,O. Ljubljana,1,1,2020-02-29,0,0,1
+Bravo Publikum,NK Aluminij,0,0,2020-02-29,0,0,1
+Maribor,Tabor Sezana,0,0,2020-02-29,0,0,1
+Dukla Pribram,Mlada Boleslav,0,0,2020-02-29,0,0,1
+Jablonec,Viktoria Plzen,1,2,2020-02-29,0,1,0
+Opava,Sigma O.,2,1,2020-02-29,1,0,0
+Sparta Prague,Zlin,2,2,2020-02-29,0,0,1
+Wisla Krakow,Wisla Plock,2,2,2020-02-29,0,0,1
+Gornik Zabrze,Pogon Szczecin,3,1,2020-02-29,1,0,0
+Legia Warsaw,Cracovia,2,1,2020-02-29,1,0,0
+Osijek,Hajduk Split,0,0,2020-02-29,0,0,1
+Din Zagreb,Rijeka,4,0,2020-02-29,1,0,0
+Esbjerg,Nordsjaelland,1,2,2020-02-29,0,1,0
+Huesca,Extremadura,2,2,2020-02-29,0,0,1
+Ponferradina,Sp. Gijon,1,0,2020-02-29,1,0,0
+Cadiz,Almeria,2,1,2020-02-29,1,0,0
+Albacete,R. Vallecano,1,1,2020-02-29,0,0,1
+Racing,Zaragoza,2,2,2020-02-29,0,0,1
+Viitorul C,Voluntari,0,0,2020-02-29,0,0,1
+Botosani,Steaua,2,2,2020-02-29,0,0,1
+W Beveren,Anderlecht,0,3,2020-02-29,0,1,0
+KAS Eupen,Mouscron-P,2,1,2020-02-29,1,0,0
+Waregem,Kortrijk,2,2,2020-02-29,0,0,1
+Royal Antwerp,Oostende,3,1,2020-02-29,1,0,0
+Den Haag,Heracles,0,0,2020-02-29,0,0,1
+PEC Zwolle,Vitesse Arn.,4,3,2020-02-29,1,0,0
+VVV Venlo,F. Sittard,0,0,2020-02-29,0,0,1
+FC Twente,Heerenveen,2,3,2020-02-29,0,1,0
+Rio Ave,Belenenses,0,0,2020-02-29,0,0,1
+Boavista,Gil Vicente,0,1,2020-02-29,0,1,0
+Newcastle Jets,Perth Glory,2,1,2020-02-29,1,0,0
+Melbourne Vic,Adelaide Utd,2,1,2020-02-29,1,0,0
+Dunav Ruse,Botev Vratsa,0,0,2020-02-29,0,0,1
+Botev Plovdiv,Cherno More,1,1,2020-02-29,0,0,1
+Tsarsko Selo,CSKA Sofia,2,1,2020-02-29,1,0,0
+Desna,Mariupol,4,0,2020-02-29,1,0,0
+Lviv,Oleksandria,1,1,2020-02-29,0,0,1
+Kolos Kovalivka,Karpaty Lvov,2,1,2020-02-29,1,0,0
+H. Kfar Saba,Hapoel Ra'ana,3,0,2020-02-29,1,0,0
+M. Netanya,M. Tel Aviv,0,1,2020-02-29,0,1,0
+H Tel Aviv,Hapoel Hadera,2,1,2020-02-29,1,0,0
+Bnei Yehuda,H. Haifa,0,0,2020-02-29,0,0,1
+Shamrock R B,Galway FC,1,1,2020-02-29,0,0,1
+Mezokovesd SE,Zalaegerszeg,1,2,2020-02-29,0,1,0
+Kisvarda,Paksi SE,2,0,2020-02-29,1,0,0
+Ujpest Dozsa,Puskas FA FC,2,3,2020-02-29,0,1,0
+MOL Vidi,Kaposvar,3,0,2020-02-29,1,0,0
+Honved,Diosgyor,0,4,2020-02-29,0,1,0
+Ferencvaros,Debrecen,2,0,2020-02-29,1,0,0
+DC United,Colorado,1,2,2020-02-29,0,1,0
+Montreal Imp,New England,2,1,2020-02-29,1,0,0
+Houston,LA Galaxy,1,1,2020-02-29,0,0,1
+San Jose,Toronto FC,2,2,2020-02-29,0,0,1
+Dallas,Philadelphia U,2,0,2020-02-29,1,0,0
+Orlando City,Real Salt Lake,0,0,2020-02-29,0,0,1
+Darlington,Brackley,1,1,2020-02-29,0,0,1
+York,Curzon A,1,1,2020-02-29,0,0,1
+Spennymoor,Telford,3,3,2020-02-29,0,0,1
+Hereford,Altrincham,0,2,2020-02-29,0,1,0
+Chippenham,St Albans,2,1,2020-02-29,1,0,0
+Dulwich H,Tonbridge,0,1,2020-02-29,0,1,0
+Eastbourne,Billericay,1,1,2020-02-29,0,0,1
+Braintree,Bath City,2,0,2020-02-29,1,0,0
+Dorking W,Slough,3,5,2020-02-29,0,1,0
+Dartford,Wealdstone,0,0,2020-02-29,0,0,1
+Weymouth,Maidstone,5,1,2020-02-29,1,0,0
+Worthing,Potters Bar,1,1,2020-02-29,0,0,1
+Wingate & F,Lewes,1,1,2020-02-29,0,0,1
+Carshalton,Horsham,4,0,2020-02-29,1,0,0
+Hornchurch,Haringey B,2,1,2020-02-29,1,0,0
+Merthyr,Beaconsfield,0,0,2020-02-29,0,0,1
+Hendon,Truro City,1,4,2020-02-29,0,1,0
+Wimborne T,Chesham,1,2,2020-02-29,0,1,0
+Gainsborough,South Shields,1,4,2020-02-29,0,1,0
+FC Utd,Warrington,4,4,2020-02-29,0,0,1
+Hyde,Lancaster,5,2,2020-02-29,1,0,0
+Grantham,Stalybridge,2,0,2020-02-29,1,0,0
+Scarborough A,Radcliffe Boro,3,1,2020-02-29,1,0,0
+Buxton,Stafford,5,1,2020-02-29,1,0,0
+Whitby,Ashton Utd,1,1,2020-02-29,0,0,1
+Wroxham,Bitton,0,4,2020-02-29,0,1,0
+Hebburn Town,Plymouth P,2,0,2020-02-29,1,0,0
+Notts Co,Aveley,5,0,2020-02-29,1,0,0
+Barnet,Halesowen,1,2,2020-02-29,0,1,0
+Fylde,Harrogate,2,3,2020-02-29,0,1,0
+IK Sirius,Vasteras,0,3,2020-02-29,0,1,0
+Orebro,IK Brage,3,3,2020-02-29,0,0,1
+Oostende,GAIS,4,0,2020-02-29,1,0,0
+Eskilsminne IF ,Hacken,0,4,2020-02-29,0,1,0
+Sollentuna FK,IFK Goth'burg,0,2,2020-02-29,0,1,0
+Oskarshamns AIK ,Elfsborg,2,1,2020-02-29,1,0,0
+B. Banja Luka,Sarajevo,0,2,2020-02-29,0,1,0
+FK Qarabag,Sabah FK,0,0,2020-02-29,0,0,1
+Lorient,Chambly,1,2,2020-02-29,0,1,0
+South Shields,Matlock,5,2,2020-03-24,1,0,0
+Isloch Minsk,Smolevichi-STI,1,0,2020-03-29,1,0,0
+Neman Grodno,Vitebsk,2,0,2020-03-29,1,0,0
+FC Slutsk,Dinamo Brest,0,1,2020-03-28,0,1,0
+Slavia Mozyr,Bate Borisov,2,1,2020-03-28,1,0,0
+FC Minsk,Dinamo Minsk,3,2,2020-03-28,1,0,0
+Gorodeya,Shakhtyor,0,2,2020-03-28,0,1,0
+Dover,Chesterfield,1,1,2020-03-14,0,0,1
+Notts Co,Eastleigh,4,0,2020-03-14,1,0,0
+Maidenhead,Stockport,1,2,2020-03-14,0,1,0
+Sutton Utd,Hartlepool,1,1,2020-03-14,0,0,1
+Fylde,Aldershot,1,0,2020-03-14,1,0,0
+Halifax,Ebbsfleet,0,1,2020-03-14,0,1,0
+Gazovik Orenburg,Spartak Moscow,1,3,2020-03-14,0,1,0
+Zenit,Ural Sver. Oblast,7,1,2020-03-14,1,0,0
+Arsenal Tula,Rubin,0,1,2020-03-14,0,1,0
+Denizlispor,Genclerbirligi,1,0,2020-03-14,1,0,0
+Alanyaspor,Gazisehir,1,0,2020-03-14,1,0,0
+Konyaspor,Fenerbahce,1,0,2020-03-14,1,0,0
+Sydney FC,Perth Glory,0,0,2020-03-14,0,0,1
+Melbourne C,Western Sydney,1,1,2020-03-14,0,0,1
+Lviv,Karpaty Lvov,1,1,2020-03-14,0,0,1
+Dnipro-1,Mariupol,2,0,2020-03-14,1,0,0
+Oleksandria,Kolos Kovalivka,4,2,2020-03-14,1,0,0
+Backa Topola,Radnik Surdulica,2,1,2020-03-14,1,0,0
+Vozdovac,Partizan,1,2,2020-03-14,0,1,0
+Radnicki Nis,Macva Sabac,3,1,2020-03-14,1,0,0
+Sp Subotica,Vojvodina NS,0,0,2020-03-14,0,0,1
+Mladost Lucani,FK Indija,2,1,2020-03-14,1,0,0
+Javor,Cukaricki,2,2,2020-03-14,0,0,1
+Proleter Novi Sad,Rad Beograd,5,0,2020-03-14,1,0,0
+Red Star,Napredak,3,0,2020-03-14,1,0,0
+Debrecen,Zalaegerszeg,0,3,2020-03-14,0,1,0
+Ferencvaros,Kaposvar,5,0,2020-03-14,1,0,0
+Mezokovesd SE,Puskas FA FC,0,0,2020-03-14,0,0,1
+Ujpest Dozsa,Paksi SE,1,1,2020-03-14,0,0,1
+Honved,Kisvarda,1,5,2020-03-14,0,1,0
+MOL Vidi,Diosgyor,1,1,2020-03-14,0,0,1
+Darlington,Farsley AFC,2,4,2020-03-14,0,1,0
+Alfreton,Brackley,2,4,2020-03-14,0,1,0
+King's Lynn,Guiseley,0,1,2020-03-14,0,1,0
+Spennymoor,Hereford,4,0,2020-03-14,1,0,0
+Bradford PA,Curzon A,0,2,2020-03-14,0,1,0
+Telford,Kettering,3,1,2020-03-14,1,0,0
+Chippenham,Wealdstone,1,1,2020-03-14,0,0,1
+Hungerford,Bath City,0,1,2020-03-14,0,1,0
+Dulwich H,Hemel,2,1,2020-03-14,1,0,0
+Eastbourne,Maidstone,3,0,2020-03-14,1,0,0
+Braintree,St Albans,0,1,2020-03-14,0,1,0
+Dorking W,Havant & W,1,2,2020-03-14,0,1,0
+Dartford,Chelmsford,3,0,2020-03-14,1,0,0
+Welling,Billericay,2,0,2020-03-14,1,0,0
+Weymouth,Slough,2,0,2020-03-14,1,0,0
+Hampton & R,Oxford C,1,1,2020-03-14,0,0,1
+Concord R,Tonbridge,3,3,2020-03-14,0,0,1
+Radcliffe Boro,Whitby,2,2,2020-03-14,0,0,1
+South Shields,FC Utd,5,3,2020-03-14,1,0,0
+Basford United,Scarborough A,0,1,2020-03-14,0,1,0
+Lancaster,Witton,1,1,2020-03-14,0,0,1
+Shakhtyor,Torpedo Zh,2,0,2020-03-14,1,0,0
+Slavia Mozyr,Dnyapro,3,0,2020-03-14,1,0,0
+Bate Borisov,Dinamo Minsk,3,2,2020-03-14,1,0,0
+Liverpool,Bournemouth,2,1,2020-03-07,1,0,0
+Sheff Utd,Norwich,1,0,2020-03-07,1,0,0
+Wolves,Brighton,0,0,2020-03-07,0,0,1
+Crystal Palace,Watford,1,0,2020-03-07,1,0,0
+Arsenal,West Ham,1,0,2020-03-07,1,0,0
+Southampton,Newcastle,0,1,2020-03-07,0,1,0
+Burnley,Tottenham,1,1,2020-03-07,0,0,1
+Bristol C,Fulham,1,1,2020-03-07,0,0,1
+Preston,QPR,1,3,2020-03-07,0,1,0
+Charlton,Middlesbrough,0,1,2020-03-07,0,1,0
+Birmingham,Reading,1,3,2020-03-07,0,1,0
+Brentford,Sheff Wed,5,0,2020-03-07,1,0,0
+Stoke,Hull,5,1,2020-03-07,1,0,0
+Barnsley,Cardiff,0,2,2020-03-07,0,1,0
+Swansea,West Brom,0,0,2020-03-07,0,0,1
+Wigan,Luton,0,0,2020-03-07,0,0,1
+Leeds,Huddersfield,2,0,2020-03-07,1,0,0
+Shrewsbury,Oxford,2,3,2020-03-07,0,1,0
+Lincoln,Burton,3,2,2020-03-07,1,0,0
+Accrington,Tranmere,1,2,2020-03-07,0,1,0
+Southend,Bristol R,3,1,2020-03-07,1,0,0
+Ipswich,Coventry,0,1,2020-03-07,0,1,0
+AFC W'bledon,Bolton,0,0,2020-03-07,0,0,1
+Rochdale,Rotherham,3,1,2020-03-07,1,0,0
+Sunderland,Gillingham,2,2,2020-03-07,0,0,1
+Peterborough,Portsmouth,2,0,2020-03-07,1,0,0
+Fleetwood,Blackpool,0,0,2020-03-07,0,0,1
+MK Dons,Doncaster,0,1,2020-03-07,0,1,0
+Scunthorpe,Grimsby,0,2,2020-03-07,0,1,0
+Leyton Orient,Cambridge U,2,1,2020-03-07,1,0,0
+Salford,Bradford,2,0,2020-03-07,1,0,0
+Newport Co,Morecambe,1,0,2020-03-07,1,0,0
+Cheltenham,Port Vale,0,0,2020-03-07,0,0,1
+Northampton,Mansfield,1,2,2020-03-07,0,1,0
+Carlisle,Colchester,0,3,2020-03-07,0,1,0
+Crawley,Oldham,3,0,2020-03-07,1,0,0
+Crewe,Stevenage,3,1,2020-03-07,1,0,0
+Walsall,Exeter,3,1,2020-03-07,1,0,0
+Swindon,Forest Green,0,2,2020-03-07,0,1,0
+Plymouth,Macclesfield,3,0,2020-03-07,1,0,0
+Chorley,Chesterfield,1,2,2020-03-07,0,1,0
+Dover,Yeovil,0,1,2020-03-07,0,1,0
+Wrexham,Eastleigh,0,0,2020-03-07,0,0,1
+Aldershot,Dag & Red,0,1,2020-03-07,0,1,0
+Maidenhead,Boreham W,0,1,2020-03-07,0,1,0
+Barrow,Notts Co,0,2,2020-03-07,0,1,0
+Halifax,Woking,0,2,2020-03-07,0,1,0
+Hartlepool,Ebbsfleet,0,1,2020-03-07,0,1,0
+Stockport,Barnet,1,1,2020-03-07,0,0,1
+Sutton Utd,Torquay,2,0,2020-03-07,1,0,0
+Fylde,Solihull M,0,0,2020-03-07,0,0,1
+Harrogate,Bromley,1,1,2020-03-07,0,0,1
+Celtic,St Mirren,5,0,2020-03-07,1,0,0
+Hearts,Motherwell,1,1,2020-03-07,0,0,1
+Aberdeen,Hibernian,3,1,2020-03-07,1,0,0
+Hamilton,Kilmarnock,1,0,2020-03-07,1,0,0
+St Johnstone,Livingston,1,0,2020-03-07,1,0,0
+Alloa,Inverness CT,2,0,2020-03-07,1,0,0
+Ayr,Dundee,0,0,2020-03-07,0,0,1
+Dundee Utd,Partick,1,1,2020-03-07,0,0,1
+Morton,Arbroath,1,1,2020-03-07,0,0,1
+Dunfermline,Queen of Sth,1,1,2020-03-07,0,0,1
+Airdrieonians,East Fife,1,0,2020-03-07,1,0,0
+Raith,Forfar,2,1,2020-03-07,1,0,0
+Clyde,Dumbarton,2,0,2020-03-07,1,0,0
+Falkirk,Peterhead,3,0,2020-03-07,1,0,0
+Montrose,Stranraer,4,1,2020-03-07,1,0,0
+Edinburgh C,Albion,3,0,2020-03-07,1,0,0
+Annan,Cowdenbeath,0,0,2020-03-07,0,0,1
+Elgin City,Stirling,3,1,2020-03-07,1,0,0
+Stenh'semuir,Queen's Park,0,0,2020-03-07,0,0,1
+Cove Rangers,Brechin,3,2,2020-03-07,1,0,0
+Deveronvale,Forres Mech,1,3,2020-03-07,0,1,0
+Strathspey T,Keith,1,3,2020-03-07,0,1,0
+Turriff U,Lossiemouth,2,0,2020-03-07,1,0,0
+Rothes,Formartine Utd,2,0,2020-03-07,1,0,0
+Brora Rangers,Wick Academy,4,1,2020-03-07,1,0,0
+Buckie Thistle,Huntly,4,2,2020-03-07,1,0,0
+Bonnyrigg Rose,Civil Serv Strol,1,1,2020-03-07,0,0,1
+Hertha Berlin,W Bremen,2,2,2020-03-07,0,0,1
+Freiburg,Union Berlin,3,1,2020-03-07,1,0,0
+Wolfsburg,RB Leipzig,0,0,2020-03-07,0,0,1
+B Leverkusen,E Frankfurt,4,0,2020-03-07,1,0,0
+Schalke,Hoffenheim,1,1,2020-03-07,0,0,1
+B M'gladbach,B Dortmund,1,2,2020-03-07,0,1,0
+Eibar,Mallorca,1,2,2020-03-07,0,1,0
+Atl Madrid,Sevilla,2,2,2020-03-07,0,0,1
+Barcelona,Sociedad,1,0,2020-03-07,1,0,0
+Getafe,Celta Vigo,0,0,2020-03-07,0,0,1
+Nice,Monaco,2,1,2020-03-07,1,0,0
+Angers,Nantes,2,0,2020-03-07,1,0,0
+Reims,Stade Brest,1,0,2020-03-07,1,0,0
+Dijon,Toulouse,2,1,2020-03-07,1,0,0
+Metz,Nimes,2,1,2020-03-07,1,0,0
+Gazovik Orenburg,Arsenal Tula,2,0,2020-03-07,1,0,0
+Din. Moscow,Tambov,1,0,2020-03-07,1,0,0
+Malatyaspor,Konyaspor,1,1,2020-03-07,0,0,1
+Gazisehir,Trabzonspor,1,1,2020-03-07,0,0,1
+Goztepe,Basaksehir,0,3,2020-03-07,0,1,0
+Fenerbahce,Denizlispor,2,2,2020-03-07,0,0,1
+Heidenheim,Karlsruhe,3,1,2020-03-07,1,0,0
+SV Darmstadt,Bochum,0,0,2020-03-07,0,0,1
+Hamburg,Regensburg,2,1,2020-03-07,1,0,0
+Academica Clinceni,Viitorul C,2,3,2020-03-07,0,1,0
+CSMS Iasi,Din. Bucharest,1,0,2020-03-07,1,0,0
+Sigma O.,Jablonec,1,1,2020-03-07,0,0,1
+Zlin,B. 1905,2,3,2020-03-07,0,1,0
+Viktoria Plzen,C. Budejovice,1,0,2020-03-07,1,0,0
+Arka Gdynia,Wisla Plock,1,2,2020-03-07,0,1,0
+Zaglebie Lubin,Lechia Gdansk,4,4,2020-03-07,0,0,1
+Jagiellonia,Slask Wroclaw,1,0,2020-03-07,1,0,0
+Domzale,NK Aluminij,1,3,2020-03-07,0,1,0
+Maribor,Bravo Publikum,1,2,2020-03-07,0,1,0
+NK Inter,Slaven,0,2,2020-03-07,0,1,0
+Osijek,NK Varazdin,2,0,2020-03-07,1,0,0
+Extremadura,Real Oviedo,1,2,2020-03-07,0,1,0
+Girona,Albacete,1,1,2020-03-07,0,0,1
+Huesca,Fuenlabrada,2,0,2020-03-07,1,0,0
+Numancia,Racing,1,2,2020-03-07,0,1,0
+Almeria,Deportivo,4,0,2020-03-07,1,0,0
+Tondela,Boavista,1,1,2020-03-07,0,0,1
+Vitoria Setubal,Benfica,1,1,2020-03-07,0,0,1
+Porto,Rio Ave,1,1,2020-03-07,0,0,1
+Wolfsberger,Rapid Vienna,2,2,2020-03-07,0,0,1
+Aus. Vienna,St Polten,0,0,2020-03-07,0,0,1
+Admira Wacker,Altach,2,0,2020-03-07,1,0,0
+Hartberg,Swarovski Wattens,0,3,2020-03-07,0,1,0
+AZ Alkmaar,Den Haag,4,0,2020-03-07,1,0,0
+FC Emmen,VVV Venlo,3,0,2020-03-07,1,0,0
+Vitesse Arn.,FC Twente,1,0,2020-03-07,1,0,0
+Heerenveen,Ajax,1,3,2020-03-07,0,1,0
+Club Brugge,Cercle Bruges,2,1,2020-03-07,1,0,0
+Anderlecht,Waregem,7,0,2020-03-07,1,0,0
+St Liege,St. Truiden,0,0,2020-03-07,0,0,1
+Gent,Charleroi,1,4,2020-03-07,0,1,0
+Mechelen,KAS Eupen,1,1,2020-03-07,0,0,1
+Oostende,Genk,2,4,2020-03-07,0,1,0
+Mouscron-P,W Beveren,1,0,2020-03-07,1,0,0
+Kortrijk,Royal Antwerp,0,1,2020-03-07,0,1,0
+Adelaide Utd,Western United,1,5,2020-03-07,0,1,0
+Melbourne Vic,Sydney FC,1,4,2020-03-07,0,1,0
+Etar Veliko Tarnovo,Arda,1,1,2020-03-07,0,0,1
+Loko. Plovdiv,Vitosha Bistritsa,1,1,2020-03-07,0,0,1
+CSKA Sofia,Beroe Stara,2,0,2020-03-07,1,0,0
+Desna,Zorya,1,0,2020-03-07,1,0,0
+Vorskla Poltava,Olimpik Donetsk,1,0,2020-03-07,1,0,0
+Oleksandria,Dynamo Kiev,1,3,2020-03-07,0,1,0
+Carmarthen,Airbus UK,1,3,2020-03-07,0,1,0
+Napredak,Proleter Novi Sad,0,0,2020-03-07,0,0,1
+Macva Sabac,Red Star,0,3,2020-03-07,0,1,0
+Rad Beograd,Backa Topola,3,4,2020-03-07,0,1,0
+Radnik Surdulica,Javor,2,0,2020-03-07,1,0,0
+Vojvodina NS,Mladost Lucani,2,1,2020-03-07,1,0,0
+Partizan,Radnicki Nis,1,0,2020-03-07,1,0,0
+Carrick Rangers,Linfield,0,2,2020-03-07,0,1,0
+Ballymena,Coleraine,0,2,2020-03-07,0,1,0
+Glentoran,Cliftonville,0,2,2020-03-07,0,1,0
+Crusaders,Institute FC,2,1,2020-03-07,1,0,0
+Dungannon Sw,Warrenpoint T,4,4,2020-03-07,0,0,1
+Larne,Glenavon,1,0,2020-03-07,1,0,0
+Debrecen,Kisvarda,1,0,2020-03-07,1,0,0
+Kaposvar,Mezokovesd SE,0,4,2020-03-07,0,1,0
+Puskas FA FC,MOL Vidi,1,4,2020-03-07,0,1,0
+Paksi SE,Honved,0,0,2020-03-07,0,0,1
+Diosgyor,Ujpest Dozsa,2,1,2020-03-07,1,0,0
+Zalaegerszeg,Ferencvaros,1,1,2020-03-07,0,0,1
+Cobh,Athlone Town,3,2,2020-03-07,1,0,0
+Sligo Rovers,Shamrock R,2,3,2020-03-07,0,1,0
+New England,Chicago,1,1,2020-03-07,0,0,1
+Real Salt Lake,NY Red Bulls,1,1,2020-03-07,0,0,1
+Dallas,Montreal Imp,2,2,2020-03-07,0,0,1
+DC United,Inter Miami CF,2,1,2020-03-07,1,0,0
+Toronto FC,New York City,1,0,2020-03-07,1,0,0
+Gateshead,King's Lynn,1,2,2020-03-07,0,1,0
+Alfreton,York,1,3,2020-03-07,0,1,0
+Altrincham,Spennymoor,4,1,2020-03-07,1,0,0
+Farsley AFC,Hereford,1,2,2020-03-07,0,1,0
+Southport,Kidderminster,1,2,2020-03-07,0,1,0
+Curzon A,Boston Utd,1,1,2020-03-07,0,0,1
+Guiseley,Leamington,3,0,2020-03-07,1,0,0
+Kettering,Gloucester,1,1,2020-03-07,0,0,1
+Brackley,Blyth Sptns,5,2,2020-03-07,1,0,0
+Bradford PA,Chester,2,1,2020-03-07,1,0,0
+Telford,Darlington,1,2,2020-03-07,0,1,0
+Chelmsford,Concord R,1,1,2020-03-07,0,0,1
+Slough,Hungerford,0,2,2020-03-07,0,1,0
+Maidstone,Welling,3,1,2020-03-07,1,0,0
+Oxford C,Chippenham,1,3,2020-03-07,0,1,0
+St Albans,Dartford,1,2,2020-03-07,0,1,0
+Hemel,Dorking W,1,0,2020-03-07,1,0,0
+Bath City,Weymouth,0,0,2020-03-07,0,0,1
+Wealdstone,Dulwich H,2,1,2020-03-07,1,0,0
+Billericay,Braintree,2,1,2020-03-07,1,0,0
+Havant & W,Hampton & R,2,0,2020-03-07,1,0,0
+Merstham,Bognor Regis,2,2,2020-03-07,0,0,1
+Worthing,Wingate & F,4,2,2020-03-07,1,0,0
+Cray W,Brightlingsea R,1,0,2020-03-07,1,0,0
+Corinthian Cas,Hornchurch,1,1,2020-03-07,0,0,1
+Folkestone,Enfield T,1,1,2020-03-07,0,0,1
+Carshalton,Cheshunt,2,0,2020-03-07,1,0,0
+Bishop's St.,Haringey B,1,2,2020-03-07,0,1,0
+Margate,Bowers & Pitsea,1,0,2020-03-07,1,0,0
+Leatherhead,E Thurrock,3,0,2020-03-07,1,0,0
+Horsham,Potters Bar,2,0,2020-03-07,1,0,0
+Lewes,Kingstonian,1,2,2020-03-07,0,1,0
+Chesham,Hartley Wint.,1,2,2020-03-07,0,1,0
+Dorchester,Wimborne T,1,0,2020-03-07,1,0,0
+Blackfield & L,Poole Town,1,1,2020-03-07,0,0,1
+Truro City,Taunton Town,1,1,2020-03-07,0,0,1
+Met. Police,Harrow Boro,1,3,2020-03-07,0,1,0
+Beaconsfield,Gosport Bor,0,1,2020-03-07,0,1,0
+Walton Casuals,Hendon,1,1,2020-03-07,0,0,1
+Salisbury FC,Merthyr,2,1,2020-03-07,1,0,0
+Farnborough,Yate,4,0,2020-03-07,1,0,0
+Hayes & Y,Swindon Sup.,1,0,2020-03-07,1,0,0
+Hyde,Matlock,3,1,2020-03-07,1,0,0
+Radcliffe Boro,Nantwich,2,2,2020-03-07,0,0,1
+Bamber Br.,South Shields,1,2,2020-03-07,0,1,0
+Mickleover S,FC Utd,0,4,2020-03-07,0,1,0
+Atherton Colls,Grantham,2,0,2020-03-07,1,0,0
+Ashton Utd,Scarborough A,2,0,2020-03-07,1,0,0
+Morpeth Town,Witton,3,2,2020-03-07,1,0,0
+Stalybridge,Warrington,0,2,2020-03-07,0,1,0
+Stafford,Whitby,2,1,2020-03-07,1,0,0
+Basford United,Buxton,0,2,2020-03-07,0,1,0
+Lancaster,Gainsborough,0,1,2020-03-07,0,1,0
+Corinthian,Leighton,4,3,2020-03-07,1,0,0
+Atherstone T,Consett,1,5,2020-03-07,0,1,0
+Djurgaardens,Mjallby,1,2,2020-03-07,0,1,0
+Dalkurd FF,Sandvikens,3,1,2020-03-07,1,0,0
+Norrkoping,Falkenbergs FF,1,0,2020-03-07,1,0,0
+IFK Goth'burg,IK Sirius,1,1,2020-03-07,0,0,1
+Vasteras,Sollentuna FK,4,0,2020-03-07,1,0,0
+Halmstads,Tvaakers IF,2,1,2020-03-07,1,0,0
+Astoria Walldorf,Saarbrucken,1,0,2020-03-07,1,0,0
+AEL Limassol,Omonia Nicosia,0,3,2020-03-07,0,1,0
+Sarajevo,FK Mladost Doboj Kakanj,2,1,2020-03-07,1,0,0
+Ajaccio,Lorient,1,0,2020-03-07,1,0,0
+Valletta,Gudja United,0,2,2020-03-07,0,1,0
