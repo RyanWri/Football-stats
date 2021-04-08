@@ -86,8 +86,8 @@ class Crawler:
 
 def main():
     # to run main just set start and end date and filename -> the results are in CsvData folder
-    start = '2019-10-01'
-    end = '2019-12-31'
+    start = '2019-01-01'
+    end = '2019-04-30'
     c = Crawler()
     c.concurrent_crawl(start, end)
 
