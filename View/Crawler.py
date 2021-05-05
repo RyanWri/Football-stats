@@ -3,11 +3,12 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import concurrent.futures
+import os
 
 
 class Crawler:
     def __init__(self):
-        # date must be in this format year-day-month
+        # date must be in this format year-month-day
         self.url = 'https://www.soccerbase.com/matches/results.sd?date='
 
     def get_matches_as_bs4_from_url(self, formatted_date):
@@ -81,13 +82,14 @@ class Crawler:
         data['away-won'] = np.where(data['home-goals'] < data['away-goals'], 1, 0)
         data['draw'] = np.where(data['home-goals'] == data['away-goals'], 1, 0)
         clean_data = data.drop(['date', 'score'], axis=1)
+        os.chdir('/Users/rywright/Football/CsvData')
         clean_data.to_csv(f'SoccerBase-{start}-{end}.csv', index=False)
 
 
 def main():
     # to run main just set start and end date and filename -> the results are in CsvData folder
-    start = '2019-01-01'
-    end = '2019-04-30'
+    start = '2017-01-01'
+    end = '2017-05-31'
     c = Crawler()
     c.concurrent_crawl(start, end)
 

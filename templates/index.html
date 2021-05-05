@@ -1,32 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <title>Soccer draw predictions</title>
     <meta charset="UTF-8">
-    <title>Title</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
-<body>
-    <form method="POST" action="/tables">
-        <p>this is just an example to show match results</p>
-        <br>
-        <button type="submit">Show tables</button>
-    </form>
-    <br>
-    <form method="POST" action="/team-stats">
-        <p>This will show you arsenal home stats</p>
-        <br>
-        <button type="submit">Show Arsenal stats</button>
-    </form>
-    <form method="GET" action="/dropdown">
-        <p>Let's see all available teams</p>
-        <br>
-        <button type="submit">Show all teams in dropdown</button>
-    </form>
-    <form method="GET" action="/my-draw-predictions">
-        <p>Let's see all teams with high chance to draw</p>
-        <br>
-        <button type="submit">list teams to draw</button>
-    </form>
+<body class="bg-dark">
+    <div class="container-md mt-3 border bg-info text-white">
+        <h1>Soccer prediction app</h1>
+        <a href="#" class="btn btn-info" role="button">Fixtures</a>
+    </div>
+
+    <div class="container">
+        <table class="table table-dark table-striped">
+            <thead>
+                <tr>
+                    <th>home-team</th>
+                    <th>away-team</th>
+                    <th>home_win</th>
+                    <th>draw</th>
+                    <th>away_win</th>
+                    <th>home_diff</th>
+                    <th>away_diff</th>
+                </tr>
+            </thead>
+        <tbody>
+            {% for values in arr %}
+            <tr>
+                {% for val in values %}
+                <td>{{val}}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </tbody>
+        </table>
+
+    </div>
 
 </body>
 </html>

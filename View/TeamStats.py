@@ -28,48 +28,37 @@ class TeamStats:
 
         # change directory to Data and write csv
         os.chdir('/Users/rywright/Football/Data')
-        combined_csv.to_csv(filename, index=False, encoding='utf-8-sig')
+        combined_csv.to_csv(filename, index=False)
 
     def calc_team_stats(self, team_name):
         df = self.loc_team_raw_data(team_name)
         played = len(df['home-goals'])
-        # do not count teams with less than 50 matches (small sample does not count)
-        if played < 50:
-            return [0, 0, 0]
 
+        #calculate goals scored and conceived
         scored = np.sum(df.loc[df['home-team'] == team_name]['home-goals'])
         scored += np.sum(df.loc[df['away-team'] == team_name]['away-goals'])
-
+        scored = round(scored / played, 6)
         conceived = np.sum(df.loc[df['home-team'] == team_name]['away-goals'])
         conceived += np.sum(df.loc[df['away-team'] == team_name]['home-goals'])
+        conceived = round(conceived / played, 6)
 
-        # we want the difference to be as close to 0 as possible
-        diff_goals = abs(scored - conceived)
+        #calculate wins draws and losses
+        wins = np.sum(df.loc[df['home-team'] == team_name]['home-won'])
+        wins += np.sum(df.loc[df['away-team'] == team_name]['away-won'])
+        draws = np.sum(df['draw'])
+        losses = played - draws - wins
 
-        # count consecutive games without draw
-        streak = 0
-        for outcome in df['draw'].values:
-            if outcome > 0:
-                break
-            else:
-                streak += 1
-
-        draw_rate = round(np.sum(df['draw']) / played, 6)
-        return [draw_rate, diff_goals, streak]
-
-    def calculate_draw_fixture(self,home_team, away_team):
-        home_team_special_score = self.calc_team_stats(home_team)
-        away_team_special_score = self.calc_team_stats(away_team)
-        fixture_special_score = (home_team_special_score + away_team_special_score) / 2
-        return fixture_special_score
+        return [wins, draws, losses, played, scored, conceived]
 
     def loc_team_raw_data(self, team_name):
         data = self.df.loc[(self.df['home-team'] == team_name) | (self.df['away-team'] == team_name)].copy()
-        return data.sort_values(by="formatted-date", ascending=False)
+        return data
 
     def save_all_teams_stats_to_pickle(self):
         data = dict()
-        teams = list(self.df['home-team'].unique())
+        away_unique = set(self.df['away-team'].unique())
+        home_unique = set(self.df['home-team'].unique())
+        teams = list(home_unique.union(away_unique))
         for team in teams:
             data[team] = self.calc_team_stats(team)
 
@@ -91,7 +80,8 @@ class TeamStats:
     def write_team_stats_to_csv(self):
         # team stats file name is in init
         data = self.load_all_teams_stats_from_pickle()
-        df = pd.DataFrame.from_dict(data[0], orient='index', columns=['draw_rate', 'diff_goals', 'streak'])
+        cols = ['wins', 'draws', 'losses', 'played', 'scored', 'conceived']
+        df = pd.DataFrame.from_dict(data[0], orient='index', columns=cols)
         df.to_csv(self.stats_csv_filename)
 
 
