@@ -88,7 +88,7 @@ class Model:
         data = pd.DataFrame(predictions, columns=cols)
         return data
 
-    def write_extended_csv_(self):
+    def write_extended_csv(self):
         data = self.create_predictions_dataframe()
         for col in data.columns[2:]:
             data[col] = data[col].astype(float)
@@ -96,6 +96,9 @@ class Model:
         # calculate difference in scored vs conceived
         data['diff_1-2_goals'] = [abs(x-y) for x, y in zip(data['1-goals'], data['2-goals'])]
         data['diff_1-2_conceived'] = [abs(x-y) for x, y in zip(data['1-conceived'], data['2-conceived'])]
+        # distance is the sum of 2 of the above
+        data['distance'] = data['diff_1-2_goals'] + data['diff_1-2_conceived']
+
         data['diff_home'] = [abs(x-y) for x, y in zip(data['1-goals'], data['1-conceived'])]
         data['diff_away'] = [abs(x-y) for x, y in zip(data['2-goals'], data['2-conceived'])]
 
@@ -103,13 +106,14 @@ class Model:
         data['1X'] = data['1'] + data['X']
         data['2X'] = data['2'] + data['X']
         data['12'] = data['1'] + data['2']
+        data['gap_1-2'] = [abs(x-y) for x, y in zip(data['1'], data['2'])]
 
         data.to_csv(f'extended-{self.today_date}-predictions.csv', index=False)
 
 
 def main():
     model = Model()
-    model.write_extended_csv_()
+    model.write_extended_csv()
 
 
 if __name__ == "__main__":

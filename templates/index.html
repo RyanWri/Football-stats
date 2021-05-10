@@ -16,13 +16,9 @@
         <table class="table table-dark table-striped">
             <thead>
                 <tr>
-                    <th>home-team</th>
-                    <th>away-team</th>
-                    <th>home_win</th>
-                    <th>draw</th>
-                    <th>away_win</th>
-                    <th>home_diff</th>
-                    <th>away_diff</th>
+                    {% for col in columns %}
+                    <th scope="col" width:12%>{{col}}</th>
+                    {% endfor %}
                 </tr>
             </thead>
         <tbody>

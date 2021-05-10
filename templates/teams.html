@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div class="container-md mt-3 border bg-info text-white">
+        <h2>Choose a team</h2>
+        {% for team in teams %}
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="..." alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">{{team}}</h5>
+                <p class="card-text">teams stats here</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>
