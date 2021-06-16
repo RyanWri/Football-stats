@@ -24,7 +24,7 @@ class Model:
         home_teams = np.array(today_data['team homeTeam'])
         away_teams = np.array(today_data['team awayTeam'])
 
-        for h,a in zip(home_teams,away_teams):
+        for h,a in zip(home_teams, away_teams):
             # match delimiter is --vs--
             # fixtures delimiter is ||
             fixtures += f'{h}--vs--{a}||'
@@ -49,23 +49,14 @@ class Model:
             return prediction
 
         home_stats, away_stats = self.df.loc[home_team], self.df.loc[away_team]
-        prediction = [home_team, away_team]
 
-        # win draw lose probabilities
-        home_to_win = home_stats['wins'] + away_stats['losses']
-        draws = home_stats['draws'] + away_stats['draws']
-        away_to_win = away_stats['wins'] + home_stats['losses']
-        played = home_stats['played'] + away_stats['played']
+        # draw stats
+        played = home_stats['home-played'] + away_stats['away-played']
+        win = home_stats['home-wins'] + away_stats['away-losses']
+        draw = home_stats['home-draws'] + away_stats['away-draws']
+        lost = home_stats['home-losses'] + away_stats['away-wins']
 
-        prediction.append(round(home_to_win / played, 6))
-        prediction.append(round(draws / played, 6))
-        prediction.append(round(away_to_win / played, 6))
-
-        # add score conceived avg
-        for col in ['scored', 'conceived']:
-            prediction.append(home_stats[col])
-            prediction.append(away_stats[col])
-
+        prediction = [home_team, away_team, win / played, draw / played, lost / played]
         return np.array(prediction)
 
     def create_predictions_dataframe(self):
@@ -84,36 +75,19 @@ class Model:
                 predictions.append(prediction)
 
         # we want prediction to be highest as possible
-        cols = ['home-team', 'away-team', '1', 'X', '2', '1-goals', '2-goals', '1-conceived', '2-conceived']
+        cols = ['home-team', 'away-team', '1', 'X', '2']
         data = pd.DataFrame(predictions, columns=cols)
         return data
 
-    def write_extended_csv(self):
+    def write_predictions_csv(self):
         data = self.create_predictions_dataframe()
-        for col in data.columns[2:]:
-            data[col] = data[col].astype(float)
-
-        # calculate difference in scored vs conceived
-        data['diff_1-2_goals'] = [abs(x-y) for x, y in zip(data['1-goals'], data['2-goals'])]
-        data['diff_1-2_conceived'] = [abs(x-y) for x, y in zip(data['1-conceived'], data['2-conceived'])]
-        # distance is the sum of 2 of the above
-        data['distance'] = data['diff_1-2_goals'] + data['diff_1-2_conceived']
-
-        data['diff_home'] = [abs(x-y) for x, y in zip(data['1-goals'], data['1-conceived'])]
-        data['diff_away'] = [abs(x-y) for x, y in zip(data['2-goals'], data['2-conceived'])]
-
-        # extend bets to 2 out of 3 options
-        data['1X'] = data['1'] + data['X']
-        data['2X'] = data['2'] + data['X']
-        data['12'] = data['1'] + data['2']
-        data['gap_1-2'] = [abs(x-y) for x, y in zip(data['1'], data['2'])]
-
+        # write csv
         data.to_csv(f'extended-{self.today_date}-predictions.csv', index=False)
 
 
 def main():
     model = Model()
-    model.write_extended_csv()
+    model.write_predictions_csv()
 
 
 if __name__ == "__main__":
