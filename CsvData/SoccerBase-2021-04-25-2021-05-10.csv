@@ -1,0 +1,939 @@
+home-team,away-team,home-goals,away-goals,formatted-date,home-won,away-won,draw
+Leicester,Crystal Palace,2,1,2021-04-26,1,0,0
+Kilmarnock,St Mirren,3,3,2021-04-26,0,0,1
+Torino,Napoli,0,2,2021-04-26,0,1,0
+Lazio,Milan,3,0,2021-04-26,1,0,0
+Eibar,Sociedad,0,1,2021-04-26,0,1,0
+NK Varazdin,NK Istra 1961,1,1,2021-04-26,0,0,1
+Karlsruhe,Erzegbirge A,0,0,2021-04-26,0,0,1
+SV Darmstadt,Bochum,3,1,2021-04-26,1,0,0
+Belenenses,Gil Vicente,2,1,2021-04-26,1,0,0
+Famalicao,Tondela,2,2,2021-04-26,0,0,1
+Benfica,Santa Clara,2,1,2021-04-26,1,0,0
+Nacional,V Guimaraes,1,0,2021-04-26,1,0,0
+Moreirense,Porto,1,1,2021-04-26,0,0,1
+Apollon Smyrni,Volos NFC,0,0,2021-04-26,0,0,1
+IFK Goth'burg,Degerfors,2,3,2021-04-26,0,1,0
+Elfsborg,Mjallby,1,0,2021-04-26,1,0,0
+Nordsjaelland,Midtjylland,3,2,2021-04-26,1,0,0
+R. Vallecano,Albacete,2,2,2021-04-26,0,0,1
+Sabadell,Mallorca,1,0,2021-04-26,1,0,0
+Voluntari,Viitorul C,1,0,2021-04-26,1,0,0
+Western United,Newcastle Jets,2,0,2021-04-26,1,0,0
+CSKA 1948 Sofia,Loko. Plovdiv,1,0,2021-04-26,1,0,0
+Botev Plovdiv,Ludogorets,0,2,2021-04-26,0,1,0
+H Beer Sheva,M. Haifa,1,1,2021-04-26,0,0,1
+Southampton,Leicester,1,1,2021-04-30,0,0,1
+Harrogate,Cambridge U,5,4,2021-04-30,1,0,0
+Queen of Sth,Dundee,0,2,2021-04-30,0,1,0
+Raith,Hearts,0,4,2021-04-30,0,1,0
+Alloa,Dunfermline,1,0,2021-04-30,1,0,0
+Arbroath,Morton,0,0,2021-04-30,0,0,1
+Inverness CT,Ayr,2,2,2021-04-30,0,0,1
+Celta Vigo,Levante,2,0,2021-04-30,1,0,0
+Marseille,Strasbourg,1,1,2021-04-30,0,0,1
+AC Horsens,Vejle BK,3,3,2021-04-30,0,0,1
+Aalborg,Lyngby,4,0,2021-04-30,1,0,0
+Pacos Ferreira,Belenenses,1,0,2021-04-30,1,0,0
+V Guimaraes,Moreirense,2,0,2021-04-30,1,0,0
+Tondela,Benfica,0,2,2021-04-30,0,1,0
+Porto,Famalicao,3,2,2021-04-30,1,0,0
+Metan Medias,Arges Pitesti,1,1,2021-04-30,0,0,1
+ND HIT Gorica,NS Mura,1,5,2021-04-30,0,1,0
+Wisla Plock,Lechia Gdansk,1,3,2021-04-30,0,1,0
+Slask Wroclaw,Zaglebie Lubin,0,0,2021-04-30,0,0,1
+Loko. Zagreb,Sibenik,1,0,2021-04-30,1,0,0
+Royal Antwerp,Genk,2,3,2021-04-30,0,1,0
+Lugo,Zaragoza,2,2,2021-04-30,0,0,1
+Adelaide Utd,Western United,0,0,2021-04-30,0,0,1
+Rukh Brest,Slavia Mozyr,2,1,2021-04-30,1,0,0
+Dinamo Minsk,Energetyk-BDU,2,0,2021-04-30,1,0,0
+Vitebsk,Gomel,0,0,2021-04-30,0,0,1
+St Patrick's,Longford T,3,0,2021-04-30,1,0,0
+Drogheda,Sligo Rovers,1,1,2021-04-30,0,0,1
+Finn Harps,Shamrock R,0,2,2021-04-30,0,1,0
+Bohemians D.,Derry City,1,2,2021-04-30,0,1,0
+Waterford,Dundalk,0,3,2021-04-30,0,1,0
+Paksi SE,Puskas FA FC,4,2,2021-04-30,1,0,0
+W Bremen,RB Leipzig,1,2,2021-04-30,0,1,0
+Dungannon Sw,Carrick Rangers,0,2,2021-04-30,0,1,0
+Bray,Cork City,0,0,2021-04-30,0,0,1
+Wexford Yth,UCD,0,6,2021-04-30,0,1,0
+Shelbourne,Treaty United,2,2,2021-04-30,0,0,1
+Athlone Town,Cabinteely,1,2,2021-04-30,0,1,0
+Cardiff MU,Aberystwyth,5,1,2021-04-30,1,0,0
+Newi CD,Newtown,0,7,2021-04-30,0,1,0
+Real Madrid,Chelsea,1,1,2021-04-27,0,0,1
+Brentford,Rotherham,1,0,2021-04-27,1,0,0
+Charlton,Crewe,2,2,2021-04-27,0,0,1
+Shrewsbury,Lincoln,0,1,2021-04-27,0,1,0
+Accrington,Portsmouth,3,3,2021-04-27,0,0,1
+AFC W'bledon,Rochdale,3,3,2021-04-27,0,0,1
+Burton,Fleetwood,5,2,2021-04-27,1,0,0
+Sunderland,Blackpool,0,1,2021-04-27,0,1,0
+Peterborough,Doncaster,2,2,2021-04-27,0,0,1
+Newport Co,Scunthorpe,4,0,2021-04-27,1,0,0
+Forest Green,Barrow,0,2,2021-04-27,0,1,0
+Cheltenham,Carlisle,1,1,2021-04-27,0,0,1
+Exeter,Grimsby,3,2,2021-04-27,1,0,0
+Bradford,Salford,0,1,2021-04-27,0,1,0
+Torquay,Aldershot,2,1,2021-04-27,1,0,0
+Yeovil,Solihull M,3,0,2021-04-27,1,0,0
+Halifax,Woking,1,0,2021-04-27,1,0,0
+King's Lynn,Stockport,0,4,2021-04-27,0,1,0
+Sutton Utd,Barnet,1,0,2021-04-27,1,0,0
+Bromley,Chesterfield,1,2,2021-04-27,0,1,0
+Maidenhead,Weymouth,0,1,2021-04-27,0,1,0
+Eastleigh,Notts Co,2,0,2021-04-27,1,0,0
+Airdrieonians,Montrose,2,1,2021-04-27,1,0,0
+Dumbarton,Forfar,1,0,2021-04-27,1,0,0
+Cove Rangers,Partick,2,2,2021-04-27,0,0,1
+Cowdenbeath,Brechin,0,2,2021-04-27,0,1,0
+Annan,Stenh'semuir,1,1,2021-04-27,0,0,1
+Stranraer,Elgin City,1,4,2021-04-27,0,1,0
+Stirling,Queen's Park,1,2,2021-04-27,0,1,0
+Hermannstadt,Metan Medias,1,2,2021-04-27,0,1,0
+Arges Pitesti,UT Arad,4,1,2021-04-27,1,0,0
+Aus. Vienna,Admira Wacker,0,0,2021-04-27,0,0,1
+St Polten,Ried,0,0,2021-04-27,0,0,1
+Hartberg,Altach,2,1,2021-04-27,1,0,0
+Nuremberg,Holstein Kiel,1,1,2021-04-27,0,0,1
+Hatayspor,Genclerbirligi,3,1,2021-04-27,1,0,0
+Farense,Portimonense,1,1,2021-04-27,0,0,1
+Sydney FC,Melbourne Vic,1,0,2021-04-27,1,0,0
+The New Saints,Caernarfon,0,0,2021-04-27,0,0,1
+Penybont,Barry Town,2,0,2021-04-27,1,0,0
+Aberystwyth,Newi CD,5,1,2021-04-27,1,0,0
+Haverfordwest,Cardiff MU,0,2,2021-04-27,0,1,0
+Newtown,Flint Town U,1,0,2021-04-27,1,0,0
+Paris St-G.,Man City,1,2,2021-04-28,0,1,0
+Ath Bilbao,Valladolid,2,2,2021-04-28,0,0,1
+Chindia Targoviste,Astra Giurgiu,0,0,2021-04-28,0,0,1
+Sepsi Sfantu G,Academica Clinceni,1,0,2021-04-28,1,0,0
+CFR Cluj,Botosani,2,0,2021-04-28,1,0,0
+Kayserispor,Denizlispor,6,3,2021-04-28,1,0,0
+Goztepe,Trabzonspor,1,1,2021-04-28,0,0,1
+Fatih Karagumruk,Antalyaspor,2,2,2021-04-28,0,0,1
+Galatasaray,Konyaspor,1,0,2021-04-28,1,0,0
+Rizespor,Besiktas,2,3,2021-04-28,0,1,0
+Swarovski Wattens,Rapid Vienna,2,3,2021-04-28,0,1,0
+LASK Linz,Sturm Graz,0,0,2021-04-28,0,0,1
+RB Salzburg,Wolfsberger,1,1,2021-04-28,0,0,1
+Greuther Furth,SV Sandhausen,3,2,2021-04-28,1,0,0
+Jagiellonia,Rakow Czestochowa,0,0,2021-04-28,0,0,1
+Central Coast M,Brisbane Roar,0,4,2021-04-28,0,1,0
+Olimpik Donetsk,Zorya,2,1,2021-04-28,1,0,0
+Lviv,Rukh Vynnyky,1,1,2021-04-28,0,0,1
+Backa Palanka,Zlatibor Cajetina,0,1,2021-04-28,0,1,0
+Novi Pazar,Vozdovac,0,2,2021-04-28,0,1,0
+Cukaricki,Mladost Lucani,4,2,2021-04-28,1,0,0
+Bala Town,Connah's Q,2,1,2021-04-28,1,0,0
+Atlanta U,Philadelphia U,0,3,2021-04-28,0,1,0
+Toronto FC,Cruz Azul,1,3,2021-04-28,0,1,0
+Villarreal,Arsenal,2,1,2021-04-29,1,0,0
+Man Utd,Roma,6,2,2021-04-29,1,0,0
+Forfar,Clyde,2,1,2021-04-29,1,0,0
+Partick,Falkirk,5,0,2021-04-29,1,0,0
+East Fife,Peterhead,1,3,2021-04-29,0,1,0
+Montrose,Cove Rangers,0,2,2021-04-29,0,1,0
+Queen's Park,Edinburgh C,2,0,2021-04-29,1,0,0
+Elgin City,Stirling,3,1,2021-04-29,1,0,0
+Stenh'semuir,Albion,0,1,2021-04-29,0,1,0
+Brechin,Annan,0,3,2021-04-29,0,1,0
+Barcelona,Granada,1,2,2021-04-29,0,1,0
+CSMS Iasi,Viitorul C,0,3,2021-04-29,0,1,0
+Din. Bucharest,Voluntari,2,0,2021-04-29,1,0,0
+Uni Craiova,Steaua,2,0,2021-04-29,1,0,0
+Erzurum B,Basaksehir,1,2,2021-04-29,0,1,0
+Sivasspor,Malatyaspor,1,0,2021-04-29,1,0,0
+Alanyaspor,Fenerbahce,0,0,2021-04-29,0,0,1
+Ankaragucu,Gazisehir,0,1,2021-04-29,0,1,0
+Hamburg,Karlsruhe,1,1,2021-04-29,0,0,1
+Maritimo,Braga,1,0,2021-04-29,1,0,0
+Melbourne C,Newcastle Jets,3,1,2021-04-29,1,0,0
+Metalac,Rad Beograd,3,0,2021-04-29,1,0,0
+Radnicki Nis,FK Indija,2,0,2021-04-29,1,0,0
+Macva Sabac,Radnik Surdulica,0,5,2021-04-29,0,1,0
+Sp Subotica,Javor,0,2,2021-04-29,0,1,0
+Backa Topola,Napredak,1,3,2021-04-29,0,1,0
+Proleter Novi Sad,Partizan,1,3,2021-04-29,0,1,0
+Red Star,Vojvodina NS,1,0,2021-04-29,1,0,0
+FC Slutsk,Dinamo Brest,1,1,2021-04-29,0,0,1
+Diosgyor,Ujpest Dozsa,0,0,2021-04-29,0,0,1
+MTK,MOL Vidi,1,3,2021-04-29,0,1,0
+Columbus Crew,Monterrey,2,2,2021-04-29,0,0,1
+Portland Timb.,Club America,1,1,2021-04-29,0,0,1
+Newcastle,Arsenal,0,2,2021-05-02,0,1,0
+Tottenham,Sheff Utd,4,0,2021-05-02,1,0,0
+Rangers,Celtic,4,1,2021-05-02,1,0,0
+Lazio,Genoa,4,3,2021-05-02,1,0,0
+Napoli,Cagliari,1,1,2021-05-02,0,0,1
+Bologna,Fiorentina,3,3,2021-05-02,0,0,1
+Sassuolo,Atalanta,1,1,2021-05-02,0,0,1
+Udinese,Juventus,1,2,2021-05-02,0,1,0
+Sampdoria,Roma,2,0,2021-05-02,1,0,0
+Valladolid,Real Betis,1,1,2021-05-02,0,0,1
+Villarreal,Getafe,1,0,2021-05-02,1,0,0
+Granada,Cadiz,0,1,2021-05-02,0,1,0
+Valencia,Barcelona,2,3,2021-05-02,0,1,0
+Bordeaux,Rennes,1,0,2021-05-02,1,0,0
+Nimes,Reims,2,2,2021-05-02,0,0,1
+Lorient,Angers,2,0,2021-05-02,1,0,0
+Dijon,Metz,1,5,2021-05-02,0,1,0
+Stade Brest,Nantes,1,4,2021-05-02,0,1,0
+Montpellier,St-Etienne,1,2,2021-05-02,0,1,0
+Monaco,Lyon,2,3,2021-05-02,0,1,0
+Den Haag,Feyenoord,3,2,2021-05-02,1,0,0
+Ajax,FC Emmen,4,0,2021-05-02,1,0,0
+FC Groningen,Sp. Rotterdam,1,2,2021-05-02,0,1,0
+PSV Eindhoven,Heerenveen,2,2,2021-05-02,0,0,1
+Astra Giurgiu,CSMS Iasi,1,2,2021-05-02,0,1,0
+Voluntari,Hermannstadt,0,1,2021-05-02,0,1,0
+Viitorul C,Din. Bucharest,1,2,2021-05-02,0,1,0
+Academica Clinceni,Uni Craiova,1,0,2021-05-02,1,0,0
+Khimki,Ural Sver. Oblast,1,0,2021-05-02,1,0,0
+R. Rostov,Tambov,2,0,2021-05-02,1,0,0
+Zenit,Lok. Moscow,6,1,2021-05-02,1,0,0
+SonderjyskE,OB Odense,2,0,2021-05-02,1,0,0
+Randers Freja,Brondby,4,2,2021-05-02,1,0,0
+Midtjylland,Nordsjaelland,3,0,2021-05-02,1,0,0
+Fuenlabrada,Cartagena,2,1,2021-05-02,1,0,0
+Espanyol,Malaga,3,0,2021-05-02,1,0,0
+Leganes,Sp. Gijon,0,0,2021-05-02,0,0,1
+Castellon,Logrones,0,0,2021-05-02,0,0,1
+Las Palmas,Ponferradina,2,0,2021-05-02,1,0,0
+Antalyaspor,Goztepe,2,3,2021-05-02,0,1,0
+Denizlispor,Rizespor,0,1,2021-05-02,0,1,0
+Konyaspor,Fatih Karagumruk,5,1,2021-05-02,1,0,0
+Genclerbirligi,Galatasaray,0,2,2021-05-02,0,1,0
+Pardubice,MFK Karvina,2,2,2021-05-02,0,0,1
+Jablonec,Sigma O.,3,1,2021-05-02,1,0,0
+Teplice,Zlin,0,0,2021-05-02,0,0,1
+Slovan Liberec,Sparta Prague,2,2,2021-05-02,0,0,1
+Slavia Prague,Viktoria Plzen,5,1,2021-05-02,1,0,0
+Ostersunds FK,Varbergs Bois,1,2,2021-05-02,0,1,0
+Orebro,Norrkoping,0,3,2021-05-02,0,1,0
+Halmstads,IFK Goth'burg,1,1,2021-05-02,0,0,1
+AIK Solna,Elfsborg,1,0,2021-05-02,1,0,0
+Gent,Mechelen,2,2,2021-05-02,0,0,1
+Club Brugge,Anderlecht,2,2,2021-05-02,0,0,1
+FC Sion,Lausanne,1,1,2021-05-02,0,0,1
+Servette,Young Boys,2,1,2021-05-02,1,0,0
+FC Zurich,Lugano,3,0,2021-05-02,1,0,0
+NK Istra 1961,HNK Gorica,0,2,2021-05-02,0,1,0
+Osijek,NK Varazdin,1,1,2021-05-02,0,0,1
+O. Ljubljana,NK Aluminij,2,2,2021-05-02,0,0,1
+KPS Kuopio,HJK Helsinki,0,0,2021-05-02,0,0,1
+Melbourne Vic,Central Coast M,1,1,2021-05-02,0,0,1
+Rukh Vynnyky,Oleksandria,2,1,2021-05-02,1,0,0
+Zorya,Minai,1,0,2021-05-02,1,0,0
+Mariupol,Lviv,1,2,2021-05-02,0,1,0
+Olimpik Donetsk,Inhulets Petrove,0,3,2021-05-02,0,1,0
+Budafoki,Honved,0,1,2021-05-02,0,1,0
+New England,Atlanta U,2,1,2021-05-02,1,0,0
+Philadelphia U,New York City,0,2,2021-05-02,0,1,0
+Orlando City,Cincinnati,3,0,2021-05-02,1,0,0
+Dallas,Portland Timb.,4,1,2021-05-02,1,0,0
+Minnesota U,Austin FC,0,1,2021-05-02,0,1,0
+San Jose,DC United,4,1,2021-05-02,1,0,0
+Nashville MLS,Inter Miami CF,0,0,2021-05-02,0,0,1
+Leeds,Tottenham,3,1,2021-05-08,1,0,0
+Sheff Utd,Crystal Palace,0,2,2021-05-08,0,1,0
+Man City,Chelsea,1,2,2021-05-08,0,1,0
+Liverpool,Southampton,2,0,2021-05-08,1,0,0
+QPR,Luton,3,1,2021-05-08,1,0,0
+Blackburn,Birmingham,5,2,2021-05-08,1,0,0
+Nottm Forest,Preston,1,2,2021-05-08,0,1,0
+Reading,Huddersfield,2,2,2021-05-08,0,0,1
+Bournemouth,Stoke,0,2,2021-05-08,0,1,0
+Coventry,Millwall,6,1,2021-05-08,1,0,0
+Bristol C,Brentford,1,3,2021-05-08,0,1,0
+Middlesbrough,Wycombe,0,3,2021-05-08,0,1,0
+Watford,Swansea,2,0,2021-05-08,1,0,0
+Barnsley,Norwich,2,2,2021-05-08,0,0,1
+Cardiff,Rotherham,1,1,2021-05-08,0,0,1
+Derby,Sheff Wed,3,3,2021-05-08,0,0,1
+Port Vale,Mansfield,0,3,2021-05-08,0,1,0
+Tranmere,Colchester,0,0,2021-05-08,0,0,1
+Cheltenham,Harrogate,4,1,2021-05-08,1,0,0
+Southend,Newport Co,1,1,2021-05-08,0,0,1
+Carlisle,Walsall,0,0,2021-05-08,0,0,1
+Oldham,Forest Green,0,4,2021-05-08,0,1,0
+Crawley,Bolton,1,4,2021-05-08,0,1,0
+Exeter,Barrow,1,1,2021-05-08,0,0,1
+Morecambe,Bradford,2,0,2021-05-08,1,0,0
+Scunthorpe,Stevenage,0,1,2021-05-08,0,1,0
+Cambridge U,Grimsby,3,0,2021-05-08,1,0,0
+Salford,Leyton Orient,3,0,2021-05-08,1,0,0
+Woking,Chesterfield,1,4,2021-05-08,0,1,0
+Wrexham,Yeovil,3,0,2021-05-08,1,0,0
+Barnet,Notts Co,1,4,2021-05-08,0,1,0
+Halifax,Boreham W,0,1,2021-05-08,0,1,0
+Hartlepool,Maidenhead,2,4,2021-05-08,0,1,0
+Sutton Utd,Weymouth,2,0,2021-05-08,1,0,0
+Wealdstone,Dag & Red,0,5,2021-05-08,0,1,0
+Torquay,Bromley,0,0,2021-05-08,0,0,1
+Cove Rangers,Airdrieonians,1,1,2021-05-08,0,0,1
+Raith,Dunfermline,2,0,2021-05-08,1,0,0
+Montrose,Morton,2,1,2021-05-08,1,0,0
+Elgin City,Edinburgh C,0,1,2021-05-08,0,1,0
+Stranraer,Dumbarton,0,0,2021-05-08,0,0,1
+Dundee Utd,Hibernian,0,2,2021-05-08,0,1,0
+Udinese,Bologna,1,1,2021-05-08,0,0,1
+Spezia,Napoli,1,4,2021-05-08,0,1,0
+Inter,Sampdoria,5,1,2021-05-08,1,0,0
+Fiorentina,Lazio,2,0,2021-05-08,1,0,0
+W Bremen,B Leverkusen,0,0,2021-05-08,0,0,1
+Hoffenheim,Schalke,4,2,2021-05-08,1,0,0
+B Dortmund,RB Leipzig,3,2,2021-05-08,1,0,0
+Wolfsburg,Union Berlin,3,0,2021-05-08,1,0,0
+B Munich,B M'gladbach,6,0,2021-05-08,1,0,0
+Alaves,Levante,2,2,2021-05-08,0,0,1
+Barcelona,Atl Madrid,0,0,2021-05-08,0,0,1
+Cadiz,Huesca,2,1,2021-05-08,1,0,0
+Ath Bilbao,Osasuna,2,2,2021-05-08,0,0,1
+Nantes,Bordeaux,3,0,2021-05-08,1,0,0
+Lyon,Lorient,4,1,2021-05-08,1,0,0
+Metan Medias,Astra Giurgiu,2,1,2021-05-08,1,0,0
+Din. Bucharest,Hermannstadt,2,0,2021-05-08,1,0,0
+FC Ufa,Zenit,0,0,2021-05-08,0,0,1
+Lok. Moscow,Din. Moscow,0,0,2021-05-08,0,0,1
+Arsenal Tula,Rubin,2,4,2021-05-08,0,1,0
+CSKA Mosc.,FK Krasnodar,3,1,2021-05-08,1,0,0
+F Dusseldorf,Braunschweig,2,2,2021-05-08,0,0,1
+Greuther Furth,Karlsruhe,2,2,2021-05-08,0,0,1
+Wurz. Kickers,Osnabruck,1,3,2021-05-08,0,1,0
+Zlin,Opava,1,1,2021-05-08,0,0,1
+FC Brno,Mlada Boleslav,2,3,2021-05-08,0,1,0
+Viktoria Plzen,Dukla Pribram,3,3,2021-05-08,0,0,1
+B. 1905,Slovan Liberec,3,0,2021-05-08,1,0,0
+P Bielsko-Biala,Wisla Plock,1,1,2021-05-08,0,0,1
+Lechia Gdansk,Cracovia,1,1,2021-05-08,0,0,1
+Wisla Krakow,Lech Poznan,1,2,2021-05-08,0,1,0
+Tabor Sezana,NK Celje,0,1,2021-05-08,0,1,0
+NS Mura,Bravo Publikum,2,2,2021-05-08,0,0,1
+IFK Goth'burg,Hacken,1,1,2021-05-08,0,0,1
+Hammarby,IK Sirius,3,2,2021-05-08,1,0,0
+Elfsborg,Kalmar,2,2,2021-05-08,0,0,1
+Orebro,Halmstads,1,0,2021-05-08,1,0,0
+FC Twente,Heracles,1,1,2021-05-08,0,0,1
+Heerenveen,FC Utrecht,0,0,2021-05-08,0,0,1
+AZ Alkmaar,F. Sittard,1,0,2021-05-08,1,0,0
+VVV Venlo,RKC Waalwijk,3,3,2021-05-08,0,0,1
+Altach,Aus. Vienna,2,1,2021-05-08,1,0,0
+Admira Wacker,St Polten,2,0,2021-05-08,1,0,0
+Hartberg,Ried,1,1,2021-05-08,0,0,1
+NK Varazdin,Hajduk Split,0,1,2021-05-08,0,1,0
+Lugano,Vaduz,0,2,2021-05-08,0,1,0
+Young Boys,Basel,2,0,2021-05-08,1,0,0
+Zaragoza,Espanyol,0,0,2021-05-08,0,0,1
+Ponferradina,Albacete,0,1,2021-05-08,0,1,0
+Alcorcon,Las Palmas,0,0,2021-05-08,0,0,1
+Malaga,Mallorca,1,1,2021-05-08,0,0,1
+St Liege,Gent,2,1,2021-05-08,1,0,0
+Anderlecht,Royal Antwerp,2,2,2021-05-08,0,0,1
+Volos NFC,Larissa,3,1,2021-05-08,1,0,0
+Lamia,OFI Crete,0,2,2021-05-08,0,1,0
+Panetolikos,Atromitos,1,3,2021-05-08,0,1,0
+Trabzonspor,Antalyaspor,2,1,2021-05-08,1,0,0
+Erzurum B,Kasimpasa,0,1,2021-05-08,0,1,0
+Ankaragucu,Fenerbahce,1,2,2021-05-08,0,1,0
+Kayserispor,Gazisehir,0,0,2021-05-08,0,0,1
+Galatasaray,Besiktas,3,1,2021-05-08,1,0,0
+Goztepe,Konyaspor,0,1,2021-05-08,0,1,0
+Sivasspor,Basaksehir,0,0,2021-05-08,0,0,1
+Fatih Karagumruk,Genclerbirligi,5,1,2021-05-08,1,0,0
+Rizespor,Malatyaspor,0,4,2021-05-08,0,1,0
+Hatayspor,Denizlispor,1,0,2021-05-08,1,0,0
+Newcastle Jets,Sydney FC,1,1,2021-05-08,0,0,1
+Western Sydney,Western United,5,0,2021-05-08,1,0,0
+Rukh Brest,Sputnik,2,0,2021-05-08,1,0,0
+FC Minsk,Vitebsk,3,3,2021-05-08,0,0,1
+Slavia Mozyr,Dinamo Brest,1,1,2021-05-08,0,0,1
+The New Saints,Barry Town,3,0,2021-05-08,1,0,0
+Flint Town U,Aberystwyth,0,0,2021-05-08,0,0,1
+Haverfordwest,Newtown,1,2,2021-05-08,0,1,0
+Bala Town,Penybont,1,0,2021-05-08,1,0,0
+Cardiff MU,Newi CD,6,0,2021-05-08,1,0,0
+Connah's Q,Caernarfon,4,0,2021-05-08,1,0,0
+Proleter Novi Sad,Radnik Surdulica,3,0,2021-05-08,1,0,0
+Vozdovac,Napredak,4,2,2021-05-08,1,0,0
+Novi Pazar,Mladost Lucani,4,1,2021-05-08,1,0,0
+Ludogorets,Loko. Plovdiv,1,2,2021-05-08,0,1,0
+Ironi Kiryat S,M. Petah Tikva,1,2,2021-05-08,0,1,0
+Bnei Yehuda,H Tel Aviv,1,0,2021-05-08,1,0,0
+H. Haifa,H. Kfar Saba,3,2,2021-05-08,1,0,0
+Beitar J'salem,Bnei Sakhnin,3,1,2021-05-08,1,0,0
+Honved,Ferencvaros,1,2,2021-05-08,0,1,0
+Ujpest Dozsa,Zalaegerszeg,5,4,2021-05-08,1,0,0
+Bohemians D.,Finn Harps,4,0,2021-05-08,1,0,0
+Waterford,Drogheda,0,7,2021-05-08,0,1,0
+St Patrick's,Shamrock R,1,2,2021-05-08,0,1,0
+Real Salt Lake,San Jose,1,2,2021-05-08,0,1,0
+Chicago,Philadelphia U,0,2,2021-05-08,0,1,0
+NY Red Bulls,Toronto FC,2,0,2021-05-08,1,0,0
+Columbus Crew,DC United,3,1,2021-05-08,1,0,0
+Nashville MLS,New England,2,0,2021-05-08,1,0,0
+Vancouver W,Montreal Imp,2,0,2021-05-08,1,0,0
+Dallas,Houston,1,1,2021-05-08,0,0,1
+Orlando City,New York City,1,1,2021-05-08,0,0,1
+U S Portsmouth,Binfield,1,1,2021-05-08,0,0,1
+Rylands,Hebburn Town,1,0,2021-05-08,1,0,0
+W Beveren,Seraing,2,5,2021-05-08,0,1,0
+Wolves,Brighton,2,1,2021-05-09,1,0,0
+Aston Villa,Man Utd,1,3,2021-05-09,0,1,0
+West Ham,Everton,0,1,2021-05-09,0,1,0
+Arsenal,West Brom,3,1,2021-05-09,1,0,0
+Portsmouth,Accrington,0,1,2021-05-09,0,1,0
+Charlton,Hull,1,0,2021-05-09,1,0,0
+Lincoln,AFC W'bledon,0,0,2021-05-09,0,0,1
+Doncaster,Peterborough,1,4,2021-05-09,0,1,0
+Blackpool,Bristol R,1,0,2021-05-09,1,0,0
+Gillingham,Plymouth,1,0,2021-05-09,1,0,0
+Ipswich,Fleetwood,3,1,2021-05-09,1,0,0
+Crewe,Shrewsbury,3,2,2021-05-09,1,0,0
+Oxford,Burton,4,0,2021-05-09,1,0,0
+Sunderland,Northampton,1,1,2021-05-09,0,0,1
+Wigan,Swindon,3,4,2021-05-09,0,1,0
+MK Dons,Rochdale,0,3,2021-05-09,0,1,0
+St Mirren,St Johnstone,1,2,2021-05-09,0,1,0
+Genoa,Sassuolo,1,2,2021-05-09,0,1,0
+Benevento,Cagliari,1,3,2021-05-09,0,1,0
+Verona,Torino,1,1,2021-05-09,0,0,1
+Parma,Atalanta,2,5,2021-05-09,0,1,0
+Roma,Crotone,5,0,2021-05-09,1,0,0
+Juventus,Milan,0,3,2021-05-09,0,1,0
+Cologne,Freiburg,1,4,2021-05-09,0,1,0
+E Frankfurt,Mainz,1,1,2021-05-09,0,0,1
+Hertha Berlin,Arminia,0,0,2021-05-09,0,0,1
+Getafe,Eibar,0,1,2021-05-09,0,1,0
+Valencia,Valladolid,3,0,2021-05-09,1,0,0
+Villarreal,Celta Vigo,2,4,2021-05-09,0,1,0
+Real Madrid,Sevilla,2,2,2021-05-09,0,0,1
+St-Etienne,Marseille,1,0,2021-05-09,1,0,0
+Nice,Stade Brest,3,2,2021-05-09,1,0,0
+Angers,Dijon,3,0,2021-05-09,1,0,0
+Strasbourg,Montpellier,2,3,2021-05-09,0,1,0
+Metz,Nimes,0,3,2021-05-09,0,1,0
+Reims,Monaco,0,1,2021-05-09,0,1,0
+Rennes,Paris St-G.,1,1,2021-05-09,0,0,1
+FC Emmen,FC Groningen,0,4,2021-05-09,0,1,0
+PEC Zwolle,Den Haag,0,1,2021-05-09,0,1,0
+Feyenoord,Ajax,0,3,2021-05-09,0,1,0
+Willem II,PSV Eindhoven,0,2,2021-05-09,0,1,0
+UT Arad,CSMS Iasi,1,2,2021-05-09,0,1,0
+Viitorul C,Arges Pitesti,1,0,2021-05-09,1,0,0
+Uni Craiova,Botosani,2,3,2021-05-09,0,1,0
+Erzegbirge A,SC Paderborn,3,8,2021-05-09,0,1,0
+Heidenheim,SV Sandhausen,2,1,2021-05-09,1,0,0
+Bochum,Regensburg,5,1,2021-05-09,1,0,0
+Lyngby,AC Horsens,3,4,2021-05-09,0,1,0
+Vejle BK,SonderjyskE,4,2,2021-05-09,1,0,0
+Randers Freja,Aarhus,0,1,2021-05-09,0,1,0
+Brondby,Midtjylland,3,1,2021-05-09,1,0,0
+PAOK Salonika,Aris Salonika,2,0,2021-05-09,1,0,0
+Asteras T.,Olympiakos,0,0,2021-05-09,0,0,1
+Panathinaikos,AEK Athens,0,1,2021-05-09,0,1,0
+Mirandes,Fuenlabrada,2,1,2021-05-09,1,0,0
+Real Oviedo,Sabadell,2,1,2021-05-09,1,0,0
+Logrones,Girona,1,4,2021-05-09,0,1,0
+Cartagena,Castellon,1,0,2021-05-09,1,0,0
+Sturm Graz,RB Salzburg,1,3,2021-05-09,0,1,0
+LASK Linz,Swarovski Wattens,3,3,2021-05-09,0,0,1
+Rapid Vienna,Wolfsberger,1,2,2021-05-09,0,1,0
+MFK Karvina,Synot,0,2,2021-05-09,0,1,0
+C. Budejovice,Pardubice,2,0,2021-05-09,1,0,0
+Sigma O.,Slavia Prague,0,1,2021-05-09,0,1,0
+Sparta Prague,Banik Ostrava,3,1,2021-05-09,1,0,0
+Warta Poznan,Slask Wroclaw,2,3,2021-05-09,0,1,0
+Stal Mielec,Legia Warsaw,0,0,2021-05-09,0,0,1
+ND HIT Gorica,Domzale,2,1,2021-05-09,1,0,0
+O. Ljubljana,Maribor,0,0,2021-05-09,0,0,1
+Koper,NK Aluminij,0,3,2021-05-09,0,1,0
+Degerfors,Djurgaardens,2,0,2021-05-09,1,0,0
+Mjallby,Ostersunds FK,1,0,2021-05-09,1,0,0
+Malmo,Varbergs Bois,3,2,2021-05-09,1,0,0
+FC Inter,FC Haka,2,1,2021-05-09,1,0,0
+Mariehamn,AC Oulu,3,1,2021-05-09,1,0,0
+Mechelen,Oostende,5,3,2021-05-09,1,0,0
+Lausanne,FC Zurich,2,2,2021-05-09,0,0,1
+Lucerne,Servette,3,0,2021-05-09,1,0,0
+St Gallen,FC Sion,0,3,2021-05-09,0,1,0
+Pacos Ferreira,Maritimo,1,1,2021-05-09,0,0,1
+Gil Vicente,Braga,1,1,2021-05-09,0,0,1
+Bodo Glimt,Tromso,3,0,2021-05-09,1,0,0
+Viking,Brann,3,1,2021-05-09,1,0,0
+Molde,Kristiansund,2,0,2021-05-09,1,0,0
+Valerenga,Rosenborg,1,1,2021-05-09,0,0,1
+Rijeka,Din Zagreb,1,5,2021-05-09,0,1,0
+Melbourne C,Brisbane Roar,3,2,2021-05-09,1,0,0
+Perth Glory,Melbourne Vic,2,1,2021-05-09,1,0,0
+Zorya,Oleksandria,2,1,2021-05-09,1,0,0
+Minai,Vorskla Poltava,1,2,2021-05-09,0,1,0
+Mariupol,Desna,4,1,2021-05-09,1,0,0
+Kolos Kovalivka,Dynamo Kiev,0,3,2021-05-09,0,1,0
+Shakhtar,Inhulets Petrove,1,0,2021-05-09,1,0,0
+Dnipro-1,Rukh Vynnyky,1,1,2021-05-09,0,0,1
+Lviv,Olimpik Donetsk,1,1,2021-05-09,0,0,1
+Metalac,Backa Palanka,3,0,2021-05-09,1,0,0
+Radnicki Nis,Rad Beograd,2,2,2021-05-09,0,0,1
+Macva Sabac,Vojvodina NS,2,5,2021-05-09,0,1,0
+Sp Subotica,FK Indija,1,0,2021-05-09,1,0,0
+Backa Topola,Javor,2,1,2021-05-09,1,0,0
+Cukaricki,Partizan,0,2,2021-05-09,0,1,0
+Red Star,Zlatibor Cajetina,6,1,2021-05-09,1,0,0
+Energetyk-BDU,Torpedo Zh,1,1,2021-05-09,0,0,1
+Isloch Minsk,Dinamo Minsk,1,3,2021-05-09,0,1,0
+Shakhtyor,Bate Borisov,1,0,2021-05-09,1,0,0
+Cherno More,Tsarsko Selo,3,3,2021-05-09,0,0,1
+Botev Plovdiv,Levski Sofia,0,1,2021-05-09,0,1,0
+Kisvarda,Paksi SE,5,1,2021-05-09,1,0,0
+Puskas FA FC,Budafoki,5,0,2021-05-09,1,0,0
+Diosgyor,MOL Vidi,0,4,2021-05-09,0,1,0
+Hapoel Hadera,M. Netanya,2,2,2021-05-09,0,0,1
+M. Tel Aviv,M. Haifa,2,2,2021-05-09,0,0,1
+LA Galaxy,Los Angeles FC,2,1,2021-05-09,1,0,0
+Colorado,Minnesota U,3,2,2021-05-09,1,0,0
+Inter Miami CF,Atlanta U,1,1,2021-05-09,0,0,1
+Portland Timb.,Seattle,1,2,2021-05-09,0,1,0
+Roma,Man Utd,3,2,2021-05-06,1,0,0
+Arsenal,Villarreal,0,0,2021-05-06,0,0,1
+Clyde,East Fife,2,1,2021-05-06,1,0,0
+Hertha Berlin,Freiburg,3,0,2021-05-06,1,0,0
+Arges Pitesti,Voluntari,3,0,2021-05-06,1,0,0
+Academica Clinceni,CFR Cluj,0,1,2021-05-06,0,1,0
+Botosani,Steaua,1,3,2021-05-06,0,1,0
+Moreirense,Nacional,2,2,2021-05-06,0,0,1
+Belenenses,Portimonense,1,0,2021-05-06,1,0,0
+Benfica,Porto,1,1,2021-05-06,0,0,1
+Farense,V Guimaraes,2,2,2021-05-06,0,0,1
+NK Aluminij,ND HIT Gorica,2,0,2021-05-06,1,0,0
+Melbourne Vic,Macarthur FC,1,2,2021-05-06,0,1,0
+PFC Montana,Etar Veliko Tarnovo,1,0,2021-05-06,1,0,0
+Slavia Sofia,Botev Vratsa,2,0,2021-05-06,1,0,0
+Inhulets Petrove,Lviv,1,0,2021-05-06,1,0,0
+Rukh Vynnyky,Olimpik Donetsk,3,0,2021-05-06,1,0,0
+Minai,Shakhtar,0,4,2021-05-06,0,1,0
+Monterrey,Columbus Crew,3,0,2021-05-06,1,0,0
+Club America,Portland Timb.,3,1,2021-05-06,1,0,0
+Fulham,Burnley,0,2,2021-05-10,0,1,0
+Real Betis,Granada,2,1,2021-05-10,1,0,0
+Ural Sver. Oblast,R. Rostov,1,0,2021-05-10,1,0,0
+Spartak Moscow,Khimki,2,1,2021-05-10,1,0,0
+Voluntari,Chindia Targoviste,0,0,2021-05-10,0,0,1
+CFR Cluj,Sepsi Sfantu G,0,1,2021-05-10,0,1,0
+Steaua,Academica Clinceni,2,2,2021-05-10,0,0,1
+Rakow Czestochowa,Piast Gliwice,1,0,2021-05-10,1,0,0
+Holstein Kiel,Hannover,1,0,2021-05-10,1,0,0
+Hamburg,Nuremberg,5,2,2021-05-10,1,0,0
+Norrkoping,AIK Solna,2,0,2021-05-10,1,0,0
+Nordsjaelland,FC Copenhagen,2,2,2021-05-10,0,0,1
+R. Vallecano,Leganes,1,1,2021-05-10,0,0,1
+Sp. Gijon,Lugo,1,0,2021-05-10,1,0,0
+Portimonense,Moreirense,1,2,2021-05-10,0,1,0
+Porto,Farense,5,1,2021-05-10,1,0,0
+Botev Vratsa,PFC Montana,1,0,2021-05-10,1,0,0
+Etar Veliko Tarnovo,Slavia Sofia,0,3,2021-05-10,0,1,0
+Kansas City,Austin FC,2,1,2021-05-10,1,0,0
+Man City,Paris St-G.,2,0,2021-05-04,1,0,0
+Luton,Rotherham,0,0,2021-05-04,0,0,1
+Charlton,Lincoln,3,1,2021-05-04,1,0,0
+Shrewsbury,Ipswich,0,0,2021-05-04,0,0,1
+Blackpool,Doncaster,2,0,2021-05-04,1,0,0
+Notts Co,Sutton Utd,3,2,2021-05-04,1,0,0
+Forfar,East Fife,2,3,2021-05-04,0,1,0
+Airdrieonians,Falkirk,2,0,2021-05-04,1,0,0
+Dumbarton,Peterhead,3,2,2021-05-04,1,0,0
+Montrose,Partick,3,2,2021-05-04,1,0,0
+Cowdenbeath,Albion,2,0,2021-05-04,1,0,0
+Elgin City,Queen's Park,3,2,2021-05-04,1,0,0
+Stranraer,Edinburgh C,2,1,2021-05-04,1,0,0
+Brechin,Stenh'semuir,0,1,2021-05-04,0,1,0
+Dunfermline,Raith,0,0,2021-05-04,0,0,1
+Bravo Publikum,NK Celje,2,0,2021-05-04,1,0,0
+Maribor,Tabor Sezana,2,1,2021-05-04,1,0,0
+Chindia Targoviste,Metan Medias,1,1,2021-05-04,0,0,1
+Holstein Kiel,SV Sandhausen,2,0,2021-05-04,1,0,0
+Napredak,Cukaricki,1,0,2021-05-04,1,0,0
+Backa Palanka,Novi Pazar,0,1,2021-05-04,0,1,0
+Radnik Surdulica,Sp Subotica,2,0,2021-05-04,1,0,0
+Mladost Lucani,Vozdovac,1,0,2021-05-04,1,0,0
+Javor,Proleter Novi Sad,1,1,2021-05-04,0,0,1
+Ludogorets,Beroe Stara,3,1,2021-05-04,1,0,0
+Carrick Rangers,Ballymena,0,4,2021-05-04,0,1,0
+Linfield,Crusaders,3,1,2021-05-04,1,0,0
+Cliftonville,Larne,1,2,2021-05-04,0,1,0
+Glentoran,Coleraine,1,1,2021-05-04,0,0,1
+Glenavon,Portadown,4,1,2021-05-04,1,0,0
+Dungannon Sw,Warrenpoint T,0,1,2021-05-04,0,1,0
+Penybont,The New Saints,0,3,2021-05-04,0,1,0
+Aberystwyth,Haverfordwest,2,2,2021-05-04,0,0,1
+Caernarfon,Bala Town,3,0,2021-05-04,1,0,0
+Newtown,Cardiff MU,2,3,2021-05-04,0,1,0
+Barry Town,Connah's Q,1,2,2021-05-04,0,1,0
+Newi CD,Flint Town U,0,6,2021-05-04,0,1,0
+Leicester,Newcastle,2,4,2021-05-07,0,1,0
+Stuttgart,Augsburg,2,1,2021-05-07,1,0,0
+Sociedad,Elche,2,0,2021-05-07,1,0,0
+Lens,Lille,0,3,2021-05-07,0,1,0
+Loko. Zagreb,Slaven,3,1,2021-05-07,1,0,0
+Sibenik,NK Istra 1961,1,0,2021-05-07,1,0,0
+HNK Gorica,Osijek,1,0,2021-05-07,1,0,0
+Terek Grozny,Tambov,3,1,2021-05-07,1,0,0
+Sochi,R Volgograd,2,1,2021-05-07,1,0,0
+KTP Kotka,Honka,1,3,2021-05-07,0,1,0
+SJK,HIFK Helsinki,1,1,2021-05-07,0,0,1
+Jablonec,Teplice,4,1,2021-05-07,1,0,0
+Gornik Zabrze,Jagiellonia,3,1,2021-05-07,1,0,0
+Zaglebie Lubin,Pogon Szczecin,1,1,2021-05-07,0,0,1
+Hannover,SV Darmstadt,1,2,2021-05-07,0,1,0
+Holstein Kiel,St Pauli,4,0,2021-05-07,1,0,0
+OB Odense,Aalborg,1,0,2021-05-07,1,0,0
+Sp. Rotterdam,Vitesse Arn.,3,0,2021-05-07,1,0,0
+Famalicao,Santa Clara,1,0,2021-05-07,1,0,0
+Boavista,Tondela,1,1,2021-05-07,0,0,1
+Genk,Club Brugge,3,0,2021-05-07,1,0,0
+Tenerife,Almeria,0,1,2021-05-07,0,1,0
+Adelaide Utd,Wellington,0,0,2021-05-07,0,0,1
+Beroe Stara,Arda,0,2,2021-05-07,0,1,0
+CSKA 1948 Sofia,CSKA Sofia,0,3,2021-05-07,0,1,0
+Smorgon,Neman Grodno,0,2,2021-05-07,0,1,0
+Gomel,FC Slutsk,4,1,2021-05-07,1,0,0
+Derry City,Longford T,1,1,2021-05-07,0,0,1
+Dundalk,Sligo Rovers,0,1,2021-05-07,0,1,0
+Mezokovesd SE,MTK,5,1,2021-05-07,1,0,0
+Shelbourne,Athlone Town,1,0,2021-05-07,1,0,0
+UCD,Treaty United,3,2,2021-05-07,1,0,0
+Cabinteely,Cobh,1,0,2021-05-07,1,0,0
+Galway FC,Bray,1,2,2021-05-07,0,1,0
+Cork City,Wexford Yth,5,0,2021-05-07,1,0,0
+Wolves,Burnley,0,4,2021-04-25,0,1,0
+Leeds,Man Utd,0,0,2021-04-25,0,0,1
+Aston Villa,West Brom,2,2,2021-04-25,0,0,1
+Reading,Swansea,2,2,2021-04-25,0,0,1
+Bristol C,Luton,2,3,2021-04-25,0,1,0
+Man City,Tottenham,1,0,2021-04-25,1,0,0
+Aberdeen,Dundee Utd,0,3,2021-04-25,0,1,0
+Rangers,St Johnstone,1,1,2021-04-25,0,0,1
+Benevento,Udinese,2,4,2021-04-25,0,1,0
+Inter,Verona,1,0,2021-04-25,1,0,0
+Fiorentina,Juventus,1,1,2021-04-25,0,0,1
+Cagliari,Roma,3,2,2021-04-25,1,0,0
+Atalanta,Bologna,5,0,2021-04-25,1,0,0
+RB Leipzig,Stuttgart,2,0,2021-04-25,1,0,0
+B M'gladbach,Arminia,5,0,2021-04-25,1,0,0
+Huesca,Getafe,0,2,2021-04-25,0,1,0
+Villarreal,Barcelona,1,2,2021-04-25,0,1,0
+Celta Vigo,Osasuna,2,1,2021-04-25,1,0,0
+Sevilla,Granada,2,1,2021-04-25,1,0,0
+Ath Bilbao,Atl Madrid,2,1,2021-04-25,1,0,0
+Nice,Montpellier,3,1,2021-04-25,1,0,0
+Lens,Nimes,2,1,2021-04-25,1,0,0
+Lorient,Bordeaux,4,1,2021-04-25,1,0,0
+Rennes,Dijon,5,1,2021-04-25,1,0,0
+Strasbourg,Nantes,1,2,2021-04-25,0,1,0
+Angers,Monaco,0,1,2021-04-25,0,1,0
+Lyon,Lille,2,3,2021-04-25,0,1,0
+FC Emmen,Heracles,3,1,2021-04-25,1,0,0
+Ajax,AZ Alkmaar,2,0,2021-04-25,1,0,0
+Den Haag,F. Sittard,0,3,2021-04-25,0,1,0
+FC Twente,FC Utrecht,1,2,2021-04-25,0,1,0
+Feyenoord,Vitesse Arn.,0,0,2021-04-25,0,0,1
+Malatyaspor,Ankaragucu,2,1,2021-04-25,1,0,0
+Gazisehir,Erzurum B,2,3,2021-04-25,0,1,0
+Basaksehir,Alanyaspor,0,0,2021-04-25,0,0,1
+Fenerbahce,Kasimpasa,3,2,2021-04-25,1,0,0
+Warta Poznan,Jagiellonia,2,0,2021-04-25,1,0,0
+Stal Mielec,Pogon Szczecin,1,0,2021-04-25,1,0,0
+Lechia Gdansk,Legia Warsaw,0,1,2021-04-25,0,1,0
+FC Ufa,Sochi,2,3,2021-04-25,0,1,0
+Spartak Moscow,CSKA Mosc.,1,0,2021-04-25,1,0,0
+R. Rostov,Arsenal Tula,1,0,2021-04-25,1,0,0
+Rubin,FK Krasnodar,0,1,2021-04-25,0,1,0
+SV Sandhausen,Hannover,4,2,2021-04-25,1,0,0
+St Pauli,Greuther Furth,2,1,2021-04-25,1,0,0
+Regensburg,Hamburg,1,1,2021-04-25,0,0,1
+AC Horsens,Aalborg,1,0,2021-04-25,1,0,0
+SonderjyskE,Vejle BK,1,0,2021-04-25,1,0,0
+Brondby,Randers Freja,2,0,2021-04-25,1,0,0
+OB Odense,Lyngby,2,0,2021-04-25,1,0,0
+Aarhus,FC Copenhagen,1,2,2021-04-25,0,1,0
+PAOK Salonika,Panathinaikos,0,0,2021-04-25,0,0,1
+Asteras T.,Aris Salonika,1,1,2021-04-25,0,0,1
+Olympiakos,AEK Athens,2,0,2021-04-25,1,0,0
+MFK Karvina,Dukla Pribram,0,1,2021-04-25,0,1,0
+Zlin,Pardubice,0,4,2021-04-25,0,1,0
+FC Brno,Teplice,0,0,2021-04-25,0,0,1
+Sparta Prague,Opava,4,2,2021-04-25,1,0,0
+B. 1905,Slavia Prague,0,0,2021-04-25,0,0,1
+Chindia Targoviste,CSMS Iasi,2,0,2021-04-25,1,0,0
+Botosani,Academica Clinceni,2,1,2021-04-25,1,0,0
+Steaua,Sepsi Sfantu G,1,2,2021-04-25,0,1,0
+Real Oviedo,Girona,0,1,2021-04-25,0,1,0
+Mirandes,Almeria,1,1,2021-04-25,0,0,1
+Alcorcon,Leganes,1,2,2021-04-25,0,1,0
+Tenerife,Castellon,1,1,2021-04-25,0,0,1
+Wolfsberger,RB Salzburg,1,2,2021-04-25,0,1,0
+Rapid Vienna,Swarovski Wattens,4,0,2021-04-25,1,0,0
+Sturm Graz,LASK Linz,3,1,2021-04-25,1,0,0
+NK Aluminij,Tabor Sezana,0,2,2021-04-25,0,1,0
+NS Mura,O. Ljubljana,3,0,2021-04-25,1,0,0
+Norrkoping,Halmstads,2,1,2021-04-25,1,0,0
+Kalmar,Orebro,1,0,2021-04-25,1,0,0
+Varbergs Bois,Djurgaardens,1,3,2021-04-25,0,1,0
+AIK Solna,Hammarby,2,0,2021-04-25,1,0,0
+Malmo,Ostersunds FK,1,1,2021-04-25,0,0,1
+Young Boys,FC Sion,2,1,2021-04-25,1,0,0
+Lucerne,FC Zurich,3,1,2021-04-25,1,0,0
+Lugano,Servette,0,1,2021-04-25,0,1,0
+Boavista,Maritimo,0,1,2021-04-25,0,1,0
+Rio Ave,Pacos Ferreira,1,1,2021-04-25,0,0,1
+Braga,Sporting,0,1,2021-04-25,0,1,0
+Rijeka,Osijek,0,0,2021-04-25,0,0,1
+Din Zagreb,Hajduk Split,2,0,2021-04-25,1,0,0
+Wellington,Adelaide Utd,2,1,2021-04-25,1,0,0
+Zorya,Olimpik Donetsk,2,1,2021-04-25,1,0,0
+Dynamo Kiev,Inhulets Petrove,5,0,2021-04-25,1,0,0
+Oleksandria,Shakhtar,2,0,2021-04-25,1,0,0
+Radnik Surdulica,Radnicki Nis,0,0,2021-04-25,0,0,1
+Vojvodina NS,Metalac,1,2,2021-04-25,0,1,0
+FK Indija,Red Star,1,5,2021-04-25,0,1,0
+Partizan,Sp Subotica,2,1,2021-04-25,1,0,0
+Budafoki,Paksi SE,2,9,2021-04-25,0,1,0
+MOL Vidi,Ferencvaros,1,2,2021-04-25,0,1,0
+Honved,Mezokovesd SE,2,2,2021-04-25,0,0,1
+Isloch Minsk,Bate Borisov,1,4,2021-04-25,0,1,0
+Shakhtyor,Rukh Brest,4,1,2021-04-25,1,0,0
+Gomel,Torpedo Zh,1,1,2021-04-25,0,0,1
+Levski Sofia,CSKA Sofia,0,2,2021-04-25,0,1,0
+Tsarsko Selo,Arda,4,0,2021-04-25,1,0,0
+MS Ashdod,M. Petah Tikva,0,0,2021-04-25,0,0,1
+Bnei Yehuda,Hapoel Hadera,2,3,2021-04-25,0,1,0
+Ironi Kiryat S,M. Tel Aviv,2,0,2021-04-25,1,0,0
+Minnesota U,Real Salt Lake,1,2,2021-04-25,0,1,0
+Atlanta U,Chicago,3,1,2021-04-25,1,0,0
+New England,DC United,1,0,2021-04-25,1,0,0
+Philadelphia U,Inter Miami CF,1,2,2021-04-25,0,1,0
+Colorado,Austin FC,1,3,2021-04-25,0,1,0
+Portland Timb.,Houston,2,1,2021-04-25,1,0,0
+LA Galaxy,NY Red Bulls,3,2,2021-04-25,1,0,0
+Chelsea,Real Madrid,2,0,2021-05-05,1,0,0
+Astra Giurgiu,UT Arad,1,2,2021-05-05,0,1,0
+Hermannstadt,Viitorul C,0,0,2021-05-05,0,0,1
+CSMS Iasi,Din. Bucharest,1,2,2021-05-05,0,1,0
+Sepsi Sfantu G,Uni Craiova,2,0,2021-05-05,1,0,0
+NS Mura,Koper,2,1,2021-05-05,1,0,0
+Domzale,O. Ljubljana,2,0,2021-05-05,1,0,0
+Aris Salonika,Olympiakos,1,1,2021-05-05,0,0,1
+Panathinaikos,Asteras T.,2,2,2021-05-05,0,0,1
+AEK Athens,PAOK Salonika,1,2,2021-05-05,0,1,0
+Hajduk Split,Din Zagreb,1,1,2021-05-05,0,0,1
+Stal Mielec,Rakow Czestochowa,0,1,2021-05-05,0,1,0
+Braga,Pacos Ferreira,1,1,2021-05-05,0,0,1
+Maritimo,Gil Vicente,0,1,2021-05-05,0,1,0
+Rio Ave,Sporting,0,2,2021-05-05,0,1,0
+Brisbane Roar,Western United,2,1,2021-05-05,1,0,0
+Perth Glory,Melbourne C,1,3,2021-05-05,0,1,0
+Dynamo Kiev,Mariupol,0,0,2021-05-05,0,0,1
+Dnipro-1,Zorya,0,1,2021-05-05,0,1,0
+Vorskla Poltava,Desna,1,1,2021-05-05,0,0,1
+Oleksandria,Kolos Kovalivka,0,2,2021-05-05,0,1,0
+FK Indija,Macva Sabac,2,2,2021-05-05,0,0,1
+Partizan,Backa Topola,3,1,2021-05-05,1,0,0
+Vojvodina NS,Radnicki Nis,0,0,2021-05-05,0,0,1
+Zlatibor Cajetina,Metalac,1,0,2021-05-05,1,0,0
+Rad Beograd,Red Star,2,2,2021-05-05,0,0,1
+Cherno More,Botev Plovdiv,3,1,2021-05-05,1,0,0
+Tsarsko Selo,Levski Sofia,0,2,2021-05-05,0,1,0
+Philadelphia U,Atlanta U,1,1,2021-05-05,0,0,1
+Cruz Azul,Toronto FC,1,0,2021-05-05,1,0,0
+West Brom,Wolves,1,1,2021-05-03,0,0,1
+Burnley,West Ham,1,2,2021-05-03,0,1,0
+Bromley,Hartlepool,1,0,2021-05-03,1,0,0
+Yeovil,Halifax,0,3,2021-05-03,0,1,0
+Boreham W,King's Lynn,5,1,2021-05-03,1,0,0
+Maidenhead,Wrexham,2,2,2021-05-03,0,0,1
+Chesterfield,Torquay,0,2,2021-05-03,0,1,0
+Stockport,Wealdstone,4,0,2021-05-03,1,0,0
+Solihull M,Altrincham,4,0,2021-05-03,1,0,0
+Weymouth,Barnet,0,2,2021-05-03,0,1,0
+Dag & Red,Woking,3,1,2021-05-03,1,0,0
+Torino,Parma,1,0,2021-05-03,1,0,0
+Mainz,Hertha Berlin,1,1,2021-05-03,0,0,1
+Sevilla,Ath Bilbao,0,1,2021-05-03,0,1,0
+Basaksehir,Ankaragucu,2,1,2021-05-03,1,0,0
+Malatyaspor,Kayserispor,1,1,2021-05-03,0,0,1
+Kasimpasa,Alanyaspor,3,0,2021-05-03,1,0,0
+Gazisehir,Sivasspor,0,1,2021-05-03,0,1,0
+Fenerbahce,Erzurum B,3,1,2021-05-03,1,0,0
+Piast Gliwice,P Bielsko-Biala,2,0,2021-05-03,1,0,0
+Cracovia,Gornik Zabrze,1,0,2021-05-03,1,0,0
+Arsenal Tula,Spartak Moscow,1,2,2021-05-03,0,1,0
+SJK,KTP Kotka,1,1,2021-05-03,0,0,1
+AC Oulu,Ilves Tampere,0,2,2021-05-03,0,1,0
+HIFK Helsinki,FC Haka,2,0,2021-05-03,1,0,0
+Honka,Mariehamn,0,2,2021-05-03,0,1,0
+FC Lahti,FC Inter,2,1,2021-05-03,1,0,0
+Sabadell,R. Vallecano,2,0,2021-05-03,1,0,0
+Albacete,Alcorcon,0,1,2021-05-03,0,1,0
+Djurgaardens,Malmo,3,1,2021-05-03,1,0,0
+Mjallby,Degerfors,1,0,2021-05-03,1,0,0
+FC Copenhagen,Aarhus,3,2,2021-05-03,1,0,0
+Steaua,CFR Cluj,1,1,2021-05-03,0,0,1
+F Dusseldorf,Karlsruhe,3,2,2021-05-03,1,0,0
+Botev Vratsa,Etar Veliko Tarnovo,2,0,2021-05-03,1,0,0
+Slavia Sofia,PFC Montana,1,1,2021-05-03,0,0,1
+CSKA Sofia,Arda,1,0,2021-05-03,1,0,0
+Shamrock R,Waterford,3,0,2021-05-03,1,0,0
+Drogheda,Bohemians D.,1,1,2021-05-03,0,0,1
+Longford T,Dundalk,2,2,2021-05-03,0,0,1
+Sligo Rovers,St Patrick's,1,1,2021-05-03,0,0,1
+Derry City,Finn Harps,1,2,2021-05-03,0,1,0
+H Tel Aviv,H. Kfar Saba,2,2,2021-05-03,0,0,1
+H. Haifa,Beitar J'salem,3,1,2021-05-03,1,0,0
+H Beer Sheva,M. Tel Aviv,1,1,2021-05-03,0,0,1
+Seattle,LA Galaxy,3,0,2021-05-03,1,0,0
+Vancouver W,Colorado,0,1,2021-05-03,0,1,0
+Consett,Hebburn Town,2,3,2021-05-03,0,1,0
+Crystal Palace,Man City,0,2,2021-05-01,0,1,0
+Brighton,Leeds,2,0,2021-05-01,1,0,0
+Chelsea,Fulham,2,0,2021-05-01,1,0,0
+Everton,Aston Villa,1,2,2021-05-01,0,1,0
+Sheff Wed,Nottm Forest,0,0,2021-05-01,0,0,1
+Preston,Barnsley,2,0,2021-05-01,1,0,0
+Huddersfield,Coventry,1,1,2021-05-01,0,0,1
+Birmingham,Cardiff,0,4,2021-05-01,0,1,0
+Norwich,Reading,4,1,2021-05-01,1,0,0
+Wycombe,Bournemouth,1,0,2021-05-01,1,0,0
+Luton,Middlesbrough,1,1,2021-05-01,0,0,1
+Brentford,Watford,2,0,2021-05-01,1,0,0
+Rotherham,Blackburn,1,1,2021-05-01,0,0,1
+Millwall,Bristol C,4,1,2021-05-01,1,0,0
+Stoke,QPR,0,2,2021-05-01,0,1,0
+Swansea,Derby,2,1,2021-05-01,1,0,0
+Shrewsbury,Oxford,2,3,2021-05-01,0,1,0
+Hull,Wigan,3,1,2021-05-01,1,0,0
+Accrington,Charlton,1,1,2021-05-01,0,0,1
+Northampton,Blackpool,0,3,2021-05-01,0,1,0
+AFC W'bledon,Portsmouth,1,3,2021-05-01,0,1,0
+Rochdale,Doncaster,1,2,2021-05-01,0,1,0
+Bristol R,Crewe,0,1,2021-05-01,0,1,0
+Burton,Gillingham,1,1,2021-05-01,0,0,1
+Peterborough,Lincoln,3,3,2021-05-01,0,0,1
+Swindon,Ipswich,1,2,2021-05-01,0,1,0
+Fleetwood,MK Dons,1,1,2021-05-01,0,0,1
+Plymouth,Sunderland,1,3,2021-05-01,0,1,0
+Leyton Orient,Carlisle,2,3,2021-05-01,0,1,0
+Forest Green,Tranmere,2,1,2021-05-01,1,0,0
+Newport Co,Cheltenham,1,0,2021-05-01,1,0,0
+Bolton,Exeter,1,2,2021-05-01,0,1,0
+Colchester,Salford,1,0,2021-05-01,1,0,0
+Grimsby,Port Vale,1,0,2021-05-01,1,0,0
+Barrow,Southend,1,2,2021-05-01,0,1,0
+Walsall,Morecambe,0,2,2021-05-01,0,1,0
+Mansfield,Oldham,4,1,2021-05-01,1,0,0
+Stevenage,Crawley,3,3,2021-05-01,0,0,1
+Bradford,Scunthorpe,0,0,2021-05-01,0,0,1
+Torquay,Eastleigh,3,1,2021-05-01,1,0,0
+Woking,Weymouth,2,4,2021-05-01,0,1,0
+Wrexham,Solihull M,2,1,2021-05-01,1,0,0
+Barnet,Dag & Red,0,2,2021-05-01,0,1,0
+Altrincham,Notts Co,1,1,2021-05-01,0,0,1
+Halifax,Stockport,0,1,2021-05-01,0,1,0
+King's Lynn,Maidenhead,0,0,2021-05-01,0,0,1
+Sutton Utd,Aldershot,3,1,2021-05-01,1,0,0
+Wealdstone,Yeovil,0,2,2021-05-01,0,1,0
+Hartlepool,Chesterfield,3,1,2021-05-01,1,0,0
+Livingston,Aberdeen,1,2,2021-05-01,0,1,0
+St Mirren,Hamilton,1,2,2021-05-01,0,1,0
+Motherwell,Kilmarnock,2,0,2021-05-01,1,0,0
+Hibernian,St Johnstone,0,1,2021-05-01,0,1,0
+Dundee Utd,Ross County,0,2,2021-05-01,0,1,0
+Clyde,Dumbarton,2,0,2021-05-01,1,0,0
+Cove Rangers,Airdrieonians,0,2,2021-05-01,0,1,0
+Falkirk,Montrose,1,2,2021-05-01,0,1,0
+Peterhead,Forfar,1,2,2021-05-01,0,1,0
+Albion,Brechin,1,1,2021-05-01,0,0,1
+Edinburgh C,Elgin City,2,0,2021-05-01,1,0,0
+Annan,Cowdenbeath,1,1,2021-05-01,0,0,1
+Stirling,Stranraer,2,2,2021-05-01,0,0,1
+Verona,Spezia,1,1,2021-05-01,0,0,1
+Crotone,Inter,0,2,2021-05-01,0,1,0
+Milan,Benevento,2,0,2021-05-01,1,0,0
+Eibar,Alaves,3,0,2021-05-01,1,0,0
+Elche,Atl Madrid,0,1,2021-05-01,0,1,0
+Huesca,Sociedad,1,0,2021-05-01,1,0,0
+Real Madrid,Osasuna,2,0,2021-05-01,1,0,0
+Paris St-G.,Lens,2,1,2021-05-01,1,0,0
+Lille,Nice,2,0,2021-05-01,1,0,0
+R Volgograd,Terek Grozny,1,0,2021-05-01,1,0,0
+Rubin,Din. Moscow,2,0,2021-05-01,1,0,0
+CSKA Mosc.,FC Ufa,1,1,2021-05-01,0,0,1
+FK Krasnodar,Sochi,1,3,2021-05-01,0,1,0
+UT Arad,Chindia Targoviste,0,1,2021-05-01,0,1,0
+Botosani,Sepsi Sfantu G,2,1,2021-05-01,1,0,0
+Dukla Pribram,C. Budejovice,0,1,2021-05-01,0,1,0
+Opava,B. 1905,1,1,2021-05-01,0,0,1
+Synot,Mlada Boleslav,0,1,2021-05-01,0,1,0
+Banik Ostrava,FC Brno,1,1,2021-05-01,0,0,1
+Legia Warsaw,Wisla Krakow,0,0,2021-05-01,0,0,1
+Pogon Szczecin,Warta Poznan,1,1,2021-05-01,0,0,1
+Lech Poznan,Stal Mielec,1,2,2021-05-01,0,1,0
+Tabor Sezana,Domzale,0,0,2021-05-01,0,0,1
+NK Celje,Maribor,2,1,2021-05-01,1,0,0
+Koper,Bravo Publikum,0,0,2021-05-01,0,0,1
+IK Sirius,Kalmar,1,1,2021-05-01,0,0,1
+Hammarby,Hacken,1,1,2021-05-01,0,0,1
+Girona,Tenerife,1,0,2021-05-01,1,0,0
+Mallorca,Mirandes,2,1,2021-05-01,1,0,0
+Almeria,Real Oviedo,2,2,2021-05-01,0,0,1
+Heracles,VVV Venlo,4,0,2021-05-01,1,0,0
+F. Sittard,FC Twente,3,0,2021-05-01,1,0,0
+Vitesse Arn.,PEC Zwolle,2,1,2021-05-01,1,0,0
+RKC Waalwijk,AZ Alkmaar,1,3,2021-05-01,0,1,0
+FC Utrecht,Willem II,3,2,2021-05-01,1,0,0
+Gil Vicente,Farense,0,0,2021-05-01,0,0,1
+Santa Clara,Boavista,3,3,2021-05-01,0,0,1
+Portimonense,Rio Ave,0,0,2021-05-01,0,0,1
+Sporting,Nacional,2,0,2021-05-01,1,0,0
+Slaven,Din Zagreb,0,2,2021-05-01,0,1,0
+Hajduk Split,Rijeka,3,2,2021-05-01,1,0,0
+Vaduz,Lucerne,1,2,2021-05-01,0,1,0
+Basel,St Gallen,1,0,2021-05-01,1,0,0
+Besiktas,Hatayspor,7,0,2021-05-01,1,0,0
+Oostende,St Liege,6,2,2021-05-01,1,0,0
+Perth Glory,Macarthur FC,0,0,2021-05-01,0,0,1
+Brisbane Roar,Wellington,0,0,2021-05-01,0,0,1
+Western Sydney,Sydney FC,3,2,2021-05-01,1,0,0
+Desna,Kolos Kovalivka,2,2,2021-05-01,0,0,1
+Shakhtar,Dnipro-1,2,1,2021-05-01,1,0,0
+Vorskla Poltava,Dynamo Kiev,1,5,2021-05-01,0,1,0
+Neman Grodno,Isloch Minsk,1,2,2021-05-01,0,1,0
+Torpedo Zh,FC Minsk,2,1,2021-05-01,1,0,0
+Sputnik,Shakhtyor,1,2,2021-05-01,0,1,0
+Bate Borisov,Smorgon,1,0,2021-05-01,1,0,0
+Flint Town U,Haverfordwest,2,0,2021-05-01,1,0,0
+Caernarfon,Penybont,2,2,2021-05-01,0,0,1
+Barry Town,Bala Town,1,4,2021-05-01,0,1,0
+Connah's Q,The New Saints,0,0,2021-05-01,0,0,1
+Portadown,Warrenpoint T,1,2,2021-05-01,0,1,0
+Coleraine,Cliftonville,2,0,2021-05-01,1,0,0
+Ballymena,Glenavon,3,1,2021-05-01,1,0,0
+Glentoran,Linfield,0,0,2021-05-01,0,0,1
+Crusaders,Larne,1,3,2021-05-01,0,1,0
+Bnei Yehuda,M. Netanya,1,2,2021-05-01,0,1,0
+Ironi Kiryat S,MS Ashdod,1,1,2021-05-01,0,0,1
+M. Petah Tikva,M. Haifa,1,2,2021-05-01,0,1,0
+Hapoel Hadera,Bnei Sakhnin,1,0,2021-05-01,1,0,0
+Zalaegerszeg,Kisvarda,0,0,2021-05-01,0,0,1
+Ferencvaros,Mezokovesd SE,2,1,2021-05-01,1,0,0
+Cobh,Galway FC,0,4,2021-05-01,0,1,0
+B Dortmund,Holstein Kiel,5,0,2021-05-01,1,0,0
+NY Red Bulls,Chicago,2,0,2021-05-01,1,0,0
+Real Salt Lake,Kansas City,3,1,2021-05-01,1,0,0
+Montreal Imp,Columbus Crew,0,0,2021-05-01,0,0,1
+Houston,Los Angeles FC,1,1,2021-05-01,0,0,1
+Long Eaton U,Binfield,0,5,2021-05-01,0,1,0
+U S Portsmouth,Flackwell Heath,2,0,2021-05-01,1,0,0
+Leighton,Walsall Wood,1,2,2021-05-01,0,1,0
+Seraing,W Beveren,1,1,2021-05-01,0,0,1
