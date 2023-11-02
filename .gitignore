@@ -1,5 +1,6 @@
 venv/
-
+.vscode/
+.idea/
 *.pyc
 __pycache__/
 
@@ -12,3 +13,5 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+.env

@@ -1,3 +1,6 @@
-Flask==2.2.3
 black==23.9.1
 fastapi
+uvicorn[standard]
+pydantic
+email-validator
+pyclean
