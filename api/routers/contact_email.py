@@ -22,9 +22,9 @@ def send_contact_form_to_my_email(sender_email, subject, message):
 
         # Enable debug mode
         server.set_debuglevel(True)
-        
+
         # Login to your Gmail account
-        server.login(to, os.environ.get('SMTP_APP_PASSWORD'))
+        server.login(to, os.environ.get("SMTP_APP_PASSWORD"))
 
         # Send the email
         server.send_message(msg)
