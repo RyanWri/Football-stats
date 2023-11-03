@@ -38,7 +38,7 @@ async def send_email(contact_form: ContactForm):
         # The exception message is human-readable explanation of why it's not a valid (or deliverable) email address.
         print(str(email_err))
         return {"message": "Invalid email address"}
-    
+
     except Exception as e:
         print(e)
         return {"message": "email delivery failed"}
